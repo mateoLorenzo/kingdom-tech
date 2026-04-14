@@ -1,6 +1,8 @@
 import { Header } from "@/components/Header";
 import { Button } from "@/components/Button";
+import { ServicesCarousel } from "@/components/ServicesCarousel";
 import { whatsappUrl } from "@/lib/whatsapp";
+import Image from "next/image";
 import { dmSerifDisplay } from "./fonts";
 
 export default function Home() {
@@ -31,6 +33,16 @@ export default function Home() {
           </div>
 
           <div className="relative min-h-[640px] lg:h-[calc(100dvh-20px)] lg:min-h-0 rounded-[28px] bg-neutral-200 overflow-hidden">
+            <Image
+              // src="/img/hero-5.jpg"
+              src="/img/hero-7.jpg"
+              // src="/img/hero-4.webp"
+              alt=""
+              fill
+              priority
+              sizes="(min-width: 1024px) 48vw, 100vw"
+              className="object-cover"
+            />
             <div className="absolute inset-x-4 bottom-4 rounded-2xl bg-white/30 backdrop-blur-md ring-1 ring-white/40">
               <div className="grid grid-cols-[1.5fr_1fr_1fr_1fr]">
                 <div className="flex items-center justify-center -space-x-3 px-4 py-4">
@@ -38,8 +50,8 @@ export default function Home() {
                     aria-hidden="true"
                     className="block h-14 w-14 shrink-0 bg-[#073677]"
                     style={{
-                      WebkitMaskImage: "url(/laurel-pro-left.svg)",
-                      maskImage: "url(/laurel-pro-left.svg)",
+                      WebkitMaskImage: "url(/svg/laurel-pro-left.svg)",
+                      maskImage: "url(/svg/laurel-pro-left.svg)",
                       WebkitMaskRepeat: "no-repeat",
                       maskRepeat: "no-repeat",
                       WebkitMaskSize: "contain",
@@ -58,8 +70,8 @@ export default function Home() {
                     aria-hidden="true"
                     className="block h-14 w-14 shrink-0 bg-[#073677]"
                     style={{
-                      WebkitMaskImage: "url(/laurel-pro-right.svg)",
-                      maskImage: "url(/laurel-pro-right.svg)",
+                      WebkitMaskImage: "url(/svg/laurel-pro-right.svg)",
+                      maskImage: "url(/svg/laurel-pro-right.svg)",
                       WebkitMaskRepeat: "no-repeat",
                       maskRepeat: "no-repeat",
                       WebkitMaskSize: "contain",
@@ -96,7 +108,43 @@ export default function Home() {
         </section>
       </main>
 
-      <section id="servicios" className="min-h-[100dvh] w-full bg-[#F9F9FB]" />
+      <section id="servicios" className="w-full overflow-x-clip bg-[#F9F9FB] py-24">
+        <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
+          <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
+            Servicios
+          </p>
+          <h2 className="mt-4 text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]">
+            Tratamientos dentales
+            <br />
+            <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>
+              Para tu mejor sonrisa
+            </span>
+          </h2>
+
+          <ServicesCarousel />
+        </div>
+      </section>
+
+      <section id="metodologia" className="w-full bg-white py-24">
+        <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
+          <p className="text-center text-sm font-medium uppercase tracking-normal text-[#09357C]">
+            Metodología
+          </p>
+          <p className="mx-auto mt-6 max-w-[760px] text-center text-2xl font-normal leading-[1.2] tracking-[-.3px] text-[#1A1A1A]">
+            Combinamos tecnología de última generación junto con atención cercana y humana. Nuestro enfoque está en brindarte tratamientos efectivos y comodos,{" "}
+            <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>pensados para tu bienestar en cada etapa.</span>
+          </p>
+
+          <div className="mt-16 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {Array.from({ length: 4 }).map((_, i) => (
+              <div
+                key={i}
+                className="h-[360px] rounded-2xl bg-[#F2F4F7]"
+              />
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   );
 }

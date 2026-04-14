@@ -1,6 +1,3 @@
-"use client";
-
-import { useEffect, useState } from "react";
 import { Button } from "./Button";
 import { whatsappUrl } from "@/lib/whatsapp";
 
@@ -14,22 +11,8 @@ const navLinks = [
 ];
 
 export function Header() {
-  const [scrolled, setScrolled] = useState(false);
-
-  useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 20);
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
-
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 w-full">
-      <div
-        className={`pointer-events-none absolute inset-0 bg-white/40 backdrop-blur-md transition-opacity duration-500 ease-out ${
-          scrolled ? "opacity-100" : "opacity-0"
-        }`}
-      />
+    <header className="fixed top-0 left-0 right-0 z-50 w-full bg-white/40 backdrop-blur-md">
       <div className="relative mx-auto flex h-20 w-full max-w-[1280px] items-center justify-between px-6 lg:px-10">
         <a
           href="#inicio"
