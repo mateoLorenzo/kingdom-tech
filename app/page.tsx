@@ -193,6 +193,110 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <section id="contacto" className="w-full bg-[#F9F9FB] py-24">
+        <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
+          <div className="grid grid-cols-1 items-center gap-12 py-16 lg:grid-cols-2 lg:gap-16 lg:py-24">
+            <div className="text-center lg:text-left">
+              <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
+                Reservá turno
+              </p>
+              <h2 className="mt-4 text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]">
+                Tu mejor sonrisa
+                <br />
+                <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>
+                  Te esta esperando
+                </span>
+              </h2>
+              <p className="mt-6 max-w-[480px] text-base text-[#1A1A1A]/70 lg:mx-0 mx-auto">
+                Te respondemos en minutos y coordinamos <br /> tu primera consulta sin compromiso.
+              </p>
+              <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start justify-center">
+                <Button href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
+                  Reservar por WhatsApp
+                </Button>
+                <div className="text-sm text-[#1A1A1A]/70 text-center sm:text-left">
+                  <p className="font-medium text-[#073677]">Palermo Hollywood, CABA</p>
+                  <p className="mt-0.5">Lun a Vie · 9–19h</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="relative h-[360px] w-full overflow-hidden rounded-[24px] ring-1 ring-black/5 lg:h-[420px]">
+              <iframe
+                title="Ubicación de la clínica"
+                src="https://www.google.com/maps?q=Palermo+Hollywood,+Buenos+Aires&output=embed"
+                className="absolute inset-0 h-full w-full border-0"
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer className="w-full bg-[#0A1F3D] text-white">
+        <div className="mx-auto w-full max-w-[1280px] px-6 py-16 lg:px-10">
+          <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-4">
+            <div>
+              <p className="text-xl font-semibold tracking-tight">Dental</p>
+              <p className="mt-3 text-sm text-white/60">
+                Odontología cercana en Palermo Hollywood. Tratamientos pensados para vos.
+              </p>
+              <div className="mt-5 flex gap-3 text-sm text-white/70">
+                <a href="#" className="hover:text-white">Instagram</a>
+                <span className="text-white/30">·</span>
+                <a href="#" className="hover:text-white">Facebook</a>
+                <span className="text-white/30">·</span>
+                <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer" className="hover:text-white">WhatsApp</a>
+              </div>
+            </div>
+
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[1px] text-white/50">Navegar</p>
+              <ul className="mt-4 space-y-2 text-sm text-white/80">
+                <li><a href="#servicios" className="hover:text-white">Servicios</a></li>
+                <li><a href="#metodologia" className="hover:text-white">Metodología</a></li>
+                <li><a href="#nosotros" className="hover:text-white">Nosotros</a></li>
+                <li><a href="#testimonios" className="hover:text-white">Testimonios</a></li>
+              </ul>
+            </div>
+
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[1px] text-white/50">Servicios</p>
+              <ul className="mt-4 space-y-2 text-sm text-white/80">
+                <li><a href="#servicios" className="hover:text-white">Prótesis dentales</a></li>
+                <li><a href="#servicios" className="hover:text-white">Odontopediatría</a></li>
+                <li><a href="#servicios" className="hover:text-white">Ortodoncia</a></li>
+                <li><a href="#servicios" className="hover:text-white">Implantes</a></li>
+              </ul>
+            </div>
+
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[1px] text-white/50">Contacto</p>
+              <ul className="mt-4 space-y-2 text-sm text-white/80">
+                <li>Palermo Hollywood, CABA</li>
+                <li>
+                  <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                    +54 9 11 4039-2404
+                  </a>
+                </li>
+                <li>
+                  <a href="mailto:hola@dental.com" className="hover:text-white">
+                    hola@dental.com
+                  </a>
+                </li>
+                <li className="text-white/60">Lun a Vie · 9–19h</li>
+              </ul>
+            </div>
+          </div>
+
+          <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 text-xs text-white/50 sm:flex-row sm:items-center">
+            <p>© {new Date().getFullYear()} Dental. Todos los derechos reservados.</p>
+            <a href="#" className="hover:text-white">Política de privacidad</a>
+          </div>
+        </div>
+      </footer>
     </>
   );
 }
