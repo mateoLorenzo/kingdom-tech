@@ -1,65 +1,76 @@
-import Image from "next/image";
+import { Header } from "@/components/Header";
+import { Button } from "@/components/Button";
+import { whatsappUrl } from "@/lib/whatsapp";
+import { dmSerifDisplay } from "./fonts";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <>
+      <Header />
+      <main className="relative w-full h-[100dvh] pt-2.5 pr-2.5 pb-2.5">
+        <section className="grid grid-cols-1 gap-8 lg:grid-cols-[54fr_48fr]">
+          <div className="flex flex-col items-center justify-center gap-8 pt-32 lg:pt-18 pb-16 pl-6 pr-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] text-center">
+            <span className="text-base font-normal text-[#1A1A1A]">
+              Palermo Hollywood
+            </span>
+            <h1 className="text-[72px] font-medium leading-[68px] tracking-tight text-[#073677]">
+              Expertos en
+              <br />
+              <span className={`${dmSerifDisplay.className} font-normal text-[#0588D7]`}>
+                Odontologia
+              </span>
+            </h1>
+            <Button
+              href={whatsappUrl()}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-2"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+              Reservá Turno
+            </Button>
+          </div>
+
+          <div className="relative min-h-[640px] lg:h-[calc(100dvh-20px)] lg:min-h-0 rounded-[28px] bg-neutral-200 overflow-hidden">
+            <div className="absolute inset-x-4 bottom-4 rounded-2xl bg-white/30 backdrop-blur-md ring-1 ring-white/40">
+              <div className="grid grid-cols-4">
+                <div className="flex items-center justify-center gap-2 px-4 py-7">
+                  <span className="text-2xl text-[#073677]">❀</span>
+                  <div className="text-center">
+                    <p className="text-base font-semibold leading-tight text-[#073677]">
+                      Healthy Smile
+                    </p>
+                    <p className="text-xs text-[#073677]/70">Trusted of Thousands</p>
+                  </div>
+                  <span className="text-2xl text-[#073677]">❀</span>
+                </div>
+
+                <div className="flex items-center justify-center px-4 py-7">
+                  <div className="flex h-full flex-col items-center justify-center gap-1 border-l border-[#073677]/40 pl-4 w-full">
+                    <p className="text-lg font-medium text-[#073677]">100%</p>
+                    <p className="text-xs text-[#073677]/70">Satisfaction</p>
+                  </div>
+                </div>
+
+                <div className="flex items-center justify-center px-4 py-7">
+                  <div className="flex h-full flex-col items-center justify-center gap-1 border-l border-[#073677]/40 pl-4 w-full">
+                    <p className="text-lg font-medium text-[#073677]">4.98</p>
+                    <p className="text-xs tracking-widest text-[#073677]">★★★★★</p>
+                  </div>
+                </div>
+
+                <div className="flex items-center justify-center px-4 py-7">
+                  <div className="flex h-full flex-col items-center justify-center gap-1 border-l border-[#073677]/40 pl-4 w-full">
+                    <p className="text-lg font-medium text-[#073677]">150</p>
+                    <p className="text-xs text-[#073677]/70">Reviews</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
       </main>
-    </div>
+
+      <section id="servicios" className="min-h-[100dvh] w-full bg-[#F9F9FB]" />
+    </>
   );
 }
