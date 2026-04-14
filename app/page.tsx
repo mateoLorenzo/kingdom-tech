@@ -1,6 +1,7 @@
 import { Header } from "@/components/Header";
 import { Button } from "@/components/Button";
 import { ServicesCarousel } from "@/components/ServicesCarousel";
+import { WhatsAppFab } from "@/components/WhatsAppFab";
 import { whatsappUrl } from "@/lib/whatsapp";
 import Image from "next/image";
 import { dmSerifDisplay } from "./fonts";
@@ -9,6 +10,7 @@ export default function Home() {
   return (
     <>
       <Header />
+      <WhatsAppFab />
       <main className="relative w-full h-[100dvh] pt-2.5 pr-2.5 pb-2.5">
         <section className="grid grid-cols-1 gap-8 lg:grid-cols-[54fr_48fr]">
           <div className="flex flex-col items-center justify-center gap-8 pt-32 lg:pt-18 pb-16 pl-6 pr-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] text-center">
@@ -209,7 +211,7 @@ export default function Home() {
                 </span>
               </h2>
               <p className="mt-6 max-w-[480px] text-base text-[#1A1A1A]/70 lg:mx-0 mx-auto">
-                Te respondemos en minutos y coordinamos <br /> tu primera consulta sin compromiso.
+                Te respondemos en minutos y coordinamos <br /> tu primera consulta en el momento.
               </p>
               <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start justify-center">
                 <Button href={whatsappUrl()} target="_blank" rel="noopener noreferrer">

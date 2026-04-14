@@ -12,7 +12,7 @@ const navLinks = [
 
 export function Header() {
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 w-full bg-white/40 backdrop-blur-md">
+    <header className="fixed top-0 left-0 right-0 z-50 w-full border-b border-black/5 bg-white/40 backdrop-blur-md">
       <div className="relative mx-auto flex h-20 w-full max-w-[1280px] items-center justify-between px-6 lg:px-10">
         <a
           href="#inicio"
