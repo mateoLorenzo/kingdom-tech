@@ -32,33 +32,59 @@ export default function Home() {
 
           <div className="relative min-h-[640px] lg:h-[calc(100dvh-20px)] lg:min-h-0 rounded-[28px] bg-neutral-200 overflow-hidden">
             <div className="absolute inset-x-4 bottom-4 rounded-2xl bg-white/30 backdrop-blur-md ring-1 ring-white/40">
-              <div className="grid grid-cols-4">
-                <div className="flex items-center justify-center gap-2 px-4 py-7">
-                  <span className="text-2xl text-[#073677]">❀</span>
+              <div className="grid grid-cols-[1.5fr_1fr_1fr_1fr]">
+                <div className="flex items-center justify-center -space-x-3 px-4 py-4">
+                  <span
+                    aria-hidden="true"
+                    className="block h-14 w-14 shrink-0 bg-[#073677]"
+                    style={{
+                      WebkitMaskImage: "url(/laurel-pro-left.svg)",
+                      maskImage: "url(/laurel-pro-left.svg)",
+                      WebkitMaskRepeat: "no-repeat",
+                      maskRepeat: "no-repeat",
+                      WebkitMaskSize: "contain",
+                      maskSize: "contain",
+                      WebkitMaskPosition: "center",
+                      maskPosition: "center",
+                    }}
+                  />
                   <div className="text-center">
                     <p className="text-base font-semibold leading-tight text-[#073677]">
-                      Healthy Smile
+                      Dental
                     </p>
-                    <p className="text-xs text-[#073677]/70">Trusted of Thousands</p>
+                    <p className="text-xs whitespace-nowrap text-[#073677]/70">Confiado por Miles</p>
                   </div>
-                  <span className="text-2xl text-[#073677]">❀</span>
+                  <span
+                    aria-hidden="true"
+                    className="block h-14 w-14 shrink-0 bg-[#073677]"
+                    style={{
+                      WebkitMaskImage: "url(/laurel-pro-right.svg)",
+                      maskImage: "url(/laurel-pro-right.svg)",
+                      WebkitMaskRepeat: "no-repeat",
+                      maskRepeat: "no-repeat",
+                      WebkitMaskSize: "contain",
+                      maskSize: "contain",
+                      WebkitMaskPosition: "center",
+                      maskPosition: "center",
+                    }}
+                  />
                 </div>
 
-                <div className="flex items-center justify-center px-4 py-7">
+                <div className="flex items-center justify-center px-4 py-4">
                   <div className="flex h-full flex-col items-center justify-center gap-1 border-l border-[#073677]/40 pl-4 w-full">
                     <p className="text-lg font-medium text-[#073677]">100%</p>
                     <p className="text-xs text-[#073677]/70">Satisfaction</p>
                   </div>
                 </div>
 
-                <div className="flex items-center justify-center px-4 py-7">
+                <div className="flex items-center justify-center px-4 py-4">
                   <div className="flex h-full flex-col items-center justify-center gap-1 border-l border-[#073677]/40 pl-4 w-full">
                     <p className="text-lg font-medium text-[#073677]">4.98</p>
                     <p className="text-xs tracking-widest text-[#073677]">★★★★★</p>
                   </div>
                 </div>
 
-                <div className="flex items-center justify-center px-4 py-7">
+                <div className="flex items-center justify-center px-4 py-4">
                   <div className="flex h-full flex-col items-center justify-center gap-1 border-l border-[#073677]/40 pl-4 w-full">
                     <p className="text-lg font-medium text-[#073677]">150</p>
                     <p className="text-xs text-[#073677]/70">Reviews</p>
