@@ -1,5 +1,7 @@
 import { dmSerifDisplay } from "@/app/fonts";
 import { TestimonialsCarousel } from "@/components/TestimonialsCarousel";
+import { Reveal } from "@/components/Reveal";
+import { RevealWords } from "@/components/RevealWords";
 
 const testimonials = [
   {
@@ -78,16 +80,24 @@ export function Testimonials() {
   return (
     <section id="testimonios" className="w-full overflow-x-clip bg-white py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
-        <p className="text-center text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
-          Testimonios
-        </p>
-        <h2 className="mt-4 text-center text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]">
-          Historias reales
-          <br />
-          <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>
-            Pacientes felices
-          </span>
-        </h2>
+        <Reveal>
+          <p className="text-center text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
+            Testimonios
+          </p>
+        </Reveal>
+        <RevealWords
+          as="h2"
+          className="mt-4 whitespace-pre-line text-center text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]"
+          startDelay={120}
+          wordDelay={50}
+          segments={[
+            { text: "Historias reales\n" },
+            {
+              text: "Pacientes felices",
+              className: `${dmSerifDisplay.className} font-normal italic text-[#0588D7]`,
+            },
+          ]}
+        />
 
         <TestimonialsCarousel items={testimonials} />
       </div>
