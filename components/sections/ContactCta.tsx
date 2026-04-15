@@ -26,16 +26,16 @@ export function ContactCta() {
                 Reservar por WhatsApp
               </Button>
               <div className="text-sm text-[#1A1A1A]/70 text-center sm:text-left">
-                <p className="font-medium text-[#073677]">Palermo Hollywood, CABA</p>
-                <p className="mt-0.5">Lun a Vie · 9–19h</p>
+                <p className="font-medium text-[#073677]">Honduras 5730, Palermo Hollywood</p>
+                <p className="mt-0.5">Lun a Vie · 09:00hs - 19:00hs</p>
               </div>
             </div>
           </div>
 
-          <div className="relative h-[360px] w-full overflow-hidden rounded-[24px] ring-1 ring-black/5 lg:h-[420px]">
+          <div className="relative h-[360px] w-full overflow-hidden rounded-2xl ring-1 ring-black/5 lg:h-[420px]">
             <iframe
               title="Ubicación de la clínica"
-              src="https://www.google.com/maps?q=Palermo+Hollywood,+Buenos+Aires&output=embed"
+              src="https://www.google.com/maps?q=Honduras+5730,+Palermo,+Buenos+Aires&output=embed"
               className="absolute inset-0 h-full w-full border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

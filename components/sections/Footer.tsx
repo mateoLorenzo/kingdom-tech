@@ -44,7 +44,7 @@ export function Footer() {
           <div>
             <p className="text-xs font-semibold uppercase tracking-[1px] text-white/50">Contacto</p>
             <ul className="mt-4 space-y-2 text-sm text-white/80">
-              <li>Palermo Hollywood, CABA</li>
+              <li>Honduras 5730, Palermo Hollywood</li>
               <li>
                 <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer" className="hover:text-white">
                   +54 9 11 4039-2404
