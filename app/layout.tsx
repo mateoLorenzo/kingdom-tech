@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${instrumentSans.variable} ${dmSerifDisplay.variable} h-full antialiased`}
+      className={`${instrumentSans.variable} ${dmSerifDisplay.variable} h-full scroll-smooth antialiased`}
     >
       <body className={`${instrumentSans.className} min-h-full flex flex-col`}>
         {children}

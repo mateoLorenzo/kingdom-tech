@@ -7,8 +7,12 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div>
             <p className="text-xl font-semibold tracking-tight">Dental</p>
-            <p className="mt-3 text-sm text-white/60">
-              Odontología cercana en Palermo Hollywood. Tratamientos pensados para vos.
+            <p className="mt-3 text-sm leading-[1.5] text-white/60">
+              Cuidamos tu sonrisa con
+              <br />
+              atención cálida y profesional, con
+              <br />
+              tratamientos pensados para cada etapa.
             </p>
             <div className="mt-5 flex gap-3 text-sm text-white/70">
               <a href="#" className="hover:text-white">Instagram</a>
