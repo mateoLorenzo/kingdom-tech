@@ -15,8 +15,10 @@ const services: { name: string; image?: string }[] = [
 
 export function ServicesCarousel() {
   const scrollerRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
   const [progress, setProgress] = useState(0);
   const [thumbWidth, setThumbWidth] = useState(0.2);
+  const [revealed, setRevealed] = useState(false);
 
   useEffect(() => {
     const el = scrollerRef.current;
@@ -39,19 +41,40 @@ export function ServicesCarousel() {
     };
   }, []);
 
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            setRevealed(true);
+            io.unobserve(e.target);
+          }
+        });
+      },
+      { threshold: 0.15, rootMargin: "0px 0px -80px 0px" }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+
   const thumbPct = thumbWidth * 100;
   const leftPct = progress * (100 - thumbPct);
 
   return (
-    <div className="mt-12 w-full">
+    <div ref={containerRef} className="mt-12 w-full">
       <div
         ref={scrollerRef}
         className="flex gap-4 overflow-x-auto pb-2 mx-[calc(50%-50vw)] pl-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] pr-6 lg:pr-[max(40px,calc((100vw-1280px)/2+40px))] [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
       >
-        {services.map(({ name, image }) => (
+        {services.map(({ name, image }, i) => (
           <div
             key={name}
-            className="relative h-[280px] w-[240px] shrink-0 overflow-hidden rounded-2xl bg-gray-200"
+            className={`relative h-[280px] w-[240px] shrink-0 overflow-hidden rounded-2xl bg-gray-200 ${
+              revealed ? "animate-hero-fade-up" : "opacity-0"
+            }`}
+            style={revealed ? { animationDelay: `${i * 90}ms` } : undefined}
           >
             {image && (
               <>
