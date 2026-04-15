@@ -1,0 +1,48 @@
+import { Button } from "@/components/Button";
+import { whatsappUrl } from "@/lib/whatsapp";
+import { dmSerifDisplay } from "@/app/fonts";
+
+export function ContactCta() {
+  return (
+    <section id="contacto" className="w-full bg-[#F9F9FB] py-24">
+      <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
+        <div className="grid grid-cols-1 items-center gap-12 py-16 lg:grid-cols-2 lg:gap-16 lg:py-24">
+          <div className="text-center lg:text-left">
+            <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
+              Reservá turno
+            </p>
+            <h2 className="mt-4 text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]">
+              Tu mejor sonrisa
+              <br />
+              <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>
+                Te esta esperando
+              </span>
+            </h2>
+            <p className="mt-6 max-w-[480px] text-base text-[#1A1A1A]/70 lg:mx-0 mx-auto">
+              Te respondemos en minutos y coordinamos <br /> tu primera consulta en el momento.
+            </p>
+            <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start justify-center">
+              <Button href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
+                Reservar por WhatsApp
+              </Button>
+              <div className="text-sm text-[#1A1A1A]/70 text-center sm:text-left">
+                <p className="font-medium text-[#073677]">Palermo Hollywood, CABA</p>
+                <p className="mt-0.5">Lun a Vie · 9–19h</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="relative h-[360px] w-full overflow-hidden rounded-[24px] ring-1 ring-black/5 lg:h-[420px]">
+            <iframe
+              title="Ubicación de la clínica"
+              src="https://www.google.com/maps?q=Palermo+Hollywood,+Buenos+Aires&output=embed"
+              className="absolute inset-0 h-full w-full border-0"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}

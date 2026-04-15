@@ -1,0 +1,23 @@
+import { ServicesCarousel } from "@/components/ServicesCarousel";
+import { dmSerifDisplay } from "@/app/fonts";
+
+export function Services() {
+  return (
+    <section id="servicios" className="w-full overflow-x-clip bg-[#F9F9FB] py-24">
+      <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
+        <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
+          Servicios
+        </p>
+        <h2 className="mt-4 text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]">
+          Tratamientos dentales
+          <br />
+          <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>
+            Para tu mejor sonrisa
+          </span>
+        </h2>
+
+        <ServicesCarousel />
+      </div>
+    </section>
+  );
+}
