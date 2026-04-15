@@ -2,6 +2,17 @@
 
 import { useEffect, useRef, useState } from "react";
 
+const services: { name: string; image?: string }[] = [
+  { name: "Limpieza dental", image: "/img/limpieza.jpg" },
+  { name: "Estética dental", image: "/img/estetica.jpg" },
+  { name: "Ortodoncia", image: "/img/brackets.jpg" },
+  { name: "Implantes", image: "/img/implantes.jpg" },
+  { name: "Prótesis", image: "/img/protesis.jpg" },
+  { name: "Endodoncia", image: "/img/ondodoncia.jpg" },
+  { name: "Odontopediatría", image: "/img/Odontopediatría.jpg" },
+  { name: "Urgencias", image: "/img/emergencia.jpg" },
+];
+
 export function ServicesCarousel() {
   const scrollerRef = useRef<HTMLDivElement>(null);
   const [progress, setProgress] = useState(0);
@@ -37,17 +48,31 @@ export function ServicesCarousel() {
         ref={scrollerRef}
         className="flex gap-4 overflow-x-auto pb-2 mx-[calc(50%-50vw)] pl-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] pr-6 lg:pr-[max(40px,calc((100vw-1280px)/2+40px))] [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
       >
-        {Array.from({ length: 8 }).map((_, i) => (
+        {services.map(({ name, image }) => (
           <div
-            key={i}
-            className="h-[280px] w-[240px] shrink-0 rounded-2xl bg-gray-200"
-          />
+            key={name}
+            className="relative h-[280px] w-[240px] shrink-0 overflow-hidden rounded-2xl bg-gray-200"
+          >
+            {image && (
+              <>
+                <img
+                  src={image}
+                  alt={name}
+                  className="absolute inset-0 h-full w-full object-cover"
+                />
+                <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-[#F9F9FB] via-[#F9F9FB]/80 to-transparent" />
+              </>
+            )}
+            <p className="absolute bottom-5 left-5 right-5 text-center text-[18px] italic leading-[1.1] text-[#073677]">
+              {name}
+            </p>
+          </div>
         ))}
       </div>
 
       <div className="relative mt-6 h-[2px] w-full bg-[#073677]/15">
         <div
-          className="absolute top-0 h-full rounded-full bg-[#073677]"
+          className="absolute top-0 h-full rounded-full bg-[#073677]/50"
           style={{ width: `${thumbPct}%`, left: `${leftPct}%` }}
         />
       </div>
