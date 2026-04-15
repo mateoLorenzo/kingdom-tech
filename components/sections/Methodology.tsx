@@ -1,3 +1,5 @@
+import { Reveal } from "@/components/Reveal";
+import { RevealWords } from "@/components/RevealWords";
 import { dmSerifDisplay } from "@/app/fonts";
 
 type Card =
@@ -32,47 +34,53 @@ export function Methodology() {
   return (
     <section id="metodologia" className="w-full bg-white py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
-        <p className="text-center text-sm font-medium uppercase tracking-normal text-[#09357C]">
-          Metodología
-        </p>
-        <p className="mx-auto mt-6 max-w-[760px] text-center text-2xl font-normal leading-[1.2] tracking-[-.3px] text-[#1A1A1A]">
-          Combinamos tecnología de última generación junto con atención cercana y humana. Nuestro enfoque está en brindarte tratamientos efectivos y comodos,{" "}
-          <span className={`${dmSerifDisplay.className} font-normal italic text-[#0588D7]`}>
-            pensados para tu bienestar en cada etapa.
-          </span>
-        </p>
+        <Reveal>
+          <p className="text-center text-sm font-medium uppercase tracking-normal text-[#09357C]">
+            Metodología
+          </p>
+        </Reveal>
+        <RevealWords
+          className="mx-auto mt-6 max-w-[760px] text-center text-2xl font-normal leading-[1.2] tracking-[-.3px] text-[#1A1A1A]"
+          startDelay={120}
+          wordDelay={32}
+          segments={[
+            {
+              text: "Combinamos tecnología de última generación junto con atención cercana y humana. Nuestro enfoque está en brindarte tratamientos efectivos y comodos, ",
+            },
+            {
+              text: "pensados para tu bienestar en cada etapa.",
+              className: `${dmSerifDisplay.className} font-normal italic text-[#0588D7]`,
+            },
+          ]}
+        />
 
         <div className="mt-16 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {cards.map((card, i) =>
-            card.type === "content" ? (
-              <div
-                key={i}
-                className="flex h-[360px] flex-col rounded-2xl bg-[#F2F4F7] p-7"
-              >
-                <ToothIcon />
-                <h3 className="mt-8 whitespace-pre-line text-[22px] font-medium leading-[1.15] tracking-tight text-[#073677]">
-                  {card.title}
-                </h3>
-                <p className="mt-4 text-sm leading-[1.35] text-[#1A1A1A]/65">
-                  {card.body}
-                </p>
-              </div>
-            ) : (
-              <div
-                key={i}
-                className="relative h-[360px] overflow-hidden rounded-2xl bg-[#F2F4F7]"
-              >
-                {card.image && (
-                  /* eslint-disable-next-line @next/next/no-img-element */
-                  <img
-                    src={card.image}
-                    alt=""
-                    className="absolute inset-0 h-full w-full object-cover"
-                  />
-                )}
-              </div>
-            )
-          )}
+          {cards.map((card, i) => (
+            <Reveal key={i} delay={280 + i * 110}>
+              {card.type === "content" ? (
+                <div className="flex h-[360px] flex-col rounded-2xl bg-[#F2F4F7] p-7">
+                  <ToothIcon />
+                  <h3 className="mt-8 whitespace-pre-line text-[22px] font-medium leading-[1.15] tracking-tight text-[#073677]">
+                    {card.title}
+                  </h3>
+                  <p className="mt-4 text-sm leading-[1.35] text-[#1A1A1A]/65">
+                    {card.body}
+                  </p>
+                </div>
+              ) : (
+                <div className="relative h-[360px] overflow-hidden rounded-2xl bg-[#F2F4F7]">
+                  {card.image && (
+                    /* eslint-disable-next-line @next/next/no-img-element */
+                    <img
+                      src={card.image}
+                      alt=""
+                      className="absolute inset-0 h-full w-full object-cover"
+                    />
+                  )}
+                </div>
+              )}
+            </Reveal>
+          ))}
         </div>
       </div>
     </section>
