@@ -19,27 +19,40 @@ export function Hero() {
     <main className="relative w-full h-[100dvh] pt-2.5 pr-2.5 pb-2.5">
       <section className="grid grid-cols-1 gap-8 lg:grid-cols-[54fr_48fr]">
         <div className="flex flex-col items-center justify-center gap-8 pt-32 lg:pt-18 pb-16 pl-6 pr-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] text-center">
-          <span className="text-base font-normal text-[#1A1A1A]">
+          <span
+            className="animate-hero-fade-up text-base font-normal text-[#1A1A1A]"
+            style={{ animationDelay: "100ms" }}
+          >
             Palermo Hollywood
           </span>
-          <h1 className="text-[72px] font-medium leading-[68px] tracking-tight text-[#073677]">
+          <h1
+            className="animate-hero-fade-up text-[72px] font-medium leading-[68px] tracking-tight text-[#073677]"
+            style={{ animationDelay: "220ms" }}
+          >
             Expertos en
             <br />
             <span className={`${dmSerifDisplay.className} font-normal text-[#0588D7]`}>
               Odontologia
             </span>
           </h1>
-          <Button
-            href={whatsappUrl()}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-2"
+          <div
+            className="animate-hero-fade-up mt-2"
+            style={{ animationDelay: "420ms" }}
           >
-            Reservá Turno
-          </Button>
+            <Button
+              href={whatsappUrl()}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Reservá Turno
+            </Button>
+          </div>
         </div>
 
-        <div className="relative min-h-[640px] lg:h-[calc(100dvh-20px)] lg:min-h-0 rounded-[28px] bg-neutral-200 overflow-hidden">
+        <div
+          className="animate-hero-fade-in relative min-h-[640px] lg:h-[calc(100dvh-20px)] lg:min-h-0 rounded-[28px] bg-neutral-200 overflow-hidden"
+          style={{ animationDelay: "120ms" }}
+        >
           <Image
             src="/img/hero-7.jpg"
             alt=""
@@ -48,7 +61,10 @@ export function Hero() {
             sizes="(min-width: 1024px) 48vw, 100vw"
             className="object-cover"
           />
-          <div className="absolute inset-x-4 bottom-4 rounded-2xl bg-white/30 backdrop-blur-md ring-1 ring-white/40">
+          <div
+            className="animate-hero-fade-up absolute inset-x-4 bottom-4 rounded-2xl bg-white/30 backdrop-blur-md ring-1 ring-white/40"
+            style={{ animationDelay: "700ms" }}
+          >
             <div className="grid grid-cols-[1.5fr_1fr_1fr_1fr]">
               <div className="flex items-center justify-center -space-x-3 px-4 py-4">
                 <span
