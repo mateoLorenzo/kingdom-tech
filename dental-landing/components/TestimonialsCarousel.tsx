@@ -79,7 +79,7 @@ export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
     <div ref={containerRef} className="mt-12 w-full">
       <div
         ref={scrollerRef}
-        className="flex gap-4 overflow-x-auto py-3 mx-[calc(50%-50vw)] pl-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] pr-6 lg:pr-[max(40px,calc((100vw-1280px)/2+40px))] [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+        className="flex gap-4 overflow-x-auto overflow-y-hidden touch-pan-x py-3 mx-[calc(50%-50vw)] pl-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] pr-6 lg:pr-[max(40px,calc((100vw-1280px)/2+40px))] [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
       >
         {items.map((t, i) => (
           <div
