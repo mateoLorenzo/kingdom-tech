@@ -5,11 +5,22 @@ import { useEffect, useRef, useState, type ReactNode } from "react";
 type Props = {
   children: ReactNode;
   delay?: number;
+  duration?: number;
+  threshold?: number;
+  rootMargin?: string;
   className?: string;
   variant?: "up" | "in";
 };
 
-export function Reveal({ children, delay = 0, className = "", variant = "up" }: Props) {
+export function Reveal({
+  children,
+  delay = 0,
+  duration,
+  threshold = 0.15,
+  rootMargin = "0px 0px -80px 0px",
+  className = "",
+  variant = "up",
+}: Props) {
   const ref = useRef<HTMLDivElement>(null);
   const [visible, setVisible] = useState(false);
 
@@ -26,7 +37,7 @@ export function Reveal({ children, delay = 0, className = "", variant = "up" }: 
           }
         });
       },
-      { threshold: 0.15, rootMargin: "0px 0px -80px 0px" }
+      { threshold, rootMargin }
     );
 
     io.observe(el);
@@ -43,7 +54,14 @@ export function Reveal({ children, delay = 0, className = "", variant = "up" }: 
     <div
       ref={ref}
       className={`${animClass} ${className}`}
-      style={visible ? { animationDelay: `${delay}ms` } : undefined}
+      style={
+        visible
+          ? {
+              animationDelay: `${delay}ms`,
+              ...(duration !== undefined && { animationDuration: `${duration}ms` }),
+            }
+          : undefined
+      }
     >
       {children}
     </div>
