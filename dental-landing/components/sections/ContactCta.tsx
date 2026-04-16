@@ -6,9 +6,9 @@ import { dmSerifDisplay } from "@/app/fonts";
 
 export function ContactCta() {
   return (
-    <section id="contacto" className="w-full bg-[#F9F9FB] py-24">
+    <section id="contacto" className="w-full bg-[#F9F9FB] pt-24 pb-6 sm:py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
-        <div className="grid grid-cols-1 items-center gap-12 py-16 lg:grid-cols-2 lg:gap-16 lg:py-24">
+        <div className="grid grid-cols-1 items-center gap-10 pt-12 pb-0 sm:gap-12 sm:py-16 lg:grid-cols-2 lg:gap-16 lg:py-24">
           <div className="text-center lg:text-left">
             <Reveal>
               <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
