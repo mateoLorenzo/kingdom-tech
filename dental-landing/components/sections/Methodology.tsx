@@ -58,17 +58,17 @@ export function Methodology() {
           {cards.map((card, i) => (
             <Reveal key={i} delay={280 + i * 110}>
               {card.type === "content" ? (
-                <div className="flex h-[360px] flex-col rounded-2xl bg-[#F2F4F7] p-7">
+                <div className="flex flex-col items-center rounded-2xl bg-[#F2F4F7] p-6 text-center sm:h-[360px] sm:items-start sm:p-7 sm:text-left">
                   <ToothIcon />
-                  <h3 className="mt-8 whitespace-pre-line text-[22px] font-medium leading-[1.15] tracking-tight text-[#073677]">
+                  <h3 className="mt-5 whitespace-normal text-[20px] font-medium leading-[1.15] tracking-tight text-[#073677] sm:mt-8 sm:whitespace-pre-line sm:text-[22px]">
                     {card.title}
                   </h3>
-                  <p className="mt-4 text-sm leading-[1.35] text-[#1A1A1A]/65">
+                  <p className="mt-4 text-[15px] leading-[1.4] text-[#1A1A1A]/65 sm:text-sm sm:leading-[1.35]">
                     {card.body}
                   </p>
                 </div>
               ) : (
-                <div className="relative h-[360px] overflow-hidden rounded-2xl bg-[#F2F4F7]">
+                <div className="relative h-[260px] sm:h-[360px] overflow-hidden rounded-2xl bg-[#F2F4F7]">
                   {card.image && (
                     /* eslint-disable-next-line @next/next/no-img-element */
                     <img
