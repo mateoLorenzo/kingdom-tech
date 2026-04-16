@@ -78,7 +78,7 @@ const testimonials = [
 
 export function Testimonials() {
   return (
-    <section id="testimonios" className="w-full overflow-x-clip bg-white py-24">
+    <section id="testimonios" className="w-full overflow-x-clip bg-white min-h-[100svh] flex flex-col justify-center py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
         <Reveal>
           <p className="text-center text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
@@ -87,7 +87,7 @@ export function Testimonials() {
         </Reveal>
         <RevealWords
           as="h2"
-          className="mt-4 whitespace-pre-line text-center text-[44px] font-medium leading-[1.05] tracking-tight text-[#073677]"
+          className="mt-4 whitespace-pre-line text-center text-[34px] leading-[1.1] sm:text-[36px] sm:leading-[1.08] lg:text-[44px] lg:leading-[1.05] font-normal sm:font-medium tracking-tight text-[#073677]"
           startDelay={120}
           wordDelay={50}
           segments={[
