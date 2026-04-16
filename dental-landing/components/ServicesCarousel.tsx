@@ -71,9 +71,8 @@ export function ServicesCarousel() {
         {services.map(({ name, image }, i) => (
           <div
             key={name}
-            className={`relative h-[280px] w-[240px] shrink-0 overflow-hidden rounded-2xl bg-gray-200 ${
-              revealed ? "animate-hero-fade-up" : "opacity-0"
-            }`}
+            className={`relative h-[280px] w-[240px] shrink-0 overflow-hidden rounded-2xl bg-gray-200 ${revealed ? "animate-hero-fade-up" : "opacity-0"
+              }`}
             style={revealed ? { animationDelay: `${i * 90}ms` } : undefined}
           >
             {image && (
@@ -86,7 +85,7 @@ export function ServicesCarousel() {
                 <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-[#F9F9FB] via-[#F9F9FB]/80 to-transparent" />
               </>
             )}
-            <p className="absolute bottom-5 left-5 right-5 text-center text-[18px] italic leading-[1.1] text-[#073677]">
+            <p className="absolute bottom-5 left-5 right-5 text-center text-[18px] italic leading-[1.1] text-[#8d9fb9]">
               {name}
             </p>
           </div>

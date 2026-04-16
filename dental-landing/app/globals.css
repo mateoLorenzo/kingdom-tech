@@ -17,6 +17,7 @@ html, body {
   color: #171717;
   font-family: var(--font-sans);
   color-scheme: light;
+  overscroll-behavior-y: none;
 }
 
 @layer utilities {
