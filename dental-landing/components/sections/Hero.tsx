@@ -60,7 +60,7 @@ export function Hero() {
           style={{ animationDelay: "120ms" }}
         >
           <Image
-            src="/img/hero-10.jpg"
+            src="/img/hero-7.jpg"
             alt=""
             fill
             priority

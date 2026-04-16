@@ -1,3 +1,6 @@
+"use client";
+
+import { useEffect, useRef, useState } from "react";
 import { Reveal } from "@/components/Reveal";
 import { RevealWords } from "@/components/RevealWords";
 import { dmSerifDisplay } from "@/app/fonts";
@@ -30,7 +33,41 @@ function ToothIcon() {
   );
 }
 
+function useIsMobile() {
+  const [isMobile, setIsMobile] = useState(false);
+  useEffect(() => {
+    const mq = window.matchMedia("(max-width: 639px)");
+    const update = () => setIsMobile(mq.matches);
+    update();
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
+  }, []);
+  return isMobile;
+}
+
 export function Methodology() {
+  const isMobile = useIsMobile();
+  const gridRef = useRef<HTMLDivElement>(null);
+  const [groupRevealed, setGroupRevealed] = useState(false);
+
+  useEffect(() => {
+    const el = gridRef.current;
+    if (!el) return;
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            setGroupRevealed(true);
+            io.unobserve(e.target);
+          }
+        });
+      },
+      { threshold: 0.1, rootMargin: "0px 0px -40px 0px" }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+
   return (
     <section id="metodologia" className="w-full bg-white py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
@@ -54,10 +91,13 @@ export function Methodology() {
           ]}
         />
 
-        <div className="mt-16 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {cards.map((card, i) => (
-            <Reveal key={i} delay={280 + i * 110}>
-              {card.type === "content" ? (
+        <div
+          ref={gridRef}
+          className="mt-16 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4"
+        >
+          {cards.map((card, i) => {
+            const cardInner =
+              card.type === "content" ? (
                 <div className="flex flex-col items-center rounded-2xl bg-[#F2F4F7] p-6 text-center sm:h-[360px] sm:items-start sm:p-7 sm:text-left">
                   <ToothIcon />
                   <h3 className="mt-5 whitespace-normal text-[20px] font-medium leading-[1.15] tracking-tight text-[#073677] sm:mt-8 sm:whitespace-pre-line sm:text-[22px]">
@@ -78,9 +118,26 @@ export function Methodology() {
                     />
                   )}
                 </div>
-              )}
-            </Reveal>
-          ))}
+              );
+
+            if (isMobile) {
+              return (
+                <div
+                  key={i}
+                  className={groupRevealed ? "animate-hero-fade-up" : "opacity-0"}
+                  style={groupRevealed ? { animationDelay: `${i * 110}ms` } : undefined}
+                >
+                  {cardInner}
+                </div>
+              );
+            }
+
+            return (
+              <Reveal key={i} delay={280 + i * 110}>
+                {cardInner}
+              </Reveal>
+            );
+          })}
         </div>
       </div>
     </section>
