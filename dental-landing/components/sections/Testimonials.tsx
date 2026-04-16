@@ -78,7 +78,7 @@ const testimonials = [
 
 export function Testimonials() {
   return (
-    <section id="testimonios" className="w-full overflow-x-clip bg-white min-h-[100svh] flex flex-col justify-center py-24">
+    <section id="testimonios" className="w-full overflow-x-clip bg-white min-h-svh flex flex-col justify-center py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
         <Reveal>
           <p className="text-center text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">

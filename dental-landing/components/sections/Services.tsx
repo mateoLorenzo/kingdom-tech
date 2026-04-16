@@ -4,7 +4,7 @@ import { dmSerifDisplay } from "@/app/fonts";
 
 export function Services() {
   return (
-    <section id="servicios" className="w-full overflow-x-clip bg-[#F9F9FB] min-h-[100svh] flex flex-col justify-center py-24">
+    <section id="servicios" className="w-full overflow-x-clip bg-[#F9F9FB] min-h-svh flex flex-col justify-center py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
         <Reveal>
           <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">

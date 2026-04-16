@@ -28,7 +28,7 @@ export function Team() {
   const isMobile = useIsMobile();
 
   return (
-    <section id="nosotros" className="flex min-h-[100svh] w-full items-center bg-[#F9F9FB] py-12 sm:py-24">
+    <section id="nosotros" className="flex min-h-svh w-full items-center bg-[#F9F9FB] py-12 sm:py-24">
       <div className="mx-auto w-full max-w-[1280px] px-6 lg:px-10">
         <Reveal>
           <p className="text-sm font-medium uppercase tracking-[.3px] text-[#09357C]">
