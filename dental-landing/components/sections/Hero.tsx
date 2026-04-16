@@ -16,7 +16,7 @@ const laurelMaskStyle = (url: string) => ({
 
 export function Hero() {
   return (
-    <main className="relative w-full min-h-svh lg:h-svh lg:px-2.5 lg:pt-2.5 lg:pb-2.5 lg:pl-0 flex flex-col lg:block">
+    <main id="inicio" className="relative w-full min-h-svh lg:h-svh lg:px-2.5 lg:pt-2.5 lg:pb-2.5 lg:pl-0 flex flex-col lg:block">
       <section className="flex flex-col flex-1 lg:grid lg:flex-none lg:gap-8 lg:grid-cols-[54fr_48fr]">
         <div className="order-2 lg:order-1 flex flex-1 lg:flex-none flex-col items-center justify-center gap-5 sm:gap-6 lg:gap-8 pt-4 sm:pt-6 lg:pt-18 pb-10 sm:pb-12 lg:pb-16 px-6 lg:pl-[max(40px,calc((100vw-1280px)/2+40px))] lg:pr-6 text-center lg:shrink-0">
           <span
