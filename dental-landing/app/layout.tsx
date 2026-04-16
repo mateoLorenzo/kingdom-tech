@@ -14,9 +14,14 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="es"
+      translate="no"
+      suppressHydrationWarning
       className={`${instrumentSans.variable} ${dmSerifDisplay.variable} h-full scroll-smooth antialiased`}
     >
+      <head>
+        <meta name="google" content="notranslate" />
+      </head>
       <body className={`${instrumentSans.className} min-h-full flex flex-col`}>
         {children}
       </body>

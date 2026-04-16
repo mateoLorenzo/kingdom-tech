@@ -57,6 +57,7 @@ export function ContactCta() {
               className="absolute inset-0 h-full w-full border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
+              suppressHydrationWarning
             />
           </Reveal>
         </div>

@@ -7,7 +7,8 @@ export function WhatsAppFab() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Contactar por WhatsApp"
-      className="fixed bottom-6 right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg shadow-black/20 transition-transform hover:scale-105 active:scale-95 lg:bottom-8 lg:right-8 lg:h-12 lg:w-12"
+      className="animate-hero-fade-up fixed bottom-6 right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg shadow-black/20 transition-transform hover:scale-105 active:scale-95 lg:bottom-8 lg:right-8 lg:h-12 lg:w-12"
+      style={{ animationDelay: "900ms" }}
     >
       <svg
         viewBox="0 0 24 24"
