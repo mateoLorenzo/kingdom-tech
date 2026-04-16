@@ -35,9 +35,15 @@ export function Hero() {
               Odontologia
             </span>
           </h1>
+          <p
+            className="animate-hero-fade-up max-w-[380px] text-sm sm:text-base text-[#1A1A1A]/70"
+            style={{ animationDelay: "340ms" }}
+          >
+            Atención cercana y tecnología de punta <br /> para cuidar cada detalle de tu sonrisa.
+          </p>
           <div
             className="animate-hero-fade-up mt-1 sm:mt-2"
-            style={{ animationDelay: "420ms" }}
+            style={{ animationDelay: "460ms" }}
           >
             <Button
               href={whatsappUrl()}
