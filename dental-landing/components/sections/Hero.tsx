@@ -60,16 +60,24 @@ export function Hero() {
           style={{ animationDelay: "120ms" }}
         >
           <Image
+            src="/img/hero-10.jpg"
+            alt=""
+            fill
+            priority
+            sizes="(min-width: 1024px) 48vw, 100vw"
+            className="object-cover object-bottom"
+          />
+          {/* <Image
             src="/img/hero-7.jpg"
             alt=""
             fill
             priority
             sizes="(min-width: 1024px) 48vw, 100vw"
             className="object-cover"
-          />
+          /> */}
           <div
             aria-hidden="true"
-            className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-white via-white/85 to-transparent lg:hidden"
+            className="absolute inset-x-0 bottom-0 h-56 bg-gradient-to-t from-white to-transparent lg:hidden"
           />
           <div
             className="hidden lg:block animate-hero-fade-up absolute inset-x-4 bottom-4 rounded-2xl bg-white/30 backdrop-blur-md ring-1 ring-white/40"
