@@ -8,9 +8,9 @@ export function Footer() {
           <div>
             <p className="text-xl font-semibold tracking-tight">Dental</p>
             <p className="mt-3 text-sm leading-[1.5] text-white/60">
-              Cuidamos tu sonrisa con
+              Cuidamos tu sonrisa con dedicación y
               <br />
-              atención cálida y profesional, con
+              una atención cercana en cada consulta,
               <br />
               tratamientos pensados para cada etapa.
             </p>
@@ -66,7 +66,6 @@ export function Footer() {
 
         <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 text-xs text-white/50 sm:flex-row sm:items-center">
           <p>© {new Date().getFullYear()} Dental. Todos los derechos reservados.</p>
-          <a href="#" className="hover:text-white">Política de privacidad</a>
         </div>
       </div>
     </footer>
