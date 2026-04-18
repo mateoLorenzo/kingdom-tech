@@ -43,7 +43,7 @@ export default function RootLayout({
       lang="es"
       translate="no"
       suppressHydrationWarning
-      className={`${instrumentSans.variable} ${dmSerifDisplay.variable} h-full scroll-smooth antialiased`}
+      className={`h-full scroll-smooth antialiased ${instrumentSans.variable} ${dmSerifDisplay.variable} font-sans`}
     >
       <head>
         <meta name="google" content="notranslate" />
