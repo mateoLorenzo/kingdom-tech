@@ -2,6 +2,7 @@ import type { CSSProperties, ReactNode } from "react";
 import type { Metadata } from "next";
 import { instrumentSans, dmSerifDisplay } from "./fonts";
 import { clinic } from "@/lib/clinic";
+import { buildLocalBusinessJsonLd } from "@/lib/jsonLd";
 import "./globals.css";
 
 export function generateMetadata(): Metadata {
@@ -60,6 +61,12 @@ export default function RootLayout({
     >
       <head>
         <meta name="google" content="notranslate" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(buildLocalBusinessJsonLd(clinic)),
+          }}
+        />
       </head>
       <body className={`${instrumentSans.className} min-h-full flex flex-col`}>
         {children}

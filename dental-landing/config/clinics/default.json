@@ -37,7 +37,24 @@
     "siteName": "Dental",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación."
+    "twitterDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación.",
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Honduras 5730",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "country": "AR"
+      },
+      "geo": { "lat": -34.5898, "lng": -58.4362 },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ]
+    }
   },
   "nav": [
     {
@@ -178,7 +195,7 @@
         },
         {
           "type": "image",
-          "image": "/img/metodology-2.jpg"
+          "image": "/img/heart.jpg"
         }
       ]
     },

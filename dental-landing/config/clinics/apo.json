@@ -37,7 +37,30 @@
     "siteName": "APO",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en el centro de Buenos Aires. Atención integral y guardia de emergencias."
+    "twitterDescription": "Clínica odontológica en el centro de Buenos Aires. Atención integral y guardia de emergencias.",
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Córdoba 1870",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1120AAN",
+        "country": "AR"
+      },
+      "geo": { "lat": -34.59889, "lng": -58.39298 },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "08:30",
+          "closes": "13:00"
+        }
+      ]
+    }
   },
   "nav": [
     { "label": "Inicio", "href": "#inicio" },
@@ -106,7 +129,7 @@
           "title": "Turnos\nOnline y Ágiles",
           "body": "Reservás tu turno desde la web o por WhatsApp en minutos. Coordinamos tu consulta sin esperas y con la flexibilidad que necesitás."
         },
-        { "type": "image", "image": "/img/metodology-2.jpg" }
+        { "type": "image", "image": "/img/heart.jpg" }
       ]
     },
     "team": {

@@ -59,6 +59,48 @@ export type FooterSocial = {
   external?: boolean;
 };
 
+export type DayOfWeek =
+  | "Monday"
+  | "Tuesday"
+  | "Wednesday"
+  | "Thursday"
+  | "Friday"
+  | "Saturday"
+  | "Sunday";
+
+export type OpeningHours = {
+  days: DayOfWeek[];
+  opens: string;
+  closes: string;
+};
+
+export type PostalAddress = {
+  street: string;
+  city: string;
+  region: string;
+  postalCode?: string;
+  country: string;
+};
+
+export type GeoCoordinates = {
+  lat: number;
+  lng: number;
+};
+
+export type AggregateRating = {
+  value: number;
+  count: number;
+};
+
+export type StructuredData = {
+  type?: "Dentist" | "MedicalBusiness" | "LocalBusiness";
+  address: PostalAddress;
+  hours?: OpeningHours[];
+  geo?: GeoCoordinates;
+  priceRange?: string;
+  rating?: AggregateRating;
+};
+
 export type BrandLogo =
   | { type: "text" }
   | {
@@ -107,6 +149,7 @@ export type ClinicConfig = {
     locale: string;
     htmlLang: string;
     twitterDescription: string;
+    structuredData?: StructuredData;
   };
   nav: NavLink[];
   cta: {
