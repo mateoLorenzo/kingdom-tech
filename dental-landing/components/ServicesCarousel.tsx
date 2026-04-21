@@ -7,7 +7,9 @@ import type { Service } from "@/config/types";
 export function ServicesCarousel({ services }: { services: Service[] }) {
   const containerRef = useRef<HTMLDivElement>(null);
   const [revealed, setRevealed] = useState(false);
-  const [emblaRef] = useEmblaCarousel({
+  const [progress, setProgress] = useState(0);
+  const [thumbWidth, setThumbWidth] = useState(0.2);
+  const [emblaRef, emblaApi] = useEmblaCarousel({
     align: "start",
     dragFree: true,
     containScroll: "trimSnaps",
@@ -30,6 +32,34 @@ export function ServicesCarousel({ services }: { services: Service[] }) {
     io.observe(el);
     return () => io.disconnect();
   }, []);
+
+  useEffect(() => {
+    if (!emblaApi) return;
+
+    const update = () => {
+      const p = emblaApi.scrollProgress();
+      setProgress(Math.max(0, Math.min(1, p)));
+
+      const viewport = emblaApi.rootNode();
+      const container = emblaApi.containerNode();
+      if (viewport && container) {
+        const ratio = viewport.clientWidth / container.scrollWidth;
+        setThumbWidth(Math.max(0.05, Math.min(1, ratio)));
+      }
+    };
+
+    update();
+    emblaApi.on("scroll", update);
+    emblaApi.on("reInit", update);
+    return () => {
+      emblaApi.off("scroll", update);
+      emblaApi.off("reInit", update);
+    };
+  }, [emblaApi]);
+
+  const thumbPct = thumbWidth * 100;
+  const leftPct = progress * (100 - thumbPct);
+  const hasOverflow = thumbWidth < 1;
 
   return (
     <div ref={containerRef} className="mt-12 w-full">
@@ -62,6 +92,15 @@ export function ServicesCarousel({ services }: { services: Service[] }) {
           ))}
         </div>
       </div>
+
+      {hasOverflow && (
+        <div className="relative mt-8 h-[2px] w-full bg-brand-primary/15">
+          <div
+            className="absolute top-0 h-full rounded-full bg-brand-primary/50"
+            style={{ width: `${thumbPct}%`, left: `${leftPct}%` }}
+          />
+        </div>
+      )}
     </div>
   );
 }

@@ -1,0 +1,215 @@
+{
+  "brand": {
+    "name": "APO",
+    "shortName": "APO",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491122734436",
+      "defaultMessage": "Hola, quiero reservar un turno en APO."
+    },
+    "email": "turnos@apo.com.ar",
+    "phoneDisplay": "+54 9 11 2273-4436",
+    "address": "Av. Córdoba 1870, CABA",
+    "hours": "Lun a Vie · 8 a 20hs · Sáb 8:30 a 13hs",
+    "mapQuery": "Av. Córdoba 1870, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://apo.kingdom-tech.co",
+    "title": "APO — Atención Odontológica Integral | Buenos Aires",
+    "description": "Clínica odontológica en el centro de Buenos Aires. Implantes, ortodoncia, prótesis, blanqueamiento y guardia de emergencias. Turnos online.",
+    "ogTitle": "APO — Atención Odontológica Integral",
+    "ogDescription": "Clínica odontológica en el centro de Buenos Aires. Implantes, ortodoncia, prótesis, blanqueamiento y guardia de emergencias.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "APO — Clínica odontológica en Buenos Aires",
+    "siteName": "APO",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en el centro de Buenos Aires. Atención integral y guardia de emergencias."
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Córdoba 1870 · CABA",
+      "headline": [
+        { "text": "Atención\nOdontológica\n" },
+        { "text": "Integral", "accent": true }
+      ],
+      "subheadline": "Turnos online, guardia de emergencias\ny atención ágil de lunes a sábado.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "APO",
+        "label": "Asistencia Privada Odontológica"
+      },
+      "stats": [
+        { "value": "8-20", "label": "Lun a Vie" },
+        { "value": "Sáb", "label": "8:30 a 13hs" },
+        { "value": "Guardia", "label": "Emergencias" }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Para cada necesidad", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Blanqueamiento", "image": "/img/estetica.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Radiología", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Emergencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "En el corazón de Buenos Aires, combinamos atención ágil, turnos online y una guardia siempre disponible. Un equipo que cuida a toda la familia, " },
+        { "text": "en cada etapa de la vida.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Guardia\nDe Emergencias",
+          "body": "Cuando el dolor no puede esperar, te atendemos en el día. Contamos con guardia activa para resolver urgencias de forma rápida y efectiva."
+        },
+        { "type": "image", "image": "/img/metodology-1.jpg" },
+        {
+          "type": "content",
+          "title": "Turnos\nOnline y Ágiles",
+          "body": "Reservás tu turno desde la web o por WhatsApp en minutos. Coordinamos tu consulta sin esperas y con la flexibilidad que necesitás."
+        },
+        { "type": "image", "image": "/img/metodology-2.jpg" }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        { "name": "Dr./Dra. [A confirmar]", "role": "Implantología", "experience": "AÑOS DE EXP", "image": "/img/team-1.jpg" },
+        { "name": "Dr./Dra. [A confirmar]", "role": "Ortodoncia", "experience": "AÑOS DE EXP", "image": "/img/team-2.jpg" },
+        { "name": "Dr./Dra. [A confirmar]", "role": "Prótesis", "experience": "AÑOS DE EXP", "image": "/img/team-3.jpg" },
+        { "name": "Dr./Dra. [A confirmar]", "role": "Estética Dental", "experience": "AÑOS DE EXP", "image": "/img/team-4.jpg" }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Estuve una semana con un dolor de muela que me moría, necesitaba un tratamiento de conducto y estuve de dentista en dentista y nadie me hizo nada. Vine a la guardia, súper ágil la recepción, no tuve que esperar y me atendió la doctora. Muy recomendable.",
+          "name": "Abril Giovenco",
+          "rating": 5,
+          "avatar": "/img/reviews/person-1.png"
+        },
+        {
+          "quote": "Hoy me hice atender en la guardia. Desde la recepcionista, la secretaria, la doctora, la señora que hizo la imagen: realmente todas súper amables y expeditivas. Me pareció un lugar para recomendar.",
+          "name": "Teresa Carmen Accurso",
+          "rating": 5,
+          "avatar": "/img/reviews/person-2.png"
+        },
+        {
+          "quote": "Me fui a atender hoy y fueron rápidos, eficientes y súper cordiales. Recomiendo!",
+          "name": "Paciente de APO",
+          "rating": 5,
+          "avatar": "/img/reviews/person-3.png"
+        },
+        {
+          "quote": "Muy buena atención, fui varias veces y siempre me atendieron excelente.",
+          "name": "Paciente de APO",
+          "rating": 5,
+          "avatar": "/img/reviews/person-4.png"
+        },
+        {
+          "quote": "Buena atención, muy organizado y muy rápido.",
+          "name": "Paciente de APO",
+          "rating": 4,
+          "avatar": "/img/reviews/person-5.png"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu sonrisa\n" },
+        { "text": "Empieza hoy", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Córdoba 1870, CABA",
+      "hoursLine": "Lun a Vie 8-20hs · Sáb 8:30-13hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en el centro de\nBuenos Aires. Atención integral,\nturnos online y guardia de emergencias.",
+      "socials": [
+        { "label": "Instagram", "href": "https://instagram.com/apo_odontologia", "external": true },
+        { "label": "Facebook", "href": "https://facebook.com/asistenciaprivada.odontologica.7", "external": true },
+        { "label": "WhatsApp", "whatsapp": true, "external": true }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Prótesis dentales", "href": "#servicios" },
+            { "label": "Blanqueamiento", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Córdoba 1870, CABA" },
+            { "label": "+54 9 11 2273-4436", "whatsapp": true, "external": true },
+            { "label": "turnos@apo.com.ar", "href": "mailto:turnos@apo.com.ar" },
+            { "label": "Lun a Vie 8-20 · Sáb 8:30-13", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "APO"
+    }
+  }
+}

@@ -1,4 +1,5 @@
-import clinicData from "@/config/clinic.json";
+// import clinicData from "@/config/clinic.json";
+import clinicData from "@/config/clinics/apo.json";
 import type { ClinicConfig } from "@/config/types";
 
 export const clinic: ClinicConfig = clinicData as ClinicConfig;

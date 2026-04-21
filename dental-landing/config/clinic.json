@@ -61,9 +61,8 @@
       "href": "#testimonios"
     },
     {
-      "label": "Contactanos",
-      "whatsapp": true,
-      "external": true
+      "label": "Turnos",
+      "href": "#contacto"
     }
   ],
   "cta": {
