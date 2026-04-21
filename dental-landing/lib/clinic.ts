@@ -1,8 +1,23 @@
-// import clinicData from "@/config/clinic.json";
-import clinicData from "@/config/clinics/apo.json";
+import defaultClinic from "@/config/clinics/default.json";
+import apo from "@/config/clinics/apo.json";
 import type { ClinicConfig } from "@/config/types";
 
-export const clinic: ClinicConfig = clinicData as ClinicConfig;
+const registry = {
+  dental: defaultClinic as ClinicConfig,
+  apo: apo as ClinicConfig,
+} as const;
+
+type ClinicId = keyof typeof registry;
+
+function resolveClinicId(): ClinicId {
+  const raw = process.env.CLINIC_ID;
+  if (raw && raw in registry) {
+    return raw as ClinicId;
+  }
+  return "dental";
+}
+
+export const clinic: ClinicConfig = registry[resolveClinicId()];
 
 export function whatsappUrl(message?: string): string {
   const { phone, defaultMessage } = clinic.contact.whatsapp;

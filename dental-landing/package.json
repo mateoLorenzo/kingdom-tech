@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy:clinic": "./scripts/deploy-clinic.sh"
   },
   "dependencies": {
     "embla-carousel-react": "^8.6.0",
