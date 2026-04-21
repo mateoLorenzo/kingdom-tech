@@ -1,0 +1,400 @@
+{
+  "brand": {
+    "name": "Dental",
+    "shortName": "Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491140392404",
+      "defaultMessage": "Buenas, quiero reservar un turno en la clínica."
+    },
+    "email": "hola@dental.com",
+    "phoneDisplay": "+54 9 11 4039-2404",
+    "address": "Honduras 5730, Palermo Hollywood",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Honduras 5730, Palermo, Buenos Aires"
+  },
+  "seo": {
+    "baseUrl": "https://dental.kingdom-tech.co",
+    "title": "Dental — Expertos en Odontología | Palermo Hollywood",
+    "description": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación para cuidar cada detalle de tu sonrisa.",
+    "ogTitle": "Dental — Expertos en Odontología",
+    "ogDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación para cuidar cada detalle de tu sonrisa.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "Dental — Consultorio odontológico en Palermo Hollywood",
+    "siteName": "Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación."
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Contactanos",
+      "whatsapp": true,
+      "external": true
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Palermo Hollywood",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Atención cercana y tecnología de punta\npara cuidar cada detalle de tu sonrisa.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental",
+        "label": "Confiado por Miles"
+      },
+      "stats": [
+        {
+          "value": "100%",
+          "label": "Satisfaction"
+        },
+        {
+          "value": "4.98",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "150",
+          "label": "Reviews"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Combinamos tecnología de última generación junto con atención cercana y humana. Nuestro enfoque está en brindarte tratamientos efectivos y comodos, "
+        },
+        {
+          "text": "pensados para tu bienestar en cada etapa.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "+200 Clientes\nTodos los Meses",
+          "body": "La confianza de nuestros pacientes es nuestro mayor respaldo. Cada consulta está pensada para brindarte una atención clara, cómoda y enfocada en lograr los mejores resultados posibles."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "4.9/5 Calificación\nPromedio",
+          "body": "Más que una clínica, somos un equipo comprometido con tu bienestar. Nuestros pacientes confían en nosotros por la atención cercana, la claridad en cada tratamiento y los resultados obtenidos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-2.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Martina Reyes",
+          "role": "Directora Clínica",
+          "experience": "+8 AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ignacio Alvarez",
+          "role": "Implantología",
+          "experience": "+17 AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Carolina Fuentes",
+          "role": "Ortodoncia",
+          "experience": "+6 AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Tomás Herrera",
+          "role": "Odontopediatría",
+          "experience": "+13 AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. La doctora es muy profesional, respetuosa y se nota el cuidado en cada detalle. El consultorio está impecable, todo muy limpio y ordenado. Me sentí cómoda y bien atendida durante toda la consulta. Súper recomendable.",
+          "name": "Ashley Landazo",
+          "rating": 5,
+          "avatar": "/img/reviews/person-1.png"
+        },
+        {
+          "quote": "Impecable atención y mucha profesionalidad. La doctora es súper clara, cuidadosa y te hace sentir tranquilo en todo momento. El consultorio es cómodo y todo impecable. Muy recomendable.",
+          "name": "Marcos Gutierrez",
+          "rating": 5,
+          "avatar": "/img/reviews/person-2.png"
+        },
+        {
+          "quote": "Me atendió en el mismo día, me resolvió un problemón. Muy amable, recomiendo.",
+          "name": "Manuel Leandro",
+          "rating": 4,
+          "avatar": "/img/reviews/person-3.png"
+        },
+        {
+          "quote": "Muy profesional, muy buena atención, equipos de primera y ambiente muy agradable. Te explica súper bien todo. Recomiendo al 100%.",
+          "name": "Lucia Fernández",
+          "rating": 5,
+          "avatar": "/img/reviews/person-4.png"
+        },
+        {
+          "quote": "Excelente atención. La doctora es muy profesional, respetuosa y se nota el cuidado en cada detalle. El consultorio está impecable y me sentí cómoda durante toda la consulta. Súper recomendable.",
+          "name": "Valentina Ríos",
+          "rating": 5,
+          "avatar": "/img/reviews/person-5.png"
+        },
+        {
+          "quote": "Excelente atención y mucha profesionalidad. La doctora es súper clara, cuidadosa y te hace sentir tranquilo en todo momento. Muy recomendable.",
+          "name": "Pablo Castro",
+          "rating": 4,
+          "avatar": "/img/reviews/person-6.png"
+        },
+        {
+          "quote": "Súper buena experiencia. Me explicaron cada paso del tratamiento con paciencia y sin apuro. Salí tranquila y sin dudas.",
+          "name": "Sofía Paredes",
+          "rating": 5,
+          "avatar": "/img/reviews/person-7.png"
+        },
+        {
+          "quote": "Fui por primera vez y me sentí muy cómodo. Precios claros, sin sorpresas, y un trato excelente de principio a fin.",
+          "name": "Gastón Medina",
+          "rating": 5,
+          "avatar": "/img/reviews/person-8.png"
+        },
+        {
+          "quote": "Vengo hace años con mi familia. Siempre puntuales, siempre atentos. Los nenes salen contentos, que no es poco.",
+          "name": "Camila Soria",
+          "rating": 5,
+          "avatar": "/img/reviews/person-9.png"
+        },
+        {
+          "quote": "Hicieron un trabajo impecable con mi implante. Seguimiento constante y mucha claridad durante todo el proceso.",
+          "name": "Julián Mori",
+          "rating": 5,
+          "avatar": "/img/reviews/person-10.png"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos en minutos y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Honduras 5730, Palermo Hollywood",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Cuidamos tu sonrisa con dedicación y\nuna atención cercana en cada consulta,\ntratamientos pensados para cada etapa.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "#"
+        },
+        {
+          "label": "Facebook",
+          "href": "#"
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Honduras 5730, Palermo Hollywood"
+            },
+            {
+              "label": "+54 9 11 4039-2404",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "hola@dental.com",
+              "href": "mailto:hola@dental.com"
+            },
+            {
+              "label": "Lun a Vie · 9–19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental"
+    }
+  }
+}

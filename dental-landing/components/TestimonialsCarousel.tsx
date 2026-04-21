@@ -2,13 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import useEmblaCarousel from "embla-carousel-react";
-
-type Testimonial = {
-  quote: string;
-  name: string;
-  rating: number;
-  avatar: string;
-};
+import type { Testimonial } from "@/config/types";
 
 function Stars({ rating }: { rating: number }) {
   return (
@@ -76,7 +70,7 @@ export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
                 }`}
                 style={revealed ? { animationDelay: `${i * 90}ms` } : undefined}
               >
-                <p className="text-[15px] italic leading-[1.5] text-[#1A1A1A]/80">
+                <p className="text-[15px] italic leading-[1.5] text-brand-text/80">
                   {t.quote}
                 </p>
                 <div className="mt-6 flex items-center gap-3 border-t border-black/5 pt-4">
@@ -89,7 +83,7 @@ export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
                     />
                   </div>
                   <div>
-                    <p className="text-[13px] font-semibold uppercase tracking-[.3px] text-[#073677]">
+                    <p className="text-[13px] font-semibold uppercase tracking-[.3px] text-brand-primary">
                       {t.name}
                     </p>
                     <div className="mt-1 flex items-center gap-2">

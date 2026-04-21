@@ -3,11 +3,25 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --color-brand-primary: #073677;
+  --color-brand-accent: #0588D7;
+  --color-brand-label: #09357C;
+  --color-brand-bg-soft: #F9F9FB;
+  --color-brand-footer-bg: #0A1F3D;
+  --color-brand-footer-text: #FFFFFF;
+  --color-brand-text: #1A1A1A;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-brand-primary: var(--color-brand-primary);
+  --color-brand-accent: var(--color-brand-accent);
+  --color-brand-label: var(--color-brand-label);
+  --color-brand-bg-soft: var(--color-brand-bg-soft);
+  --color-brand-footer-bg: var(--color-brand-footer-bg);
+  --color-brand-footer-text: var(--color-brand-footer-text);
+  --color-brand-text: var(--color-brand-text);
   --font-sans: var(--font-instrument), ui-sans-serif, system-ui, sans-serif;
   --font-display: var(--font-dm-serif), ui-serif, Georgia, serif;
 }

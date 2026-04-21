@@ -2,16 +2,8 @@
 
 import { useEffect, useState } from "react";
 import { Button } from "./Button";
-import { whatsappUrl } from "@/lib/whatsapp";
-
-const navLinks = [
-  { label: "Inicio", href: "#inicio" },
-  { label: "Servicios", href: "#servicios" },
-  { label: "Metodología", href: "#metodologia" },
-  { label: "Nosotros", href: "#nosotros" },
-  { label: "Testimonios", href: "#testimonios" },
-  { label: "Contactanos", href: whatsappUrl(), external: true },
-];
+import { BrandLogo } from "./BrandLogo";
+import { clinic, whatsappUrl, resolveHref } from "@/lib/clinic";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -30,18 +22,15 @@ export function Header() {
       }`}
     >
       <div className="relative mx-auto flex h-20 w-full max-w-[1280px] items-center justify-between px-6 lg:px-10">
-        <a
-          href="#inicio"
-          className="text-xl font-semibold tracking-tight text-[#0E1F3A]"
-        >
-          Dental
+        <a href="#inicio" aria-label={clinic.brand.name}>
+          <BrandLogo variant="onLight" />
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">
-          {navLinks.map((link) => (
+          {clinic.nav.map((link) => (
             <a
               key={link.label}
-              href={link.href}
+              href={resolveHref(link)}
               target={link.external ? "_blank" : undefined}
               rel={link.external ? "noopener noreferrer" : undefined}
               className="text-[13px] font-medium text-[#1A1A1A] transition-colors hover:text-black"
@@ -52,7 +41,7 @@ export function Header() {
         </nav>
 
         <Button href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
-          Contactanos
+          {clinic.cta.contactLabel}
         </Button>
       </div>
     </header>

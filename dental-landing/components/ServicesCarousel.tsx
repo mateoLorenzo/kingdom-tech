@@ -2,19 +2,9 @@
 
 import { useEffect, useRef, useState } from "react";
 import useEmblaCarousel from "embla-carousel-react";
+import type { Service } from "@/config/types";
 
-const services: { name: string; image?: string }[] = [
-  { name: "Limpieza dental", image: "/img/limpieza.jpg" },
-  { name: "Estética dental", image: "/img/estetica.jpg" },
-  { name: "Ortodoncia", image: "/img/brackets.jpg" },
-  { name: "Implantes", image: "/img/implantes.jpg" },
-  { name: "Prótesis", image: "/img/protesis.jpg" },
-  { name: "Endodoncia", image: "/img/ondodoncia.jpg" },
-  { name: "Odontopediatría", image: "/img/Odontopediatría.jpg" },
-  { name: "Urgencias", image: "/img/emergencia.jpg" },
-];
-
-export function ServicesCarousel() {
+export function ServicesCarousel({ services }: { services: Service[] }) {
   const containerRef = useRef<HTMLDivElement>(null);
   const [revealed, setRevealed] = useState(false);
   const [emblaRef] = useEmblaCarousel({
@@ -61,7 +51,7 @@ export function ServicesCarousel() {
                       alt={name}
                       className="absolute inset-0 h-full w-full object-cover"
                     />
-                    <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-[#F9F9FB] via-[#F9F9FB]/80 to-transparent" />
+                    <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-brand-bg-soft via-brand-bg-soft/80 to-transparent" />
                   </>
                 )}
                 <p className="absolute bottom-5 left-5 right-5 text-center text-[18px] italic leading-[1.1] text-[#8d9fb9]">

@@ -1,48 +1,61 @@
+import type { CSSProperties, ReactNode } from "react";
 import type { Metadata } from "next";
 import { instrumentSans, dmSerifDisplay } from "./fonts";
+import { clinic } from "@/lib/clinic";
 import "./globals.css";
 
-export const metadata: Metadata = {
-  metadataBase: new URL("https://dental.kingdom-tech.co"),
-  title: "Dental — Expertos en Odontología | Palermo Hollywood",
-  description:
-    "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación para cuidar cada detalle de tu sonrisa.",
-  openGraph: {
-    title: "Dental — Expertos en Odontología",
-    description:
-      "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación para cuidar cada detalle de tu sonrisa.",
-    url: "/",
-    siteName: "Dental",
-    images: [
-      {
-        url: "/img/hero-5.jpg",
-        width: 1024,
-        height: 683,
-        alt: "Dental — Consultorio odontológico en Palermo Hollywood",
-      },
-    ],
-    locale: "es_AR",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Dental — Expertos en Odontología",
-    description:
-      "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación.",
-    images: ["/img/hero-5.jpg"],
-  },
-};
+export function generateMetadata(): Metadata {
+  const { seo } = clinic;
+  return {
+    metadataBase: new URL(seo.baseUrl),
+    title: seo.title,
+    description: seo.description,
+    openGraph: {
+      title: seo.ogTitle,
+      description: seo.ogDescription,
+      url: "/",
+      siteName: seo.siteName,
+      images: [
+        {
+          url: seo.ogImage,
+          width: 1024,
+          height: 683,
+          alt: seo.ogAlt,
+        },
+      ],
+      locale: seo.locale,
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: seo.ogTitle,
+      description: seo.twitterDescription,
+      images: [seo.ogImage],
+    },
+  };
+}
+
+const themeVars = {
+  "--color-brand-primary": clinic.theme.primary,
+  "--color-brand-accent": clinic.theme.accent,
+  "--color-brand-label": clinic.theme.label,
+  "--color-brand-bg-soft": clinic.theme.bgSoft,
+  "--color-brand-footer-bg": clinic.theme.footerBg,
+  "--color-brand-footer-text": clinic.theme.footerText,
+  "--color-brand-text": clinic.theme.text,
+} as CSSProperties;
 
 export default function RootLayout({
   children,
 }: Readonly<{
-  children: React.ReactNode;
+  children: ReactNode;
 }>) {
   return (
     <html
-      lang="es"
+      lang={clinic.seo.htmlLang}
       translate="no"
       suppressHydrationWarning
+      style={themeVars}
       className={`h-full scroll-smooth antialiased ${instrumentSans.variable} ${dmSerifDisplay.variable} font-sans`}
     >
       <head>

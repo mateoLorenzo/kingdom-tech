@@ -11,7 +11,7 @@ type ButtonProps = {
 };
 
 const base =
-  "inline-flex items-center gap-2 rounded-full py-1.5 pl-4 pr-1.5 text-sm font-medium text-white bg-gradient-to-r from-[#0588D7] to-[#073677] transition-shadow duration-300 ease-out hover:shadow-[0_10px_30px_-8px_rgba(7,54,119,0.5)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#0588D7] focus-visible:ring-offset-2";
+  "inline-flex items-center gap-2 rounded-full py-1.5 pl-4 pr-1.5 text-sm font-medium text-white bg-gradient-to-r from-brand-accent to-brand-primary transition-shadow duration-300 ease-out hover:shadow-[0_10px_30px_-8px_rgba(7,54,119,0.5)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent focus-visible:ring-offset-2";
 
 export function Button({
   href,
