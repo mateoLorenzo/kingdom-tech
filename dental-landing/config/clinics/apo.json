@@ -38,6 +38,7 @@
     "locale": "es_AR",
     "htmlLang": "es",
     "twitterDescription": "Clínica odontológica en el centro de Buenos Aires. Atención integral y guardia de emergencias.",
+    "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {

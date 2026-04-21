@@ -38,6 +38,7 @@
     "locale": "es_AR",
     "htmlLang": "es",
     "twitterDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación.",
+    "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {

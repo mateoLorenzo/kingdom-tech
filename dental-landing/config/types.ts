@@ -150,6 +150,7 @@ export type ClinicConfig = {
     htmlLang: string;
     twitterDescription: string;
     structuredData?: StructuredData;
+    noindex?: boolean;
   };
   nav: NavLink[];
   cta: {
@@ -206,3 +207,4 @@ export type ClinicConfig = {
     };
   };
 };
+

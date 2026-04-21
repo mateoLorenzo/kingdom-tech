@@ -7,10 +7,14 @@ import "./globals.css";
 
 export function generateMetadata(): Metadata {
   const { seo } = clinic;
+  const noindex = seo.noindex !== false;
   return {
     metadataBase: new URL(seo.baseUrl),
     title: seo.title,
     description: seo.description,
+    robots: noindex
+      ? { index: false, follow: false, googleBot: { index: false, follow: false } }
+      : { index: true, follow: true },
     openGraph: {
       title: seo.ogTitle,
       description: seo.ogDescription,
