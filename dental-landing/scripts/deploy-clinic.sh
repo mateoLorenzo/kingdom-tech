@@ -55,12 +55,12 @@ fi
 echo "[2/5] Linking repo to project..."
 vercel link --yes --project "$PROJECT_NAME" >/dev/null
 
-# 3. Ensure CLINIC_ID env var is set for production (idempotent)
-if vercel env ls production 2>/dev/null | awk '{print $1}' | grep -qx "CLINIC_ID"; then
-  echo "[3/5] CLINIC_ID already set — skipping."
+# 3. Ensure NEXT_PUBLIC_CLINIC_ID env var is set for production (idempotent)
+if vercel env ls production 2>/dev/null | awk '{print $1}' | grep -qx "NEXT_PUBLIC_CLINIC_ID"; then
+  echo "[3/5] NEXT_PUBLIC_CLINIC_ID already set — skipping."
 else
-  echo "[3/5] Setting CLINIC_ID=$CLINIC_ID for production..."
-  printf '%s' "$CLINIC_ID" | vercel env add CLINIC_ID production
+  echo "[3/5] Setting NEXT_PUBLIC_CLINIC_ID=$CLINIC_ID for production..."
+  printf '%s' "$CLINIC_ID" | vercel env add NEXT_PUBLIC_CLINIC_ID production
 fi
 
 # 4. Ensure domain is attached (idempotent — ignore "already exists")

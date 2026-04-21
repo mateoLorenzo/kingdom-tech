@@ -10,7 +10,7 @@ const registry = {
 type ClinicId = keyof typeof registry;
 
 function resolveClinicId(): ClinicId {
-  const raw = process.env.CLINIC_ID;
+  const raw = process.env.NEXT_PUBLIC_CLINIC_ID;
   if (raw && raw in registry) {
     return raw as ClinicId;
   }
