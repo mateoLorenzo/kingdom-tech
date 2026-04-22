@@ -1,0 +1,454 @@
+{
+  "brand": {
+    "name": "Clínica San Miguel",
+    "shortName": "San Miguel",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#0E3B6B",
+    "accent": "#1EA0C7",
+    "label": "#0E3B6B",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491165931604",
+      "defaultMessage": "Hola, quiero reservar un turno en Clínica San Miguel."
+    },
+    "email": "info.odontosanmiguel@gmail.com",
+    "phoneDisplay": "+54 9 11 6593-1604",
+    "address": "Tres Arroyos 1279, Caballito, CABA",
+    "hours": "Lun, Mié y Vie · 8 a 13hs",
+    "mapQuery": "Tres Arroyos 1279, Caballito, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://clinica-san-miguel.kingdom-tech.co",
+    "title": "Clínica San Miguel — Odontología de confianza | Caballito",
+    "description": "Clínica odontológica en Caballito con décadas cuidando a las mismas familias. Odontopediatría, implantes, ortodoncia y atención general para niños y adultos.",
+    "ogTitle": "Clínica San Miguel — Odontología de confianza en Caballito",
+    "ogDescription": "Clínica odontológica en Caballito con décadas de experiencia. Atención familiar, turnos por WhatsApp y trato cálido para niños y adultos.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "Clínica San Miguel — Clínica odontológica en Caballito",
+    "siteName": "Clínica San Miguel",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Caballito con décadas cuidando a las mismas familias. Odontopediatría e implantes.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Tres Arroyos 1279",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1416DCO",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6073743,
+        "lng": -58.4577765
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "13:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Tres Arroyos 1279 · Caballito · CABA",
+      "headline": [
+        {
+          "text": "Atención\nOdontológica\n"
+        },
+        {
+          "text": "De confianza",
+          "accent": true
+        }
+      ],
+      "subheadline": "Un equipo que cuida a las mismas familias\nhace décadas. Turnos por WhatsApp.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Clínica San Miguel",
+        "label": "Odontología familiar en Caballito"
+      },
+      "stats": [
+        {
+          "value": "8-13",
+          "label": "Lun, Mié y Vie"
+        },
+        {
+          "value": "WhatsApp",
+          "label": "Turnos ágiles"
+        },
+        {
+          "value": "Familia",
+          "label": "Hace décadas"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para toda la familia",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Lo que más repiten nuestros pacientes es la calidez en el trato. Un equipo que acompaña a las mismas familias "
+        },
+        {
+          "text": "desde hace décadas.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cuidamos\nA tu familia",
+          "body": "Hace décadas acompañamos a las mismas familias. Un equipo que conoce a sus pacientes, los llama por su nombre y los trata como gente, no como pacientes."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Trato\nHumano",
+          "body": "Calidez, paciencia y explicaciones claras. Vanina para los más chicos, Emanuel para los adultos y un equipo de recepción que resuelve turnos rápido por WhatsApp."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Vanina Franco",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Emanuel",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Cherr",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Hace años que en mi familia somos pacientes tanto de Emmanuel como de Vanina. Excelentes profesionales, nunca un problema con los tratamientos que hicimos. Hoy, sin cobertura, seguimos yendo.",
+          "name": "María Belén Brussa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente clínica del barrio. Recomiendo especialmente a Emanuel: amable e impecable como profesional. Como vecina, valoro tener un lugar de tanta confianza cerca. Toda mi familia se atiende con él.",
+          "name": "Fabiana Onesti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Unos genios. El Dr. Emmanuel es de una calidez y un profesionalismo indescriptible. Muy valioso también el aporte de la Sra. Alba en recepción. Muy recomendable la clínica.",
+          "name": "María Viviana Bracco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales, especialmente Vanina, la odontóloga de mis hijos desde los 2 años. Casi 17 uno de ellos. Siempre predispuesta y acompañando a sus pacientes.",
+          "name": "Nazira Hasan",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Unos genios. Desde la secretaria Alba, que te da los turnos, pasando por la Dra y en mi caso el Dr. Emanuel, que siempre te recibe con una sonrisa y te arregla la tuya.",
+          "name": "Luiyi",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La experiencia como paciente de Emmanuel es fabulosa. Es único e irrepetible, y por eso lo recomiendo a cualquier persona que quiera un odontólogo de excelencia.",
+          "name": "Leticia Galván",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Atiendo a mis hijos hace años. Excelente profesional, paciencia y calidez. La atención de adultos también es muy recomendable.",
+          "name": "Patri",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales y personas. Me atiendo desde hace muchísimos años. El mejor lugar para mi familia y para mí.",
+          "name": "María Sol Alvarez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de los profesionales, tanto para adultos como pediátricos. El lugar impecable. Muy recomendable.",
+          "name": "Romina Viana",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La mejor odontopediatra Vanina. Amamos a todo el equipo, desde la recepción hasta los profesionales.",
+          "name": "Mariela González",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Se unen excelente atención y calidez con el paciente, que no es común. Los recomiendo sin duda.",
+          "name": "María Calvo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mis hijos se atienden con la Dra. Vanina Franco. Siempre impecable la atención y el trato.",
+          "name": "Paz Sagardoy",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Grandes profesionales el Dr. Ema, y la calidez de la Dra. Vanina para los más chicos.",
+          "name": "Andrea Prieto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Súper rápidos y prolijos los trabajos. 100% recomendado Emanuel.",
+          "name": "Miguel W.",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención en el tratamiento de implantes.",
+          "name": "Sandra Carbone",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Tres Arroyos 1279, Caballito, CABA",
+      "hoursLine": "Lun, Mié y Vie 8-13hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Caballito.\nDécadas cuidando a las mismas familias,\ncon trato cálido y turnos por WhatsApp.",
+      "socials": [
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/p/Cl%C3%ADnica-Odontol%C3%B3gica-San-Miguel-SA-100036140871938/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Tres Arroyos 1279, Caballito"
+            },
+            {
+              "label": "+54 9 11 6593-1604",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "+54 11 4586-2211"
+            },
+            {
+              "label": "info.odontosanmiguel@gmail.com",
+              "href": "mailto:info.odontosanmiguel@gmail.com"
+            },
+            {
+              "label": "Lun, Mié y Vie 8-13hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica San Miguel"
+    }
+  }
+}
