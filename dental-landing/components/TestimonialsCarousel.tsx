@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import type { Testimonial } from "@/config/types";
+import { colorByIndex, initialFor } from "@/lib/avatar";
 
 function Stars({ rating }: { rating: number }) {
   return (
@@ -19,6 +20,19 @@ function Stars({ rating }: { rating: number }) {
       ))}
     </div>
   );
+}
+
+const GENDER_PHOTO_COUNT = 10;
+
+function resolveAvatarSrc(
+  t: Testimonial,
+  genderCounts: { male: number; female: number }
+): string | null {
+  if (t.avatar) return t.avatar;
+  if (!t.gender) return null;
+  const nth = ++genderCounts[t.gender];
+  const slot = ((nth - 1) % GENDER_PHOTO_COUNT) + 1;
+  return `/img/reviews/${t.gender}-${slot}.png`;
 }
 
 export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
@@ -59,7 +73,11 @@ export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
     <div ref={containerRef} className="mt-12 w-full">
       <div ref={emblaRef} className="mx-[calc(50%-50vw)] overflow-hidden">
         <div className="flex -ml-4 py-3 lg:pl-[max(40px,calc((100vw_-_1280px)/2_+_40px))]">
-          {items.map((t, i) => (
+          {(() => {
+            const counts = { male: 0, female: 0 };
+            return items.map((t, i) => {
+              const avatarSrc = resolveAvatarSrc(t, counts);
+              return (
             <div
               key={i}
               className="min-w-0 shrink-0 grow-0 basis-[85%] pl-4 lg:basis-auto lg:last:pr-[max(40px,calc((100vw_-_1280px)/2_+_40px))]"
@@ -74,14 +92,24 @@ export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
                   {t.quote}
                 </p>
                 <div className="mt-6 flex items-center gap-3 border-t border-black/5 pt-4">
-                  <div className="relative h-11 w-11 shrink-0 overflow-hidden rounded-full bg-[#F2F4F7]">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={t.avatar}
-                      alt={t.name}
-                      className="absolute inset-0 h-full w-full object-cover"
-                    />
-                  </div>
+                  {avatarSrc ? (
+                    <div className="relative h-11 w-11 shrink-0 overflow-hidden rounded-full bg-[#F2F4F7]">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={avatarSrc}
+                        alt={t.name}
+                        className="absolute inset-0 h-full w-full object-cover"
+                      />
+                    </div>
+                  ) : (
+                    <div
+                      aria-hidden="true"
+                      className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-base font-semibold text-white"
+                      style={{ backgroundColor: colorByIndex(i) }}
+                    >
+                      {initialFor(t.name)}
+                    </div>
+                  )}
                   <div>
                     <p className="text-[13px] font-semibold uppercase tracking-[.3px] text-brand-primary">
                       {t.name}
@@ -93,7 +121,9 @@ export function TestimonialsCarousel({ items }: { items: Testimonial[] }) {
                 </div>
               </div>
             </div>
-          ))}
+              );
+            });
+          })()}
         </div>
       </div>
     </div>

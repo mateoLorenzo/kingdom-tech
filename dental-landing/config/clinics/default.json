@@ -47,10 +47,19 @@
         "region": "CABA",
         "country": "AR"
       },
-      "geo": { "lat": -34.5898, "lng": -58.4362 },
+      "geo": {
+        "lat": -34.5898,
+        "lng": -58.4362
+      },
       "hours": [
         {
-          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
           "opens": "09:00",
           "closes": "19:00"
         }
@@ -254,61 +263,61 @@
           "quote": "Excelente atención. La doctora es muy profesional, respetuosa y se nota el cuidado en cada detalle. El consultorio está impecable, todo muy limpio y ordenado. Me sentí cómoda y bien atendida durante toda la consulta. Súper recomendable.",
           "name": "Ashley Landazo",
           "rating": 5,
-          "avatar": "/img/reviews/person-1.png"
+          "gender": "female"
         },
         {
           "quote": "Impecable atención y mucha profesionalidad. La doctora es súper clara, cuidadosa y te hace sentir tranquilo en todo momento. El consultorio es cómodo y todo impecable. Muy recomendable.",
           "name": "Marcos Gutierrez",
           "rating": 5,
-          "avatar": "/img/reviews/person-2.png"
+          "gender": "male"
         },
         {
           "quote": "Me atendió en el mismo día, me resolvió un problemón. Muy amable, recomiendo.",
           "name": "Manuel Leandro",
           "rating": 4,
-          "avatar": "/img/reviews/person-3.png"
+          "gender": "male"
         },
         {
           "quote": "Muy profesional, muy buena atención, equipos de primera y ambiente muy agradable. Te explica súper bien todo. Recomiendo al 100%.",
           "name": "Lucia Fernández",
           "rating": 5,
-          "avatar": "/img/reviews/person-4.png"
+          "gender": "female"
         },
         {
           "quote": "Excelente atención. La doctora es muy profesional, respetuosa y se nota el cuidado en cada detalle. El consultorio está impecable y me sentí cómoda durante toda la consulta. Súper recomendable.",
           "name": "Valentina Ríos",
           "rating": 5,
-          "avatar": "/img/reviews/person-5.png"
+          "gender": "female"
         },
         {
           "quote": "Excelente atención y mucha profesionalidad. La doctora es súper clara, cuidadosa y te hace sentir tranquilo en todo momento. Muy recomendable.",
           "name": "Pablo Castro",
           "rating": 4,
-          "avatar": "/img/reviews/person-6.png"
+          "gender": "male"
         },
         {
           "quote": "Súper buena experiencia. Me explicaron cada paso del tratamiento con paciencia y sin apuro. Salí tranquila y sin dudas.",
           "name": "Sofía Paredes",
           "rating": 5,
-          "avatar": "/img/reviews/person-7.png"
+          "gender": "female"
         },
         {
           "quote": "Fui por primera vez y me sentí muy cómodo. Precios claros, sin sorpresas, y un trato excelente de principio a fin.",
           "name": "Gastón Medina",
           "rating": 5,
-          "avatar": "/img/reviews/person-8.png"
+          "gender": "male"
         },
         {
           "quote": "Vengo hace años con mi familia. Siempre puntuales, siempre atentos. Los nenes salen contentos, que no es poco.",
           "name": "Camila Soria",
           "rating": 5,
-          "avatar": "/img/reviews/person-9.png"
+          "gender": "female"
         },
         {
           "quote": "Hicieron un trabajo impecable con mi implante. Seguimiento constante y mucha claridad durante todo el proceso.",
           "name": "Julián Mori",
           "rating": 5,
-          "avatar": "/img/reviews/person-10.png"
+          "gender": "male"
         }
       ]
     },

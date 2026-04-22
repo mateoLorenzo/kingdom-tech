@@ -48,15 +48,26 @@
         "postalCode": "C1120AAN",
         "country": "AR"
       },
-      "geo": { "lat": -34.59889, "lng": -58.39298 },
+      "geo": {
+        "lat": -34.59889,
+        "lng": -58.39298
+      },
       "hours": [
         {
-          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
           "opens": "08:00",
           "closes": "20:00"
         },
         {
-          "days": ["Saturday"],
+          "days": [
+            "Saturday"
+          ],
           "opens": "08:30",
           "closes": "13:00"
         }
@@ -64,12 +75,30 @@
     }
   },
   "nav": [
-    { "label": "Inicio", "href": "#inicio" },
-    { "label": "Servicios", "href": "#servicios" },
-    { "label": "Metodología", "href": "#metodologia" },
-    { "label": "Nosotros", "href": "#nosotros" },
-    { "label": "Testimonios", "href": "#testimonios" },
-    { "label": "Turnos", "href": "#contacto" }
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
   ],
   "cta": {
     "primaryLabel": "Reservá Turno",
@@ -79,8 +108,13 @@
     "hero": {
       "eyebrow": "Av. Córdoba 1870 · CABA",
       "headline": [
-        { "text": "Atención\nOdontológica\n" },
-        { "text": "Integral", "accent": true }
+        {
+          "text": "Atención\nOdontológica\n"
+        },
+        {
+          "text": "Integral",
+          "accent": true
+        }
       ],
       "subheadline": "Turnos online, guardia de emergencias\ny atención ágil de lunes a sábado.",
       "ctaLabel": "Reservá Turno",
@@ -90,33 +124,76 @@
         "label": "Asistencia Privada Odontológica"
       },
       "stats": [
-        { "value": "8-20", "label": "Lun a Vie" },
-        { "value": "Sáb", "label": "8:30 a 13hs" },
-        { "value": "Guardia", "label": "Emergencias" }
+        {
+          "value": "8-20",
+          "label": "Lun a Vie"
+        },
+        {
+          "value": "Sáb",
+          "label": "8:30 a 13hs"
+        },
+        {
+          "value": "Guardia",
+          "label": "Emergencias"
+        }
       ]
     },
     "services": {
       "eyebrow": "Servicios",
       "heading": [
-        { "text": "Tratamientos dentales\n" },
-        { "text": "Para cada necesidad", "accent": true }
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para cada necesidad",
+          "accent": true
+        }
       ],
       "items": [
-        { "name": "Implantes", "image": "/img/implantes.jpg" },
-        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
-        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
-        { "name": "Blanqueamiento", "image": "/img/estetica.jpg" },
-        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
-        { "name": "Radiología", "image": "/img/limpieza.jpg" },
-        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
-        { "name": "Emergencias", "image": "/img/emergencia.jpg" }
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Radiología",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Emergencias",
+          "image": "/img/emergencia.jpg"
+        }
       ]
     },
     "methodology": {
       "eyebrow": "Metodología",
       "paragraph": [
-        { "text": "En el corazón de Buenos Aires, combinamos atención ágil, turnos online y una guardia siempre disponible. Un equipo que cuida a toda la familia, " },
-        { "text": "en cada etapa de la vida.", "accent": true }
+        {
+          "text": "En el corazón de Buenos Aires, combinamos atención ágil, turnos online y una guardia siempre disponible. Un equipo que cuida a toda la familia, "
+        },
+        {
+          "text": "en cada etapa de la vida.",
+          "accent": true
+        }
       ],
       "cards": [
         {
@@ -124,72 +201,137 @@
           "title": "Guardia\nDe Emergencias",
           "body": "Cuando el dolor no puede esperar, te atendemos en el día. Contamos con guardia activa para resolver urgencias de forma rápida y efectiva."
         },
-        { "type": "image", "image": "/img/metodology-1.jpg" },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
         {
           "type": "content",
           "title": "Turnos\nOnline y Ágiles",
           "body": "Reservás tu turno desde la web o por WhatsApp en minutos. Coordinamos tu consulta sin esperas y con la flexibilidad que necesitás."
         },
-        { "type": "image", "image": "/img/heart.jpg" }
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
       ]
     },
     "team": {
       "eyebrow": "Sobre Nosotros",
       "heading": [
-        { "text": "Conocé El Equipo\n" },
-        { "text": "Detrás De Tu Sonrisa", "accent": true }
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
       ],
       "members": [
-        { "name": "Dr./Dra. [A confirmar]", "role": "Implantología", "experience": "AÑOS DE EXP", "image": "/img/team-1.jpg" },
-        { "name": "Dr./Dra. [A confirmar]", "role": "Ortodoncia", "experience": "AÑOS DE EXP", "image": "/img/team-2.jpg" },
-        { "name": "Dr./Dra. [A confirmar]", "role": "Prótesis", "experience": "AÑOS DE EXP", "image": "/img/team-3.jpg" },
-        { "name": "Dr./Dra. [A confirmar]", "role": "Estética Dental", "experience": "AÑOS DE EXP", "image": "/img/team-4.jpg" }
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Implantología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Prótesis",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Estética Dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
       ]
     },
     "testimonials": {
       "eyebrow": "Testimonios",
       "heading": [
-        { "text": "Pacientes que\n" },
-        { "text": "Nos recomiendan", "accent": true }
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
       ],
       "items": [
         {
-          "quote": "Estuve una semana con un dolor de muela que me moría, necesitaba un tratamiento de conducto y estuve de dentista en dentista y nadie me hizo nada. Vine a la guardia, súper ágil la recepción, no tuve que esperar y me atendió la doctora. Muy recomendable.",
-          "name": "Abril Giovenco",
+          "quote": "Fui un domingo a la noche y me atendió una odontóloga amorosa y paciente. Respondió todas mis preguntas y me sacó todas las dudas con mucha amabilidad. Recomiendo ir.",
+          "name": "Iara Ailen Jary",
           "rating": 5,
-          "avatar": "/img/reviews/person-1.png"
+          "gender": "female"
         },
         {
-          "quote": "Hoy me hice atender en la guardia. Desde la recepcionista, la secretaria, la doctora, la señora que hizo la imagen: realmente todas súper amables y expeditivas. Me pareció un lugar para recomendar.",
-          "name": "Teresa Carmen Accurso",
+          "quote": "Fui a las 3 de la mañana con una infección y la atención fue muy buena y rápida. Me drenaron, me dieron calmante, antibiótico y seguimiento. Excelente experiencia.",
+          "name": "Eduardo Mass",
           "rating": 5,
-          "avatar": "/img/reviews/person-2.png"
+          "gender": "male"
         },
         {
-          "quote": "Me fui a atender hoy y fueron rápidos, eficientes y súper cordiales. Recomiendo!",
-          "name": "Paciente de APO",
+          "quote": "Me hice una extracción de muela de juicio con la Dra. Anabel Belcastro. Fue muy amable, no me dolió y en menos de media hora ya estaba todo resuelto. Excelente atención.",
+          "name": "Julieta",
           "rating": 5,
-          "avatar": "/img/reviews/person-3.png"
+          "gender": "female"
         },
         {
-          "quote": "Muy buena atención, fui varias veces y siempre me atendieron excelente.",
-          "name": "Paciente de APO",
+          "quote": "Me realizaron extracción de muelas del juicio. La cirugía duró aprox. 40 minutos, el doctor fue muy atento y el postoperatorio fue tranquilo. Todo salió perfecto. Recomiendo.",
+          "name": "Anto",
           "rating": 5,
-          "avatar": "/img/reviews/person-4.png"
+          "gender": "female"
         },
         {
-          "quote": "Buena atención, muy organizado y muy rápido.",
-          "name": "Paciente de APO",
-          "rating": 4,
-          "avatar": "/img/reviews/person-5.png"
+          "quote": "Fui por dolor en la muela de juicio y me atendieron súper rápido y bien. Todo muy ordenado, tanto en la administración como en la consulta y los estudios.",
+          "name": "Macarena Lorenzo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a guardia por un problema con un implante que me habían hecho en otra clínica y me lo solucionaron en una hora. Muy agradecido, excelente atención.",
+          "name": "Hernán Arica",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La doctora Zapitelli es excelente. Me hizo un conducto y su empatía y trato hicieron que me sienta muy cómoda en todo momento. Una genia.",
+          "name": "Yamila Lugones",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendieron muy bien tanto en extracción, guardia y radiografía. El personal fue muy amable y me facilitaron todo el proceso. Muy buen lugar.",
+          "name": "Leonardo Ginet",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención por guardia. La doctora fue muy profesional y el trato fue muy superior a otras guardias donde te atienden rápido sin explicarte.",
+          "name": "Maria Grazia Vanzan",
+          "rating": 5,
+          "gender": "female"
         }
       ]
     },
     "contactCta": {
       "eyebrow": "Reservá turno",
       "heading": [
-        { "text": "Tu sonrisa\n" },
-        { "text": "Empieza hoy", "accent": true }
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
       ],
       "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
@@ -200,36 +342,84 @@
     "footer": {
       "about": "Clínica odontológica en el centro de\nBuenos Aires. Atención integral,\nturnos online y guardia de emergencias.",
       "socials": [
-        { "label": "Instagram", "href": "https://instagram.com/apo_odontologia", "external": true },
-        { "label": "Facebook", "href": "https://facebook.com/asistenciaprivada.odontologica.7", "external": true },
-        { "label": "WhatsApp", "whatsapp": true, "external": true }
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/apo_odontologia",
+          "external": true
+        },
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/asistenciaprivada.odontologica.7",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
       ],
       "columns": [
         {
           "heading": "Navegar",
           "items": [
-            { "label": "Servicios", "href": "#servicios" },
-            { "label": "Metodología", "href": "#metodologia" },
-            { "label": "Nosotros", "href": "#nosotros" },
-            { "label": "Testimonios", "href": "#testimonios" }
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
           ]
         },
         {
           "heading": "Servicios",
           "items": [
-            { "label": "Implantes", "href": "#servicios" },
-            { "label": "Ortodoncia", "href": "#servicios" },
-            { "label": "Prótesis dentales", "href": "#servicios" },
-            { "label": "Blanqueamiento", "href": "#servicios" }
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            }
           ]
         },
         {
           "heading": "Contacto",
           "items": [
-            { "label": "Av. Córdoba 1870, CABA" },
-            { "label": "+54 9 11 2273-4436", "whatsapp": true, "external": true },
-            { "label": "turnos@apo.com.ar", "href": "mailto:turnos@apo.com.ar" },
-            { "label": "Lun a Vie 8-20 · Sáb 8:30-13", "muted": true }
+            {
+              "label": "Av. Córdoba 1870, CABA"
+            },
+            {
+              "label": "+54 9 11 2273-4436",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "turnos@apo.com.ar",
+              "href": "mailto:turnos@apo.com.ar"
+            },
+            {
+              "label": "Lun a Vie 8-20 · Sáb 8:30-13",
+              "muted": true
+            }
           ]
         }
       ],

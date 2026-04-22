@@ -36,7 +36,8 @@ export type Testimonial = {
   quote: string;
   name: string;
   rating: number;
-  avatar: string;
+  gender?: "male" | "female";
+  avatar?: string;
 };
 
 export type FooterItem = {
