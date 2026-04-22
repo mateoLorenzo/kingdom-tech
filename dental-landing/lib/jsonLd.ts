@@ -28,7 +28,7 @@ export function buildLocalBusinessJsonLd(
     "@id": `${base}#business`,
     name: brand.name,
     url: base,
-    image: absoluteUrl(base, seo.ogImage),
+    image: absoluteUrl(base, "/opengraph-image"),
     telephone: contact.phoneDisplay,
     ...(contact.email ? { email: contact.email } : {}),
   };
