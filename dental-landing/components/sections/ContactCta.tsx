@@ -7,9 +7,9 @@ import { toRevealSegments } from "@/lib/accentSegments";
 
 export function ContactCta() {
   const { contactCta } = clinic.sections;
-  const mapSrc = `https://www.google.com/maps?q=${encodeURIComponent(
+  const mapSrc = `https://www.google.com/maps/embed?origin=mfe&pb=!1m2!2m1!1s${encodeURIComponent(
     clinic.contact.mapQuery
-  )}&output=embed`;
+  ).replace(/%20/g, "+")}`;
 
   return (
     <section id="contacto" className="w-full bg-brand-bg-soft pt-24 pb-6 sm:py-24">

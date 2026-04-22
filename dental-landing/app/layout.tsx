@@ -20,14 +20,6 @@ export function generateMetadata(): Metadata {
       description: seo.ogDescription,
       url: "/",
       siteName: seo.siteName,
-      images: [
-        {
-          url: seo.ogImage,
-          width: 1024,
-          height: 683,
-          alt: seo.ogAlt,
-        },
-      ],
       locale: seo.locale,
       type: "website",
     },
@@ -35,7 +27,6 @@ export function generateMetadata(): Metadata {
       card: "summary_large_image",
       title: seo.ogTitle,
       description: seo.twitterDescription,
-      images: [seo.ogImage],
     },
   };
 }
