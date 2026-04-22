@@ -1,0 +1,441 @@
+{
+  "brand": {
+    "name": "Orthé Recoleta",
+    "shortName": "Orthé",
+    "logo": {
+      "type": "image",
+      "src": "/img/clinics/orthe-recoleta/logo.png",
+      "alt": "Orthé Recoleta — Odontología Integral",
+      "height": 56
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491121634412",
+      "defaultMessage": "Hola, quiero reservar un turno en Orthé Recoleta."
+    },
+    "phoneDisplay": "+54 9 11 2163-4412",
+    "address": "Av. Las Heras 2125, Recoleta, CABA",
+    "hours": "Lun a Vie · 9 a 20hs · Sáb 9 a 16hs",
+    "mapQuery": "Av. Las Heras 2125, Recoleta, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://orthe-recoleta.kingdom-tech.co",
+    "title": "Orthé Recoleta — Odontología Integral | Recoleta, CABA",
+    "description": "Clínica odontológica en Recoleta. Cirugía, implantes, ortodoncia y odontología general sin dolor. Turnos por WhatsApp. 4.9★ con 348+ opiniones en Google.",
+    "ogTitle": "Orthé Recoleta — Odontología Integral sin dolor",
+    "ogDescription": "Clínica odontológica integral en Recoleta. Cirugía, implantes, ortodoncia y atención general con trato humano y sin dolor.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "Orthé Recoleta — Clínica odontológica en Recoleta",
+    "siteName": "Orthé Recoleta",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica integral en Recoleta. 4.9★ con 348+ opiniones. Cirugía e implantes sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Las Heras 2125",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1119",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5889995,
+        "lng": -58.3950613
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 348
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Las Heras 2125 · Recoleta · CABA",
+      "headline": [
+        {
+          "text": "Atención\nOdontológica\n"
+        },
+        {
+          "text": "Sin dolor",
+          "accent": true
+        }
+      ],
+      "subheadline": "Cirugía, implantes, ortodoncia y atención integral,\ncon el trato y la rapidez que buscás.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "348+ opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "9-20",
+          "label": "Lun a Vie"
+        },
+        {
+          "value": "Sáb",
+          "label": "9 a 16hs"
+        },
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para cada necesidad",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Extracciones, cirugías y tratamientos complejos resueltos en el momento, con el equipo coordinado y "
+        },
+        {
+          "text": "sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cirugía\nSin Dolor",
+          "body": "Extracciones de muelas de juicio e implantes que nuestros pacientes describen como rápidos, prolijos e indoloros. Con anestesia moderna y un equipo experimentado."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo\nCoordinado",
+          "body": "Cada tratamiento con el profesional indicado y una recepción que resuelve turnos rápido por WhatsApp. Nuestros pacientes destacan al equipo entero, no solo al doctor."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Karina",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ignacio",
+          "role": "Cirugía Odontológica",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Sara",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. David",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente cirugía de muela de juicio, fue rápida y sin dolor. Muy agradecida por el trato y la contención del equipo.",
+          "name": "Magalí Mendizza",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendió el Dr. David y fue una excelente experiencia. Muy profesional, amable y atento en todo momento.",
+          "name": "Martín Fischman",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me extraje una muela de juicio con Nacho y fue impecable. Gran profesional, todo muy claro y excelente atención.",
+          "name": "Ignacio Freiberg",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Sara es una excelente profesional, escucha y explica todo. Muy conforme con mi tratamiento de ortodoncia.",
+          "name": "Omar Gutierrez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me hice extracciones con Nacho y fueron rapidísimas y sin dolor. La Dra. Karina también muy detallista.",
+          "name": "Carlos Leiva",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención de todo el equipo. Muy amables y profesionales, se nota la pasión por lo que hacen.",
+          "name": "Florencia González",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Dra. Karina es excelente, me hice varios tratamientos sin inconvenientes. Muy buena atención del equipo.",
+          "name": "Rodolfo Cano",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención desde el asesoramiento hasta el tratamiento. Turnos rápidos y precios accesibles.",
+          "name": "Gimena Torres",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me saqué una muela con el Dr. Ignacio y fue rapidísimo y sin dolor. Muy recomendable.",
+          "name": "Manuela Iparraguirre",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Turno por WhatsApp muy rápido. Me atendieron excelente y el resultado fue muy bueno. Seguro vuelvo.",
+          "name": "Ivana Mamchur",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Las Heras 2125, Recoleta, CABA",
+      "hoursLine": "Lun a Vie 9-20hs · Sáb 9-16hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica integral en Recoleta.\nCirugía, implantes y ortodoncia,\ncon trato humano y sin dolor.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/orthe.recoleta/",
+          "external": true
+        },
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/Orthe.Recoleta/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Cirugía odontológica",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Las Heras 2125, Recoleta"
+            },
+            {
+              "label": "+54 9 11 2163-4412",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "+54 11 4803-3130"
+            },
+            {
+              "label": "Lun a Vie 9-20 · Sáb 9-16",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Orthé Recoleta"
+    }
+  }
+}

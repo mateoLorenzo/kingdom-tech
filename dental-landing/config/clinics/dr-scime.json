@@ -1,0 +1,418 @@
+{
+  "brand": {
+    "name": "Clínica Dr. Scime",
+    "shortName": "Dr. Scime",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491133374314",
+      "defaultMessage": "Hola, quiero reservar un turno con el Dr. Scime."
+    },
+    "phoneDisplay": "+54 9 11 3337-4314",
+    "address": "Marcos Sastre 3489, Villa del Parque, CABA",
+    "hours": "Lun a Vie · 09:00hs - 18:00hs",
+    "mapQuery": "Marcos Sastre 3489, Villa del Parque, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dr-scime.kingdom-tech.co",
+    "title": "Dr. Maximiliano Scime — Implantes y Cirugía Odontológica | Villa del Parque",
+    "description": "Clínica odontológica de alta complejidad en Villa del Parque. Especialistas en implantes dentales, cirugía avanzada y rehabilitación integral. Tratamientos sin dolor.",
+    "ogTitle": "Dr. Maximiliano Scime — Implantes y Cirugía Odontológica",
+    "ogDescription": "Especialistas en implantes y cirugía avanzada en Villa del Parque. Casos complejos resueltos sin dolor, con honestidad profesional.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "Clínica Dr. Scime — Implantes y cirugía odontológica en Villa del Parque",
+    "siteName": "Clínica Dr. Scime",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica de alta complejidad en Villa del Parque. Implantes, cirugía avanzada y rehabilitación integral.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Marcos Sastre 3489",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6075,
+        "lng": -58.4832
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 64
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Marcos Sastre 3489 · Villa del Parque · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica en Villa del Parque.\nCasos complejos resueltos sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dr. Maximiliano Scime",
+        "label": "Especialista en implantes"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "64",
+          "label": "Reviews"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Nuestro sello"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos de\n"
+        },
+        {
+          "text": "Alta complejidad",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Cirugía odontológica",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Rehabilitación integral",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Urgencias odontológicas",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Combinamos tecnología digital de última generación con un enfoque humano y honesto. Resolvemos implantes y cirugías complejas en una sola sesión, "
+        },
+        {
+          "text": "sin dolor y con resultados predecibles.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Odontología\nSin dolor",
+          "body": "El diferencial que más repiten nuestros pacientes: no duele. Técnicas actualizadas, anestesia precisa y un equipo que transmite tranquilidad antes, durante y después de cada procedimiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Honestidad\nProfesional",
+          "body": "No recomendamos tratamientos innecesarios. Te explicamos con claridad cada paso, te damos alternativas y decidimos juntos. La confianza de pacientes de años se construye así."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Maximiliano Scime",
+          "role": "Cirugía e Implantes",
+          "experience": "ESPECIALISTA",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Rodrigo García Dieguez",
+          "role": "Odontología Integral",
+          "experience": "ODONTÓLOGO",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dra. Melisa Vega",
+          "role": "Ortodoncia",
+          "experience": "ORTODONCISTA",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Maxi es un excelente cirujano, muy profesional y honesto. No recomienda tratamientos innecesarios. Eso hoy se valora muchísimo.",
+          "name": "Pablo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. Me hice varios implantes hace años y nunca tuve problemas. Siempre responden rápido ante urgencias.",
+          "name": "Lucila Alarcón",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Primera experiencia muy buena. El Dr. Rodrigo realizó una extracción complicada de forma impecable. Muy profesional.",
+          "name": "Carlos Zenklusen",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace años que vamos con mi familia. Maximiliano es un gran profesional, trabajos impecables y atención rápida.",
+          "name": "Jorge Iglesias",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Maximiliano Scime es un genio. Me hizo extracciones e implantes sin dolor, transmite tranquilidad y explica todo con claridad.",
+          "name": "Guido Pujol",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tenía miedo por una extracción y no sentí nada. El Dr. Maximiliano y el equipo son muy profesionales y buena onda.",
+          "name": "Juan Nonis",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Desde la recepción con Rita hasta el tratamiento con Maxi, todo excelente. Muy buena atención y trato.",
+          "name": "Fede Estiga",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace años que soy paciente del Dr. Scime. Implantes complejos resueltos en el día, siempre con dedicación y excelente trato.",
+          "name": "Gloria Crippa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde el primer momento la atención fue excelente. Maxi es un profesional único, preciso y sin dolor. Totalmente recomendable.",
+          "name": "Lorena Corio",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Marcos Sastre 3489, Villa del Parque, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica de alta complejidad\nen Villa del Parque. Implantes, cirugía\navanzada y rehabilitación integral.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/drmaximilianoscime/",
+          "external": true
+        },
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/consultorio.odontologico.77/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía odontológica",
+              "href": "#servicios"
+            },
+            {
+              "label": "Rehabilitación integral",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Marcos Sastre 3489, Villa del Parque"
+            },
+            {
+              "label": "+54 9 11 3337-4314",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "+54 11 4504-5166"
+            },
+            {
+              "label": "Lun a Vie · 9–18h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica Dr. Scime"
+    }
+  }
+}

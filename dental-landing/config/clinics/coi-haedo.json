@@ -1,0 +1,428 @@
+{
+  "brand": {
+    "name": "COI Haedo",
+    "shortName": "COI",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491126637560",
+      "defaultMessage": "Hola, quiero reservar un turno en COI Haedo."
+    },
+    "phoneDisplay": "+54 9 11 2663-7560",
+    "address": "Manuel Láinez 1325, Haedo, Partido de Morón",
+    "hours": "Lun a Vie · 9 a 19hs",
+    "mapQuery": "Manuel Láinez 1325, Haedo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://coi-haedo.kingdom-tech.co",
+    "title": "COI Haedo — Consultorio Odontológico Integral | Haedo",
+    "description": "Consultorio odontológico integral en Haedo. Ortodoncia, implantes y atención general con criterio profesional: solo intervenimos cuando hace falta.",
+    "ogTitle": "COI Haedo — Odontología con criterio profesional",
+    "ogDescription": "Consultorio odontológico integral en Haedo. Ortodoncia, implantes y atención con diagnóstico honesto. 4.9★ en Google.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "COI Haedo — Consultorio Odontológico Integral en Haedo",
+    "siteName": "COI Haedo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico integral en Haedo. 4.9★ con 322+ opiniones. Ortodoncia, implantes y atención con criterio profesional.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Manuel Láinez 1325",
+        "city": "Haedo",
+        "region": "Buenos Aires",
+        "postalCode": "B1685",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6360516,
+        "lng": -58.594407
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 322
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Manuel Láinez 1325 · Haedo",
+      "headline": [
+        {
+          "text": "Atención\nOdontológica\n"
+        },
+        {
+          "text": "Con criterio",
+          "accent": true
+        }
+      ],
+      "subheadline": "Ortodoncia, implantes y atención integral\ncon la honestidad que buscás en tu odontólogo.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "322+ opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "9-19",
+          "label": "Lun a Vie"
+        },
+        {
+          "value": "Haedo",
+          "label": "Partido de Morón"
+        },
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Con criterio profesional",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Nuestros pacientes valoran una cosa por sobre todas: que solo proponemos tratamientos cuando "
+        },
+        {
+          "text": "realmente hacen falta.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Diagnóstico\nHonesto",
+          "body": "Si no hace falta intervenir, te lo decimos. Evaluamos antes de proponer cualquier tratamiento y te explicamos cada paso para que decidas con información."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Especialistas\nPor Área",
+          "body": "Ortodoncia con Ivana, implantes con el Dr. Latasa, atención integral con Martín y la Dra. Lateana. Cada tratamiento con el profesional indicado."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Ivana",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Martín",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Lateana",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Latasa",
+          "role": "Implantología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. El Dr. Martín fue muy claro, profesional y amable. Explica todo en detalle y genera mucha confianza.",
+          "name": "Ezequiel Melnick",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, muy cordial y comunicativo. Prefirió esperar la evolución antes de intervenir, lo cual valoro mucho.",
+          "name": "Esteban Benitez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena experiencia. Mi hijo hizo ortodoncia con Ivana y quedó excelente. Súper profesional y amable.",
+          "name": "Sabrina Daniela Lembeye",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "No puedo estar más agradecida. Desde el primer día me sentí cuidada y en confianza. Gran profesionalismo y dedicación.",
+          "name": "Malena Bilbao Reyes",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de Martín e Ivana. Muy profesionales, explican todo con claridad y generan mucha confianza.",
+          "name": "Ariel Gonzalez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me hice un implante con el Dr. Latasa, no me dolió nada y quedó perfecto. Volvería sin dudarlo.",
+          "name": "Tura Vilar",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El Dr. Latasa muy amable y profesional. Me explicó todo y realizó un excelente trabajo. Lo recomiendo.",
+          "name": "Aldana D'Alessandro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice ortodoncia con Ivana y fue excelente. Muy atenta y profesional, me dejó los dientes perfectos.",
+          "name": "Noelia Rodriguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Dra. Lateana es excelente. Hace años nos atendemos con ella, nunca tuvimos problemas. Muy recomendable.",
+          "name": "Alicia Rodriguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Primera visita muy positiva: puntualidad, calidez y honestidad en el diagnóstico. Muy conforme.",
+          "name": "Pablo T.",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Manuel Láinez 1325, Haedo",
+      "hoursLine": "Lun a Vie 9-19hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Consultorio odontológico integral en Haedo.\nOrtodoncia, implantes y atención general\ncon criterio y diagnóstico honesto.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/coihaedoarg/",
+          "external": true
+        },
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/coihaedo/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Manuel Láinez 1325, Haedo"
+            },
+            {
+              "label": "+54 9 11 2663-7560",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 9-19hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "COI Haedo"
+    }
+  }
+}

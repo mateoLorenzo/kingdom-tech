@@ -1,0 +1,433 @@
+{
+  "brand": {
+    "name": "MB Odontología",
+    "shortName": "MB Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491134667580",
+      "defaultMessage": "Hola, quiero reservar un turno en MB Odontología."
+    },
+    "phoneDisplay": "+54 9 11 3466-7580",
+    "address": "Europa 528, Lomas del Mirador",
+    "hours": "Lun a Vie · 9:30-12:30 y 14:00-18:30hs",
+    "mapQuery": "Europa 528, Lomas del Mirador, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://mb-odontologia.kingdom-tech.co",
+    "title": "MB Odontología — Consultorio odontológico | Lomas del Mirador",
+    "description": "Consultorio odontológico en Lomas del Mirador. Ortodoncia, implantes, endodoncia y estética dental con atención cálida y seguimiento personalizado.",
+    "ogTitle": "MB Odontología — Atención cálida en Lomas del Mirador",
+    "ogDescription": "Consultorio odontológico en Lomas del Mirador. Tratamientos modernos con trato humano y acompañamiento en cada paso.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "MB Odontología — Consultorio odontológico en Lomas del Mirador",
+    "siteName": "MB Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Lomas del Mirador. 4.5★ en Google. Ortodoncia, implantes y atención cercana.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Europa 528",
+        "city": "Lomas del Mirador",
+        "region": "Buenos Aires",
+        "postalCode": "B1752COM",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6571165,
+        "lng": -58.5365926
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "12:30"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "14:00",
+          "closes": "18:30"
+        }
+      ],
+      "rating": {
+        "value": 4.5,
+        "count": 68
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Europa 528 · Lomas del Mirador",
+      "headline": [
+        {
+          "text": "Tu sonrisa\nEn manos\n"
+        },
+        {
+          "text": "De confianza",
+          "accent": true
+        }
+      ],
+      "subheadline": "Tratamientos modernos con trato cercano,\npara que cada visita sea una experiencia tranquila.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.5 ★",
+        "label": "68 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "9:30-18:30",
+          "label": "Lun a Vie"
+        },
+        {
+          "value": "4.5",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "68",
+          "label": "Reviews"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Sabemos que ir al dentista puede generar miedo. Por eso te escuchamos, te explicamos cada paso "
+        },
+        {
+          "text": "y te acompañamos en todo el proceso.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Trato cálido\nY cercano",
+          "body": "Cada paciente recibe atención personalizada. Te explicamos qué vamos a hacer, sin tecnicismos y sin apuros, para que tomes decisiones tranquilo y con información clara."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Seguimiento\nPost tratamiento",
+          "body": "No termina cuando salís del consultorio. Estamos disponibles para resolver dudas y acompañarte en la recuperación, asegurando los mejores resultados."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Maia Borisovsky",
+          "role": "Directora Clínica",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Marcos",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr/Dra. [A confirmar]",
+          "role": "Odontología General",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Estética Dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Muy profesionales y excelente trato. Me hago brackets con Marcos, siempre atento y explicando cada paso.",
+          "name": "Jazmín Beauté",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales. Me acompañaron y explicaron todo con mucho amor, especialmente la Dra. Maia.",
+          "name": "Bárbara Cuevas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me saqué las muelas de juicio y todo salió excelente. La atención y el post operatorio fueron impecables.",
+          "name": "Ignacio Pont",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Súper recomendable. Atención personalizada, puntualidad y especialistas según cada necesidad.",
+          "name": "Elsa Vibes",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace más de 6 años me atiendo con Maia y su equipo. Siempre muy conforme con su profesionalismo.",
+          "name": "Pablo Franco",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendió el Dr. Néstor, me hicieron una extracción sin dolor. Muy profesional y excelente trato.",
+          "name": "Nancy Iuzzolino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy agradecida con Maia y su equipo. Profesionales, detallistas y siempre atentos a que no sientas dolor.",
+          "name": "Natalia Luminari",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tenía miedo al dentista y me resolvieron una urgencia muy bien. Maia transmite mucha confianza.",
+          "name": "Rodri Rivero",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención para mí y mis hijos. Me dieron tranquilidad y todo salió perfecto. Gracias Dra. Maia.",
+          "name": "Mariana Orelia",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Europa 528, Lomas del Mirador",
+      "hoursLine": "Lun a Vie 9:30-12:30 y 14-18:30hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Lomas del Mirador.\nAtención cálida y tratamientos modernos\npara toda la familia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/consultorio.mbodontologia/",
+          "external": true
+        },
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/consultorio.mbodontologia/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Europa 528, Lomas del Mirador"
+            },
+            {
+              "label": "+54 9 11 3466-7580",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 9:30-18:30",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "MB Odontología"
+    }
+  }
+}

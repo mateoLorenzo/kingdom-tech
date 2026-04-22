@@ -2,6 +2,12 @@ import defaultClinic from "@/config/clinics/default.json";
 import apo from "@/config/clinics/apo.json";
 import centroOdontologico from "@/config/clinics/centro-odontologico.json";
 import clinicaSanMiguel from "@/config/clinics/clinica-san-miguel.json";
+import drScime from "@/config/clinics/dr-scime.json";
+import kdf from "@/config/clinics/kdf.json";
+import coiHaedo from "@/config/clinics/coi-haedo.json";
+import mbOdontologia from "@/config/clinics/mb-odontologia.json";
+import ortheRecoleta from "@/config/clinics/orthe-recoleta.json";
+import dentalSur from "@/config/clinics/dental-sur.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -9,6 +15,12 @@ const registry = {
   apo: apo as ClinicConfig,
   "centro-odontologico": centroOdontologico as ClinicConfig,
   "clinica-san-miguel": clinicaSanMiguel as ClinicConfig,
+  "dr-scime": drScime as ClinicConfig,
+  kdf: kdf as ClinicConfig,
+  "coi-haedo": coiHaedo as ClinicConfig,
+  "mb-odontologia": mbOdontologia as ClinicConfig,
+  "orthe-recoleta": ortheRecoleta as ClinicConfig,
+  "dental-sur": dentalSur as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

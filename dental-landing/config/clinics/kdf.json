@@ -1,0 +1,423 @@
+{
+  "brand": {
+    "name": "Odontología KDF",
+    "shortName": "KDF",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491151019357",
+      "defaultMessage": "Hola, quiero reservar un turno en Odontología KDF."
+    },
+    "phoneDisplay": "+54 9 11 5101-9357",
+    "address": "Dr. Ignacio Arieta 3227, San Justo, La Matanza",
+    "hours": "Lun a Vie · 9 a 19hs · Sáb 9 a 14hs",
+    "mapQuery": "Dr. Ignacio Arieta 3227, San Justo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://kdf.kingdom-tech.co",
+    "title": "Odontología KDF — Sonrisas en familia | San Justo",
+    "description": "Clínica odontológica en San Justo. Odontopediatría, ortodoncia, implantes y atención integral para toda la familia. Equipo con trato cálido y paciencia con los chicos.",
+    "ogTitle": "Odontología KDF — Cuidamos la sonrisa de tu familia",
+    "ogDescription": "Clínica odontológica en San Justo con fuerte especialización en niños. Ortodoncia, implantes y atención integral para toda la familia.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "Odontología KDF — Clínica odontológica en San Justo",
+    "siteName": "Odontología KDF",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en San Justo. 4.8★ en Google con 697+ opiniones. Fuerte en odontopediatría y atención familiar.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Dr. Ignacio Arieta 3227",
+        "city": "San Justo",
+        "region": "Buenos Aires",
+        "postalCode": "B1754",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.679487,
+        "lng": -58.5594884
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "14:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 697
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Dr. Ignacio Arieta 3227 · San Justo",
+      "headline": [
+        {
+          "text": "Sonrisas\nQue crecen\n"
+        },
+        {
+          "text": "En familia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontopediatría, ortodoncia y atención integral,\ncon la paciencia que tus chicos necesitan.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.8 ★",
+        "label": "697+ opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "9-19",
+          "label": "Lun a Vie"
+        },
+        {
+          "value": "Sáb",
+          "label": "9 a 14hs"
+        },
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para toda la familia",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "El miedo al dentista se trabaja con paciencia, explicaciones claras y un equipo que entiende a cada paciente. "
+        },
+        {
+          "text": "Grandes y chicos, sin presiones.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Especialistas\nEn niños",
+          "body": "Trato amoroso, paso a paso y sin apuros. Nuestras odontopediatras están formadas para que la primera consulta sea la mejor experiencia posible."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Explicamos\nTodo con calma",
+          "body": "Antes de cada tratamiento te mostramos qué vamos a hacer y por qué. Sin tecnicismos, para que decidas con información y sin miedo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Julia Bocciardo",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Roxana",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Súper recomendable. Desde recepción hasta la Dra. Julia, todo excelente. Se toma el tiempo de explicar todo y tiene mucha paciencia con los chicos.",
+          "name": "Jacqueline Pereyra",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Primera vez y excelente experiencia. La Dra. Julia Bocciardo súper profesional, paciente y clara. Nuestro hijo se sintió seguro.",
+          "name": "Dante Canevarolo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. Me sentí cómoda desde el primer momento. La Dra. Victoria Torreani muy profesional y el consultorio impecable.",
+          "name": "Karen Caballero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. La Dra. Roxana muy amable y paciente, explicó todo a mi hija y se fue feliz. Muy conformes.",
+          "name": "Rocío Gutierrez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente trato y profesionalismo. La Dra. Cecilia Gerola explicó todo con paciencia y generó mucha confianza.",
+          "name": "Cynthia Ciccone",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente lugar. Destaco la atención de la odontopediatra Roxana, muy amorosa con los chicos.",
+          "name": "Sheila Leguizamon",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y calidad humana. Destaco a la Dra. Jimena y al equipo, todo muy higiénico y profesional.",
+          "name": "Liliana Figueroa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llevé a mi hijo y lo atendió la Dra. Ordoñez. Todo excelente, ambiente muy lindo y el equipo muy atento.",
+          "name": "Lau Perez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Dra. Ordoñez atendió a mi hijo con mucha paciencia. Todo el tratamiento salió perfecto.",
+          "name": "Antonella Ayelen",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Siempre me atienden con paciencia y cariño, salgo tranquila y confiada. Muy recomendable.",
+          "name": "Leia Silva",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Dr. Ignacio Arieta 3227, San Justo",
+      "hoursLine": "Lun a Vie 9-19hs · Sáb 9-14hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en San Justo.\nOdontopediatría, ortodoncia e implantes\npara toda la familia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/odontologia_kdf/",
+          "external": true
+        },
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/odontoKDF/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Dr. Ignacio Arieta 3227, San Justo"
+            },
+            {
+              "label": "+54 9 11 5101-9357",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 9-19 · Sáb 9-14",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología KDF"
+    }
+  }
+}
