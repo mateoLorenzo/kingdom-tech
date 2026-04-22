@@ -1,10 +1,12 @@
 import defaultClinic from "@/config/clinics/default.json";
 import apo from "@/config/clinics/apo.json";
+import centroOdontologico from "@/config/clinics/centro-odontologico.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
   dental: defaultClinic as ClinicConfig,
   apo: apo as ClinicConfig,
+  "centro-odontologico": centroOdontologico as ClinicConfig
 } as const;
 
 type ClinicId = keyof typeof registry;

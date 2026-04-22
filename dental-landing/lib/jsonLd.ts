@@ -30,7 +30,7 @@ export function buildLocalBusinessJsonLd(
     url: base,
     image: absoluteUrl(base, seo.ogImage),
     telephone: contact.phoneDisplay,
-    email: contact.email,
+    ...(contact.email ? { email: contact.email } : {}),
   };
 
   if (sd?.address) {

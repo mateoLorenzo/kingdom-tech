@@ -132,7 +132,7 @@ export type ClinicConfig = {
       phone: string;
       defaultMessage: string;
     };
-    email: string;
+    email?: string;
     phoneDisplay: string;
     address: string;
     hours: string;

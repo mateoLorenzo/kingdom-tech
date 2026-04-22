@@ -1,0 +1,441 @@
+{
+  "brand": {
+    "name": "Centro Odontológico",
+    "shortName": "Centro Odontológico",
+    "logo": {
+      "type": "image",
+      "src": "/img/clinics/centro-odontologico/logo.png",
+      "alt": "Centro Odontológico",
+      "height": 44
+    }
+  },
+  "theme": {
+    "primary": "#1A2D73",
+    "accent": "#38A3DE",
+    "label": "#1A2D73",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1A3C",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541141583311",
+      "defaultMessage": "Hola, quiero reservar un turno en Centro Odontológico."
+    },
+    "phoneDisplay": "+54 11 4158-3311",
+    "address": "Av. Eva Perón 5679, Mataderos, CABA",
+    "hours": "Lun a Sáb · 9 a 19hs · Dom 11 a 16hs",
+    "mapQuery": "Av. Eva Perón 5679, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://centro-odontologico.kingdom-tech.co",
+    "title": "Centro Odontológico — Mataderos | CABA",
+    "description": "Clínica odontológica en Mataderos. Atención integral para toda la familia: implantes, ortodoncia, endodoncia, prótesis, diseño de sonrisa y urgencias.",
+    "ogTitle": "Centro Odontológico — Atención integral en Mataderos",
+    "ogDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia, diseño de sonrisa y urgencias.",
+    "ogImage": "/img/hero-5.jpg",
+    "ogAlt": "Centro Odontológico — Clínica odontológica en Mataderos",
+    "siteName": "Centro Odontológico",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia y urgencias.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Eva Perón 5679",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1440",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6621324,
+        "lng": -58.4858093
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Sunday"
+          ],
+          "opens": "11:00",
+          "closes": "16:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Eva Perón 5679 · Mataderos · CABA",
+      "headline": [
+        {
+          "text": "Atención\nOdontológica\n"
+        },
+        {
+          "text": "Familiar",
+          "accent": true
+        }
+      ],
+      "subheadline": "Turnos ágiles por WhatsApp, atención cálida\ny el cuidado profesional que tu sonrisa merece.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Centro Odontológico",
+        "label": "Clínica odontológica integral en Mataderos"
+      },
+      "stats": [
+        {
+          "value": "9-19",
+          "label": "Lun a Sáb"
+        },
+        {
+          "value": "Dom",
+          "label": "11 a 16hs"
+        },
+        {
+          "value": "7 días",
+          "label": "A la semana"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para cada necesidad",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Diseño de sonrisa",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Radiología",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "En Mataderos cuidamos la sonrisa de toda la familia con atención cálida, explicaciones claras y trabajos prolijos. "
+        },
+        {
+          "text": "Cada paciente, cada etapa.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nPersonalizada",
+          "body": "Te escuchamos, te explicamos cada paso y planificamos tu tratamiento en conjunto. Sin apuros, con tiempo real dedicado a vos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Turnos\nPor WhatsApp",
+          "body": "Coordiná tu consulta con un mensaje. Respondemos rápido y te damos disponibilidad en el momento, incluso para urgencias."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Macarena",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr./Dra. [A confirmar]",
+          "role": "Estética Dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente centro. Me saqué una muela por dolor intenso, fue rápido y siguiendo las indicaciones no tuve complicaciones. Muy recomendable.",
+          "name": "Gustavo Ticona",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace años me atiendo acá. Excelentes profesionales y atención muy cálida. El diseño de sonrisa quedó impecable, toda la familia se atiende acá.",
+          "name": "Kiara Gómez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención, amable, prolija y sin dolor. Ya fui varias veces y siempre quedo muy conforme con el trabajo.",
+          "name": "Nadia Acosta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Buena atención y calidad. Fui por una urgencia y el trabajo quedó de diez.",
+          "name": "Albert Avendaño",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, responden consultas rápido y todo fue ágil y efectivo. Muy amables y respetuosos.",
+          "name": "Mariela Hernandez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. La Dra. Macarena muy profesional y paciente. Gran experiencia.",
+          "name": "Eduardo Perez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. Todo el personal muy amable y los resultados siempre impecables.",
+          "name": "Carlos Cella",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Trabajos impecables. Explica todo claramente y es muy detallista en lo estético. Muy conforme.",
+          "name": "Luis Alberto Romero",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Súper recomendable. Me hice varios tratamientos y siempre quedaron perfectos. Nunca tuve problemas.",
+          "name": "Soledad Apel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente profesional. Me hice un conducto sin dolor, muy cuidadoso y atento. Feliz con el resultado.",
+          "name": "Jacqueline Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Me solucionaron una extracción que en otro lugar hicieron mal. Muy recomendable.",
+          "name": "Fernando Quezada",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Siempre me atienden muy bien. Me salvaron un diente que estaba para extracción. Impecable trabajo.",
+          "name": "Viviana Lopez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Eva Perón 5679, Mataderos, CABA",
+      "hoursLine": "Lun a Sáb 9-19hs · Dom 11-16hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Mataderos.\nAtención integral para toda la familia,\ncon turnos ágiles por WhatsApp.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/consultoriodentalclean",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Eva Perón 5679, Mataderos"
+            },
+            {
+              "label": "+54 11 4158-3311",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Sáb 9-19 · Dom 11-16",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico"
+    }
+  }
+}
