@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Dental",
-    "shortName": "Dental",
+    "name": "Consultorios Odontológicos",
+    "shortName": "Consultorios",
     "logo": {
       "type": "text"
     }
@@ -17,51 +17,42 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491140392404",
-      "defaultMessage": "Buenas, quiero reservar un turno en la clínica."
+      "phone": "5491132591650",
+      "defaultMessage": "Hola, quiero reservar un turno en Consultorios Odontológicos."
     },
-    "email": "hola@dental.com",
-    "phoneDisplay": "+54 9 11 4039-2404",
-    "address": "Honduras 5730, Palermo Hollywood",
-    "hours": "Lun a Vie · 09:00hs - 19:00hs",
-    "mapQuery": "Honduras 5730, Palermo, Buenos Aires"
+    "phoneDisplay": "+54 9 11 3259-1650",
+    "address": "Av. Juan de Garay, CABA",
+    "hours": "Consultá horarios por WhatsApp",
+    "mapQuery": "Av. Juan de Garay, C1256 Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental.kingdom-tech.co",
-    "title": "Dental — Expertos en Odontología | Palermo Hollywood",
-    "description": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación para cuidar cada detalle de tu sonrisa.",
-    "ogTitle": "Dental — Expertos en Odontología",
-    "ogDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación para cuidar cada detalle de tu sonrisa.",
-    "siteName": "Dental",
+    "baseUrl": "https://consultorios-odontologicos-garay.kingdom-tech.co",
+    "title": "Consultorios Odontológicos — Atención cercana | Av. Juan de Garay, CABA",
+    "description": "Clínica odontológica en Av. Juan de Garay, CABA. Atención cercana, profesionales con años de experiencia y trato familiar en cada consulta.",
+    "ogTitle": "Consultorios Odontológicos — Av. Juan de Garay, CABA",
+    "ogDescription": "Clínica odontológica en Av. Juan de Garay, CABA. Atención cercana y trato familiar en cada consulta.",
+    "siteName": "Consultorios Odontológicos",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Palermo Hollywood. Atención cercana y tecnología de última generación.",
+    "twitterDescription": "Clínica odontológica en Av. Juan de Garay, CABA. Atención cercana y trato familiar.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Honduras 5730",
-        "city": "Buenos Aires",
+        "street": "Av. Juan de Garay",
+        "city": "Ciudad Autónoma de Buenos Aires",
         "region": "CABA",
+        "postalCode": "C1256",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.5898,
-        "lng": -58.4362
+        "lat": -34.6236,
+        "lng": -58.3944
       },
-      "hours": [
-        {
-          "days": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-          ],
-          "opens": "09:00",
-          "closes": "19:00"
-        }
-      ]
+      "rating": {
+        "value": 4.2,
+        "count": 5
+      }
     }
   },
   "nav": [
@@ -100,7 +91,7 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Palermo Hollywood",
+      "eyebrow": "Av. Juan de Garay · CABA",
       "headline": [
         {
           "text": "Expertos en\n"
@@ -110,26 +101,26 @@
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y tecnología de punta\npara cuidar cada detalle de tu sonrisa.",
+      "subheadline": "Atención cercana, familiar y paciente\npara cuidar cada detalle de tu sonrisa.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "Dental",
-        "label": "Confiado por Miles"
+        "brand": "4.2 ★",
+        "label": "Calificación en Google"
       },
       "stats": [
         {
-          "value": "100%",
-          "label": "Satisfaction"
-        },
-        {
-          "value": "4.98",
+          "value": "4.2",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "150",
-          "label": "Reviews"
+          "value": "100%",
+          "label": "Satisfacción"
+        },
+        {
+          "value": "Familiar",
+          "label": "Atención"
         }
       ]
     },
@@ -183,18 +174,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Combinamos tecnología de última generación junto con atención cercana y humana. Nuestro enfoque está en brindarte tratamientos efectivos y comodos, "
+          "text": "Atendemos con paciencia, claridad y un trato cercano que hace sentir a cada paciente como en casa. "
         },
         {
-          "text": "pensados para tu bienestar en cada etapa.",
+          "text": "De abuelos a niños, cuidamos a toda la familia.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "+200 Clientes\nTodos los Meses",
-          "body": "La confianza de nuestros pacientes es nuestro mayor respaldo. Cada consulta está pensada para brindarte una atención clara, cómoda y enfocada en lograr los mejores resultados posibles."
+          "title": "Atención\npaciente",
+          "body": "Nos tomamos el tiempo para explicar cada paso y responder todas tus dudas. La recepción te acompaña con paciencia y amabilidad desde que entrás."
         },
         {
           "type": "image",
@@ -202,8 +193,8 @@
         },
         {
           "type": "content",
-          "title": "4.9/5 Calificación\nPromedio",
-          "body": "Más que una clínica, somos un equipo comprometido con tu bienestar. Nuestros pacientes confían en nosotros por la atención cercana, la claridad en cada tratamiento y los resultados obtenidos."
+          "title": "Para toda\nla familia",
+          "body": "Atendemos a grandes y chicos con el mismo compromiso. Nuestros pacientes confían en nosotros durante años y vuelven con su familia."
         },
         {
           "type": "image",
@@ -224,27 +215,27 @@
       ],
       "members": [
         {
-          "name": "Dra. Martina Reyes",
-          "role": "Directora Clínica",
-          "experience": "+8 AÑOS DE EXP",
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr. Ignacio Alvarez",
+          "name": "Dr. [A confirmar]",
           "role": "Implantología",
-          "experience": "+17 AÑOS DE EXP",
+          "experience": "",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Dra. Carolina Fuentes",
+          "name": "Dra. [A confirmar]",
           "role": "Ortodoncia",
-          "experience": "+6 AÑOS DE EXP",
+          "experience": "",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr. Tomás Herrera",
-          "role": "Odontopediatría",
-          "experience": "+13 AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "Cirugía",
+          "experience": "",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -253,53 +244,47 @@
       "eyebrow": "Testimonios",
       "heading": [
         {
-          "text": "Historias reales\n"
+          "text": "Pacientes que\n"
         },
         {
-          "text": "Pacientes felices",
+          "text": "Nos recomiendan",
           "accent": true
         }
       ],
       "items": [
         {
-          "quote": "Excelente atención. La doctora es muy profesional, respetuosa y se nota el cuidado en cada detalle. El consultorio está impecable, todo muy limpio y ordenado. Me sentí cómoda y bien atendida durante toda la consulta. Súper recomendable.",
-          "name": "Ashley Landazo",
+          "quote": "Mi abuelo se atiende con el Dr. y siempre está conforme. Destaca que la recepcionista es encantadora, lo asistió en varias ocasiones con mucha paciencia y siempre con amabilidad.",
+          "name": "Joaquina Lorenzo",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Impecable atención y mucha profesionalidad. La doctora es súper clara, cuidadosa y te hace sentir tranquilo en todo momento. El consultorio es cómodo y todo impecable. Muy recomendable.",
-          "name": "Marcos Gutierrez",
+          "quote": "El lugar: impecable. Los odontólogos: los mejores de CABA por mucho. Recomiendo el consultorio sin dudarlo.",
+          "name": "Eduardo Pintos",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Me atendió en el mismo día, me resolvió un problemón. Muy amable, recomiendo.",
-          "name": "Manuel Leandro",
-          "rating": 4,
+          "quote": "No las cambio por nada. Atención de primera y un trato que no se consigue en todos lados.",
+          "name": "Mauro Lani",
+          "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Muy profesional, muy buena atención, equipos de primera y ambiente muy agradable. Te explica súper bien todo. Recomiendo al 100%.",
-          "name": "Lucia Fernández",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Excelente atención. La doctora es muy profesional, respetuosa y se nota el cuidado en cada detalle. El consultorio está impecable y me sentí cómoda durante toda la consulta. Súper recomendable.",
-          "name": "Valentina Ríos",
+          "quote": "Excelentes profesionales. Siempre dispuestos a explicar cada procedimiento con claridad y paciencia.",
+          "name": "Eliana Emi",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención y mucha profesionalidad. La doctora es súper clara, cuidadosa y te hace sentir tranquilo en todo momento. Muy recomendable.",
-          "name": "Pablo Castro",
-          "rating": 4,
-          "gender": "male"
+          "quote": "Atención cálida de principio a fin. Me sentí cómoda desde que entré, la recepción es amable y el equipo muy profesional.",
+          "name": "Lucía Fernández",
+          "rating": 5,
+          "gender": "female"
         },
         {
-          "quote": "Súper buena experiencia. Me explicaron cada paso del tratamiento con paciencia y sin apuro. Salí tranquila y sin dudas.",
-          "name": "Sofía Paredes",
+          "quote": "Vengo hace años con mi familia. Siempre puntuales, siempre atentos. Los nenes salen contentos, que no es poco.",
+          "name": "Camila Soria",
           "rating": 5,
           "gender": "female"
         },
@@ -310,34 +295,23 @@
           "gender": "male"
         },
         {
-          "quote": "Vengo hace años con mi familia. Siempre puntuales, siempre atentos. Los nenes salen contentos, que no es poco.",
-          "name": "Camila Soria",
+          "quote": "Súper buena experiencia. Me explicaron cada paso del tratamiento con paciencia y sin apuro. Salí tranquila y sin dudas.",
+          "name": "Sofía Paredes",
           "rating": 5,
           "gender": "female"
-        },
-        {
-          "quote": "Hicieron un trabajo impecable con mi implante. Seguimiento constante y mucha claridad durante todo el proceso.",
-          "name": "Julián Mori",
-          "rating": 5,
-          "gender": "male"
         }
       ]
     },
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        {
-          "text": "Visitanos tranquilo\n"
-        },
-        {
-          "text": "Con todo en claro",
-          "accent": true
-        }
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
       ],
       "items": [
         {
           "question": "¿Atienden obras sociales y prepagas?",
-          "answer": "Trabajamos con las principales prepagas y obras sociales del país. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
         },
         {
           "question": "¿Cómo es la primera consulta?",
@@ -345,7 +319,7 @@
         },
         {
           "question": "¿Ofrecen financiación o cuotas?",
-          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes de hasta 12 cuotas sin interés. Coordinamos un esquema de pago a tu medida en la consulta."
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
         },
         {
           "question": "¿Atienden urgencias?",
@@ -353,11 +327,11 @@
         },
         {
           "question": "¿Atienden a niños?",
-          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Nos enfocamos en que cada visita sea una experiencia tranquila para ellos y sus familias."
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Honduras 5730, Palermo Hollywood. Atendemos de lunes a viernes de 9:00 a 19:00. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Av. Juan de Garay, CABA. Para consultar los horarios disponibles, escribinos por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -368,27 +342,19 @@
           "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Te esta esperando",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos en minutos y coordinamos\ntu primera consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Honduras 5730, Palermo Hollywood",
-      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "addressLine": "Av. Juan de Garay · CABA",
+      "hoursLine": "Consultá horarios por WhatsApp",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Cuidamos tu sonrisa con dedicación y\nuna atención cercana en cada consulta,\ntratamientos pensados para cada etapa.",
+      "about": "Consultorios odontológicos en Av. Juan\nde Garay, CABA. Atención cercana,\nfamiliar y paciente para toda la familia.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "#"
-        },
-        {
-          "label": "Facebook",
-          "href": "#"
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -421,7 +387,11 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Prótesis dentales",
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
               "href": "#servicios"
             },
             {
@@ -429,11 +399,7 @@
               "href": "#servicios"
             },
             {
-              "label": "Ortodoncia",
-              "href": "#servicios"
-            },
-            {
-              "label": "Implantes",
+              "label": "Estética dental",
               "href": "#servicios"
             }
           ]
@@ -442,25 +408,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Honduras 5730, Palermo Hollywood"
+              "label": "Av. Juan de Garay, CABA"
             },
             {
-              "label": "+54 9 11 4039-2404",
+              "label": "+54 9 11 3259-1650",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "hola@dental.com",
-              "href": "mailto:hola@dental.com"
-            },
-            {
-              "label": "Lun a Vie · 9–19h",
+              "label": "Consultá horarios por WhatsApp",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Dental"
+      "copyrightName": "Consultorios Odontológicos"
     }
   }
 }

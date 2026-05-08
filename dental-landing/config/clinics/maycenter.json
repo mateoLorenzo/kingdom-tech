@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "MB Odontología",
-    "shortName": "MB Odontología",
+    "name": "Maycenter Odontología",
+    "shortName": "Maycenter",
     "logo": {
       "type": "text"
     }
@@ -17,65 +17,41 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491134667580",
-      "defaultMessage": "Hola, quiero reservar un turno en MB Odontología."
+      "phone": "5491128276947",
+      "defaultMessage": "Hola, quiero reservar un turno en Maycenter Odontología."
     },
-    "phoneDisplay": "+54 9 11 3466-7580",
-    "address": "Europa 528, Lomas del Mirador",
-    "hours": "Lun a Vie · 9:30-12:30 y 14:00-18:30hs",
-    "mapQuery": "Europa 528, Lomas del Mirador, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 2827-6947",
+    "address": "Av. de Mayo 950, Piso 3, Monserrat, CABA",
+    "hours": "Consultá horarios por WhatsApp",
+    "mapQuery": "Av. de Mayo 950, C1086 Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://mb-odontologia.kingdom-tech.co",
-    "title": "MB Odontología — Consultorio odontológico | Lomas del Mirador",
-    "description": "Consultorio odontológico en Lomas del Mirador. Ortodoncia, implantes, endodoncia y estética dental con atención cálida y seguimiento personalizado.",
-    "ogTitle": "MB Odontología — Atención cálida en Lomas del Mirador",
-    "ogDescription": "Consultorio odontológico en Lomas del Mirador. Tratamientos modernos con trato humano y acompañamiento en cada paso.",
-    "siteName": "MB Odontología",
+    "baseUrl": "https://maycenter.kingdom-tech.co",
+    "title": "Maycenter Odontología — Implantes y estética dental | Av. de Mayo",
+    "description": "Clínica odontológica en Av. de Mayo 950, CABA. Implantes, estética y cirugía sin dolor, a pasos del subte Av. de Mayo. 4.5★ con 804 opiniones en Google.",
+    "ogTitle": "Maycenter Odontología — Implantes y estética dental",
+    "ogDescription": "Implantes y estética en Av. de Mayo, CABA. Cero dolor y atención cálida. 4.5★ con 804 opiniones.",
+    "siteName": "Maycenter Odontología",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Consultorio odontológico en Lomas del Mirador. 4.5★ en Google. Ortodoncia, implantes y atención cercana.",
+    "twitterDescription": "Clínica odontológica en Av. de Mayo, CABA. Implantes sin dolor y atención cálida. 4.5★ con 804 opiniones.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Europa 528",
-        "city": "Lomas del Mirador",
-        "region": "Buenos Aires",
-        "postalCode": "B1752COM",
+        "street": "Av. de Mayo 950, Piso 3",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1086",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.6571165,
-        "lng": -58.5365926
+        "lat": -34.6096,
+        "lng": -58.3822
       },
-      "hours": [
-        {
-          "days": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-          ],
-          "opens": "09:30",
-          "closes": "12:30"
-        },
-        {
-          "days": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-          ],
-          "opens": "14:00",
-          "closes": "18:30"
-        }
-      ],
       "rating": {
         "value": 4.5,
-        "count": 68
+        "count": 804
       }
     }
   },
@@ -115,36 +91,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Europa 528 · Lomas del Mirador",
+      "eyebrow": "Av. de Mayo 950 · Monserrat · CABA",
       "headline": [
         {
-          "text": "Tu sonrisa\nEn manos\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "De confianza",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Tratamientos modernos con trato cercano,\npara que cada visita sea una experiencia tranquila.",
+      "subheadline": "Implantes, estética y atención cercana\npara cuidar cada detalle de tu sonrisa.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
         "brand": "4.5 ★",
-        "label": "68 opiniones en Google"
+        "label": "804 opiniones en Google"
       },
       "stats": [
-        {
-          "value": "9:30-18:30",
-          "label": "Lun a Vie"
-        },
         {
           "value": "4.5",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "68",
+          "value": "804",
           "label": "Reviews"
+        },
+        {
+          "value": "100%",
+          "label": "Sin dolor"
         }
       ]
     },
@@ -161,28 +137,28 @@
       ],
       "items": [
         {
-          "name": "Ortodoncia",
-          "image": "/img/brackets.jpg"
-        },
-        {
           "name": "Implantes",
           "image": "/img/implantes.jpg"
         },
         {
-          "name": "Endodoncia",
-          "image": "/img/ondodoncia.jpg"
+          "name": "Injertos óseos",
+          "image": "/img/implantes.jpg"
         },
         {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
         {
-          "name": "Blanqueamiento",
-          "image": "/img/limpieza.jpg"
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
+          "name": "Cirugía y extracciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
         },
         {
           "name": "Odontopediatría",
@@ -198,18 +174,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que ir al dentista puede generar miedo. Por eso te escuchamos, te explicamos cada paso "
+          "text": "Dirigidos por el Dr. Lucas García Sánchez, sumamos años de experiencia en implantología y cirugía. "
         },
         {
-          "text": "y te acompañamos en todo el proceso.",
+          "text": "Te acompañamos paso a paso, sin dolor.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Trato cálido\nY cercano",
-          "body": "Cada paciente recibe atención personalizada. Te explicamos qué vamos a hacer, sin tecnicismos y sin apuros, para que tomes decisiones tranquilo y con información clara."
+          "title": "Implantología\nCon experiencia",
+          "body": "Implantes, injertos óseos y rehabilitaciones complejas resueltas por nuestro equipo liderado por el Dr. Lucas. Procedimientos sin dolor, explicación clara y seguimiento cercano."
         },
         {
           "type": "image",
@@ -217,8 +193,8 @@
         },
         {
           "type": "content",
-          "title": "Seguimiento\nPost tratamiento",
-          "body": "No termina cuando salís del consultorio. Estamos disponibles para resolver dudas y acompañarte en la recuperación, asegurando los mejores resultados."
+          "title": "4.5/5 con\n804 opiniones",
+          "body": "Nuestros pacientes destacan la contención del equipo para quienes tienen miedo al dentista. La ubicación a pasos del subte Av. de Mayo nos hace fácil llegar desde toda CABA."
         },
         {
           "type": "image",
@@ -239,27 +215,27 @@
       ],
       "members": [
         {
-          "name": "Dra. Maia Borisovsky",
-          "role": "Directora Clínica",
+          "name": "Dra. Valeska Conde",
+          "role": "Odontología general · Odontopediatría",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr. Marcos",
-          "role": "Ortodoncia",
+          "name": "Dr. Lucas García Sánchez",
+          "role": "Director · Implantología",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Dr/Dra. [A confirmar]",
-          "role": "Odontología General",
+          "name": "Dra. Sofía Mazzanti",
+          "role": "Odontología general",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. Facundo [A confirmar]",
+          "role": "Cirugía · Extracciones",
+          "experience": "",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -277,56 +253,62 @@
       ],
       "items": [
         {
-          "quote": "Muy profesionales y excelente trato. Me hago brackets con Marcos, siempre atento y explicando cada paso.",
-          "name": "Jazmín Beauté",
+          "quote": "Me sentí muy mimada y contenida durante toda la atención, desde la primera consulta con la Dra. Valeska y del Dr. Lucas, el director que me realizó los implantes. Es una eminencia, con una calidez humana enorme.",
+          "name": "Selva Illescas",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelentes profesionales. Me acompañaron y explicaron todo con mucho amor, especialmente la Dra. Maia.",
-          "name": "Bárbara Cuevas",
+          "quote": "Me atendí con el Dr. Lucas, mi experiencia fue espectacular. Había ido re asustada y me contuvo, una paciencia de parte de todos. Me hizo 2 injertos de hueso y 3 implantes y no dolió absolutamente nada.",
+          "name": "Paola Garcilazo",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me saqué las muelas de juicio y todo salió excelente. La atención y el post operatorio fueron impecables.",
-          "name": "Ignacio Pont",
+          "quote": "Excelente atención y profesionalismo. Me coloqué 9 implantes dentales con el Dr. Lucas García Sánchez y no sentí absolutamente ningún dolor durante el procedimiento. Lo más sorprendente es que en poco tiempo estaba recuperado.",
+          "name": "Ángel La Cruz Quintana",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Súper recomendable. Atención personalizada, puntualidad y especialistas según cada necesidad.",
-          "name": "Elsa Vibes",
+          "quote": "El lugar es muy cómodo de llegar, a pasos de la estación Av. de Mayo del subte. La atención es buenísima, la secretaria una divina. Valeska mi doc es lo más, me resolvió todo lo que llevaba. Una genia.",
+          "name": "Lourdes Vázquez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Hace más de 6 años me atiendo con Maia y su equipo. Siempre muy conforme con su profesionalismo.",
-          "name": "Pablo Franco",
+          "quote": "La doctora Valeska Conde atendió a mi hijo de 4. Lo atendió con tanta dulzura que él se dejó atender sin problema. Súper recomendable. Nosotros pedimos turnos con ella también y nos atendió de 10.",
+          "name": "Daiana Lara",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Lucas es súper profesional y se nota la experiencia desde el minuto uno. Fui con mucho miedo por un tratamiento que venía postergando y terminé sorprendida de lo bien que salió todo.",
+          "name": "Celeste Valle",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quiero destacar la buena atención y el respeto del equipo de recepción. Me atendió el doctor Facundo, que me realizó una extracción. Excelente profesional, con una calidez y amabilidad que me contuvo en cada momento.",
+          "name": "Sandra Bazán",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El doctor que me atendió fue muy empático ya que tengo pánico al consultorio odontológico. Muy buena atención y me fui aliviada. La estrategia de ir preguntando cómo uno está mitigó completamente el miedo.",
+          "name": "Noemí Banega",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Estaba un poco asustado pero me dieron la tranquilidad necesaria. Los doctores Lucas y Jesús, genios. Me fui con la confianza de tener una nueva sonrisa y sin dolor.",
+          "name": "Alberto Schoenfeld",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Me atendió el Dr. Néstor, me hicieron una extracción sin dolor. Muy profesional y excelente trato.",
-          "name": "Nancy Iuzzolino",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Muy agradecida con Maia y su equipo. Profesionales, detallistas y siempre atentos a que no sientas dolor.",
-          "name": "Natalia Luminari",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Tenía miedo al dentista y me resolvieron una urgencia muy bien. Maia transmite mucha confianza.",
-          "name": "Rodri Rivero",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención para mí y mis hijos. Me dieron tranquilidad y todo salió perfecto. Gracias Dra. Maia.",
-          "name": "Mariana Orelia",
+          "quote": "Excelente, maravilloso. Primera vez que no me dolió nada. La Dra. Valeska Conde, de 10. Más no puedo pedir, gran equipo médico. Volveré sin dudas.",
+          "name": "Beatriz García",
           "rating": 5,
           "gender": "female"
         }
@@ -366,7 +348,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Europa 528, Lomas del Mirador. Atendemos de lunes a viernes de 9:30 a 12:30 y de 14:00 a 18:30hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Av. de Mayo 950, Piso 3, Monserrat, CABA. Consultá los horarios actualizados por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -374,32 +356,22 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
           "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Europa 528, Lomas del Mirador",
-      "hoursLine": "Lun a Vie 9:30-12:30 y 14-18:30hs",
+      "addressLine": "Av. de Mayo 950, Piso 3 · Monserrat",
+      "hoursLine": "Consultá horarios por WhatsApp",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Consultorio odontológico en Lomas del Mirador.\nAtención cálida y tratamientos modernos\npara toda la familia.",
+      "about": "Clínica odontológica en Av. de Mayo, CABA.\nImplantes, estética y cirugía sin dolor,\na pasos del subte Av. de Mayo.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/consultorio.mbodontologia/",
-          "external": true
-        },
-        {
-          "label": "Facebook",
-          "href": "https://www.facebook.com/consultorio.mbodontologia/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -432,19 +404,19 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Ortodoncia",
-              "href": "#servicios"
-            },
-            {
               "label": "Implantes",
               "href": "#servicios"
             },
             {
-              "label": "Endodoncia",
+              "label": "Estética dental",
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
+              "label": "Cirugía dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
               "href": "#servicios"
             }
           ]
@@ -453,21 +425,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Europa 528, Lomas del Mirador"
+              "label": "Av. de Mayo 950, Piso 3"
             },
             {
-              "label": "+54 9 11 3466-7580",
+              "label": "+54 9 11 2827-6947",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9:30-18:30",
+              "label": "Consultá horarios por WhatsApp",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "MB Odontología"
+      "copyrightName": "Maycenter Odontología"
     }
   }
 }

@@ -31,8 +31,6 @@
     "description": "Clínica odontológica en San Justo. Odontopediatría, ortodoncia, implantes y atención integral para toda la familia. Equipo con trato cálido y paciencia con los chicos.",
     "ogTitle": "Odontología KDF — Cuidamos la sonrisa de tu familia",
     "ogDescription": "Clínica odontológica en San Justo con fuerte especialización en niños. Ortodoncia, implantes y atención integral para toda la familia.",
-    "ogImage": "/img/hero-5.jpg",
-    "ogAlt": "Odontología KDF — Clínica odontológica en San Justo",
     "siteName": "Odontología KDF",
     "locale": "es_AR",
     "htmlLang": "es",
@@ -97,6 +95,10 @@
     {
       "label": "Testimonios",
       "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
     },
     {
       "label": "Turnos",
@@ -317,6 +319,44 @@
           "name": "Leia Silva",
           "rating": 5,
           "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Dr. Ignacio Arieta 3227, San Justo, La Matanza. Atendemos de lunes a viernes de 9 a 19hs y los sábados de 9 a 14hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },

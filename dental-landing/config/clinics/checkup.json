@@ -1,0 +1,457 @@
+{
+  "brand": {
+    "name": "Check-Up Consultorio",
+    "shortName": "Check-Up",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491172367366",
+      "defaultMessage": "Hola, quiero reservar un turno en Check-Up Consultorio."
+    },
+    "phoneDisplay": "+54 9 11 7236-7366",
+    "address": "Av. Corrientes 2783, 12º 'A', Balvanera, CABA",
+    "hours": "Mar a Vie · 14 a 19:30hs",
+    "mapQuery": "Av. Corrientes 2783, C1046 Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://checkup.kingdom-tech.co",
+    "title": "Check-Up Consultorio — Expertos en Invisalign | Av. Corrientes 2783",
+    "description": "Consultorio especializado en Invisalign y ortodoncia invisible en Balvanera, CABA. Tratamientos personalizados con acompañamiento a distancia. 4.7★ con 180 opiniones en Google.",
+    "ogTitle": "Check-Up Consultorio — Expertos en Invisalign",
+    "ogDescription": "Invisalign y ortodoncia invisible en Balvanera, CABA. Tratamientos personalizados. 4.7★ con 180 opiniones.",
+    "siteName": "Check-Up Consultorio",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Invisalign y ortodoncia invisible en Balvanera, CABA. 4.7★ con 180 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Corrientes 2783, 12º A",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1046",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6048,
+        "lng": -58.4094
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "14:00",
+          "closes": "19:30"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 180
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Corrientes 2783 · Balvanera · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Invisalign",
+          "accent": true
+        }
+      ],
+      "subheadline": "Ortodoncia invisible con odontólogas\ndedicadas a transformar tu sonrisa.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.7 ★",
+        "label": "180 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "180",
+          "label": "Reviews"
+        },
+        {
+          "value": "Invisalign",
+          "label": "Especialidad"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Alineadores invisibles\n"
+        },
+        {
+          "text": "Y odontología integral",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Invisalign",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Ortodoncia tradicional",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Restauraciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Odontología general",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Diseñamos cada plan de Invisalign caso por caso. Escaneo digital, simulación del resultado y "
+        },
+        {
+          "text": "seguimiento cercano durante todo el tratamiento.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tratamientos\nPersonalizados",
+          "body": "Cada caso es único. Escaneamos tu boca, diseñamos el plan y te mostramos cómo va a quedar tu sonrisa antes de empezar. Los cambios se ven rápido, sin dolor ni molestias."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Seguimiento\nTambién a distancia",
+          "body": "Acompañamos a pacientes que viven en otras provincias o en el exterior. Controles remotos coordinados y planificación clara para que tu tratamiento avance aunque no estés en CABA."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Ana Bluvstein",
+          "role": "Directora · Invisalign · Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Daniel",
+          "role": "Estética y restauraciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Rehabilitación",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Comencé mi tratamiento de Invisalign en Check-up durante una visita a Buenos Aires. Vivo en Nueva York y al principio no estaba segura, pero el equipo fue increíble desde el primer día. Recomiendo 100%.",
+          "name": "Sofia Jacubowicz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Feliz con mi tratamiento, el espacio, la atención. Ana es lo más, muy comprometida y meticulosa con los resultados. Me decían que con alineadores no iba a poder mejorar y no fue así. Gracias Check-Up.",
+          "name": "Laura Ruiz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Comencé mi tratamiento con Invisalign hace 3 meses y ya noté cambios visibles. A pesar de no vivir en CABA y hacer el tratamiento a distancia, el acompañamiento personalizado de la Dra. Ana es excelente.",
+          "name": "Lilian Wajsfeld",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Voy a Check-up hace más de 4 años y no los cambio por nada. El equipo es súper profesional, cálido y siempre atentos a explicarte cada procedimiento. Con Daniel me hice varios arreglos impecables.",
+          "name": "Melanie Soro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estoy muy feliz con el equipo de Check-up. La doctora Ana es muy profesional, dedicada y amable. Todo el equipo transmite confianza y calidez, y los cambios que noté en mi sonrisa son increíbles.",
+          "name": "Gabriela Pino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención de la doctora y todo su equipo. Súper profesionales y siempre dispuestos. Consultorios impecables y equipo de última tecnología. Acompañan todo el tratamiento.",
+          "name": "Alan Thomas",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Espectacular la atención. Mi doctor, el mejor de todos. Daniel es lo más. Gracias a todo el equipo de Check-Up.",
+          "name": "Alex Szuster",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estoy realizando un tratamiento de ortodoncia Invisalign en Check-Up con la amorosa Dra. Ana Bluvstein. Ya llevo 5 meses y se van viendo los cambios. Muy buen planeamiento y seguimiento.",
+          "name": "Lady Dos Santos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper recomendable, muy profesionales y cálidas en el trato. Arranqué con alineadores y ya estoy por terminar, muy contenta. Los cambios se ven rápido, es práctico y no genera dolor ni molestia.",
+          "name": "Camila Quiroga",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias a Ana y Dani pude sonreír. Excelente atención de todos y de Maru por supuesto. Súper recomendable, si dudan vayan con confianza que todo va a salir bien.",
+          "name": "Mel L.",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Corrientes 2783, 12º 'A', Balvanera, CABA. Atendemos de martes a viernes de 14 a 19:30hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta de Invisalign.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Corrientes 2783, 12º A · Balvanera",
+      "hoursLine": "Mar a Vie · 14 a 19:30hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Consultorio especializado en Invisalign\ny ortodoncia invisible en Balvanera,\nCABA. Atendemos también a distancia.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://checkup.com.ar",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Invisalign",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Corrientes 2783, 12º A"
+            },
+            {
+              "label": "+54 9 11 7236-7366",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Mar a Vie · 14-19:30hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Check-Up Consultorio"
+    }
+  }
+}

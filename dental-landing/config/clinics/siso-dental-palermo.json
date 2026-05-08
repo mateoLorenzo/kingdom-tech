@@ -1,0 +1,366 @@
+{
+  "brand": {
+    "name": "SISO Dental Palermo",
+    "shortName": "SISO Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491161643468",
+      "defaultMessage": "Hola, quiero reservar un turno en SISO Dental Palermo."
+    },
+    "phoneDisplay": "011 5365-7087",
+    "address": "Av. Santa Fe 3205, Alto Palermo Shopping, CABA",
+    "hours": "Lun a Vie · 9 a 20hs · Sáb 10 a 16hs",
+    "mapQuery": "SISO Dental Palermo, Av. Santa Fe 3205, Alto Palermo Shopping, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://siso-dental-palermo.kingdom-tech.co",
+    "title": "SISO Dental Palermo — Clínica odontológica | Alto Palermo",
+    "description": "Clínica odontológica en Alto Palermo Shopping, CABA. Implantes, ortodoncia, periodoncia y urgencias resueltas el mismo día. 4.8★ con 784 opiniones en Google.",
+    "ogTitle": "SISO Dental Palermo — Alto Palermo Shopping",
+    "ogDescription": "Clínica odontológica en Alto Palermo Shopping. Implantes, ortodoncia y urgencias en el día. 4.8★ con 784 opiniones.",
+    "siteName": "SISO Dental Palermo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Alto Palermo Shopping. Implantes, ortodoncia y urgencias. 4.8★ con 784 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Santa Fe 3205, PB 1",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425EHI",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.588,
+        "lng": -58.412
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "10:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 784
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Santa Fe 3205 · Alto Palermo Shopping · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Clínica odontológica integral\nen Alto Palermo Shopping, CABA.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.8 ★",
+        "label": "784 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "784",
+          "label": "Reviews"
+        },
+        {
+          "value": "Lun-Sáb",
+          "label": "Turnos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con un equipo integral", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Periodoncia", "image": "/img/limpieza.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Clínica odontológica en Alto Palermo Shopping " },
+        { "text": "con equipo multi-especialidad.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Equipo\nMulti-especialidad",
+          "body": "Ortodoncia, implantes, periodoncia, endodoncia y más bajo un mismo techo. Resolvemos tratamientos complejos con especialistas dedicados a cada área."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Turnos\nY Urgencias",
+          "body": "Turnos rápidos de lunes a sábado. Atendemos urgencias en el día y aceptamos pago en cuotas. Recepción bilingüe para pacientes del exterior."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Marisol González",
+          "role": "Ortodoncia · Controles",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Luciano Echegoyen",
+          "role": "Periodoncia · Urgencias",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Daniela [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Matías Sarno",
+          "role": "Ortodoncia",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Me hice un tratamiento de conducto con urgencia. Soy de México, tenía mucho miedo por malas experiencias previas. Me dieron cita súper rápido y el Dr. fue muy bueno.",
+          "name": "Diana Henríquez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Realmente me hicieron pasar la mejor experiencia que una persona puede tener en un dentista. Me saqué 4 muelas de juicio en un día con el Dr. Nicolás y fue todo perfecto.",
+          "name": "Brenda Bredeston",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace muchísimo no iba al dentista por malas experiencias. Conocí SISO y estoy muy satisfecha con el tratamiento contra la periodontitis. Luciano me tuvo mucha paciencia y me explicó todo.",
+          "name": "Cami Langellotti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Oma en recepción fue muy amable y el Dr. Luciano Echegoyen me brindó una atención dedicada y profesional, explicando todo con claridad. Me fui recontento.",
+          "name": "Rahamim Cohen",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estuve 3 meses en tratamiento y tanto las chicas de recepción como el Dr. David se tomaron el tiempo para darme un tratamiento súper profesional y un trato cálido.",
+          "name": "Tomás Báez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención y trato, de las recepcionistas y de los profesionales. Incluso después de una cirugía por implante me escribieron al día siguiente para ver cómo estaba.",
+          "name": "Andrea Cavallaro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente de principio a fin con el Dr. Matías Sarno, un verdadero profesional. Muy feliz con el procedimiento de ortodoncia. Destaco la hermosa atención de Caro en recepción.",
+          "name": "Lucas Báez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Todo genial, lindo lugar. Excelente atención, rápida y clara. Fui particular, pude pagar con tarjeta y en cuotas. Seguramente vuelva, ya los he recomendado.",
+          "name": "Paula Sánchez Rivera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son unos genios. Vine para un tratamiento de conducto y no dolió nada, súper meticuloso Ramiro. Recepción 10.",
+          "name": "Nicolás R.",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Atención cálida y excelencia. Correctos diagnóstico y tratamiento. Me han hecho observaciones odontológicas que no me habían dicho antes. La recepción, de 10.",
+          "name": "María Julia Bianco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelencia, claridad de conceptos, atención impecable desde que uno llega hasta que se va. Generan confianza en el paciente. Súper recomendable.",
+          "name": "Hugo Arcuri",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Recepción bilingüe y altos estándares en el tratamiento. Lo mismo que en mi país.",
+          "name": "Caden Boyle",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Santa Fe 3205, Alto Palermo Shopping, CABA. Atendemos de lunes a viernes de 9 a 20hs y los sábados de 10 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny atendemos urgencias en el día.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Santa Fe 3205, Alto Palermo · CABA",
+      "hoursLine": "Lun a Vie 9-20hs · Sáb 10-16hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Alto Palermo Shopping.\nImplantes, ortodoncia, periodoncia\ny urgencias en el día.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://sisodental.com.ar",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Periodoncia", "href": "#servicios" },
+            { "label": "Urgencias", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Santa Fe 3205, Alto Palermo" },
+            {
+              "label": "+54 9 11 6164-3468",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 5365-7087" },
+            { "label": "Lun a Vie 9-20 · Sáb 10-16", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "SISO Dental Palermo"
+    }
+  }
+}

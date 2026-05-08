@@ -1,0 +1,331 @@
+{
+  "brand": {
+    "name": "PROI Odontología Integral",
+    "shortName": "PROI",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491132101577",
+      "defaultMessage": "Hola, quiero reservar un turno en PROI Odontología Integral."
+    },
+    "phoneDisplay": "011 3210-1577",
+    "address": "Av. Córdoba 966, 5° J · Microcentro · CABA",
+    "hours": "Lun a Vie · 9 a 17:30hs",
+    "mapQuery": "Av. Córdoba 966, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://consultorios-odontologicos-centro.kingdom-tech.co",
+    "title": "PROI Odontología Integral — Multi Especialidad | Microcentro CABA",
+    "description": "Consultorios odontológicos en Microcentro, CABA. Equipo multidisciplinario: ATM, cirugía, ortodoncia, implantes, estética y endodoncia bajo un mismo techo. Av. Córdoba 966.",
+    "ogTitle": "PROI Odontología Integral — Multi Especialidad en Microcentro",
+    "ogDescription": "Equipo multidisciplinario bajo un mismo techo. ATM, cirugía, ortodoncia, implantes y odontología integral en Av. Córdoba 966, CABA.",
+    "siteName": "PROI Odontología Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorios odontológicos en Microcentro CABA. Multi especialidad: ATM, cirugía, ortodoncia, implantes, estética.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Córdoba 966, 5° J",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1054",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5990,
+        "lng": -58.3825
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "17:30"
+        }
+      ],
+      "rating": {
+        "value": 3.7,
+        "count": 75
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Córdoba 966 · Microcentro · CABA",
+      "headline": [
+        { "text": "Odontología integral\n" },
+        { "text": "En el corazón de CABA", "accent": true }
+      ],
+      "subheadline": "Un equipo multidisciplinario en Microcentro:\ncirugía, ortodoncia, implantes,\nconductos y ATM bajo un mismo techo.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Multi",
+        "label": "especialidades odontológicas"
+      },
+      "stats": [
+        {
+          "value": "+7",
+          "label": "Especialistas"
+        },
+        {
+          "value": "+75",
+          "label": "Opiniones"
+        },
+        {
+          "value": "9-17:30",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Todas las especialidades\n" },
+        { "text": "Bajo un mismo techo", "accent": true }
+      ],
+      "items": [
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Un centro, todas las especialidades. " },
+        { "text": "Tu boca no viaja entre consultorios — el equipo se coordina por vos.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Equipo\nMultidisciplinario",
+          "body": "Cirugía, ortodoncia, implantes, endodoncia, ATM, estética e infantil. Todas las especialidades trabajando coordinadas bajo un mismo techo — sin derivaciones, sin repetir estudios, sin perder el hilo del tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Especialistas\nEn ATM",
+          "body": "Trastornos de la articulación temporomandibular tratados por la Dra. Patricia Agranatti. Un área compleja que requiere diagnóstico preciso y seguimiento — la atendemos hace años como línea especializada del centro."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Patricia Agranatti",
+          "role": "Directora · ATM y Odontología Integral",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Daniel Rodiño",
+          "role": "Cirugía y Odontología General",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Lucía Barrera Picón",
+          "role": "Implantes y Estética Dental",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Recomiendo al 100% a la Dra. Agranatti, no solo porque es sumamente profesional en una especialidad compleja como ATM, sino también por su calidez y atención. Llegué a ella por un caso complejo.",
+          "name": "Silvana Perroni",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy la persona más temerosa con los odontólogos, y el Dr. Daniel Rodiño fue increíble. Te da un ambiente de tranquilidad, confianza y, lo más importante, profesionalismo. Iré de ahora en adelante con él.",
+          "name": "Linda Hernández",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Dra. Lucía Barrera Picón, excelente profesional, súper cálida y empática. Me ayudó a superar mi temor al dentista. Ahora voy súper tranquila y confiada. Recomiendo 100%.",
+          "name": "Romina Crisafi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quiero destacar la excelente atención, empatía y profesionalismo de la Dra. Lemos. Me explicó, me sacó dudas y armó el tratamiento integral que requería mi caso, realizando también el seguimiento de cada etapa.",
+          "name": "Lilian Placeres",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Terminé con el tratamiento dental y todavía no puedo creer, son casi reales. Excelente el trabajo realizado por la Dra. Patricia y su equipo, atendido desde el primer momento con gran profesionalismo.",
+          "name": "Nicolás Escarlón",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Nunca me gustó ir al dentista — siempre lo evité por malas experiencias — pero llegar acá fue un camino de ida. Empecé a atenderme con la Dra. Boiko, quien fue súper amable y contenedora.",
+          "name": "Laura Barba",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace años en este centro. Quiero destacar la calidez y profesionalismo de todos los que trabajan ahí. Lo bueno es que tienen todas las especialidades, entonces queda toda tu familia cubierta.",
+          "name": "Mariana Rodríguez Denis",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Años sufrí pánico con tan solo pensar en el dentista, hasta que conocí los profesionales de PROI. Delicados, contenedores y muy bien merecidas tienen las recomendaciones que se leen en Internet.",
+          "name": "Daniela Amadi",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Córdoba 966, 5° J · Microcentro · CABA. Atendemos de lunes a viernes de 9 a 17:30hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Córdoba 966 · 5° J · Microcentro",
+      "hoursLine": "Lun a Vie · 9 a 17:30hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorios odontológicos en Microcentro, CABA.\nEquipo multidisciplinario con todas las\nespecialidades bajo un mismo techo.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Especialidades",
+          "items": [
+            { "label": "ATM y Ortodoncia", "href": "#servicios" },
+            { "label": "Cirugía e Implantes", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Córdoba 966, 5° J · CABA" },
+            {
+              "label": "+54 9 11 3210-1577",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 3210-1577" },
+            { "label": "Lun a Vie · 9 a 17:30hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "PROI Odontología Integral"
+    }
+  }
+}

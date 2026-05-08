@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "name": "Junín Odontología",
+    "shortName": "Junín Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491121879313",
+      "defaultMessage": "Hola, quiero reservar un turno en Junín Odontología."
+    },
+    "phoneDisplay": "011 4803-4481",
+    "address": "Junín 1655 · 3° A · Recoleta · CABA",
+    "hours": "Lun a Vie · 9 a 20hs",
+    "mapQuery": "Junín 1655, Recoleta, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://junin-odontologia.kingdom-tech.co",
+    "title": "Junín Odontología — Clínica Dental de Confianza | Recoleta",
+    "description": "Consultorio odontológico en Recoleta, CABA. Equipo Zurita (padre e hijo) con especialistas en implantes, cirugía, periodoncia y estética. 4.5★ con +230 opiniones en Google. Turnos por WhatsApp.",
+    "ogTitle": "Junín Odontología — Clínica Dental de Confianza en Recoleta",
+    "ogDescription": "Equipo Zurita (padre e hijo) con especialistas en implantes, cirugía y estética. Pacientes de más de 8 años. 4.5★ con +230 opiniones.",
+    "siteName": "Junín Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica dental de confianza en Recoleta. Equipo Zurita padre e hijo. 4.5★ con +230 opiniones. Turnos por WhatsApp.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Junín 1655, 3° A",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1113AAQ",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5929,
+        "lng": -58.3969
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 4.5,
+        "count": 230
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Junín 1655 · Recoleta · CABA",
+      "headline": [
+        { "text": "Odontología de\n" },
+        { "text": "Confianza en Recoleta", "accent": true }
+      ],
+      "subheadline": "Equipo Zurita, padre e hijo,\ncon especialistas en implantes, cirugía,\nperiodoncia y estética dental.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.5 ★",
+        "label": "con +230 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.5",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+230",
+          "label": "Opiniones"
+        },
+        {
+          "value": "9-20",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Cirugía dental", "image": "/img/ondodoncia.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Pacientes que vuelven año tras año. " },
+        { "text": "Una clínica dental de confianza, con dos generaciones de profesionales.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Equipo Zurita\nPadre e Hijo",
+          "body": "Dos generaciones de odontólogos trabajando juntos con un equipo multidisciplinario. Implantología, cirugía, periodoncia y estética — cada área a cargo de especialistas que conocen a sus pacientes desde hace años."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Recepción\nQue Cuida Tu Tiempo",
+          "body": "Julieta, Karina y el equipo administrativo son parte del diferencial. Coordinan tus turnos, gestionan estudios previos, responden por WhatsApp y hacen seguimiento de cada tratamiento. La atención empieza antes de sentarte en el sillón."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Tatiana Saggion",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Gonzalo Zurita",
+          "role": "Director · Implantes y Cirugía",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Caterina",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Aníbal Zurita",
+          "role": "Director · Odontología Integral",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención tanto de las secretarias como de los doctores Zurita padre e hijo. Me colocaron implantes y no sentí dolor. Espectacular.",
+          "name": "Patricia R.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente servicio. Las chicas un amor y organizadas, hasta te sacan el turno para que te hagas estudios si te hace falta antes de la consulta. El Dr. Zurita es súper profesional. Me hice un implante y no sentí nada.",
+          "name": "Candela Memi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tanto July como la Dra. Caterina brindan una atención cálida y amable. Para personas como yo que huyen de los odontólogos, logran que no se sienta el miedo cuando llega el día del turno.",
+          "name": "Samanta Mattioli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención por parte de recepcionistas y profesionales desde que solicité mi turno hasta que me fui. Buena comunicación, eficiencia y profesionalismo. Me atendí con Tatiana Saggion. 10/10.",
+          "name": "Maia Bros",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy paciente hace más de 8 años y fue un gran hallazgo encontrar al Dr. Gonzalo Zurita y su equipo. Excelente atención siempre. Súper recomendable.",
+          "name": "Natalia Posadas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Calidad profesional y calidez humana. Cumplidores, siempre te explican y acompañan, te recuerdan y agendan perfecto los días y horarios. Un referente de que las cosas se pueden hacer bien y con responsabilidad.",
+          "name": "Andrés Pairola",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Es importantísimo tener médicos de confianza. Junín Odontología es, sin ninguna duda, mi clínica odontológica de confianza.",
+          "name": "Guillem Pérez Nadal",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La Dra. Luz es un amor. Me hizo un arreglo porque me había partido un diente por bruxismo y quedó como si fuera mi diente tal cual. La atención de las secretarias también excelente. Súper recomiendo.",
+          "name": "Leila Bregman",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Junín 1655 · 3° A · Recoleta · CABA. Atendemos de lunes a viernes de 9 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Junín 1655 · 3° A · Recoleta",
+      "hoursLine": "Lun a Vie · 9 a 20hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Clínica dental en Recoleta, CABA.\nEquipo Zurita con especialistas\nen implantes, cirugía y odontología integral.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Cirugía dental", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Junín 1655, 3° A · Recoleta" },
+            {
+              "label": "+54 9 11 2187-9313",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 4803-4481" },
+            { "label": "Lun a Vie · 9 a 20hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Junín Odontología"
+    }
+  }
+}

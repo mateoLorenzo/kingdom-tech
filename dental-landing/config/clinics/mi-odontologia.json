@@ -1,56 +1,53 @@
 {
   "brand": {
-    "name": "Centro Odontológico",
-    "shortName": "Centro Odontológico",
+    "name": "M&I Odontología",
+    "shortName": "M&I",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/centro-odontologico/logo.png",
-      "alt": "Centro Odontológico",
-      "height": 44
+      "type": "text"
     }
   },
   "theme": {
-    "primary": "#1A2D73",
-    "accent": "#38A3DE",
-    "label": "#1A2D73",
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
     "bgSoft": "#F9F9FB",
-    "footerBg": "#0A1A3C",
+    "footerBg": "#0A1F3D",
     "footerText": "#FFFFFF",
     "text": "#1A1A1A"
   },
   "contact": {
     "whatsapp": {
-      "phone": "541141583311",
-      "defaultMessage": "Hola, quiero reservar un turno en Centro Odontológico."
+      "phone": "541147554008",
+      "defaultMessage": "Hola, quiero reservar un turno en M&I Odontología."
     },
-    "phoneDisplay": "+54 11 4158-3311",
-    "address": "Av. Eva Perón 5679, Mataderos, CABA",
-    "hours": "Lun a Sáb · 9 a 19hs · Dom 11 a 16hs",
-    "mapQuery": "Av. Eva Perón 5679, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 11 4755-4008",
+    "address": "Av. Pres. Juan Domingo Perón 3712, San Andrés",
+    "hours": "Lun a Vie · 10-20hs · Sáb 10-14hs",
+    "mapQuery": "Av. Presidente Juan Domingo Perón 3712, San Andrés, San Martín, Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://centro-odontologico.kingdom-tech.co",
-    "title": "Centro Odontológico — Mataderos | CABA",
-    "description": "Clínica odontológica en Mataderos. Atención integral para toda la familia: implantes, ortodoncia, endodoncia, prótesis, diseño de sonrisa y urgencias.",
-    "ogTitle": "Centro Odontológico — Atención integral en Mataderos",
-    "ogDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia, diseño de sonrisa y urgencias.",
-    "siteName": "Centro Odontológico",
+    "baseUrl": "https://mi-odontologia.kingdom-tech.co",
+    "title": "M&I Odontología — Sin dolor y con tecnología | San Martín",
+    "description": "Consultorio odontológico en San Andrés, San Martín. Equipo de especialistas, tecnología de avanzada y atención sin dolor. Implantes, ortodoncia, endodoncia y más.",
+    "ogTitle": "M&I Odontología — Especialistas y tecnología en San Martín",
+    "ogDescription": "Consultorio odontológico en San Andrés. Equipo amplio de especialistas, escáner intraoral y rayos X digital. Atención sin dolor.",
+    "siteName": "M&I Odontología",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia y urgencias.",
+    "twitterDescription": "Consultorio odontológico en San Andrés. 4.5★ con 123 opiniones. Sin dolor, tecnología premium y equipo amplio.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Eva Perón 5679",
-        "city": "Buenos Aires",
-        "region": "CABA",
-        "postalCode": "C1440",
+        "street": "Av. Presidente Juan Domingo Perón 3712",
+        "city": "San Andrés",
+        "region": "Buenos Aires",
+        "postalCode": "B1650",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.6621324,
-        "lng": -58.4858093
+        "lat": -34.5723093,
+        "lng": -58.5432673
       },
       "hours": [
         {
@@ -59,20 +56,23 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday",
-            "Saturday"
+            "Friday"
           ],
-          "opens": "09:00",
-          "closes": "19:00"
+          "opens": "10:00",
+          "closes": "20:00"
         },
         {
           "days": [
-            "Sunday"
+            "Saturday"
           ],
-          "opens": "11:00",
-          "closes": "16:00"
+          "opens": "10:00",
+          "closes": "14:00"
         }
-      ]
+      ],
+      "rating": {
+        "value": 4.5,
+        "count": 123
+      }
     }
   },
   "nav": [
@@ -111,35 +111,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Eva Perón 5679 · Mataderos · CABA",
+      "eyebrow": "Av. Perón 3712 · San Andrés · San Martín",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Odontología\nSin dolor y con\n"
         },
         {
-          "text": "Familiar",
+          "text": "Tecnología premium",
           "accent": true
         }
       ],
-      "subheadline": "Turnos ágiles por WhatsApp, atención cálida\ny el cuidado profesional que tu sonrisa merece.",
+      "subheadline": "Equipo amplio de especialistas y atención cercana,\npara cuidar tu sonrisa con la última tecnología.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "Centro Odontológico",
-        "label": "Clínica odontológica integral en Mataderos"
+        "brand": "4.5 ★",
+        "label": "123 opiniones en Google"
       },
       "stats": [
         {
-          "value": "9-19",
-          "label": "Lun a Sáb"
+          "value": "4.5",
+          "label": "★★★★★",
+          "labelStyle": "stars"
         },
         {
-          "value": "Dom",
-          "label": "11 a 16hs"
+          "value": "123",
+          "label": "Reviews"
         },
         {
-          "value": "7 días",
-          "label": "A la semana"
+          "value": "Sáb",
+          "label": "10 a 14hs"
         }
       ]
     },
@@ -164,19 +165,19 @@
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
-        },
-        {
-          "name": "Diseño de sonrisa",
-          "image": "/img/estetica.jpg"
-        },
-        {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Radiología",
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
           "image": "/img/limpieza.jpg"
         },
         {
@@ -184,7 +185,7 @@
           "image": "/img/Odontopediatría.jpg"
         },
         {
-          "name": "Urgencias",
+          "name": "Cirugía y urgencias",
           "image": "/img/emergencia.jpg"
         }
       ]
@@ -193,18 +194,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "En Mataderos cuidamos la sonrisa de toda la familia con atención cálida, explicaciones claras y trabajos prolijos. "
+          "text": "Combinamos tecnología de última generación con un equipo de especialistas formadas en el manejo del miedo al dentista, "
         },
         {
-          "text": "Cada paciente, cada etapa.",
+          "text": "para que cada visita sea sin dolor.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Atención\nPersonalizada",
-          "body": "Te escuchamos, te explicamos cada paso y planificamos tu tratamiento en conjunto. Sin apuros, con tiempo real dedicado a vos."
+          "title": "Tecnología\nDe avanzada",
+          "body": "Escáner intraoral, rayos X digital y diagnóstico en el momento. Trabajamos con instrumental moderno para resultados precisos y tratamientos más cómodos."
         },
         {
           "type": "image",
@@ -212,8 +213,8 @@
         },
         {
           "type": "content",
-          "title": "Turnos\nPor WhatsApp",
-          "body": "Coordiná tu consulta con un mensaje. Respondemos rápido y te damos disponibilidad en el momento, incluso para urgencias."
+          "title": "Equipo amplio\nDe especialistas",
+          "body": "Endodoncia, ortodoncia, cirugía, odontopediatría e implantes en un mismo lugar. Un equipo dedicado para acompañarte en cada etapa del tratamiento."
         },
         {
           "type": "image",
@@ -234,26 +235,26 @@
       ],
       "members": [
         {
-          "name": "Dra. Macarena",
+          "name": "Dra. Missiela",
           "role": "Odontología Integral",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dra. Mercedes",
+          "role": "Odontología Integral",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
+          "name": "Dra. Ivana",
           "role": "Endodoncia",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dra. Mili",
+          "role": "Cirugía",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -272,74 +273,74 @@
       ],
       "items": [
         {
-          "quote": "Excelente centro. Me saqué una muela por dolor intenso, fue rápido y siguiendo las indicaciones no tuve complicaciones. Muy recomendable.",
-          "name": "Gustavo Ticona",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Hace años me atiendo acá. Excelentes profesionales y atención muy cálida. El diseño de sonrisa quedó impecable, toda la familia se atiende acá.",
-          "name": "Kiara Gómez",
+          "quote": "Súper recomiendo. Excelente atención, si no tienen disponibilidad te hacen un lugar enseguida. Las coronas son de excelente calidad. Cero dolor. Todo de última tecnología, radiografía y escaneo en el momento.",
+          "name": "Yessica Barracchia",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Muy buena atención, amable, prolija y sin dolor. Ya fui varias veces y siempre quedo muy conforme con el trabajo.",
-          "name": "Nadia Acosta",
+          "quote": "Altamente recomendable por la calidad de sus profesionales y consultorios impecables. Destaco la atención de la Dra. Missiela por su profesionalismo y compromiso con el paciente.",
+          "name": "Adriana Marenzi",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Buena atención y calidad. Fui por una urgencia y el trabajo quedó de diez.",
-          "name": "Albert Avendaño",
+          "quote": "Excelente trato humano de la Dra. Mercedes, muy profesional y aclara todas las dudas. Para los que tienen pánico al pinchazo de la anestesia… primera vez que no lo sentí.",
+          "name": "Claudio R.",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención, responden consultas rápido y todo fue ágil y efectivo. Muy amables y respetuosos.",
-          "name": "Mariela Hernandez",
+          "quote": "Súper recomendable, se acomodan a tus horarios y son tan amables que te hacen sentir muy cómoda. Todo lo que se arregló quedó a la perfección, sin dolor.",
+          "name": "Ruth Zeballos",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. La Dra. Macarena muy profesional y paciente. Gran experiencia.",
-          "name": "Eduardo Perez",
+          "quote": "La atención del sábado fue impecable desde recepción hasta la especialista. Me hicieron un hueco a pesar de no tener turno previo. Se agradece.",
+          "name": "Bach Ito",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención. Todo el personal muy amable y los resultados siempre impecables.",
-          "name": "Carlos Cella",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Trabajos impecables. Explica todo claramente y es muy detallista en lo estético. Muy conforme.",
-          "name": "Luis Alberto Romero",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Súper recomendable. Me hice varios tratamientos y siempre quedaron perfectos. Nunca tuve problemas.",
-          "name": "Soledad Apel",
+          "quote": "Me estoy haciendo un tratamiento de ATM y todo perfecto. Me calmaron los dolores de cabeza y ya tengo mi placa. La doctora me explicó cada detalle.",
+          "name": "Yanina Bustos",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente profesional. Me hice un conducto sin dolor, muy cuidadoso y atento. Feliz con el resultado.",
-          "name": "Jacqueline Gonzalez",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Excelente atención. Me solucionaron una extracción que en otro lugar hicieron mal. Muy recomendable.",
-          "name": "Fernando Quezada",
+          "quote": "Excelente atención. Me hice una extracción y varios tratamientos de endodoncia sin complicaciones ni dolor. 100% recomendable, especialmente para quienes padecen 'fobia al torno'.",
+          "name": "Antonio Abate",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Siempre me atienden muy bien. Me salvaron un diente que estaba para extracción. Impecable trabajo.",
-          "name": "Viviana Lopez",
+          "quote": "Hace 4 años que me atiendo: arreglos, limpieza, extracciones, brackets e implantes. Súper profesionales las doctoras, te explican todo al detalle y hacen un seguimiento buenísimo.",
+          "name": "Pablo Vilche",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La Dra. Ivana es súper profesional y amable. Me hice tratamiento de conducto y casi no me dolió. Después de ir con varios donde la pasé mal, encontré a mi odontóloga.",
+          "name": "Paola Gómez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "No encontré ningún lugar donde el trato y el trabajo sean tan excelentes. Hice arreglos, ortodoncia y hasta cirugías. ¡En ninguno sufrí dolor! No los cambio por nada.",
+          "name": "Tamara Cantoni",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper recomendable. Me atendieron siempre con amabilidad, tanto las doctoras como las chicas de recepción. Los consultorios son muy lindos, modernos y completos.",
+          "name": "Sabrina Bargas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y profesionalismo de todas las doctoras: Ivana, Mercedes, Mili, Anahí, Ayelén y Missiela. La odontopediatra es buenísima con los nenes. Lo recomiendo 100%.",
+          "name": "Gabriela Velazquez",
           "rating": 5,
           "gender": "female"
         }
@@ -348,8 +349,13 @@
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -366,7 +372,7 @@
         },
         {
           "question": "¿Atienden urgencias?",
-          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
         },
         {
           "question": "¿Atienden a niños?",
@@ -374,7 +380,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Eva Perón 5679, Mataderos, CABA. Atendemos de lunes a sábado de 9 a 19hs y los domingos de 11 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Av. Pres. Juan Domingo Perón 3712, San Andrés. Atendemos de lunes a viernes de 10 a 20hs y los sábados de 10 a 14hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -385,22 +391,22 @@
           "text": "Tu sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
       "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Eva Perón 5679, Mataderos, CABA",
-      "hoursLine": "Lun a Sáb 9-19hs · Dom 11-16hs",
+      "addressLine": "Av. Perón 3712, San Andrés, San Martín",
+      "hoursLine": "Lun a Vie 10-20hs · Sáb 10-14hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica en Mataderos.\nAtención integral para toda la familia,\ncon turnos ágiles por WhatsApp.",
+      "about": "Consultorio odontológico en San Andrés, San Martín.\nEspecialistas, tecnología de avanzada\ny atención sin dolor.",
       "socials": [
         {
           "label": "Instagram",
-          "href": "https://www.instagram.com/consultoriodentalclean",
+          "href": "https://www.instagram.com/mi.odontologia.sanmartin/",
           "external": true
         },
         {
@@ -443,11 +449,11 @@
               "href": "#servicios"
             },
             {
-              "label": "Diseño de sonrisa",
+              "label": "Endodoncia",
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Estética dental",
               "href": "#servicios"
             }
           ]
@@ -456,21 +462,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Eva Perón 5679, Mataderos"
+              "label": "Av. Perón 3712, San Andrés"
             },
             {
-              "label": "+54 11 4158-3311",
+              "label": "+54 11 4755-4008",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Sáb 9-19 · Dom 11-16",
+              "label": "Lun a Vie 10-20 · Sáb 10-14",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Centro Odontológico"
+      "copyrightName": "M&I Odontología"
     }
   }
 }

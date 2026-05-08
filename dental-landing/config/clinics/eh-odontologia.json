@@ -1,0 +1,371 @@
+{
+  "brand": {
+    "name": "Eh Odontología",
+    "shortName": "Eh",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491122507466",
+      "defaultMessage": "Hola, quiero reservar un turno en Eh Odontología."
+    },
+    "phoneDisplay": "011 2250-7466",
+    "address": "Paraná 754, Tribunales, CABA",
+    "hours": "Lun a Vie · 9 a 20hs · Sáb 9 a 18hs",
+    "mapQuery": "Eh Odontología, Paraná 754, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://eh-odontologia.kingdom-tech.co",
+    "title": "Eh Odontología — Cirugía e implantes | Tribunales, CABA",
+    "description": "Clínica odontológica en Tribunales, CABA. Cirugía, implantes y extracción de muelas de juicio sin dolor. 4.9★ con 175 opiniones en Google.",
+    "ogTitle": "Eh Odontología — Cirugía e implantes",
+    "ogDescription": "Clínica odontológica en Tribunales, CABA. Cirugía y extracciones sin dolor. 4.9★ con 175 opiniones en Google.",
+    "siteName": "Eh Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Tribunales, CABA. Cirugía, implantes y extracciones sin dolor. 4.9★ con 175 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Paraná 754",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1017",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6015,
+        "lng": -58.3913
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 175
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Paraná 754 · Tribunales · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Cirugía, implantes y odontología\nintegral sin dolor en Tribunales.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "175 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "175",
+          "label": "Reviews"
+        },
+        {
+          "value": "Lun-Sáb",
+          "label": "Turnos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Cirugía bucal", "image": "/img/ondodoncia.jpg" },
+        { "name": "Muelas de juicio", "image": "/img/ondodoncia.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Cirugía, muelas de juicio e implantes " },
+        { "text": "resueltos sin dolor y con calidez humana.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Extracciones\nEn Minutos",
+          "body": "Pacientes destacan cirugías de muelas de juicio resueltas en 30 minutos, sin dolor y con rápida recuperación. Explicamos cada paso para que llegues tranquilo al consultorio."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Respetamos\nTus Miedos",
+          "body": "Si venís con pánico o malas experiencias, te acompañamos a tu ritmo. Te atendemos sin dolor, respetando los miedos y con toda la paciencia que necesites."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Andrea Karam",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ezequiel [A confirmar]",
+          "role": "Cirugía · Implantes",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Virginia [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Hilber [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "5 estrellas más que merecidas para la Dra. Andrea Karam. Te atiende sin dolor, respeta los miedos y tiene mucha paciencia. Atendió a mi mamá que tiene pánico al dentista con un cuidado único.",
+          "name": "Sol Girimonte",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "No es casualidad el puntaje. Ezequiel me removió las 4 muelas de juicio en 30 minutos sin dolor alguno. El lugar es un plus: amplio, luminoso, limpio y estético.",
+          "name": "Lucas Uslenghi",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El mejor lugar lejos. Ezequiel y su equipo, unos genios. Primera experiencia con una muela de juicio así: la calidez humana y el profesionalismo son de otro nivel.",
+          "name": "Danisa Lanzani",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quiero felicitar al Dr. Ezequiel y la Dra. Andrea por su gran profesionalismo y calidez. Todo es de excelencia, desde el recibimiento hasta la atención en consultorio.",
+          "name": "Gloria Souss",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son muy amorosos todos y te hacen sentir muy cómoda, después de haber tenido malas experiencias en otros lugares. Llegar al consultorio del Dr. Hilber fue lo mejor que me pudo haber pasado.",
+          "name": "Cinthia Díaz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Ezequiel es súper amable y comprensivo, te explica todo paso a paso. Me hice un implante y un genio. Elena y Abi, las chicas, un amor. Siempre te reciben bien y te contienen.",
+          "name": "Mariela Alasia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Doc. Gabriela, una dulce y toda la paciencia. Me hizo dos extracciones de muelas de juicio, cero dolor. Recomiendo. Los mejores.",
+          "name": "Mariela Corazza",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias al Dr. Hilber y todo su equipo por la calidez humana y profesional. Me hizo una extracción de muela de juicio retenida en tiempo récord y sin molestias.",
+          "name": "Lore J.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son excelentes profesionales. Con toda la paciencia para que ir al odontólogo no sea traumático. Aranceles acordes al servicio que prestan. Súper recomendable.",
+          "name": "Adriana Pedrini",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Lugar agradable y aséptico. Profesionalismo y trato afectuoso de parte de todo el staff. Mi experiencia es en implantes y prótesis. Un trabajo excelente. Gracias Ezequiel.",
+          "name": "Elena Villar",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es el mejor centro odontológico al cual he ido. Tenía pánico y terror por malas experiencias pasadas. El Dr. y todo su equipo brindan atención de excelencia con calidad humana única.",
+          "name": "Nanu",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Recomiendo trabajar con Ariel. Solo hablo inglés y buscaba odontología de alta calidad a buen precio. Ariel habla excelente inglés y es muy conocedor de su trabajo.",
+          "name": "Nathan Soufer",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Paraná 754, Tribunales, CABA. Atendemos de lunes a viernes de 9 a 20hs y los sábados de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Paraná 754, Tribunales · CABA",
+      "hoursLine": "Lun a Vie 9-20hs · Sáb 9-18hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Tribunales, CABA.\nCirugía, implantes y odontología integral\nsin dolor y con calidez humana.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/ehodonto",
+          "external": true
+        },
+        {
+          "label": "Web",
+          "href": "https://ehodontologia.com",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Cirugía bucal", "href": "#servicios" },
+            { "label": "Muelas de juicio", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Paraná 754, Tribunales" },
+            {
+              "label": "+54 9 11 2250-7466",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 2250-7466" },
+            { "label": "Lun a Vie 9-20 · Sáb 9-18", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Eh Odontología"
+    }
+  }
+}

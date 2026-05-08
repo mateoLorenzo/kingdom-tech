@@ -1,0 +1,355 @@
+{
+  "brand": {
+    "name": "neodental",
+    "shortName": "neodental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541147062222",
+      "defaultMessage": "Hola, quiero reservar un turno en neodental."
+    },
+    "phoneDisplay": "011 4706-2222",
+    "address": "Av. Cabildo 2373, Belgrano, CABA",
+    "hours": "Lun a Vie · 9 a 20hs",
+    "mapQuery": "Avenida Cabildo 2373, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://neodental.kingdom-tech.co",
+    "title": "neodental — Clínica odontológica en Belgrano | CABA",
+    "description": "Clínica odontológica en Belgrano. Equipo multidisciplinario con atención humana y cordial, turnos próximos y más de 330 opiniones en Google.",
+    "ogTitle": "neodental — Clínica odontológica en Belgrano",
+    "ogDescription": "Equipo multidisciplinario en Belgrano: implantes, ortodoncia, estética y más. Atención cálida y turnos próximos. 4.4★ con 333 opiniones.",
+    "siteName": "neodental — Clínica Odontológica",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Belgrano. 4.4★ con 333 opiniones. Equipo multidisciplinario y atención humana.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Cabildo 2373",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428AAF",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5589,
+        "lng": -58.4562
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 4.4,
+        "count": 333
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Cabildo 2373 · Belgrano · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Equipo multidisciplinario en Belgrano,\ncon atención humana y cordial.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.4 ★",
+        "label": "333 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.4",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "333",
+          "label": "Reviews"
+        },
+        {
+          "value": "9-20",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Para toda la familia", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Un equipo completo que cubre todas las especialidades, con recepción cálida y turnos próximos. " },
+        { "text": "Tu boca, en las mejores manos.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Equipo\nMultidisciplinario",
+          "body": "Especialistas en ortodoncia, implantes, estética y odontología general trabajando en conjunto para resolver cada caso de principio a fin."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Turnos\nPróximos",
+          "body": "Sin esperas largas ni demoras. Te damos un turno cercano y te recibimos en horario, para que la consulta sea cómoda desde el primer minuto."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Florencia",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Mariano",
+          "role": "Odontología General",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Irusta",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Estoy feliz de encontrar neodental. Amorosas las secretarias, la Dra. Florencia un encanto y el Dr. Mariano un artista en lo suyo.",
+          "name": "Natalia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Increíble atención de las recepcionistas y del Dr. Mariano. Me hice una limpieza, un arreglo, un implante y la corona. Todo perfecto, sin problemas y con precios accesibles.",
+          "name": "Maria Laura Salaberry",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Buenísimo lugar. Fui buscando una solución para mis dientes y en neodental encontré a la más copada, la Dra. Irusta. Estoy en muy buenas manos. Ahora con la ortodoncia, quedó espectacular.",
+          "name": "Gabriela Garcete",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Profesionales y atención de primerísima. Me sentí siempre muy cuidada. El ambiente tanto en recepción como en el consultorio es súper agradable.",
+          "name": "Felicitas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente. De a poquito van arreglando mi boca. Lau de la recepción una excelente persona, y mi doc Mariano un genio. Lugar excelente para recomendar.",
+          "name": "Mili Salias",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, predisposición y cordialidad de todos los que conforman el equipo. Turnos muy próximos. Cien por ciento recomendable.",
+          "name": "Luciana Centonze",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención de las recepcionistas, consultorios impecables y mención aparte al odontólogo Mariano, el mejor de todos. Súper recomendable.",
+          "name": "Karina Ruth Waigel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son un 10 en todo sentido: excelentes profesionales y una calidad humana que no se encuentra en ningún lado. Hace muchos años toda nuestra familia nos atendemos acá.",
+          "name": "Majo Elorza",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me encanta el lugar, pero lo que más me gusta es mi ortodoncista. Por lejos, la mejor. ¡Gracias Flor!",
+          "name": "Dolores Dominguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Todo el equipo excelente, me hicieron un implante y la verdad fue todo re bien.",
+          "name": "Gustavo Silva",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente lugar, profesional y humano. El tratamiento con alineadores 100% recomendable.",
+          "name": "Ali Cinto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son los mejores. Fui con un problema y me pudieron solucionar todo. La Dra. Irusta una genia. Y todo el equipo también.",
+          "name": "Marcos Corbalan",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Cabildo 2373, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos en minutos y coordinamos\ntu consulta con turnos próximos.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Cabildo 2373, Belgrano · CABA",
+      "hoursLine": "Lun a Vie · 9 a 20hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Belgrano.\nEquipo multidisciplinario con atención\nhumana y turnos próximos.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Odontopediatría", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Cabildo 2373, Belgrano" },
+            {
+              "label": "011 4706-2222",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "Lun a Vie · 9 a 20hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "neodental — Clínica Odontológica"
+    }
+  }
+}

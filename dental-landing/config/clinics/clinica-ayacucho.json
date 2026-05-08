@@ -1,12 +1,9 @@
 {
   "brand": {
-    "name": "Orthé Recoleta",
-    "shortName": "Orthé",
+    "name": "Clínica Ayacucho",
+    "shortName": "Ayacucho",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/orthe-recoleta/logo.png",
-      "alt": "Orthé Recoleta — Odontología Integral",
-      "height": 56
+      "type": "text"
     }
   },
   "theme": {
@@ -20,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491121634412",
-      "defaultMessage": "Hola, quiero reservar un turno en Orthé Recoleta."
+      "phone": "5491121795712",
+      "defaultMessage": "Hola, necesito atención odontológica en Clínica Ayacucho."
     },
-    "phoneDisplay": "+54 9 11 2163-4412",
-    "address": "Av. Las Heras 2125, Recoleta, CABA",
-    "hours": "Lun a Vie · 9 a 20hs · Sáb 9 a 16hs",
-    "mapQuery": "Av. Las Heras 2125, Recoleta, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 2179-5712",
+    "address": "Ayacucho 1314, Recoleta, CABA",
+    "hours": "Abierto las 24 horas · Todos los días",
+    "mapQuery": "Ayacucho 1314, Recoleta, Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://orthe-recoleta.kingdom-tech.co",
-    "title": "Orthé Recoleta — Odontología Integral | Recoleta, CABA",
-    "description": "Clínica odontológica en Recoleta. Cirugía, implantes, ortodoncia y odontología general sin dolor. Turnos por WhatsApp. 4.9★ con 348+ opiniones en Google.",
-    "ogTitle": "Orthé Recoleta — Odontología Integral sin dolor",
-    "ogDescription": "Clínica odontológica integral en Recoleta. Cirugía, implantes, ortodoncia y atención general con trato humano y sin dolor.",
-    "siteName": "Orthé Recoleta",
+    "baseUrl": "https://clinica-ayacucho.kingdom-tech.co",
+    "title": "Clínica Ayacucho — Guardia Odontológica 24hs | Recoleta",
+    "description": "Guardia odontológica abierta las 24 horas en Recoleta, CABA. Urgencias dentales, extracciones y tratamientos en cualquier momento del día.",
+    "ogTitle": "Clínica Ayacucho — Guardia Odontológica 24hs",
+    "ogDescription": "Urgencias dentales en Recoleta, CABA. Abierta las 24 horas, todos los días del año.",
+    "siteName": "Clínica Ayacucho",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica integral en Recoleta. 4.9★ con 348+ opiniones. Cirugía e implantes sin dolor.",
+    "twitterDescription": "Guardia odontológica 24hs en Recoleta. Urgencias dentales cualquier día, a cualquier hora.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Las Heras 2125",
-        "city": "Buenos Aires",
+        "street": "Ayacucho 1314",
+        "city": "Ciudad Autónoma de Buenos Aires",
         "region": "CABA",
-        "postalCode": "C1119",
+        "postalCode": "C1111",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.5889995,
-        "lng": -58.3950613
+        "lat": -34.5937,
+        "lng": -58.3934
       },
       "hours": [
         {
@@ -59,23 +56,14 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday"
+            "Friday",
+            "Saturday",
+            "Sunday"
           ],
-          "opens": "09:00",
-          "closes": "20:00"
-        },
-        {
-          "days": [
-            "Saturday"
-          ],
-          "opens": "09:00",
-          "closes": "16:00"
+          "opens": "00:00",
+          "closes": "23:59"
         }
-      ],
-      "rating": {
-        "value": 4.9,
-        "count": 348
-      }
+      ]
     }
   },
   "nav": [
@@ -109,41 +97,40 @@
     }
   ],
   "cta": {
-    "primaryLabel": "Reservá Turno",
+    "primaryLabel": "Consultar ahora",
     "contactLabel": "Contactanos"
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Las Heras 2125 · Recoleta · CABA",
+      "eyebrow": "Ayacucho 1314 · Recoleta · CABA",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Guardia odontológica\n"
         },
         {
-          "text": "Sin dolor",
+          "text": "Abierta 24 horas",
           "accent": true
         }
       ],
-      "subheadline": "Cirugía, implantes, ortodoncia y atención integral,\ncon el trato y la rapidez que buscás.",
-      "ctaLabel": "Reservá Turno",
+      "subheadline": "Urgencias dentales cualquier día, a cualquier hora.\nTe atendemos cuando más lo necesitás.",
+      "ctaLabel": "Consultar por WhatsApp",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "4.9 ★",
-        "label": "348+ opiniones en Google"
+        "brand": "24/7",
+        "label": "Guardia todos los días"
       },
       "stats": [
         {
-          "value": "9-20",
-          "label": "Lun a Vie"
+          "value": "24/7",
+          "label": "Atención"
         },
         {
-          "value": "Sáb",
-          "label": "9 a 16hs"
+          "value": "Sin",
+          "label": "Turno previo"
         },
         {
-          "value": "4.9",
-          "label": "★★★★★",
-          "labelStyle": "stars"
+          "value": "365",
+          "label": "Días al año"
         }
       ]
     },
@@ -154,18 +141,26 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Cuando los necesites",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Limpieza dental",
-          "image": "/img/limpieza.jpg"
+          "name": "Urgencias 24hs",
+          "image": "/img/emergencia.jpg"
         },
         {
-          "name": "Estética dental",
-          "image": "/img/estetica.jpg"
+          "name": "Extracciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
         },
         {
           "name": "Ortodoncia",
@@ -180,16 +175,8 @@
           "image": "/img/protesis.jpg"
         },
         {
-          "name": "Endodoncia",
-          "image": "/img/ondodoncia.jpg"
-        },
-        {
-          "name": "Odontopediatría",
-          "image": "/img/Odontopediatría.jpg"
-        },
-        {
-          "name": "Urgencias",
-          "image": "/img/emergencia.jpg"
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
         }
       ]
     },
@@ -197,18 +184,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Extracciones, cirugías y tratamientos complejos resueltos en el momento, con el equipo coordinado y "
+          "text": "Un dolor de muela no espera horarios. Por eso estamos abiertos las 24 horas, todos los días, "
         },
         {
-          "text": "sin dolor.",
+          "text": "para calmar el dolor cuando aparece.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Cirugía\nSin Dolor",
-          "body": "Extracciones de muelas de juicio e implantes que nuestros pacientes describen como rápidos, prolijos e indoloros. Con anestesia moderna y un equipo experimentado."
+          "title": "Guardia\nTodos los días",
+          "body": "Atendemos urgencias dentales las 24 horas del día, los 7 días de la semana. No importa si es madrugada, fin de semana o feriado: siempre vas a encontrar un odontólogo."
         },
         {
           "type": "image",
@@ -216,8 +203,8 @@
         },
         {
           "type": "content",
-          "title": "Equipo\nCoordinado",
-          "body": "Cada tratamiento con el profesional indicado y una recepción que resuelve turnos rápido por WhatsApp. Nuestros pacientes destacan al equipo entero, no solo al doctor."
+          "title": "Sin turno\nPrevio",
+          "body": "Vení directamente. Te atendemos por orden de llegada y resolvemos tu urgencia en el momento, con diagnóstico claro y un plan para seguir el tratamiento."
         },
         {
           "type": "image",
@@ -238,27 +225,27 @@
       ],
       "members": [
         {
-          "name": "Dra. Karina",
-          "role": "Odontología Integral",
+          "name": "Dra. Diana Hidalgo",
+          "role": "Guardia Odontológica",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr. Ignacio",
-          "role": "Cirugía Odontológica",
+          "name": "Dr. Rubio",
+          "role": "Cirugía Dental",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Sara",
-          "role": "Ortodoncia",
+          "name": "Dra. Laura Migoni",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr. David",
-          "role": "Odontología Integral",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -267,71 +254,83 @@
       "eyebrow": "Testimonios",
       "heading": [
         {
-          "text": "Pacientes que\n"
+          "text": "Historias reales\n"
         },
         {
-          "text": "Nos recomiendan",
+          "text": "Pacientes felices",
           "accent": true
         }
       ],
       "items": [
         {
-          "quote": "Excelente cirugía de muela de juicio, fue rápida y sin dolor. Muy agradecida por el trato y la contención del equipo.",
-          "name": "Magalí Mendizza",
+          "quote": "Fui un viernes a las 4 de la mañana con mucho dolor de muela y me atendieron rápido y súper bien. Fueron muy atentos y cuidadosos, yo tenía mucho miedo.",
+          "name": "Micaela D'Angelo",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me atendió el Dr. David y fue una excelente experiencia. Muy profesional, amable y atento en todo momento.",
-          "name": "Martín Fischman",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Me extraje una muela de juicio con Nacho y fue impecable. Gran profesional, todo muy claro y excelente atención.",
-          "name": "Ignacio Freiberg",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Sara es una excelente profesional, escucha y explica todo. Muy conforme con mi tratamiento de ortodoncia.",
-          "name": "Omar Gutierrez",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Me hice extracciones con Nacho y fueron rapidísimas y sin dolor. La Dra. Karina también muy detallista.",
-          "name": "Carlos Leiva",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención de todo el equipo. Muy amables y profesionales, se nota la pasión por lo que hacen.",
-          "name": "Florencia González",
+          "quote": "Hoy llevé a mi hija de 9 años a la guardia y la atención fue excelente. La Dra. Hidalgo la atendió con mucha dedicación y profesionalismo.",
+          "name": "Florencia Tello",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "La Dra. Karina es excelente, me hice varios tratamientos sin inconvenientes. Muy buena atención del equipo.",
-          "name": "Rodolfo Cano",
+          "quote": "Quiero destacar la amabilidad y paciencia del doctor Rubio. Fui a sacarme una muela por primera vez y me explicó todo el procedimiento antes de la extracción.",
+          "name": "Wendy Ailen",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a la guardia por un fuerte dolor en la muela de juicio. Hicieron todo para calmar el dolor y la Dra. Diana Hidalgo, una genia, excelente profesional.",
+          "name": "Lionel Palavecino",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención desde el asesoramiento hasta el tratamiento. Turnos rápidos y precios accesibles.",
-          "name": "Gimena Torres",
+          "quote": "Fui por guardia un domingo, me atendió la Dra. Diana Hidalgo. ¡Excelente atención de su parte!",
+          "name": "Migue",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente lugar. La atención es de lujo. Desde la recepción hasta los profesionales, todos se esmeran por atender con profesionalidad.",
+          "name": "Daniela Veiga",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me saqué una muela con el Dr. Ignacio y fue rapidísimo y sin dolor. Muy recomendable.",
-          "name": "Manuela Iparraguirre",
+          "quote": "Me atendieron rápido y bien. Tenía una infección por bruxismo, me lo trataron rápido y me medicaron. La atención en recepción también ágil.",
+          "name": "Damián Castaño",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tuve que acudir a la guardia un domingo a la noche. La atención fue excelente desde la parte administrativa hasta la doctora de guardia.",
+          "name": "Muñeca Neumann",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Turno por WhatsApp muy rápido. Me atendieron excelente y el resultado fue muy bueno. Seguro vuelvo.",
-          "name": "Ivana Mamchur",
+          "quote": "La atención de Laura Migoni fue excelente y muy eficiente. Vine por primera vez y me fui tranquila.",
+          "name": "Eloisa Palacio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La atención espectacular, desde la recepción hasta el personal de radiología. Atención súper rápida y amable.",
+          "name": "Bárbara Pombo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de la recepcionista y de la Dra. Diana Hidalgo Díaz, quienes me atendieron un domingo a las 13:30. ¡Muchas gracias!",
+          "name": "Natalia Iglesias",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención en todas las especialidades. Empleados cordiales y profesionales impecables. Muy recomendado el lugar.",
+          "name": "Maia Suárez",
           "rating": 5,
           "gender": "female"
         }
@@ -366,40 +365,30 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Las Heras 2125, Recoleta, CABA. Atendemos de lunes a viernes de 9 a 20hs y los sábados de 9 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Ayacucho 1314, Recoleta, CABA. Atendemos las 24 horas, todos los días. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
     "contactCta": {
-      "eyebrow": "Reservá turno",
+      "eyebrow": "Urgencia dental",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Estamos abiertos\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "A cualquier hora",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
-      "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Las Heras 2125, Recoleta, CABA",
-      "hoursLine": "Lun a Vie 9-20hs · Sáb 9-16hs",
+      "description": "Escribinos por WhatsApp o vení directo.\nAtendemos las 24 horas, todos los días.",
+      "ctaLabel": "Consultar por WhatsApp",
+      "addressLine": "Ayacucho 1314, Recoleta, CABA",
+      "hoursLine": "Abierto las 24 horas · Todos los días",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica integral en Recoleta.\nCirugía, implantes y ortodoncia,\ncon trato humano y sin dolor.",
+      "about": "Guardia odontológica en Recoleta, CABA.\nUrgencias dentales las 24 horas,\ntodos los días del año.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/orthe.recoleta/",
-          "external": true
-        },
-        {
-          "label": "Facebook",
-          "href": "https://www.facebook.com/Orthe.Recoleta/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -432,19 +421,19 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Cirugía odontológica",
+              "label": "Urgencias 24hs",
               "href": "#servicios"
             },
             {
-              "label": "Implantes",
+              "label": "Extracciones",
               "href": "#servicios"
             },
             {
-              "label": "Ortodoncia",
+              "label": "Endodoncia",
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
+              "label": "Odontopediatría",
               "href": "#servicios"
             }
           ]
@@ -453,24 +442,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Las Heras 2125, Recoleta"
+              "label": "Ayacucho 1314, Recoleta"
             },
             {
-              "label": "+54 9 11 2163-4412",
+              "label": "+54 9 11 2179-5712",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "+54 11 4803-3130"
-            },
-            {
-              "label": "Lun a Vie 9-20 · Sáb 9-16",
+              "label": "Abierto 24hs · Todos los días",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Orthé Recoleta"
+      "copyrightName": "Clínica Ayacucho"
     }
   }
 }

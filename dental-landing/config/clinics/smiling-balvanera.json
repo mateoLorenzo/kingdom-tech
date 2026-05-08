@@ -1,0 +1,361 @@
+{
+  "brand": {
+    "name": "Smiling Balvanera",
+    "shortName": "Smiling",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491171129824",
+      "defaultMessage": "Hola, quiero reservar un turno en Smiling Balvanera."
+    },
+    "phoneDisplay": "011 7112-9824",
+    "address": "Matheu 29, Balvanera, CABA",
+    "hours": "Lun a Sáb · 8 a 22hs · Dom 10 a 18hs",
+    "mapQuery": "Clínica Dental Smiling Balvanera, Matheu 29, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://smiling-balvanera.kingdom-tech.co",
+    "title": "Smiling Balvanera — Odontología y Radiología | CABA",
+    "description": "Clínica dental y radiología digital en Balvanera, CABA. Abiertos todos los días de 8 a 22hs. Turnos rápidos y precios accesibles. 4.6★ con 257 opiniones en Google.",
+    "ogTitle": "Smiling Balvanera — Odontología y Radiología",
+    "ogDescription": "Clínica dental y radiología en Balvanera, CABA. Abiertos los 7 días. 4.6★ con 257 opiniones en Google.",
+    "siteName": "Smiling Balvanera",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología y radiología en Balvanera, CABA. Abiertos los 7 días. 4.6★ con 257 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Matheu 29",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1082",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6094,
+        "lng": -58.4055
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "08:00",
+          "closes": "22:00"
+        },
+        {
+          "days": ["Sunday"],
+          "opens": "10:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 257
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Matheu 29 · Balvanera · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Odontología y radiología digital\nabiertos todos los días en Balvanera.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.6 ★",
+        "label": "257 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "257",
+          "label": "Reviews"
+        },
+        {
+          "value": "7 días",
+          "label": "Abiertos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con radiología in-situ", "accent": true }
+      ],
+      "items": [
+        { "name": "Radiografía panorámica", "image": "/img/limpieza.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Clínica odontológica en Balvanera " },
+        { "text": "abierta los 7 días con radiología digital.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Abiertos\nLos 7 Días",
+          "body": "Turnos de lunes a sábado de 8 a 22hs y domingos de 10 a 18hs. Pacientes destacan que resuelven todo en el día: turno por WhatsApp por la mañana y atención por la tarde."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Radiología\nDigital In-Situ",
+          "body": "Radiografía panorámica y estudios para ortodoncia resueltos en la misma visita. Sin derivaciones: diagnóstico y plan de tratamiento en un solo lugar."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Daniela Soriano",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Jainer Contreras",
+          "role": "Ortodoncia",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Mariana Miranda",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Javier Descarga",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Todo perfecto en tiempo y forma, 10/10. Soy el clásico dentistafóbico, un gran trabajo de la Dra. Laguzzi. El mes próximo voy por la prótesis inferior. Muy conforme.",
+          "name": "Juan Guerrero",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Después de 8 meses de tratamiento estoy muy feliz con el resultado de los brackets de autoligado. Con el acompañamiento del Dr. Jainer Contreras todo fue más fácil de lo que pensaba.",
+          "name": "Candela Zúñiga",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me contacté, me agendaron turno y me atendieron. Todo resuelto en un día. Me hicieron una panorámica digital, fue muy agradable. Los súper recomiendo.",
+          "name": "Yuly Mu",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Re agradecida, lo recomiendo porque es la primera vez que estoy conforme y feliz. Además accesibles en precios.",
+          "name": "Carolina Pintos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hicimos estudios para ortodoncia. Daniela, la radióloga, fue súper amable. Me puse un implante y el doctor un genio, todo súper rápido y quedó perfecto.",
+          "name": "Romina Mercado",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy miedosa con todo lo odontológico y el Dr. Jainer me ayudó a superar esos miedos. Siempre es un gusto volver. La recepción, muy atenta con cada duda.",
+          "name": "Guadalupe Gutmann",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace dos años en Smiling. Grandes profesionales. Destaco la labor de la Dra. Daniela Soriano: es empática, con buena comunicación y amable.",
+          "name": "Elisa Calvo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendieron maravillosamente. La técnica radióloga un amor, muchísima paciencia y delicadeza. Los precios son económicos. Me recomendó el lugar mi odontóloga.",
+          "name": "Leticia Ponce",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una extracción y me dieron turno para el mismo día. El odontólogo Cristian muy amable. Voy a seguir yendo: siempre tuve miedo y me hicieron sentir muy cómoda.",
+          "name": "Anael Tulian",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper atentos y amables, resolvieron todas mis dudas y problemas prácticamente en el acto. Las chicas de recepción un amor, y el Dr. Javier Descarga súper cordial.",
+          "name": "Felipe",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente la atención de todos. Los mejores del barrio. Buenas manos, calidez, cordialidad y encima buenos precios. 100% conforme.",
+          "name": "Lucas Carmonarte",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendió la Dra. Mariana Miranda, excelente, muy profesional, atenta y cuidadosa. Te va explicando el proceso y está pendiente si tenés molestia. La recomiendo.",
+          "name": "Neymar Rodríguez",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Matheu 29, Balvanera, CABA. Atendemos de lunes a sábado de 8 a 22hs y los domingos de 10 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny te damos turno en el día, los 7 días.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Matheu 29, Balvanera · CABA",
+      "hoursLine": "Lun a Sáb 8-22hs · Dom 10-18hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica dental y radiología digital\nen Balvanera, CABA.\nAbiertos todos los días.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Radiografía panorámica", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Odontopediatría", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Matheu 29, Balvanera" },
+            {
+              "label": "+54 9 11 7112-9824",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 7112-9824" },
+            { "label": "Lun-Sáb 8-22 · Dom 10-18", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Smiling Balvanera"
+    }
+  }
+}

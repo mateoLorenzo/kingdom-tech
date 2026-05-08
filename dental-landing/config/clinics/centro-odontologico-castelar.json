@@ -3,54 +3,51 @@
     "name": "Centro Odontológico",
     "shortName": "Centro Odontológico",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/centro-odontologico/logo.png",
-      "alt": "Centro Odontológico",
-      "height": 44
+      "type": "text"
     }
   },
   "theme": {
-    "primary": "#1A2D73",
-    "accent": "#38A3DE",
-    "label": "#1A2D73",
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
     "bgSoft": "#F9F9FB",
-    "footerBg": "#0A1A3C",
+    "footerBg": "#0A1F3D",
     "footerText": "#FFFFFF",
     "text": "#1A1A1A"
   },
   "contact": {
     "whatsapp": {
-      "phone": "541141583311",
-      "defaultMessage": "Hola, quiero reservar un turno en Centro Odontológico."
+      "phone": "541146294620",
+      "defaultMessage": "Hola, quiero reservar un turno en el Centro Odontológico de Castelar."
     },
-    "phoneDisplay": "+54 11 4158-3311",
-    "address": "Av. Eva Perón 5679, Mataderos, CABA",
-    "hours": "Lun a Sáb · 9 a 19hs · Dom 11 a 16hs",
-    "mapQuery": "Av. Eva Perón 5679, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 11 4629-4620",
+    "address": "Gdor. Carlos Casares 1055, Castelar, Partido de Morón",
+    "hours": "Lun a Vie · 9 a 18hs",
+    "mapQuery": "Carlos Casares 1055, Castelar, Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://centro-odontologico.kingdom-tech.co",
-    "title": "Centro Odontológico — Mataderos | CABA",
-    "description": "Clínica odontológica en Mataderos. Atención integral para toda la familia: implantes, ortodoncia, endodoncia, prótesis, diseño de sonrisa y urgencias.",
-    "ogTitle": "Centro Odontológico — Atención integral en Mataderos",
-    "ogDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia, diseño de sonrisa y urgencias.",
+    "baseUrl": "https://centro-odontologico-castelar.kingdom-tech.co",
+    "title": "Centro Odontológico — Castelar | Odontología familiar hace 10+ años",
+    "description": "Consultorio odontológico en Castelar con familias enteras atendiéndose hace más de 10 años. Odontopediatría, ortodoncia, prótesis y atención integral. Turnos por WhatsApp.",
+    "ogTitle": "Centro Odontológico Castelar — Odontología que te trata como persona",
+    "ogDescription": "Consultorio odontológico en Castelar. Familias enteras hace 10+ años. Odontopediatría, ortodoncia e integral con trato humano.",
     "siteName": "Centro Odontológico",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia y urgencias.",
+    "twitterDescription": "Consultorio odontológico en Castelar con familias enteras hace 10+ años. Odontopediatría, ortodoncia y atención humana.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Eva Perón 5679",
-        "city": "Buenos Aires",
-        "region": "CABA",
-        "postalCode": "C1440",
+        "street": "Gdor. Carlos Casares 1055",
+        "city": "Castelar",
+        "region": "Buenos Aires",
+        "postalCode": "B1712JOB",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.6621324,
-        "lng": -58.4858093
+        "lat": -34.6491805,
+        "lng": -58.6419199
       },
       "hours": [
         {
@@ -59,18 +56,10 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday",
-            "Saturday"
+            "Friday"
           ],
           "opens": "09:00",
-          "closes": "19:00"
-        },
-        {
-          "days": [
-            "Sunday"
-          ],
-          "opens": "11:00",
-          "closes": "16:00"
+          "closes": "18:00"
         }
       ]
     }
@@ -111,35 +100,35 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Eva Perón 5679 · Mataderos · CABA",
+      "eyebrow": "Gdor. Carlos Casares 1055 · Castelar",
       "headline": [
         {
           "text": "Atención\nOdontológica\n"
         },
         {
-          "text": "Familiar",
+          "text": "Humana",
           "accent": true
         }
       ],
-      "subheadline": "Turnos ágiles por WhatsApp, atención cálida\ny el cuidado profesional que tu sonrisa merece.",
+      "subheadline": "Familias enteras atendiéndose hace más de 10 años,\ncon calidez, paciencia y trato humano.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "Centro Odontológico",
-        "label": "Clínica odontológica integral en Mataderos"
+        "brand": "10+ años",
+        "label": "cuidando familias en Castelar"
       },
       "stats": [
         {
-          "value": "9-19",
-          "label": "Lun a Sáb"
+          "value": "9-18",
+          "label": "Lun a Vie"
         },
         {
-          "value": "Dom",
-          "label": "11 a 16hs"
+          "value": "WhatsApp",
+          "label": "Turnos ágiles"
         },
         {
-          "value": "7 días",
-          "label": "A la semana"
+          "value": "Familia",
+          "label": "Niños y adultos"
         }
       ]
     },
@@ -150,34 +139,34 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Para toda la familia",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Implantes",
-          "image": "/img/implantes.jpg"
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
         },
         {
           "name": "Ortodoncia",
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
         },
         {
-          "name": "Diseño de sonrisa",
-          "image": "/img/estetica.jpg"
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
-        },
-        {
-          "name": "Radiología",
-          "image": "/img/limpieza.jpg"
         },
         {
           "name": "Odontopediatría",
@@ -193,18 +182,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "En Mataderos cuidamos la sonrisa de toda la familia con atención cálida, explicaciones claras y trabajos prolijos. "
+          "text": "Lo que más repiten nuestros pacientes: 'acá me tratan como persona, no como número'. Un equipo que "
         },
         {
-          "text": "Cada paciente, cada etapa.",
+          "text": "conoce a cada familia.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Atención\nPersonalizada",
-          "body": "Te escuchamos, te explicamos cada paso y planificamos tu tratamiento en conjunto. Sin apuros, con tiempo real dedicado a vos."
+          "title": "Familias\nEnteras",
+          "body": "Hay pacientes que vienen hace más de 10 años. Niños que empezaron con nosotros a los 2 años y hoy son adolescentes. Padres que siguen eligiendo el mismo equipo."
         },
         {
           "type": "image",
@@ -212,8 +201,8 @@
         },
         {
           "type": "content",
-          "title": "Turnos\nPor WhatsApp",
-          "body": "Coordiná tu consulta con un mensaje. Respondemos rápido y te damos disponibilidad en el momento, incluso para urgencias."
+          "title": "Trato\nHumano",
+          "body": "En un sistema de salud que parece un commodity, nuestros pacientes destacan que los tratamos como personas. Escuchamos, explicamos y nos tomamos el tiempo que haga falta."
         },
         {
           "type": "image",
@@ -234,28 +223,22 @@
       ],
       "members": [
         {
-          "name": "Dra. Macarena",
+          "name": "Dra. Montecchiari",
           "role": "Odontología Integral",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dr. Pablo Gayarín",
+          "role": "Odontología Integral",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Endodoncia",
+          "name": "Dra. Fabiana De Zotti",
+          "role": "Ortodoncia y Odontopediatría",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-4.jpg"
         }
       ]
     },
@@ -272,84 +255,83 @@
       ],
       "items": [
         {
-          "quote": "Excelente centro. Me saqué una muela por dolor intenso, fue rápido y siguiendo las indicaciones no tuve complicaciones. Muy recomendable.",
-          "name": "Gustavo Ticona",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Hace años me atiendo acá. Excelentes profesionales y atención muy cálida. El diseño de sonrisa quedó impecable, toda la familia se atiende acá.",
-          "name": "Kiara Gómez",
+          "quote": "Ana es la odontopediatra de mis hijos desde los 2 años; hoy el mayor es adolescente y sigue con el mismo amor y dedicación. También empezó ortodoncia con Fabiana. Nosotros, los papás, somos pacientes de la Dra. Montechiari. ¡Familia entera!",
+          "name": "Gabriela Duarte",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Muy buena atención, amable, prolija y sin dolor. Ya fui varias veces y siempre quedo muy conforme con el trabajo.",
-          "name": "Nadia Acosta",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Buena atención y calidad. Fui por una urgencia y el trabajo quedó de diez.",
-          "name": "Albert Avendaño",
+          "quote": "En un mundo donde la salud es un commodity, es tranquilizador ver que todavía quedan lugares como este: me siento tratado como persona. Cuando hay urgencia siempre hay sobreturno. Algo fuera de lo común en el sistema de salud actual.",
+          "name": "José Luis Martinez",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención, responden consultas rápido y todo fue ágil y efectivo. Muy amables y respetuosos.",
-          "name": "Mariela Hernandez",
+          "quote": "Destaco la atención de Flavia en recepción: siempre acomodando turnos según la urgencia. Hace años nos atendemos con la Dra. Fabiana, a quien mis hijos adoran. Yo me atiendo con la Dra. María Elena y el Dr. Pablo. Los recomendamos 100%.",
+          "name": "Gisela Oliviet",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. La Dra. Macarena muy profesional y paciente. Gran experiencia.",
-          "name": "Eduardo Perez",
+          "quote": "Volví después de años y me encontré con la misma calidez y eficiencia de hace 10 años, tanto de Sandra como del Dr. Gayarín, que tiene humildad y buena fama. Cuesta conseguir turno con él. Jamás tuve problemas con un trabajo.",
+          "name": "Marcelo Zubiri",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención. Todo el personal muy amable y los resultados siempre impecables.",
-          "name": "Carlos Cella",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Trabajos impecables. Explica todo claramente y es muy detallista en lo estético. Muy conforme.",
-          "name": "Luis Alberto Romero",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Súper recomendable. Me hice varios tratamientos y siempre quedaron perfectos. Nunca tuve problemas.",
-          "name": "Soledad Apel",
+          "quote": "Excelente atención. El equipo es súper profesional, explican cada paso del tratamiento y transmiten mucha tranquilidad. El resultado fue mejor de lo que esperaba. Totalmente recomendable.",
+          "name": "Micol Alarcon",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente profesional. Me hice un conducto sin dolor, muy cuidadoso y atento. Feliz con el resultado.",
-          "name": "Jacqueline Gonzalez",
+          "quote": "Primer día que me atiendo y me sentí muy cómoda. El trato de las recepcionistas es muy cálido, al igual que el de la Dra. Montechiari. Todavía no me hizo ningún trabajo, pero siento que sabe lo que hace. Recomiendo.",
+          "name": "Silvia M.",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. Me solucionaron una extracción que en otro lugar hicieron mal. Muy recomendable.",
-          "name": "Fernando Quezada",
+          "quote": "Excelentes profesionales, excelente atención. Flavia en recepción, siempre resolviendo todas nuestras inquietudes y peticiones. ¡Súper recomendable!",
+          "name": "Paula Villa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención profesional y de las asistentes. Tanto personalmente como por WhatsApp, ofrecen siempre una atención rápida, eficiente y con excelente predisposición para resolver los inconvenientes.",
+          "name": "Viviana Zanelli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "10/10, atención excepcional y paciencia en el trato. Además, puedo comunicarme de manera rápida cuando tengo preguntas o necesito agendar turnos. ¡Muchas gracias!",
+          "name": "Abril Catalano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Impecable la atención. Encontré mi odontólogo (con la tensión que me generaba ir al dentista). El lugar está muy bien además.",
+          "name": "Mariano Potel",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Siempre me atienden muy bien. Me salvaron un diente que estaba para extracción. Impecable trabajo.",
-          "name": "Viviana Lopez",
+          "quote": "Muy buena y cordial atención, todos los profesionales con los que me atendí me trataron muy bien. Gracias, Centro Odontológico.",
+          "name": "Adrián Pal",
           "rating": 5,
-          "gender": "female"
+          "gender": "male"
         }
       ]
     },
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -374,7 +356,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Eva Perón 5679, Mataderos, CABA. Atendemos de lunes a sábado de 9 a 19hs y los domingos de 11 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Gdor. Carlos Casares 1055, Castelar, Partido de Morón. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -391,16 +373,16 @@
       ],
       "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Eva Perón 5679, Mataderos, CABA",
-      "hoursLine": "Lun a Sáb 9-19hs · Dom 11-16hs",
+      "addressLine": "Gdor. Carlos Casares 1055, Castelar",
+      "hoursLine": "Lun a Vie 9-18hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica en Mataderos.\nAtención integral para toda la familia,\ncon turnos ágiles por WhatsApp.",
+      "about": "Consultorio odontológico en Castelar.\nFamilias enteras atendiéndose hace más de 10 años,\ncon trato humano y turnos por WhatsApp.",
       "socials": [
         {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/consultoriodentalclean",
+          "label": "Facebook",
+          "href": "https://www.facebook.com/consultaodontologicagayarindezotti/",
           "external": true
         },
         {
@@ -435,7 +417,7 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Implantes",
+              "label": "Odontopediatría",
               "href": "#servicios"
             },
             {
@@ -443,7 +425,7 @@
               "href": "#servicios"
             },
             {
-              "label": "Diseño de sonrisa",
+              "label": "Prótesis",
               "href": "#servicios"
             },
             {
@@ -456,15 +438,15 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Eva Perón 5679, Mataderos"
+              "label": "Gdor. Carlos Casares 1055, Castelar"
             },
             {
-              "label": "+54 11 4158-3311",
+              "label": "+54 11 4629-4620",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Sáb 9-19 · Dom 11-16",
+              "label": "Lun a Vie 9-18hs",
               "muted": true
             }
           ]

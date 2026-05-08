@@ -1,0 +1,365 @@
+{
+  "brand": {
+    "name": "Dr. Lucero",
+    "shortName": "Dr. Lucero",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491161549081",
+      "defaultMessage": "Hola, quiero reservar un turno con el Dr. Lucero."
+    },
+    "phoneDisplay": "+54 9 11 6154-9081",
+    "address": "Godoy Cruz 2351 4H, Palermo, CABA",
+    "hours": "Lun a Jue · desde las 9hs",
+    "mapQuery": "Godoy Cruz 2351, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dr-lucero.kingdom-tech.co",
+    "title": "Dr. Víctor Lucero — Odontología en Palermo | CABA",
+    "description": "Consultorio odontológico en Palermo. Atención minuciosa y humana con más de 20 años de experiencia. Tratamientos explicados paso a paso. 4.8★ con 87 opiniones.",
+    "ogTitle": "Dr. Víctor Lucero — Odontología minuciosa en Palermo",
+    "ogDescription": "Consultorio odontológico en Palermo. Atención humana y tratamientos explicados paso a paso, con más de 20 años de experiencia.",
+    "siteName": "Consultorio Odontológico Dr. Víctor Lucero",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Palermo. 4.8★ con 87 opiniones. Atención minuciosa y humana, tratamientos explicados paso a paso.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Godoy Cruz 2351 4H",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5854,
+        "lng": -58.4213
+      },
+      "hours": [
+        {
+          "days": ["Monday"],
+          "opens": "09:00",
+          "closes": "18:00"
+        },
+        {
+          "days": ["Tuesday"],
+          "opens": "09:00",
+          "closes": "15:00"
+        },
+        {
+          "days": ["Wednesday", "Thursday"],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 87
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Godoy Cruz 2351 · Palermo · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Atención minuciosa y humana, con\ntratamientos explicados paso a paso.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.8 ★",
+        "label": "87 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "87",
+          "label": "Reviews"
+        },
+        {
+          "value": "+20",
+          "label": "Años de Exp."
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Pensados para vos", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Cada tratamiento se explica paso a paso, con paciencia y tiempo para evacuar cualquier duda. " },
+        { "text": "Tu bienestar, primero.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nMinuciosa",
+          "body": "Trabajos prolijos y precisos, cuidando cada detalle. La experiencia se nota en cada intervención, con protocolos y equipamiento de primer nivel."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Seguimiento\nPersonalizado",
+          "body": "Después de cada tratamiento hacemos un seguimiento de cómo evoluciona tu caso. No te quedás con dudas ni a mitad de camino."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé al profesional\n" },
+        { "text": "Detrás de tu sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Víctor Lucero",
+          "role": "Odontología General",
+          "experience": "+20 AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Sin dudas es el mejor odontólogo. Muy profesional y con mucha experiencia, te hace sentir cómodo en todo momento y su trabajo es impecable.",
+          "name": "Juan Alva",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "No conocía al doctor, lo busqué por una urgencia con un tratamiento de conducto que estaba mal y por suerte di con él. Es súper amable, su trato es excelente y muy humano.",
+          "name": "Marina Cáceres Giacinti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente. No tengo palabras, le tenía PÁNICO a los dentistas por malas experiencias. Leí las reseñas y me tiré el lance. No me equivoqué. Para los que tienen miedo como yo, no lo duden. Un genio y súper profesional.",
+          "name": "Evelyn Silva",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente profesional. Muy minucioso en su proceder, sus trabajos son impecables. Fui sin conocerlo con un problema serio de un implante y me lo resolvió perfectamente.",
+          "name": "Elena T",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El mejor odontólogo. Superé todos mis miedos, me explica paso a paso todo lo que hace y con muchísima paciencia. Luego de cada intervención me hace un seguimiento de cómo evoluciona.",
+          "name": "Vanina Mouzo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Cordial, atento, profesional y con evidente amplia experiencia. Recomendado.",
+          "name": "Nicolás López",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estoy sumamente agradecida de haber encontrado al Dr. Lucero en medio de un tratamiento de ortodoncia en el que llevaba 3 años y medio sin resultados. Todo cambió.",
+          "name": "Flavia Ahumada",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Víctor es un odontólogo excelente, me hizo varios trabajos impecables. Lo recomendé a toda mi familia y amigos y siempre quedaron conformes. Su atención es de diez y sigue a cada paciente de forma personalizada.",
+          "name": "Ariel Rodrigo García",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "¡Atención, calidad, profesionalismo y precios accesibles! El Dr. Lucero me escuchó, tuvo muchísima paciencia y buena predisposición con mi hija pequeña que me acompañó. Recomiendo 100%.",
+          "name": "Marina J. Haskel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. 100% profesional. Sabe y se nota. Explica todo lo que hace y se toma el tiempo para evacuar cualquier duda. El consultorio cuenta con todas las medidas sanitarias. Totalmente recomendable.",
+          "name": "Maximiliano Vázquez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Si le tenés miedo al dentista y a las agujas, este es EL lugar para ir. Un genio. Te asesora, te hace seguimiento y prácticamente ni se sienten los pinchazos. Consultorio impecable y súper equipado.",
+          "name": "Marina Iribarren",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Absolutely the best dentist in BA. Very professional, thorough, and takes the time to explain every step. Highly recommended for expats looking for a trustworthy dentist.",
+          "name": "N D",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Godoy Cruz 2351 4H, Palermo, CABA. Atendemos de lunes a jueves desde las 9hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Godoy Cruz 2351 4H, Palermo · CABA",
+      "hoursLine": "Lun a Jue · desde las 9hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Palermo.\nAtención minuciosa y humana con\nmás de 20 años de experiencia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Godoy Cruz 2351 4H, Palermo" },
+            {
+              "label": "+54 9 11 6154-9081",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "Lun a Jue · desde las 9hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio Odontológico Dr. Víctor Lucero"
+    }
+  }
+}

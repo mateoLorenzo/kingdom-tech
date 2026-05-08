@@ -1,0 +1,366 @@
+{
+  "brand": {
+    "name": "Odontología Caballito",
+    "shortName": "Caballito",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491136171213",
+      "defaultMessage": "Hola, quiero reservar un turno en Odontología Caballito."
+    },
+    "phoneDisplay": "011 3617-1213",
+    "address": "Av. Rivadavia 4704, 1° C, Caballito, CABA",
+    "hours": "Lun a Vie · 9 a 19:30hs · Sáb 9 a 14hs",
+    "mapQuery": "Odontología Caballito, Av. Rivadavia 4704, Caballito, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontologia-caballito.kingdom-tech.co",
+    "title": "Odontología Caballito — Implantes y Urgencias en el día | CABA",
+    "description": "Clínica odontológica en Caballito, CABA. Implantes dentales, cirugía y urgencias atendidas el mismo día por WhatsApp. 4.6★ con 201 opiniones en Google.",
+    "ogTitle": "Odontología Caballito — Implantes dentales",
+    "ogDescription": "Clínica odontológica en Caballito. Implantes y urgencias en el día. 4.6★ con 201 opiniones en Google.",
+    "siteName": "Odontología Caballito",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Caballito. Implantes y urgencias en el día. 4.6★ con 201 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Rivadavia 4704, 1° C",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1424",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6195,
+        "lng": -58.442
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "19:30"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "09:00",
+          "closes": "14:00"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 201
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Rivadavia 4704 · Caballito · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Implantes dentales y urgencias\natendidas el mismo día en Caballito.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.6 ★",
+        "label": "201 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "201",
+          "label": "Reviews"
+        },
+        {
+          "value": "9-19:30",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con contención y precisión", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Cirugía bucal", "image": "/img/ondodoncia.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Implantología y odontología integral en Caballito, " },
+        { "text": "con urgencias resueltas en el día.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nEn el día",
+          "body": "¿Dolor o una pieza que se movió? Escribinos por WhatsApp y te damos turno en el día. La mayoría de nuestros pacientes se van con el problema resuelto en la misma visita."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Contención\nPara cada paciente",
+          "body": "Muchos pacientes llegan con miedo o pánico al odontólogo. Te explicamos cada paso con claridad, te acompañamos durante el procedimiento y te vas con ganas de volver."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Agustina [A confirmar]",
+          "role": "Odontología · Urgencias",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Alejandro [A confirmar]",
+          "role": "Implantología · Cirugía",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Carolina [A confirmar]",
+          "role": "Endodoncia",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Nicolás [A confirmar]",
+          "role": "Implantología · Cirugía",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Fui por una urgencia con muchísimo dolor y me dieron turno por WhatsApp en el día. Destaco a la Dra. Agustina: le tenía pánico al odontólogo y me lo quitó por completo.",
+          "name": "Jorgelina Molina",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Atención excelente de los Dres. Nicolás y Alejandro. Fui por implantes y me explicaron todo con profesionalidad y carisma. Mucha contención de ambos, 100% recomendados.",
+          "name": "Laura Baumgartner",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Impecables. Nico y Ale, equipo de trabajo, lugar y equipamiento, atención, contención. Hace años nos atendemos con ellos, no los cambiamos por nadie. Excelencia sin exagerar.",
+          "name": "Sole y Marcelo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Increíble cómo trabaja todo el equipo en conjunto, desde las asistentes hasta los Dres. y Dras. Muy puntuales, higiénicos y con un profesionalismo y buena onda que se nota.",
+          "name": "Reinaldo Mujica",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Consulta agendada por WhatsApp en el día: se me corrió la retención de los brackets. La doctora súper expeditiva y puntual, solucionó todo en tiempo y forma.",
+          "name": "MAM",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy de Rosario y siempre tuvieron en cuenta eso para hacerme viajar lo menos posible. Llegué con dientes en muy mal estado, con raíces infectadas, y hoy me voy con una sonrisa impecable.",
+          "name": "Mónica Coso",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llegué por la recomendación de mi mamá. Me atendieron en tiempo récord: Renata me sugirió un conducto y Carolina fue mágica. No tuve dolor, una delicadeza para atender.",
+          "name": "Paula Esquivel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Sólo palabras de agradecimiento. Desde el primer segundo que crucé la puerta, el ambiente es de pura contención y profesionalismo. Maravillosos los Dres. Alejandro y Nicolás.",
+          "name": "Fernanda",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Terminé mi tratamiento de implante y solo puedo decir gracias a los doctores y a todo su equipo. Todo fue excelente, tal cual me lo iban explicando, con total calidez.",
+          "name": "Mariela Romero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me realicé un implante con los doctores Alejandro y Esteban, y todo el procedimiento fue impecable. Agradezco el profesionalismo, la amabilidad y la buena predisposición.",
+          "name": "Paula Labadet",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tenía mucho dolor en la encía y me atendieron de urgencia. Al día siguiente fui por una limpieza: Laura, un amor, fue un placer hacerme una limpieza con ella.",
+          "name": "Elena Matarazzo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente servicio, todo. Muy conforme con la atención del equipo.",
+          "name": "Cristian Álvarez",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Rivadavia 4704, 1° C, Caballito, CABA. Atendemos de lunes a viernes de 9 a 19:30hs y los sábados de 9 a 14hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny atendemos urgencias en el día.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Rivadavia 4704, 1° C, Caballito · CABA",
+      "hoursLine": "Lun a Vie 9-19:30hs · Sáb 9-14hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Caballito, CABA.\nImplantes dentales y urgencias\natendidas el mismo día.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://odontologiacaballito.com",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Urgencias", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Rivadavia 4704, Caballito" },
+            {
+              "label": "+54 9 11 3617-1213",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 3617-1213" },
+            { "label": "Lun a Vie 9-19:30 · Sáb 9-14", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Caballito"
+    }
+  }
+}

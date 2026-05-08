@@ -1,0 +1,313 @@
+{
+  "brand": {
+    "name": "Consultorios Odontológicos IOMA",
+    "shortName": "Odontología IOMA",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5492214368721",
+      "defaultMessage": "Hola, quiero reservar un turno en los Consultorios Odontológicos IOMA."
+    },
+    "phoneDisplay": "0221 436-8721",
+    "address": "Calle 9 Nº 1135, La Plata, Provincia de Buenos Aires",
+    "hours": "Consultá horarios por WhatsApp",
+    "mapQuery": "Consultorios Odontológicos IOMA, Calle 9 1135, La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://consultorios-odontologicos-ioma.kingdom-tech.co",
+    "title": "Consultorios Odontológicos IOMA — Cobertura total | La Plata",
+    "description": "Consultorios odontológicos en La Plata con cobertura IOMA total en todas las prestaciones. Atención puntual, trato amable y tratamientos sin dolor.",
+    "ogTitle": "Consultorios Odontológicos IOMA — La Plata",
+    "ogDescription": "Atención odontológica con cobertura IOMA total en La Plata. Puntualidad, trato amable y tratamientos sin dolor.",
+    "siteName": "Consultorios Odontológicos IOMA",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología con cobertura IOMA total en La Plata. Trato amable y puntualidad en cada turno.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Calle 9 Nº 1135",
+        "city": "La Plata",
+        "region": "Provincia de Buenos Aires",
+        "postalCode": "B1900",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.9214,
+        "lng": -57.9545
+      },
+      "hours": [],
+      "rating": {
+        "value": 3.1,
+        "count": 15
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Calle 9 Nº 1135 · La Plata · Pcia. de Buenos Aires",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Consultorios odontológicos con cobertura IOMA\ntotal en todas las prestaciones.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "IOMA",
+        "label": "cobertura total en La Plata"
+      },
+      "stats": [
+        {
+          "value": "IOMA",
+          "label": "Cobertura"
+        },
+        {
+          "value": "La Plata",
+          "label": "Centro"
+        },
+        {
+          "value": "Turnos",
+          "label": "Por WhatsApp"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con cobertura IOMA", "accent": true }
+      ],
+      "items": [
+        { "name": "Odontología general", "image": "/img/limpieza.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Atención odontológica por IOMA, " },
+        { "text": "con el respeto por tu tiempo y tu salud.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cobertura\nTotal IOMA",
+          "body": "Prestación completa con IOMA en todas las especialidades odontológicas. Turnos programados, trato amable y explicación detallada de cada tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Puntualidad\nQue Se Agradece",
+          "body": "Respetamos tus tiempos. Nuestros pacientes destacan la puntualidad y la claridad con la que explicamos cada procedimiento, desde una limpieza hasta un tratamiento complejo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Salamida [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Juan Dimattia",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Seoane [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención, me atendió el Dr. Juan Dimattia. Muy amable, me explicó todo y atendió con puntualidad. La cobertura es total en todas las prestaciones. Un lujo.",
+          "name": "María Jimena Fernández",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendió la Dra. Odonne, se tomó todo el tiempo para atenderme bien y pude terminar el tratamiento excelente. La primera vez que me ponen anestesia y no me duele. La recomiendo.",
+          "name": "Agus Avellaneda",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención de la Dra. Salamida. Puntual y eficaz.",
+          "name": "Sebastián Di Ciano",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendió la Dra. Salamida y muy buena atención.",
+          "name": "Marcela González",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena la atención y muy respetuosos con los tiempos.",
+          "name": "Esteban Kowalski",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Atención Dra. Seoane: excelente.",
+          "name": "Nora Rabuszko",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Calle 9 Nº 1135, La Plata, Provincia de Buenos Aires. Para consultar los horarios disponibles, escribinos por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu turno por IOMA.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Calle 9 Nº 1135, La Plata · Pcia. Bs. As.",
+      "hoursLine": "Consultá horarios por WhatsApp",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorios odontológicos en La Plata\ncon cobertura IOMA total\nen todas las prestaciones.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Odontología general", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Calle 9 Nº 1135, La Plata" },
+            {
+              "label": "+54 9 221 436-8721",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "0221 436-8721" },
+            { "label": "Consultá horarios por WhatsApp", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorios Odontológicos IOMA"
+    }
+  }
+}

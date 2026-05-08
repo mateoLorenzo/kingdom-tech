@@ -1,0 +1,337 @@
+{
+  "brand": {
+    "name": "Odontocentro",
+    "shortName": "Odontocentro",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491130814929",
+      "defaultMessage": "Hola, quiero reservar un turno en Odontocentro."
+    },
+    "phoneDisplay": "011 4706-0900",
+    "address": "Av. Congreso 2444 · Núñez · CABA",
+    "hours": "Lun a Vie 8-21hs · Sáb 9-14:30",
+    "mapQuery": "Av. Congreso 2444, Núñez, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontocentro.kingdom-tech.co",
+    "title": "Odontocentro — Odontología para Toda la Familia | Núñez",
+    "description": "Consultorio odontológico en Núñez, CABA. Equipo multidisciplinario, horarios amplios (Lun a Vie 8-21hs) y precios accesibles con pago en cuotas. Atención para toda la familia.",
+    "ogTitle": "Odontocentro — Odontología para Toda la Familia en Núñez",
+    "ogDescription": "Equipo multidisciplinario en Núñez, CABA. Horarios amplios, precios accesibles y pago en cuotas. Odontología integral y odontopediatría.",
+    "siteName": "Odontocentro",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Núñez. Equipo multidisciplinario, horarios amplios y precios accesibles con cuotas.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Congreso 2444",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5580,
+        "lng": -58.4626
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "21:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "09:00",
+          "closes": "14:30"
+        }
+      ],
+      "rating": {
+        "value": 4.2,
+        "count": 93
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Congreso 2444 · Núñez · CABA",
+      "headline": [
+        { "text": "Odontología para\n" },
+        { "text": "Toda la familia", "accent": true }
+      ],
+      "subheadline": "Equipo multidisciplinario en Núñez.\nHorarios amplios de 8 a 21hs\ny precios accesibles con pago en cuotas.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.2 ★",
+        "label": "con +90 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.2",
+          "label": "★★★★☆",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+90",
+          "label": "Opiniones"
+        },
+        {
+          "value": "8-21",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Para niños y adultos", "accent": true }
+      ],
+      "items": [
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Cirugía dental", "image": "/img/ondodoncia.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Pacientes que nos eligen hace años y traen a sus hijos. " },
+        { "text": "Un centro pensado para cuidar a toda la familia, en cada etapa.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Para Toda\nLa Familia",
+          "body": "Odontopediatría, ortodoncia, estética, cirugía, implantes y prótesis bajo un mismo techo. Especialistas para cada etapa — desde el primer diente del nene hasta implantes para los abuelos. Horarios amplios para coordinar con tu agenda."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Precios\nAccesibles",
+          "body": "Presupuestos transparentes, pago en cuotas y precios acordes con la excelente atención. Te explicamos cada tratamiento antes de comenzarlo y armamos un plan financiero que se adapte a tu realidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Zago",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Virgilio",
+          "role": "Director · Odontología Integral",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Andrea Bollasina",
+          "role": "Odontopediatría",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Enrique Portinari",
+          "role": "Odontopediatría",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Fui con miedo, una infección en una muela y varias cosas por hacer: extracción, 2 conductos, pernos, coronas, limpieza y placa de bruxismo. Me atendieron la Dra. Zago y la Dra. Gómez según las especialidades que necesité.",
+          "name": "Ani Elías",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Acá se atiende mi hijo de 12 años. Un lugar excelente, la atención de la Dra. Andrea Bollasina es impecable, amorosa y muy profesional. Las recepcionistas muy amables y las formas de pago muy accesibles.",
+          "name": "Carolina Tarbell",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde las recepcionistas hasta los doctores tienen una atención especial. Recomiendo al Dr. Virgilio, un amor de persona y profesional.",
+          "name": "María Del Carmen D'Adamo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me realicé un implante y no sentí ningún dolor. Un excelente trabajo, muy buen trato y empatía por parte de las profesionales. Me atendió la Dra. Achával. Lo recomiendo totalmente.",
+          "name": "Jorge Tarantini",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Destaco la atención de la recepcionista, de la ayudante y del Dr. Enrique Portinari. Empáticos, cálidos y con toda la buena predisposición. Atendieron a mi hijo y lo hicieron sentirse muy cómodo.",
+          "name": "Maru Griguol",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace muchos años. Destaco la atención de la Dra. Zago y la Dra. Gómez: te tienen paciencia, te explican todo y hacen su trabajo excelente. El precio es accesible y se puede pagar en cuotas.",
+          "name": "Ana M.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es el mejor consultorio odontológico del barrio de Núñez. Me ha tocado ser atendida de urgencia con la Dra. Andrea Belazzi y desde esa vez la elegí como mi odontóloga. Recomendación al 100%.",
+          "name": "Natalia Cabrera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace tiempo en Odontocentro y destaco que siempre me solucionan lo que necesito. Se consiguen turnos rápido y las chicas de recepción súper atentas.",
+          "name": "Matías Poisson",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Congreso 2444 · Núñez · CABA. Atendemos de lunes a viernes de 8 a 21hs y los sábados de 9 a 14:30hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Congreso 2444 · Núñez, CABA",
+      "hoursLine": "Lun a Vie 8-21hs · Sáb 9-14:30",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Núñez, CABA.\nOdontología para toda la familia\ncon horarios amplios y pago en cuotas.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Odontopediatría", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Urgencias", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Congreso 2444, Núñez" },
+            {
+              "label": "+54 9 11 3081-4929",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 4706-0900" },
+            { "label": "Lun a Vie 8-21hs · Sáb 9-14:30", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Odontocentro"
+    }
+  }
+}

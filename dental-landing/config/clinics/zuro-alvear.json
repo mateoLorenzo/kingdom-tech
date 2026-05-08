@@ -1,12 +1,9 @@
 {
   "brand": {
-    "name": "Orthé Recoleta",
-    "shortName": "Orthé",
+    "name": "Zuro Dental",
+    "shortName": "Zuro",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/orthe-recoleta/logo.png",
-      "alt": "Orthé Recoleta — Odontología Integral",
-      "height": 56
+      "type": "text"
     }
   },
   "theme": {
@@ -20,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491121634412",
-      "defaultMessage": "Hola, quiero reservar un turno en Orthé Recoleta."
+      "phone": "5491151358162",
+      "defaultMessage": "Hola, quiero reservar un turno en Zuro Dental."
     },
-    "phoneDisplay": "+54 9 11 2163-4412",
-    "address": "Av. Las Heras 2125, Recoleta, CABA",
-    "hours": "Lun a Vie · 9 a 20hs · Sáb 9 a 16hs",
-    "mapQuery": "Av. Las Heras 2125, Recoleta, Buenos Aires, Argentina"
+    "email": "hola@zurodental.com.ar",
+    "phoneDisplay": "+54 9 11 5135-8162",
+    "address": "Marcelo T. de Alvear 2345, Recoleta, CABA",
+    "hours": "Lun a Sáb · 8 a 20hs · Feriados",
+    "mapQuery": "Marcelo T. de Alvear 2345, Recoleta, Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://orthe-recoleta.kingdom-tech.co",
-    "title": "Orthé Recoleta — Odontología Integral | Recoleta, CABA",
-    "description": "Clínica odontológica en Recoleta. Cirugía, implantes, ortodoncia y odontología general sin dolor. Turnos por WhatsApp. 4.9★ con 348+ opiniones en Google.",
-    "ogTitle": "Orthé Recoleta — Odontología Integral sin dolor",
-    "ogDescription": "Clínica odontológica integral en Recoleta. Cirugía, implantes, ortodoncia y atención general con trato humano y sin dolor.",
-    "siteName": "Orthé Recoleta",
+    "baseUrl": "https://zuro-alvear.kingdom-tech.co",
+    "title": "Zuro Dental — Urgencias Odontológicas | Recoleta",
+    "description": "Clínica odontológica en Recoleta (Marcelo T. de Alvear). Turnos de urgencia en el día, cirugía maxilofacial, implantes y odontopediatría. Más de 100.000 pacientes desde 2014.",
+    "ogTitle": "Zuro Dental — Urgencias Odontológicas en Recoleta",
+    "ogDescription": "Clínica dental en Recoleta. Turnos de urgencia el mismo día, incluso sábados y feriados. Más de 100.000 pacientes desde 2014.",
+    "siteName": "Zuro Dental",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica integral en Recoleta. 4.9★ con 348+ opiniones. Cirugía e implantes sin dolor.",
+    "twitterDescription": "Clínica odontológica en Recoleta. Urgencias en el día, también sábados y feriados.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Las Heras 2125",
+        "street": "Marcelo T. de Alvear 2345",
         "city": "Buenos Aires",
         "region": "CABA",
-        "postalCode": "C1119",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.5889995,
-        "lng": -58.3950613
+        "lat": -34.596443,
+        "lng": -58.4007709
       },
       "hours": [
         {
@@ -59,22 +56,16 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday"
-          ],
-          "opens": "09:00",
-          "closes": "20:00"
-        },
-        {
-          "days": [
+            "Friday",
             "Saturday"
           ],
-          "opens": "09:00",
-          "closes": "16:00"
+          "opens": "08:00",
+          "closes": "20:00"
         }
       ],
       "rating": {
-        "value": 4.9,
-        "count": 348
+        "value": 4.3,
+        "count": 430
       }
     }
   },
@@ -114,36 +105,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Las Heras 2125 · Recoleta · CABA",
+      "eyebrow": "Marcelo T. de Alvear 2345 · Recoleta · CABA",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Sin dolor",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Cirugía, implantes, ortodoncia y atención integral,\ncon el trato y la rapidez que buscás.",
+      "subheadline": "Clínica odontológica en Recoleta.\nTurnos de urgencia en el día.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "4.9 ★",
-        "label": "348+ opiniones en Google"
+        "brand": "Zuro Dental",
+        "label": "+100.000 pacientes"
       },
       "stats": [
         {
-          "value": "9-20",
-          "label": "Lun a Vie"
+          "value": "100k+",
+          "label": "Pacientes"
         },
         {
-          "value": "Sáb",
-          "label": "9 a 16hs"
-        },
-        {
-          "value": "4.9",
+          "value": "4.3",
           "label": "★★★★★",
           "labelStyle": "stars"
+        },
+        {
+          "value": "430",
+          "label": "Reviews"
         }
       ]
     },
@@ -154,18 +145,18 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Para tu mejor sonrisa",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Limpieza dental",
-          "image": "/img/limpieza.jpg"
+          "name": "Urgencias odontológicas",
+          "image": "/img/emergencia.jpg"
         },
         {
-          "name": "Estética dental",
-          "image": "/img/estetica.jpg"
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
         },
         {
           "name": "Ortodoncia",
@@ -188,8 +179,8 @@
           "image": "/img/Odontopediatría.jpg"
         },
         {
-          "name": "Urgencias",
-          "image": "/img/emergencia.jpg"
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
         }
       ]
     },
@@ -197,18 +188,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Extracciones, cirugías y tratamientos complejos resueltos en el momento, con el equipo coordinado y "
+          "text": "Más de 30 especialistas en dos sedes de Recoleta, abiertos de lunes a sábado y también feriados. Cada paciente recibe la atención que "
         },
         {
-          "text": "sin dolor.",
+          "text": "su urgencia merece.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Cirugía\nSin Dolor",
-          "body": "Extracciones de muelas de juicio e implantes que nuestros pacientes describen como rápidos, prolijos e indoloros. Con anestesia moderna y un equipo experimentado."
+          "title": "Urgencias\nEn el día",
+          "body": "Atendemos en el mismo día — incluso sábados y feriados. WhatsApp disponible 24/7 para no dejar ningún dolor sin resolver. Nuestra especialidad es responder rápido."
         },
         {
           "type": "image",
@@ -216,8 +207,8 @@
         },
         {
           "type": "content",
-          "title": "Equipo\nCoordinado",
-          "body": "Cada tratamiento con el profesional indicado y una recepción que resuelve turnos rápido por WhatsApp. Nuestros pacientes destacan al equipo entero, no solo al doctor."
+          "title": "+100.000\nPacientes",
+          "body": "Desde 2014 acompañamos a más de cien mil pacientes con un equipo de 30+ especialistas. Calidad, calidez y resultados que se repiten en cada reseña."
         },
         {
           "type": "image",
@@ -238,27 +229,27 @@
       ],
       "members": [
         {
-          "name": "Dra. Karina",
+          "name": "Dra. Julieta",
           "role": "Odontología Integral",
-          "experience": "AÑOS DE EXP",
+          "experience": "ODONTÓLOGA",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr. Ignacio",
-          "role": "Cirugía Odontológica",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. Orlando Zurita",
+          "role": "Director · Cirugía Maxilofacial",
+          "experience": "DIRECTOR CLÍNICO",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Sara",
-          "role": "Ortodoncia",
-          "experience": "AÑOS DE EXP",
+          "name": "Dra. Sofía Müller",
+          "role": "Odontología Integral",
+          "experience": "ODONTÓLOGA",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr. David",
+          "name": "Dr. Gonzalo Miraglia",
           "role": "Odontología Integral",
-          "experience": "AÑOS DE EXP",
+          "experience": "ODONTÓLOGO",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -276,64 +267,76 @@
       ],
       "items": [
         {
-          "quote": "Excelente cirugía de muela de juicio, fue rápida y sin dolor. Muy agradecida por el trato y la contención del equipo.",
-          "name": "Magalí Mendizza",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Me atendió el Dr. David y fue una excelente experiencia. Muy profesional, amable y atento en todo momento.",
-          "name": "Martín Fischman",
+          "quote": "10/10, excelente atención y trato. Se me rompió un diente en el almuerzo, me dieron turno en el día y a la noche ya estaba cenando normalmente. El diente quedó increíblemente bien.",
+          "name": "Nicolás Tassile",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Me extraje una muela de juicio con Nacho y fue impecable. Gran profesional, todo muy claro y excelente atención.",
-          "name": "Ignacio Freiberg",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Sara es una excelente profesional, escucha y explica todo. Muy conforme con mi tratamiento de ortodoncia.",
-          "name": "Omar Gutierrez",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Me hice extracciones con Nacho y fueron rapidísimas y sin dolor. La Dra. Karina también muy detallista.",
-          "name": "Carlos Leiva",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención de todo el equipo. Muy amables y profesionales, se nota la pasión por lo que hacen.",
-          "name": "Florencia González",
+          "quote": "Fui por una molestia y una limpieza, y la doctora me extrajo la muela de juicio en el momento. No sentí nada, fue súper sencillo. Tienen facilidad de pago.",
+          "name": "Adriana Cabrera",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "La Dra. Karina es excelente, me hice varios tratamientos sin inconvenientes. Muy buena atención del equipo.",
-          "name": "Rodolfo Cano",
+          "quote": "Primera consulta con la Dra. Julieta: excelente profesional, muy amable, despejó todas mis dudas y resolvió mi urgencia en el momento. El trato es excepcional. Recomiendo completamente.",
+          "name": "Camila Reyes",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, desde la solicitud de turno hasta la recepción. Me atendió la Dra. Sofía Müller, una profesional con calidez y empatía extraordinarias. Solucionó mi urgencia en el momento.",
+          "name": "Eduardo Sergio Teran",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención desde el asesoramiento hasta el tratamiento. Turnos rápidos y precios accesibles.",
-          "name": "Gimena Torres",
+          "quote": "El Dr. Zurita y la Dra. Nadia Molinero, dos excelentes profesionales que me atendieron por cuestiones distintas. Muy agradecida, pudieron solucionar mi urgencia de forma inmediata. ¡Los recomiendo!",
+          "name": "Nair Abdala",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me saqué una muela con el Dr. Ignacio y fue rapidísimo y sin dolor. Muy recomendable.",
-          "name": "Manuela Iparraguirre",
+          "quote": "Me dieron turno por WhatsApp un lunes feriado. Llegué y no me hicieron esperar nada. Gastón, el cirujano, me sacó la muela de juicio sin dolor y muy rápido. El precio, justo. 100% recomendable.",
+          "name": "Alejo Javier Porcellana",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención telefónica, excelente atención en los consultorios tanto de las recepcionistas como del profesional. Calidad y calidez, y el lugar es un diez. ¡Gracias!",
+          "name": "Andrea Viviana Martinez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Turno por WhatsApp muy rápido. Me atendieron excelente y el resultado fue muy bueno. Seguro vuelvo.",
-          "name": "Ivana Mamchur",
+          "quote": "Excelente atención, súper rápido. Fui por primera vez, me hice chequeo general, limpieza y ahí mismo me hicieron la panorámica para sacarme las muelas de juicio.",
+          "name": "Martín Pérez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención de todo el equipo. Llegué con un cuadro complicado de tratamientos mal hechos en otro lugar y me resolvieron, en fechas cercanas a las fiestas y a un precio acorde. ¡Gracias!",
+          "name": "Jaquelina Fredes",
           "rating": 5,
           "gender": "female"
+        },
+        {
+          "quote": "Tuve un dolor en la noche, les escribí por WhatsApp y había turno a primera hora del día siguiente. Se pusieron en contacto una hora antes para confirmar y fueron muy puntuales.",
+          "name": "Salvador BS",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Pedí un turno de urgencia un sábado por la mañana y me confirmaron enseguida para la tarde. Atención muy profesional, me sacaron el dolor de muela en un fin de semana largo. ¡Altamente recomendables!",
+          "name": "Fabian Fernandez Zeller",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La clínica dental más moderna y completa que vi. El Dr. Zurita siempre atento a los detalles, cuidando al paciente lo más posible. ¡Todo más que impecable!",
+          "name": "Alejo Grondona",
+          "rating": 5,
+          "gender": "male"
         }
       ]
     },
@@ -366,7 +369,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Las Heras 2125, Recoleta, CABA. Atendemos de lunes a viernes de 9 a 20hs y los sábados de 9 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Marcelo T. de Alvear 2345, Recoleta, CABA. Atendemos de lunes a sábado de 8 a 20hs, incluso feriados. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -374,30 +377,30 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Urgencias dentales\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "En el día",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Respondemos por WhatsApp en minutos\ny coordinamos tu turno al instante.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Las Heras 2125, Recoleta, CABA",
-      "hoursLine": "Lun a Vie 9-20hs · Sáb 9-16hs",
+      "addressLine": "Marcelo T. de Alvear 2345, Recoleta",
+      "hoursLine": "Lun a Sáb · 8 a 20hs · Feriados",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica integral en Recoleta.\nCirugía, implantes y ortodoncia,\ncon trato humano y sin dolor.",
+      "about": "Clínica odontológica en Recoleta.\nMás de 100.000 pacientes desde 2014,\nurgencias incluso sábados y feriados.",
       "socials": [
         {
           "label": "Instagram",
-          "href": "https://www.instagram.com/orthe.recoleta/",
+          "href": "https://www.instagram.com/zurodental/",
           "external": true
         },
         {
           "label": "Facebook",
-          "href": "https://www.facebook.com/Orthe.Recoleta/",
+          "href": "https://www.facebook.com/zurodental/",
           "external": true
         },
         {
@@ -432,7 +435,11 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Cirugía odontológica",
+              "label": "Urgencias odontológicas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía maxilofacial",
               "href": "#servicios"
             },
             {
@@ -440,11 +447,7 @@
               "href": "#servicios"
             },
             {
-              "label": "Ortodoncia",
-              "href": "#servicios"
-            },
-            {
-              "label": "Estética dental",
+              "label": "Odontopediatría",
               "href": "#servicios"
             }
           ]
@@ -453,24 +456,28 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Las Heras 2125, Recoleta"
+              "label": "Marcelo T. de Alvear 2345, Recoleta"
             },
             {
-              "label": "+54 9 11 2163-4412",
+              "label": "+54 9 11 5135-8162",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "+54 11 4803-3130"
+              "label": "+54 11 7078-0570"
             },
             {
-              "label": "Lun a Vie 9-20 · Sáb 9-16",
+              "label": "hola@zurodental.com.ar",
+              "href": "mailto:hola@zurodental.com.ar"
+            },
+            {
+              "label": "Lun a Sáb · 8 a 20hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Orthé Recoleta"
+      "copyrightName": "Zuro Dental"
     }
   }
 }

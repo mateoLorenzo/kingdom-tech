@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "name": "Centro Odontológico Arenales",
+    "shortName": "Arenales",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491127493018",
+      "defaultMessage": "Hola, quiero reservar un turno en el Centro Odontológico Arenales."
+    },
+    "phoneDisplay": "011 4821-1558",
+    "address": "Arenales 2391, Barrio Norte, CABA",
+    "hours": "Lun a Jue · 9 a 18hs",
+    "mapQuery": "Arenales 2391, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://arenales.kingdom-tech.co",
+    "title": "Centro Odontológico Arenales — Cirugía e Implantes | Barrio Norte",
+    "description": "Centro odontológico en Barrio Norte con más de 30 años de experiencia en cirugía, implantes y odontología integral. 5.0★ en Google, atención cálida y precisa.",
+    "ogTitle": "Centro Odontológico Arenales — Cirugía e Implantes",
+    "ogDescription": "Más de 30 años cuidando sonrisas en Barrio Norte. Cirugía, implantes y odontología integral con 5.0★ en cada opinión.",
+    "siteName": "Centro Odontológico Arenales",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Barrio Norte. 5.0★ en Google, +30 años de experiencia en cirugía e implantes.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Arenales 2391",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1124AAK",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5956,
+        "lng": -58.3935
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 14
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Arenales 2391 · Barrio Norte · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Más de 30 años cuidando sonrisas\ncon cirugía, implantes y precisión.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "5.0 ★",
+        "label": "en todas las opiniones"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+30",
+          "label": "Años de Exp."
+        },
+        {
+          "value": "9-18",
+          "label": "Lun a Jue"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Cirugía", "image": "/img/ondodoncia.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Tres décadas de experiencia en cirugía e implantes, con la misma calidez de siempre. " },
+        { "text": "Pacientes que nos acompañan hace más de 30 años.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Experiencia\nQue Se Nota",
+          "body": "Más de 30 años resolviendo casos de todo tipo. La experiencia se traduce en diagnósticos certeros, procedimientos prolijos y resultados que duran."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Calidez\nEn Cada Visita",
+          "body": "Te atendemos como te gustaría ser atendido. Un equipo que trabaja junto hace años, con la misma dedicación para cada paciente."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Gustavo Rodríguez",
+          "role": "Cirugía e Implantes",
+          "experience": "+30 AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "33 años atendiéndome con el Dr. Rodríguez y los equipos que lo fueron acompañando. Excelente en todos los aspectos.",
+          "name": "Mariel Benítez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención desde que ingresás hasta que te vas. Profesionales y atentos. No dudo en recomendarlos 100%. Especiales gracias al cirujano Gustavo Rodríguez y a todo el personal que trabaja con tanta calidez.",
+          "name": "Ricardo Pascual",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente. Soy fóbica al dentista, jamás creí que podría hacerme un implante. Ni lo sentí. Fabuloso.",
+          "name": "Vivian Carrier",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me pareció un lugar limpio. Atienden muy amablemente. Los profesionales son muy serios. En resumen: muy recomendable.",
+          "name": "Norberto Kelijman Laschover",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Súper profesional. Buenísima atención.",
+          "name": "Florencia Tropea",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales. Con protocolo sanitario impecable.",
+          "name": "Silvina Irigoyen",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Profesionalismo y calidad de atención y materiales.",
+          "name": "Sebastián Meza",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelentísimo.",
+          "name": "Tati Blanca",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Arenales 2391, Barrio Norte, CABA. Atendemos de lunes a jueves de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Arenales 2391, Barrio Norte · CABA",
+      "hoursLine": "Lun a Jue · 9 a 18hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en Barrio Norte.\nMás de 30 años de experiencia\nen cirugía, implantes y odontología integral.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Cirugía", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Arenales 2391, Barrio Norte" },
+            {
+              "label": "+54 9 11 2749-3018",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 4821-1558" },
+            { "label": "Lun a Jue · 9 a 18hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico Arenales"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Clinica Dental Sur",
-    "shortName": "Dental Sur",
+    "name": "IOAT",
+    "shortName": "IOAT",
     "logo": {
       "type": "text"
     }
@@ -17,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491150373001",
-      "defaultMessage": "Hola, quiero reservar un turno en Dental Sur."
+      "phone": "5491136730177",
+      "defaultMessage": "Hola, quiero reservar un turno en IOAT."
     },
-    "phoneDisplay": "+54 9 11 5037-3001",
-    "address": "Presidente Quintana 125, Lanús Oeste",
-    "hours": "Lun a Vie · 9 a 18hs",
-    "mapQuery": "Presidente Quintana 125, Lanús Oeste, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 3673-0177",
+    "address": "Paraná 749, Pisos 4 y 7, Centro, CABA",
+    "hours": "Lun a Vie · 8 a 20hs · Sáb 8 a 14hs",
+    "mapQuery": "Paraná 749, C1017 Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental-sur.kingdom-tech.co",
-    "title": "Clinica Dental Sur — Atención sin dolor | Lanús Oeste",
-    "description": "Centro odontológico en Lanús Oeste dirigido por el Dr. Marcos Nicotra. Implantes, extracciones, urgencias y atención integral con trato cálido y honestidad.",
-    "ogTitle": "Clinica Dental Sur — Sin dolor en Lanús Oeste",
-    "ogDescription": "Centro odontológico en Lanús Oeste. Atención cercana, resolución rápida y resultados confiables.",
-    "siteName": "Clinica Dental Sur",
+    "baseUrl": "https://ioat.kingdom-tech.co",
+    "title": "IOAT — Instituto Odontológico de Alta Tecnología | Paraná 749",
+    "description": "Instituto odontológico de alta tecnología en Centro, CABA. Implantes y cirugías múltiples en un solo día, panorámica digital. 4.1★ con 1252 opiniones en Google.",
+    "ogTitle": "IOAT — Instituto Odontológico de Alta Tecnología",
+    "ogDescription": "Implantes y cirugías en un solo día, con panorámica digital. 4.1★ con 1252 opiniones.",
+    "siteName": "IOAT",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Centro odontológico en Lanús Oeste. 5.0★ con 338+ opiniones. Implantes, extracciones y atención sin dolor.",
+    "twitterDescription": "Instituto odontológico de alta tecnología en Centro, CABA. Implantes en un solo día.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Presidente Quintana 125",
-        "city": "Lanús Oeste",
-        "region": "Buenos Aires",
-        "postalCode": "B1824",
+        "street": "Paraná 749, Pisos 4 y 7",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1017",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.7101841,
-        "lng": -58.3936501
+        "lat": -34.6031,
+        "lng": -58.3901
       },
       "hours": [
         {
@@ -58,13 +58,20 @@
             "Thursday",
             "Friday"
           ],
-          "opens": "09:00",
-          "closes": "18:00"
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "14:00"
         }
       ],
       "rating": {
-        "value": 5.0,
-        "count": 338
+        "value": 4.1,
+        "count": 1252
       }
     }
   },
@@ -104,36 +111,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Presidente Quintana 125 · Lanús Oeste",
+      "eyebrow": "Paraná 749 · Centro · CABA",
       "headline": [
         {
-          "text": "Odontología\nSin dolor y\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Con confianza",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y resolución rápida,\npensada para que vengas tranquilo a cada consulta.",
+      "subheadline": "Alta tecnología dental y cirugías\nde implantes resueltas en un solo día.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "5.0 ★",
-        "label": "338+ opiniones en Google"
+        "brand": "4.1 ★",
+        "label": "1.252 opiniones en Google"
       },
       "stats": [
         {
-          "value": "5.0",
+          "value": "4.1",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "338",
+          "value": "1.252",
           "label": "Reviews"
         },
         {
-          "value": "9-18",
-          "label": "Lun a Vie"
+          "value": "Mismo día",
+          "label": "Implantes"
         }
       ]
     },
@@ -141,10 +148,10 @@
       "eyebrow": "Servicios",
       "heading": [
         {
-          "text": "Tratamientos dentales\n"
+          "text": "Alta tecnología\n"
         },
         {
-          "text": "Para tu mejor sonrisa",
+          "text": "Para toda tu boca",
           "accent": true
         }
       ],
@@ -154,15 +161,19 @@
           "image": "/img/implantes.jpg"
         },
         {
+          "name": "Cirugía múltiple",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
           "name": "Extracciones",
-          "image": "/img/emergencia.jpg"
+          "image": "/img/ondodoncia.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Prótesis dentales",
+          "name": "Coronas y prótesis",
           "image": "/img/protesis.jpg"
         },
         {
@@ -170,16 +181,12 @@
           "image": "/img/estetica.jpg"
         },
         {
-          "name": "Ortodoncia",
-          "image": "/img/brackets.jpg"
-        },
-        {
           "name": "Limpieza y prevención",
           "image": "/img/limpieza.jpg"
         },
         {
           "name": "Urgencias",
-          "image": "/img/Odontopediatría.jpg"
+          "image": "/img/emergencia.jpg"
         }
       ]
     },
@@ -187,18 +194,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que el miedo al dentista es real. Por eso priorizamos el trato humano, la honestidad al asesorar "
+          "text": "Somos un instituto con tecnología de punta. Diagnóstico con panorámica digital en el momento y "
         },
         {
-          "text": "y los tratamientos sin dolor.",
+          "text": "cirugías complejas resueltas en una sola visita.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Tratamientos\nSin dolor",
-          "body": "Trabajamos con técnicas modernas y mucha paciencia para que cada procedimiento sea lo más cómodo posible. Tu tranquilidad es nuestra prioridad."
+          "title": "Implantes\nEn un solo día",
+          "body": "Nuestras cirujanas resuelven rehabilitaciones completas en una sesión. 4 implantes en 40 minutos o casos complejos con múltiples implantes y extracciones simultáneas, con posoperatorio casi sin dolor."
         },
         {
           "type": "image",
@@ -206,8 +213,8 @@
         },
         {
           "type": "content",
-          "title": "Honestidad\nAl asesorar",
-          "body": "Te explicamos qué necesitás y qué no, sin sobrevender tratamientos. Buscamos resolverte el problema real con la mejor relación costo-beneficio."
+          "title": "Turnos rápidos\nPor WhatsApp",
+          "body": "Te damos turno el mismo día por WhatsApp, con panorámica digital en el momento. Recepción atenta y equipo preparado para pacientes con miedo al dentista."
         },
         {
           "type": "image",
@@ -228,26 +235,26 @@
       ],
       "members": [
         {
-          "name": "Dr. Marcos Nicotra",
-          "role": "Director Clínico",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dra. Lladós",
+          "role": "Cirugía · Implantología",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Implantología",
+          "name": "Dr. Tomás Colagreco",
+          "role": "Cirugía dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Rivero",
+          "role": "Endodoncia",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dr. Nuñez",
+          "role": "Odontología general",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -266,78 +273,77 @@
       ],
       "items": [
         {
-          "quote": "Me sacaron una muela de juicio rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Excelente trato humano.",
-          "name": "Natalia Naz",
+          "quote": "Atención extraordinaria de las chicas de recepción y de la Dra. Lladós, que me permitió transitar 7 cirugías de implantes más 8 extracciones todo el mismo día. Posoperatorio casi sin dolor. Fui con miedo y salí feliz.",
+          "name": "Silvina Adorno",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por un problema dental y el Dr. Marcos lo resolvió rápido. Muy profesional y cálido. Súper recomendable.",
-          "name": "Daiana Zerbini",
+          "quote": "Me hice 4 implantes el mismo día. Habré estado 40 minutos. Me tocó una cirujana bárbara, no sentí dolor ni cuando empezó ni cuando me fui a mi casa. Fui asustadísima y me fui feliz.",
+          "name": "Florlaso Laso",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención de principio a fin. Me hicieron un tratamiento de perno y corona con resultado impecable.",
-          "name": "Nadia Fernandez",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Desde la recepción hasta el Dr. Marcos, todo excelente. Me sentí muy cómodo y bien atendido.",
-          "name": "Federico Armiento",
+          "quote": "Cirugía de implantes, tres extracciones. Todo de diez. Gracias a la doctora Lladós, excelente cirugía. La atención en general muy buena y los turnos puntuales. Altamente recomendable.",
+          "name": "José Luis Ayala",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Lugar impecable. La recepcionista y el equipo muy amables. Marcos siempre honesto y resolutivo.",
-          "name": "Mayra Gabriele",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "El Dr. Marcos es un genio. Excelente atención y equipo muy buena onda. Muy recomendable.",
-          "name": "Viviana Pose",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Me hice un implante con el Dr. Marcos, muy profesional y confiable. Todo salió perfecto.",
-          "name": "Andrea Luzko",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "La atención del Dr. Marcos y su asistente es espectacular. Puntualidad, dedicación y profesionalismo.",
-          "name": "Albano Pinto",
+          "quote": "La atención es amable y rápida. Las odontólogas y los odontólogos son excelentes en su tarea y en el trato y la contención de los pacientes. Le colocaron tres implantes a mi esposa, quedaron perfectos.",
+          "name": "Alberto Raiker",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente profesional, transmite confianza. Ideal para quienes tienen miedo al dentista.",
-          "name": "Roberto Monteros",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Todo impecable. El Dr. Marcos y su equipo atendieron a toda mi familia con excelentes resultados.",
-          "name": "Patricia Griecco",
+          "quote": "Muy profesional el Dr. Tomás. Las chicas de recepción unas divinas y la señorita de la panorámica un sol. Entré muerta de miedo y al salir solo pensaba cómo no haberlo hecho antes. Fui por un implante.",
+          "name": "Delfa Sánchez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por implantes y la atención fue impecable. Muy honestos al asesorar. Me fui muy conforme.",
-          "name": "Walter Dacunda",
+          "quote": "Me atendió el Dr. Tomás Colagreco, una atención de 10. Llegué muy nerviosa y ansiosa por la cirugía, pero me brindó mucha tranquilidad y su profesionalismo fue espectacular.",
+          "name": "Aura Ramírez",
           "rating": 5,
-          "gender": "male"
+          "gender": "female"
+        },
+        {
+          "quote": "Te dan turno muy rápido por WhatsApp, buena atención en la recepción, te hacen una panorámica en el momento. Mi doctor Martínez Lalis es un excelente profesional y tiene mucha paciencia.",
+          "name": "Ari Brenda",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, súper recomendable. Dos extracciones e implantes a la vez. La doctora Llanos, excelente profesional. Salí conforme con los resultados.",
+          "name": "Alys G.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Para una persona con pánico al dentista como yo, lograron que sea una experiencia increíble. Todos desde que llegás son súper amables. Un placer, súper recomendable.",
+          "name": "Solange Peralta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "En mis 27 años tuve la mala fortuna de sufrir dos malas praxis odontológicas. Conocí al IOAT y fue un cambio enorme en mi vida. Volví a sonreír, de la mejor manera.",
+          "name": "Cinthia Domínguez",
+          "rating": 5,
+          "gender": "female"
         }
       ]
     },
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -362,7 +368,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Presidente Quintana 125, Lanús Oeste. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Paraná 749, Pisos 4 y 7, Centro, CABA. Atendemos de lunes a viernes de 8 a 20hs y los sábados de 8 a 14hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -370,25 +376,25 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Presidente Quintana 125, Lanús Oeste",
-      "hoursLine": "Lun a Vie 9-18hs",
+      "addressLine": "Paraná 749, Pisos 4 y 7 · Centro",
+      "hoursLine": "Lun a Vie 8-20hs · Sáb 8-14hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Centro odontológico en Lanús Oeste.\nAtención sin dolor, honesta y resolutiva,\npara toda la familia.",
+      "about": "Instituto odontológico de alta tecnología\nen Centro, CABA. Implantes y cirugías\nresueltas en un solo día.",
       "socials": [
         {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/dentalsur_/",
+          "label": "Web",
+          "href": "https://ioat.com.ar",
           "external": true
         },
         {
@@ -427,15 +433,15 @@
               "href": "#servicios"
             },
             {
-              "label": "Extracciones",
+              "label": "Cirugía dental",
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
+              "label": "Endodoncia",
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Coronas",
               "href": "#servicios"
             }
           ]
@@ -444,21 +450,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Presidente Quintana 125, Lanús Oeste"
+              "label": "Paraná 749, Pisos 4 y 7"
             },
             {
-              "label": "+54 9 11 5037-3001",
+              "label": "+54 9 11 3673-0177",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9-18hs",
+              "label": "Lun a Vie 8-20 · Sáb 8-14",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Clinica Dental Sur"
+      "copyrightName": "IOAT"
     }
   }
 }

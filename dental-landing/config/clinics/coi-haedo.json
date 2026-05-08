@@ -31,8 +31,6 @@
     "description": "Consultorio odontológico integral en Haedo. Ortodoncia, implantes y atención general con criterio profesional: solo intervenimos cuando hace falta.",
     "ogTitle": "COI Haedo — Odontología con criterio profesional",
     "ogDescription": "Consultorio odontológico integral en Haedo. Ortodoncia, implantes y atención con diagnóstico honesto. 4.9★ en Google.",
-    "ogImage": "/img/hero-5.jpg",
-    "ogAlt": "COI Haedo — Consultorio Odontológico Integral en Haedo",
     "siteName": "COI Haedo",
     "locale": "es_AR",
     "htmlLang": "es",
@@ -90,6 +88,10 @@
     {
       "label": "Testimonios",
       "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
     },
     {
       "label": "Turnos",
@@ -322,6 +324,39 @@
           "name": "Pablo T.",
           "rating": 5,
           "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Manuel Láinez 1325, Haedo, Partido de Morón. Atendemos de lunes a viernes de 9 a 19hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },

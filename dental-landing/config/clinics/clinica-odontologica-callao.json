@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "name": "Clínica Odontológica Callao",
+    "shortName": "Callao Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491163538440",
+      "defaultMessage": "Hola, quiero reservar un turno en Clínica Odontológica Callao."
+    },
+    "phoneDisplay": "011 6353-8440",
+    "address": "Av. Callao 1230 · Recoleta · CABA",
+    "hours": "Lun a Jue · 9 a 17hs",
+    "mapQuery": "Av. Callao 1230, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://clinica-odontologica-callao.kingdom-tech.co",
+    "title": "Clínica Odontológica Callao — Consultorio Dental | Recoleta",
+    "description": "Consultorio odontológico en Av. Callao 1230, Recoleta. Atención personalizada con tecnología de punta. Dr. Felipe, Dra. Carlota y equipo. 4.7★ en Google.",
+    "ogTitle": "Clínica Odontológica Callao — Consultorio Dental en Recoleta",
+    "ogDescription": "Atención odontológica personalizada con tecnología de punta. Dr. Felipe, Dra. Carlota y equipo en Av. Callao 1230, CABA.",
+    "siteName": "Clínica Odontológica Callao",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio dental en Av. Callao, Recoleta. Atención personalizada, tecnología de punta y 4.7★ en Google.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Callao 1230",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1018",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5960,
+        "lng": -58.3920
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 14
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Callao 1230 · Recoleta · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Consultorio odontológico en Recoleta\ncon tecnología de punta,\natención personalizada\ny seguimiento de cada caso.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.7 ★",
+        "label": "en opiniones de Google"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "Av. Callao",
+          "label": "Recoleta"
+        },
+        {
+          "value": "9-17",
+          "label": "Lun a Jue"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y tecnología", "accent": true }
+      ],
+      "items": [
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Consultorio en Av. Callao, Recoleta. " },
+        { "text": "Tecnología de punta y trato personalizado para cada paciente.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tecnología\nDe Punta",
+          "body": "Equipamiento moderno que eleva la precisión del diagnóstico y la calidad del tratamiento. Materiales de primera línea, planificación digital y resultados impecables — sin improvisar."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nPersonalizada",
+          "body": "Consulta inicial detallada, plan explicado paso a paso y seguimiento activo de tu caso. Respondemos tus dudas cuando surgen — no cuando te toca el próximo turno."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Carlota",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Felipe",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Mendes Diz",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Tardé 20 años, pero finalmente un día encontré un dentista que destaca en todos los aspectos. Una calidez humana insuperable acompañada con un profesionalismo sin precedentes dan como resultado 5 estrellas.",
+          "name": "Juan M. Gollán",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Espectacular. Atención profesional, personalizada y con tecnología de punta. Los resultados son impecables.",
+          "name": "Santiago Thompson",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Súper cálida la atención. Me atendí con la Dra. y con el Dr., gran seguimiento de mi caso. Me resolvieron el gran trauma de mi sonrisa.",
+          "name": "Federico Hack",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención y gran cuidado. Un placer tratarse con profesionales de este calibre. Recomiendo a todos los que lean atenderse aquí.",
+          "name": "Facundo Paez Allende",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención tanto del Dr. Felipe como de la Dra. Carlota.",
+          "name": "María Luz Obregón",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Servicio de 10, excelentes profesionales y calidez en el servicio.",
+          "name": "Daniela Aguirre",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención del Dr. Mendes Diz.",
+          "name": "Tomás Sarapura",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelentes profesionales.",
+          "name": "Francisco Sferco",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Callao 1230 · Recoleta · CABA. Atendemos de lunes a jueves de 9 a 17hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Callao 1230 · Recoleta, CABA",
+      "hoursLine": "Lun a Jue · 9 a 17hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Av. Callao, Recoleta.\nAtención personalizada\ncon tecnología de punta.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Limpieza y prevención", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Callao 1230, Recoleta" },
+            {
+              "label": "+54 9 11 6353-8440",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 6353-8440" },
+            { "label": "Lun a Jue · 9 a 17hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica Odontológica Callao"
+    }
+  }
+}

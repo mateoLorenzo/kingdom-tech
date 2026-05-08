@@ -1,0 +1,307 @@
+{
+  "brand": {
+    "name": "Odontología Integral",
+    "shortName": "Odontología Integral",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5492216228964",
+      "defaultMessage": "Hola, quiero reservar un turno en Odontología Integral."
+    },
+    "phoneDisplay": "0221 15-622-8964",
+    "address": "Calle 6 N° 585, La Plata, Buenos Aires",
+    "hours": "Turnos por WhatsApp",
+    "mapQuery": "Calle 6 585, La Plata, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontologia-integral-lp.kingdom-tech.co",
+    "title": "Odontología Integral — Tu Odontóloga de Cabecera | La Plata",
+    "description": "Consultorio odontológico en el centro de La Plata. Atención cálida y detallista de la Dra. Dolores para toda la familia. Turnos por WhatsApp.",
+    "ogTitle": "Odontología Integral — Tu Odontóloga de Cabecera en La Plata",
+    "ogDescription": "Atención cálida y detallista de la Dra. Dolores. Consultorio odontológico en Calle 6, La Plata.",
+    "siteName": "Odontología Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en La Plata. Atención cálida y detallista. Turnos por WhatsApp.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Calle 6 N° 585",
+        "city": "La Plata",
+        "region": "Buenos Aires",
+        "postalCode": "B1900",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.9261,
+        "lng": -57.9607
+      },
+      "rating": {
+        "value": 4.3,
+        "count": 17
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Calle 6 N° 585 · La Plata",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Tu odontóloga de cabecera en La Plata.\nAtención cálida, detallista\ny compromiso con cada paciente.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.3 ★",
+        "label": "en opiniones de Google"
+      },
+      "stats": [
+        {
+          "value": "4.3",
+          "label": "★★★★☆",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+15",
+          "label": "Opiniones"
+        },
+        {
+          "value": "100%",
+          "label": "Recomendada"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Pacientes que vuelven año tras año. " },
+        { "text": "Una odontóloga de cabecera para toda la familia.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tu Odontóloga\nDe Cabecera",
+          "body": "Pacientes que nos acompañan hace años. Un vínculo de confianza que se construye con seguimiento, disponibilidad y asesoramiento genuino sobre tu salud bucal."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Detallismo\nEn Cada Consulta",
+          "body": "Diagnósticos prolijos y tratamientos ejecutados con precisión. Te explicamos cada paso y priorizamos lo mejor para tu caso, no lo más rápido."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Dolores",
+          "role": "Odontología Integral",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Fui con una emergencia y la Dra. no solo me atendió oportunamente, sino que me asesoró con el cuidado de mi salud bucal. Desde entonces es mi odontóloga de cabecera. Recomiendo por su profesionalismo y responsabilidad.",
+          "name": "Mauricio Pugh",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención. Dolores es excelente profesional y muy detallista en su trabajo. Súper recomendable.",
+          "name": "Leo De la Llera",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, mucha disposición para ayudar a los pacientes, buen ambiente laboral. Un gusto atenderse con ustedes.",
+          "name": "Lautaro Ochoa",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente profesional, comprometida con sus pacientes. Buena ubicación del consultorio. Recomiendo.",
+          "name": "Luciana G.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi dentista hace años, siempre muy amorosa y atenta al paciente.",
+          "name": "Jesica Chuliver",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Calle 6 N° 585, La Plata, Buenos Aires. Coordinamos turnos por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Calle 6 N° 585 · La Plata",
+      "hoursLine": "Turnos por WhatsApp",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en La Plata.\nAtención cálida y detallista\npara toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Limpieza y prevención", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Calle 6 N° 585, La Plata" },
+            {
+              "label": "+54 9 221 622-8964",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "0221 15-622-8964" },
+            { "label": "Turnos por WhatsApp", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Integral"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "name": "SM Odontología",
+    "shortName": "SM Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491127590154",
+      "defaultMessage": "Hola, quiero reservar un turno en SM Odontología."
+    },
+    "phoneDisplay": "011 2759-0154",
+    "address": "Av. Córdoba 2077, CABA",
+    "hours": "Lun a Vie · 9 a 18hs",
+    "mapQuery": "Av. Córdoba 2077, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://sm-odontologia.kingdom-tech.co",
+    "title": "SM Odontología — Cirugía Dental y Ortodoncia | CABA",
+    "description": "Centro odontológico en Av. Córdoba, CABA. Especialistas en cirugía dental, muelas de juicio, ortodoncia e implantes. 5.0★ con +220 opiniones en Google y seguimiento post-operatorio diario.",
+    "ogTitle": "SM Odontología — Cirugía Dental y Ortodoncia en CABA",
+    "ogDescription": "Dr. Hernán Montes de Oca, Dra. Victoria y equipo. Extracciones sin dolor, cirugía maxilofacial y ortodoncia. 5.0★ con +220 opiniones.",
+    "siteName": "SM Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Cirugía dental, muelas de juicio, ortodoncia. 5.0★ con +220 opiniones en Google. Seguimiento post-operatorio diario.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Córdoba 2077",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1120",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6030,
+        "lng": -58.3965
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 221
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Córdoba 2077 · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Cirugía dental", "accent": true }
+      ],
+      "subheadline": "Muelas de juicio, ortodoncia\ny cirugía maxilofacial.\n5.0★ con +220 opiniones y seguimiento\nposoperatorio diario por WhatsApp.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "5.0 ★",
+        "label": "con +220 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+220",
+          "label": "Opiniones"
+        },
+        {
+          "value": "9-18",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión quirúrgica", "accent": true }
+      ],
+      "items": [
+        { "name": "Cirugía dental", "image": "/img/ondodoncia.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "5.0★ con más de 220 opiniones. " },
+        { "text": "Extracciones en minutos, sin dolor, con seguimiento diario después del procedimiento.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cirugía\nSin Dolor",
+          "body": "Muelas de juicio extraídas en minutos, incluso los casos complejos: horizontales, cerca del nervio, con riesgo de parestesia. Un equipo con años de experiencia en cirugía dental y maxilofacial, técnica precisa y anestesia efectiva."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Seguimiento\nDía Por Día",
+          "body": "El post-operatorio no te lo dejamos librado al azar. Recibís mensajes todos los días por WhatsApp — incluso fin de semana — para monitorear tu recuperación y responder cualquier duda hasta el alta."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Victoria",
+          "role": "Cirugía Maxilofacial",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Hernán Montes de Oca",
+          "role": "Director · Cirugía Dental",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Manuela",
+          "role": "Odontología Integral",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Me sacaron las 4 muelas de juicio el mismo día. Las 2 de abajo estaban cerca del nervio y de costado, era un trabajo difícil, pero Hernán Montes de Oca realizó las extracciones de manera muy profesional.",
+          "name": "Gabriel Szerman",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La Dra. Victoria, cirujana maxilofacial, me explicó todo con claridad y me dio confianza pese a mi miedo. La cirugía bien, sin dolor, y la recuperación en una semana fue muy buena. Muy recomendable.",
+          "name": "Paola I.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me realicé cirugía de muelas de juicio con el Dr. Hernán y la atención fue excelente. Se comunicaron conmigo incluso fin de semana para hacer seguimiento de cómo iba llevando esos días. Súper recomendable.",
+          "name": "Camii Argüello",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me extrajeron con éxito una muela de juicio que tenía riesgo de parestesia y estaba alojada de forma horizontal. Recuperándome sin complicaciones. Grandes profesionales, estupendo seguimiento y buen trato.",
+          "name": "Marcelo Blanco G.",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me saqué 3 muelas de juicio con Hernán, muy profesional. Recibí mucha atención después de las extracciones, me mandaron mensajes todos los días para ver cómo estaba. Me hicieron sentir muy cómoda y cuidada.",
+          "name": "Victoria B.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendí por extracción de muela de juicio y fue una intervención rapidísima (minutos) y totalmente indolora. Soy muy miedosa e impresionable, pero desde el momento cero me sentí muy contenida.",
+          "name": "Gi R.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Comencé mi tratamiento de ortodoncia a fines de 2023 y finalicé hace un mes. Desde el primer día el trato fue excelente, respondieron al instante ante cualquier duda y en todo momento el equipo muy profesional.",
+          "name": "Esteban Demarco",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fueron años de visitar otros profesionales y tener malas experiencias, pero con ellos pude comprobar que hacerse un tratamiento no tiene que ser una experiencia negativa. Súper recomendable.",
+          "name": "Sheryl M.",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Córdoba 2077, CABA. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu cirugía dental\n" },
+        { "text": "Sin miedo ni dolor", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Córdoba 2077 · CABA",
+      "hoursLine": "Lun a Vie · 9 a 18hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Centro odontológico en Av. Córdoba, CABA.\nEspecialistas en cirugía dental, muelas de juicio,\nortodoncia y seguimiento posoperatorio.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Cirugía dental", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Urgencias", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Córdoba 2077, CABA" },
+            {
+              "label": "+54 9 11 2759-0154",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 2759-0154" },
+            { "label": "Lun a Vie · 9 a 18hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "SM Odontología"
+    }
+  }
+}

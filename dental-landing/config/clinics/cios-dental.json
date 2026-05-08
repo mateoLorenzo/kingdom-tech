@@ -1,0 +1,477 @@
+{
+  "brand": {
+    "name": "C.I.O.S Dental",
+    "shortName": "C.I.O.S",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491132160533",
+      "defaultMessage": "Hola, quiero reservar un turno en C.I.O.S Dental."
+    },
+    "phoneDisplay": "+54 9 11 3216-0533",
+    "address": "Beauchef 1612, Parque Chacabuco, CABA",
+    "hours": "Lun a Vie · 8:30 a 19hs · Sáb 8:30 a 15hs",
+    "mapQuery": "Beauchef 1612, C1424 Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cios-dental.kingdom-tech.co",
+    "title": "C.I.O.S Dental — Odontología láser de alta complejidad | Parque Chacabuco",
+    "description": "Consultorio odontológico de alta complejidad con tecnología láser en Parque Chacabuco, CABA. Odontopediatría, urgencias y tratamientos con paciencia infinita. 4.9★ con 228 opiniones.",
+    "ogTitle": "C.I.O.S Dental — Odontología láser",
+    "ogDescription": "Consultorio de alta complejidad con tecnología láser en Parque Chacabuco. 4.9★ con 228 opiniones.",
+    "siteName": "C.I.O.S Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología láser de alta complejidad y odontopediatría en Parque Chacabuco. 4.9★ con 228 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Beauchef 1612",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1424",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6322,
+        "lng": -58.4389
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday"
+          ],
+          "opens": "08:30",
+          "closes": "19:30"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:30",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Wednesday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:30",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 228
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Beauchef 1612 · Parque Chacabuco · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología láser de alta complejidad\ny odontopediatría con paciencia infinita.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "228 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "228",
+          "label": "Reviews"
+        },
+        {
+          "value": "Láser",
+          "label": "Tecnología"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Alta complejidad\n"
+        },
+        {
+          "text": "Para toda la familia",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología láser",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Ortodoncia y retenedores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Limpieza y caries",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Somos un consultorio de alta complejidad con tecnología láser. Hacemos tratamientos "
+        },
+        {
+          "text": "menos invasivos y con menos dolor para grandes y chicos.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Odontopediatría\nCon amor y paciencia",
+          "body": "Los chicos no quieren atenderse en otros lados y acá pierden el miedo. Explicamos cada paso, vamos al ritmo de cada chico y logramos que los controles se vuelvan un hábito sin drama."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Urgencias\nResueltas en horas",
+          "body": "Retenedores rotos, dolores o imprevistos. Te damos sobreturno el mismo día y muchas soluciones las entregamos en menos de 2 horas. Te respondemos por WhatsApp rápido."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Seley",
+          "role": "Directora · Odontología láser",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Valentina",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Hace más de 7 años que voy a la clínica. Atención excelente, trato súper humano y calidad sobresaliente. Desde chico vengo con la Dra. Seley y desde que la conocí no me tocó la boca ningún otro odontólogo.",
+          "name": "Diego González",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Recomiendo 100% a este equipo. Me atiendo desde siempre con la Dra. Seley, el cuidado y respeto para con los pacientes es hermoso. Además es un consultorio de alta complejidad. Gracias siempre a Seley.",
+          "name": "Yanina Pucheta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias, doctora Seley. Mi hija no quería atenderse en ningún lado, pero gracias a su paciencia, dedicación y amor, fuimos destrabando el miedo. Excelente con niños.",
+          "name": "Yanina Quiroz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, mucha paciencia y excelente servicio. Ideal para personas con miedos, yo fui y me ayudaron a tranquilizarme y perder el miedo al dentista. Recomendadísimo.",
+          "name": "Flor Belén Sandoval",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo con la Dra. Seley y la Dra. Claudia. Agradecida por la paciencia infinita que me tienen. Llegué con miedo por malas experiencias y con ellas nunca sentí dolor. Muy recomendable.",
+          "name": "Gaby Ratti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una urgencia con mi hijo de 7 años, nos dieron turno el mismo día y nos atendió Valentina. Súper profesional, amorosa y con paciencia infinita. Elegimos a Valen como odontóloga de mis 2 hijos.",
+          "name": "Cynthia Coutinho",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Dra. Seley y equipo, gracias. Agradezco especialmente a la recepcionista que me consiguió un turno ya que tenía una urgencia. La odontóloga, un 10.",
+          "name": "Ulises Nardin",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Unas genias las chicas. Nos atendió Andrea, es una dulce y muy paciente con los niños. Mi hija tiene 5 años y en ningún momento tuvo miedo. Todo muy limpio, atención de 10 y precios razonables.",
+          "name": "Mel Cito",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper bien la atención. Fui de urgencia porque se rompieron mis retenedores y en menos de 2 horas me hicieron unos nuevos. Impecable la solución.",
+          "name": "Cami Belu",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Concurrí al consultorio con mi nene de 4 años. La atención fue muy buena desde el primer llamado. Le explicaron paso a paso lo que iban realizando y le dieron seguridad y tranquilidad en todo momento.",
+          "name": "Mariana Postare",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Beauchef 1612, Parque Chacabuco, CABA. Atendemos de lunes a viernes de 8:30 a 19hs y los sábados de 8:30 a 15hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Beauchef 1612 · Parque Chacabuco",
+      "hoursLine": "Lun a Vie 8:30-19 · Sáb 8:30-15",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Consultorio odontológico de alta complejidad\ncon tecnología láser en Parque Chacabuco.\nOdontopediatría y urgencias.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://cios-consultorio.com",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología láser",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Beauchef 1612, Parque Chacabuco"
+            },
+            {
+              "label": "+54 9 11 3216-0533",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 8:30-19 · Sáb 8:30-15",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "C.I.O.S Dental"
+    }
+  }
+}

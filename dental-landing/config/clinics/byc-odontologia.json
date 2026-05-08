@@ -1,0 +1,366 @@
+{
+  "brand": {
+    "name": "B&C Odontología",
+    "shortName": "B&C",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491156180968",
+      "defaultMessage": "Hola, quiero reservar un turno en B&C Odontología."
+    },
+    "phoneDisplay": "011 5618-0968",
+    "address": "Ecuador 1416, Palermo, CABA",
+    "hours": "Lun 10:30-18:30 · Mar a Vie 9-16 · Sáb 9-13",
+    "mapQuery": "B&C Odontología, Ecuador 1416, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://byc-odontologia.kingdom-tech.co",
+    "title": "B&C Odontología — Ortodoncia y alineadores | Palermo, CABA",
+    "description": "Clínica odontológica en Palermo, CABA. Ortodoncia, alineadores y odontología integral con trato cálido y cercano. 4.9★ con 79 opiniones en Google.",
+    "ogTitle": "B&C Odontología — Ortodoncia y alineadores",
+    "ogDescription": "Clínica odontológica en Palermo. Ortodoncia, alineadores y trato cálido. 4.9★ con 79 opiniones en Google.",
+    "siteName": "B&C Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Palermo. Ortodoncia, alineadores y trato cálido. 4.9★ con 79 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Ecuador 1416",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1123",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5946,
+        "lng": -58.4083
+      },
+      "hours": [
+        {
+          "days": ["Monday"],
+          "opens": "10:30",
+          "closes": "18:30"
+        },
+        {
+          "days": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "16:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "09:00",
+          "closes": "13:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 79
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Ecuador 1416 · Palermo · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Ortodoncia, alineadores y odontología\nintegral con trato cálido en Palermo.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "79 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "79",
+          "label": "Reviews"
+        },
+        {
+          "value": "Lun-Sáb",
+          "label": "Turnos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con trato cálido y cercano", "accent": true }
+      ],
+      "items": [
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Alineadores", "image": "/img/brackets.jpg" },
+        { "name": "Odontología general", "image": "/img/limpieza.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Ortodoncia y odontología integral " },
+        { "text": "con una contención que te hace volver.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tu Lugar\nSeguro",
+          "body": "Si te da miedo ir al dentista o tuviste malas experiencias, acá encontrás un lugar cálido donde te escuchan, te explican y te acompañan. Muchos pacientes dicen que ir al dentista dejó de ser un sufrimiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Ortodoncia\nCon Acompañamiento",
+          "body": "Brackets y alineadores con seguimiento cercano en cada control. Te acompañamos durante todo el tratamiento con las dudas, incomodidades y presupuestos que hacen todo más fácil."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Marianela [A confirmar]",
+          "role": "Ortodoncia · Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. María [A confirmar]",
+          "role": "Ortodoncia · Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "La Dra. Marianela lidera un equipo que brinda atención integral, cuidando la salud física y el bienestar emocional de cada paciente. Acompañamiento desde el primer momento.",
+          "name": "Leandro Llop",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace varios años me atiendo con Mar con ortodoncia y alineadores. Súper respetuosa, me acompañó con mis dudas e incomodidades haciendo todo más fácil. Precios accesibles.",
+          "name": "Paula Torós",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Después de muchos profesionales que en 5 minutos me dijeron que mi boca no tenía arreglo, fui a B&C. En un año la ortodoncia me cambió la dentadura y la sonrisa. Trato genial.",
+          "name": "Romina R.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Todo el equipo es de diez. La mejor atención y gran profesionalismo con tecnología de punta. Pero además mucha calidez.",
+          "name": "Danila Suárez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Increíble grupo de profesionales. Cada uno da lo mejor para que te sientas cómodo. Si te da miedo ir al dentista o tuviste malas experiencias, acá está tu lugar seguro.",
+          "name": "Virginia Rosset",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui luego de pasar años con temor al dentista. Me trataron con tanto amor y buena onda que desde el primer momento me sentí muy cómoda. Ahora espero con buen ánimo mi próximo turno.",
+          "name": "Shirley Mercado",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "En B&C me cambiaron la vida. Tuve malas experiencias hasta que di con ellas. Mi boca está impecable y hasta tengo ganas de ir al dentista. Súper profesionales y precios accesibles.",
+          "name": "Camila Milman",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Las mejores odontólogas/ortodoncistas. Grandes profesionales. Trato súper cálido y amoroso, fundamental en el vínculo médico-paciente. Ir al dentista dejó de ser un sufrimiento.",
+          "name": "Ornella Dimartino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy muy miedosa con los dientes. Todas son profesionales muy cálidas, me tienen toda la paciencia y eso ayuda a llevar el tratamiento contenida y contenta.",
+          "name": "Cecilia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es la primera vez que me hacen una limpieza tan bien hecha. Tenía marcas de cemento de los brackets. Laburan increíble, son un amor y con precios accesibles. Las re recomiendo.",
+          "name": "Yesica Gesteiro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales. Te acompañan, te aconsejan y te alientan durante todo el proceso de ortodoncia, incluso en los momentos donde uno no la pasa bien. Ahora yo las recomiendo.",
+          "name": "Sofía Sosa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy cálidas en el trato, personalizado, con buena predisposición. Es un placer ir al control: siento que voy a visitar a unas amigas. Los cambios en mis dientes son muy notables.",
+          "name": "Julia Zárate",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Ecuador 1416, Palermo, CABA. Atendemos los lunes de 10:30 a 18:30hs, de martes a viernes de 9 a 16hs y los sábados de 9 a 13hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Ecuador 1416, Palermo · CABA",
+      "hoursLine": "Lun 10:30-18:30 · Mar a Vie 9-16 · Sáb 9-13",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Palermo, CABA.\nOrtodoncia, alineadores y odontología\nintegral con trato cálido.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Alineadores", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Odontopediatría", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Ecuador 1416, Palermo" },
+            {
+              "label": "+54 9 11 5618-0968",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 5618-0968" },
+            { "label": "Lun-Sáb · Consultá horarios", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "B&C Odontología"
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "brand": {
+    "name": "Protección Dental Villa Crespo",
+    "shortName": "Protección Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491134203635",
+      "defaultMessage": "Hola, quiero reservar un turno en Protección Dental Villa Crespo."
+    },
+    "phoneDisplay": "011 3420-3635",
+    "address": "Luis María Drago 69, Villa Crespo, CABA",
+    "hours": "Lun a Sáb · Consultá horarios por WhatsApp",
+    "mapQuery": "Protección Dental Villa Crespo, Luis María Drago 69, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://proteccion-dental-villa-crespo.kingdom-tech.co",
+    "title": "Protección Dental Villa Crespo — Estética e Implantes | CABA",
+    "description": "Clínica odontológica en Villa Crespo, CABA. Estética dental, implantes y prótesis con explicación paso a paso. 5.0★ con 943 opiniones en Google.",
+    "ogTitle": "Protección Dental Villa Crespo — Estética e Implantes",
+    "ogDescription": "Clínica odontológica en Villa Crespo. Estética, implantes y prótesis dentales. 5.0★ con 943 opiniones en Google.",
+    "siteName": "Protección Dental Villa Crespo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología estética, implantes y prótesis en Villa Crespo. 5.0★ con 943 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Luis María Drago 69",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6007,
+        "lng": -58.437
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Wednesday", "Friday"],
+          "opens": "14:30",
+          "closes": "20:00"
+        },
+        {
+          "days": ["Tuesday"],
+          "opens": "09:30",
+          "closes": "20:00"
+        },
+        {
+          "days": ["Thursday"],
+          "opens": "09:30",
+          "closes": "13:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "10:00",
+          "closes": "13:30"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 943
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Luis María Drago 69 · Villa Crespo · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Estética dental, implantes y prótesis\nen Villa Crespo, CABA.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "5.0 ★",
+        "label": "943 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "943",
+          "label": "Reviews"
+        },
+        {
+          "value": "Lun-Sáb",
+          "label": "Turnos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con calidez y detalle", "accent": true }
+      ],
+      "items": [
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Cirugía bucal", "image": "/img/ondodoncia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Odontología estética, implantes y prótesis " },
+        { "text": "con explicación paso a paso.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Paso A Paso\nSin dudas",
+          "body": "Nuestros pacientes destacan que les explicamos cada procedimiento con detalle. Vas a entender qué se hace, por qué y qué resultado esperar antes de empezar."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Devolver\nLa Sonrisa",
+          "body": "Estética, implantes y prótesis con detalle artesanal. Muchos pacientes vienen después de malas experiencias y se van con ganas de sonreír otra vez."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. María Julia Calderón",
+          "role": "Estética · Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Juan Carlos Calderón",
+          "role": "Implantología · Cirugía",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Daria Gubanova",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Soy paciente del Dr. Juan Carlos Calderón. Acudí sin conocerlo, me motivaron sus reseñas en Google y se superó: me realizó 4 implantes, cero dolor y rápida recuperación.",
+          "name": "Oro Chomer",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia. La Dra. María Julia fue muy profesional y amable, me explicó todo el tratamiento paso a paso y me hizo sentir tranquila en todo momento.",
+          "name": "Sofía Herrera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice un tratamiento estético y quedé encantada. La Dra. Julia me explicó cada paso para que estuviera tranquila y el resultado quedó hermoso. Se nota que ama lo que hace.",
+          "name": "Yanina Pérez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui con desconfianza después de malas experiencias con otros dentistas, pero la Dra. María Julia me atendió muy bien. Se preocupan por hacerte sentir bien, incluso por WhatsApp.",
+          "name": "Daniel Argañaraz",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. La Dra. tiene una paciencia increíble. Las extracciones son sin dolor. Tuve una emergencia y no dudó en atenderme en el momento. Súper recomendable.",
+          "name": "Eva Suasnabal",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de la Dra. María Julia. La paciencia en explicarte cada paso, el lugar divino súper estético. Muy satisfecha con las prótesis dentales.",
+          "name": "Cami Cubas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia. Me realizó prótesis dentales flexibles que quedaron de 10. Volveré para seguir los tratamientos. Gracias doctores Calderón, súper recomendable.",
+          "name": "Robert Palomino",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención de todos, de la administrativa y los profesionales. Me atendieron la Dra. Gubanova y el Dr. Calderón. Agradezco el trato y el trabajo que realizaron.",
+          "name": "Belén Alcaraz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Un lujo la atención, profesionalismo y contención de la Dra. María Julia. Me siento muy cuidada. Nada parecido a otras experiencias: con ellos dan ganas de volver.",
+          "name": "María Rolero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias María Julia Calderón, excelente profesional. Su trabajo es de alta calidad. Mi salud odontológica ha mejorado enormemente y mi sonrisa luce genial.",
+          "name": "Sandra Araujo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia en Protección Dental Villa Crespo. La atención fue muy profesional y cercana desde el primer momento. Se nota el compromiso y calidez de todo el equipo.",
+          "name": "Omar Sandoval",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estando en Argentina como nómada digital, necesité varios tratamientos dentales de urgencia. El Dr. Calderón resolvió todo de manera rápida y profesional.",
+          "name": "Ceyhun Dik",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Luis María Drago 69, Villa Crespo, CABA. Atendemos de lunes a sábado; consultá los horarios por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Luis María Drago 69, Villa Crespo · CABA",
+      "hoursLine": "Lun a Sáb · Consultá horarios por WhatsApp",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Villa Crespo, CABA.\nEstética dental, implantes\ny prótesis con detalle.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://protecciondental.com",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Prótesis dentales", "href": "#servicios" },
+            { "label": "Urgencias", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Luis María Drago 69, Villa Crespo" },
+            {
+              "label": "+54 9 11 3420-3635",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 3420-3635" },
+            { "label": "Lun a Sáb · Consultá por WhatsApp", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Protección Dental Villa Crespo"
+    }
+  }
+}

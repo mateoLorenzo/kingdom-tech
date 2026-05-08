@@ -40,6 +40,11 @@ export type Testimonial = {
   avatar?: string;
 };
 
+export type FaqItem = {
+  question: string;
+  answer: string;
+};
+
 export type FooterItem = {
   label: string;
   href?: string;
@@ -144,8 +149,6 @@ export type ClinicConfig = {
     description: string;
     ogTitle: string;
     ogDescription: string;
-    ogImage: string;
-    ogAlt: string;
     siteName: string;
     locale: string;
     htmlLang: string;
@@ -190,6 +193,11 @@ export type ClinicConfig = {
       eyebrow: string;
       heading: AccentSegment[];
       items: Testimonial[];
+    };
+    faq?: {
+      eyebrow: string;
+      heading: AccentSegment[];
+      items: FaqItem[];
     };
     contactCta: {
       eyebrow: string;

@@ -1,0 +1,337 @@
+{
+  "brand": {
+    "name": "Espacio Odontológico Integral",
+    "shortName": "Espacio Odontológico",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491126720834",
+      "defaultMessage": "Hola, quiero reservar un turno en Espacio Odontológico Integral."
+    },
+    "phoneDisplay": "011 2672-0834",
+    "address": "Quesada 2392, Núñez, CABA",
+    "hours": "Abierto los 7 días · desde 9hs",
+    "mapQuery": "Quesada 2392, Núñez, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://espacio-odontologico-integral.kingdom-tech.co",
+    "title": "Espacio Odontológico Integral — Odontología con Calidez | Núñez",
+    "description": "Consultorio odontológico en Núñez, CABA. Dra. Carolina y equipo — conductos, extracciones, estética e implantes con calidez y contención. 5.0★ con +130 opiniones en Google. Abierto los 7 días.",
+    "ogTitle": "Espacio Odontológico Integral — Odontología con Calidez",
+    "ogDescription": "Dra. Carolina y equipo en Núñez, CABA. Pacientes que dejan de tenerle miedo al dentista. 5.0★ con +130 opiniones. Abierto los 7 días.",
+    "siteName": "Espacio Odontológico Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio en Núñez, CABA. Odontología integral con calidez y contención. 5.0★ con +130 opiniones. Abierto los 7 días.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Quesada 2392",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1429",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5590,
+        "lng": -58.4618
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": ["Saturday", "Sunday"],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 139
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Quesada 2392 · Núñez · Abierto los 7 días",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Cuidado odontológico con calidez\ny explicaciones claras.\nPacientes que dejaron de tenerle\nmiedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "5.0 ★",
+        "label": "con +130 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+130",
+          "label": "Opiniones"
+        },
+        {
+          "value": "7",
+          "label": "Días abierto"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "5.0★ con más de 130 opiniones. " },
+        { "text": "Pacientes que llegan con miedo y vuelven recomendando a su familia.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Calidez\nY Contención",
+          "body": "Si le tenés miedo al dentista, este es tu lugar. Caro y Delfi te reciben con paciencia, te explican cada paso y se toman el tiempo de que te sientas tranquilo antes de empezar cualquier procedimiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Consultorio\nImpecable",
+          "body": "Equipamiento moderno, protocolo sanitario riguroso y un espacio pensado para que estés cómodo. Turnos puntuales, seguimiento post-tratamiento y respuestas cuando las necesitás."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Carolina",
+          "role": "Directora · Odontología Integral",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "La doctora es una profesional impecable, pero sobre todo destaco su dulzura y paciencia. Fui por un conducto con muchísimo miedo y logró que me sintiera tranquila desde el primer momento.",
+          "name": "Martina Schmidt",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Caro me ayudó un viernes a la noche con un dolor de muelas que no podía ni hablar. Me atendió con mucho cariño y comprensión. Salí del consultorio sin dolor. Se preocupó por mí y por cómo me sentía.",
+          "name": "Luciana R.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Todo excepcional. Desde la atención administrativa por Delfina hasta la calidez en el trato y el profesionalismo de la Dra. Carolina. Resolvió mi problema, explicando en detalle cada procedimiento.",
+          "name": "Mauro Saavedra",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui por una extracción de urgencia y fue resuelta con éxito en una hora. La Dra. Caro, una genia con su trato y explicación sobre el procedimiento.",
+          "name": "Diego Di Pasquo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, el consultorio impecable y la Dra. Caro es muy amable y profesional. Explica todo con claridad y transmite mucha confianza. Ojalá la hubiese conocido antes.",
+          "name": "Agustina Sfriso",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una extracción. No solo fue ágil en el turno, sino que desde la recepción con Delfi y el trabajo impecable de Caro me hicieron sentir cómodo, super atentas y no tuve nada de dolor.",
+          "name": "Gonzalo Fernández",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui por una consulta y mi caso es complejo. El personal muy amable y el lugar impecable. La doctora explicó todo con claridad, la cita fue puntual y usan equipos modernos. Mi sonrisa está mucho mejor.",
+          "name": "Mercedes Rolón",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una urgencia y me atendieron con muchísima rapidez. Destaco el profesionalismo y, sobre todo, la calidez con la que me explicaron todo el procedimiento. Súper recomendable.",
+          "name": "Ezequiel Fernández",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Quesada 2392, Núñez, CABA. Atendemos los 7 días desde las 9hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Cuidamos tu sonrisa\n" },
+        { "text": "Con calidez", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Quesada 2392 · Núñez, CABA",
+      "hoursLine": "Abierto los 7 días · desde 9hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Núñez, CABA.\nAtención con calidez, equipamiento moderno\ny abiertos los 7 días de la semana.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Quesada 2392, Núñez, CABA" },
+            {
+              "label": "+54 9 11 2672-0834",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 2672-0834" },
+            { "label": "Abierto los 7 días · desde 9hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Espacio Odontológico Integral"
+    }
+  }
+}

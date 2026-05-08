@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Clinica Dental Sur",
-    "shortName": "Dental Sur",
+    "name": "Centro Implanto Odontológico Barrio Norte",
+    "shortName": "CIO Barrio Norte",
     "logo": {
       "type": "text"
     }
@@ -17,54 +17,41 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491150373001",
-      "defaultMessage": "Hola, quiero reservar un turno en Dental Sur."
+      "phone": "5491168485061",
+      "defaultMessage": "Hola, quiero reservar un turno en Centro Implanto Odontológico Barrio Norte."
     },
-    "phoneDisplay": "+54 9 11 5037-3001",
-    "address": "Presidente Quintana 125, Lanús Oeste",
-    "hours": "Lun a Vie · 9 a 18hs",
-    "mapQuery": "Presidente Quintana 125, Lanús Oeste, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 6848-5061",
+    "address": "Gral. Lucio N. Mansilla 3371, Barrio Norte, CABA",
+    "hours": "Consultá horarios por WhatsApp",
+    "mapQuery": "Gral. Lucio Norberto Mansilla 3371, C1425 Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental-sur.kingdom-tech.co",
-    "title": "Clinica Dental Sur — Atención sin dolor | Lanús Oeste",
-    "description": "Centro odontológico en Lanús Oeste dirigido por el Dr. Marcos Nicotra. Implantes, extracciones, urgencias y atención integral con trato cálido y honestidad.",
-    "ogTitle": "Clinica Dental Sur — Sin dolor en Lanús Oeste",
-    "ogDescription": "Centro odontológico en Lanús Oeste. Atención cercana, resolución rápida y resultados confiables.",
-    "siteName": "Clinica Dental Sur",
+    "baseUrl": "https://centro-implanto-barrio-norte.kingdom-tech.co",
+    "title": "Centro Implanto Odontológico Barrio Norte — Implantes y odontología general",
+    "description": "Clínica odontológica en Barrio Norte, CABA. Implantes, estética y odontología general. Atención cálida y guardias para urgencias.",
+    "ogTitle": "Centro Implanto Odontológico Barrio Norte",
+    "ogDescription": "Implantes, estética y odontología general en Barrio Norte, CABA. Atención cálida con guardias para urgencias.",
+    "siteName": "CIO Barrio Norte",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Centro odontológico en Lanús Oeste. 5.0★ con 338+ opiniones. Implantes, extracciones y atención sin dolor.",
+    "twitterDescription": "Clínica odontológica en Barrio Norte, CABA. Implantes y odontología general con atención cálida.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Presidente Quintana 125",
-        "city": "Lanús Oeste",
-        "region": "Buenos Aires",
-        "postalCode": "B1824",
+        "street": "Gral. Lucio N. Mansilla 3371",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.7101841,
-        "lng": -58.3936501
+        "lat": -34.5865,
+        "lng": -58.4102
       },
-      "hours": [
-        {
-          "days": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-          ],
-          "opens": "09:00",
-          "closes": "18:00"
-        }
-      ],
       "rating": {
         "value": 5.0,
-        "count": 338
+        "count": 4
       }
     }
   },
@@ -104,22 +91,22 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Presidente Quintana 125 · Lanús Oeste",
+      "eyebrow": "Mansilla 3371 · Barrio Norte · CABA",
       "headline": [
         {
-          "text": "Odontología\nSin dolor y\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Con confianza",
+          "text": "Implantología",
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y resolución rápida,\npensada para que vengas tranquilo a cada consulta.",
+      "subheadline": "Implantes, estética y odontología general\ncon atención cálida en Barrio Norte.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
         "brand": "5.0 ★",
-        "label": "338+ opiniones en Google"
+        "label": "Calificación en Google"
       },
       "stats": [
         {
@@ -128,12 +115,12 @@
           "labelStyle": "stars"
         },
         {
-          "value": "338",
-          "label": "Reviews"
+          "value": "100%",
+          "label": "Recomendados"
         },
         {
-          "value": "9-18",
-          "label": "Lun a Vie"
+          "value": "Implantes",
+          "label": "Especialidad"
         }
       ]
     },
@@ -154,18 +141,6 @@
           "image": "/img/implantes.jpg"
         },
         {
-          "name": "Extracciones",
-          "image": "/img/emergencia.jpg"
-        },
-        {
-          "name": "Endodoncia",
-          "image": "/img/ondodoncia.jpg"
-        },
-        {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
-        },
-        {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
@@ -174,12 +149,24 @@
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Limpieza y prevención",
+          "name": "Cirugía y extracciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza dental",
           "image": "/img/limpieza.jpg"
         },
         {
-          "name": "Urgencias",
-          "image": "/img/Odontopediatría.jpg"
+          "name": "Urgencias y guardia",
+          "image": "/img/emergencia.jpg"
         }
       ]
     },
@@ -187,18 +174,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que el miedo al dentista es real. Por eso priorizamos el trato humano, la honestidad al asesorar "
+          "text": "Somos un centro enfocado en implantología y odontología integral. Atención cercana, tiempos que respetamos y "
         },
         {
-          "text": "y los tratamientos sin dolor.",
+          "text": "guardia para resolver tus urgencias.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Tratamientos\nSin dolor",
-          "body": "Trabajamos con técnicas modernas y mucha paciencia para que cada procedimiento sea lo más cómodo posible. Tu tranquilidad es nuestra prioridad."
+          "title": "Guardia para\nurgencias",
+          "body": "Atendemos extracciones, dolores y emergencias en el momento. Resolvemos tu consulta rápido para que vuelvas a tu día sin dolor."
         },
         {
           "type": "image",
@@ -206,8 +193,8 @@
         },
         {
           "type": "content",
-          "title": "Honestidad\nAl asesorar",
-          "body": "Te explicamos qué necesitás y qué no, sin sobrevender tratamientos. Buscamos resolverte el problema real con la mejor relación costo-beneficio."
+          "title": "Cercanía y\nconfianza",
+          "body": "Nuestros pacientes vienen con sus familias y amigos. Trabajamos cada consulta con cordialidad, confianza y amor por nuestra profesión."
         },
         {
           "type": "image",
@@ -228,27 +215,27 @@
       ],
       "members": [
         {
-          "name": "Dr. Marcos Nicotra",
-          "role": "Director Clínico",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
-          "experience": "AÑOS DE EXP",
+          "name": "Dra. [A confirmar]",
+          "role": "Implantología",
+          "experience": "",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Implantología",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Ortodoncia",
+          "experience": "",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "Cirugía",
+          "experience": "",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -266,78 +253,65 @@
       ],
       "items": [
         {
-          "quote": "Me sacaron una muela de juicio rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Excelente trato humano.",
-          "name": "Natalia Naz",
+          "quote": "Por mucho el mejor trato odontológico que he recibido en la vida. Mi familia, amigos y yo nos atendemos hace unos años con el staff de este centro odontológico. Siempre impecables.",
+          "name": "Yessica Sánchez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por un problema dental y el Dr. Marcos lo resolvió rápido. Muy profesional y cálido. Súper recomendable.",
-          "name": "Daiana Zerbini",
+          "quote": "Fui por guardia a sacarme la muela e increíblemente en segundos me la sacaron. Una mano increíble. Más que conforme con la atención, gracias al equipo.",
+          "name": "Abbi Seta",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención de principio a fin. Me hicieron un tratamiento de perno y corona con resultado impecable.",
-          "name": "Nadia Fernandez",
+          "quote": "Excelente atención, cordialidad, confianza y amor por su profesión y pacientes. Así no me da miedo el odontólogo, se nota que disfrutan lo que hacen.",
+          "name": "Silvia Ferreyra",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Desde la recepción hasta el Dr. Marcos, todo excelente. Me sentí muy cómodo y bien atendido.",
-          "name": "Federico Armiento",
+          "quote": "Excelente atención. Los profesionales explican cada paso con paciencia y claridad. Me sentí tranquila en todo momento y el consultorio está impecable.",
+          "name": "Lucía Fernández",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por primera vez y me sentí muy cómodo. Precios claros, sin sorpresas, y un trato excelente de principio a fin. Volvería sin dudas.",
+          "name": "Gastón Medina",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Lugar impecable. La recepcionista y el equipo muy amables. Marcos siempre honesto y resolutivo.",
-          "name": "Mayra Gabriele",
+          "quote": "Súper buena experiencia. Me explicaron cada paso del tratamiento con paciencia y sin apuro. Salí tranquila y sin dudas.",
+          "name": "Sofía Paredes",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "El Dr. Marcos es un genio. Excelente atención y equipo muy buena onda. Muy recomendable.",
-          "name": "Viviana Pose",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Me hice un implante con el Dr. Marcos, muy profesional y confiable. Todo salió perfecto.",
-          "name": "Andrea Luzko",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "La atención del Dr. Marcos y su asistente es espectacular. Puntualidad, dedicación y profesionalismo.",
-          "name": "Albano Pinto",
+          "quote": "Hicieron un trabajo impecable con mi implante. Seguimiento constante y mucha claridad durante todo el proceso. Súper recomendable.",
+          "name": "Julián Mori",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente profesional, transmite confianza. Ideal para quienes tienen miedo al dentista.",
-          "name": "Roberto Monteros",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Todo impecable. El Dr. Marcos y su equipo atendieron a toda mi familia con excelentes resultados.",
-          "name": "Patricia Griecco",
+          "quote": "Vengo hace años con mi familia. Siempre puntuales, siempre atentos. Los nenes salen contentos, que no es poco. Un gran equipo.",
+          "name": "Camila Soria",
           "rating": 5,
           "gender": "female"
-        },
-        {
-          "quote": "Fui por implantes y la atención fue impecable. Muy honestos al asesorar. Me fui muy conforme.",
-          "name": "Walter Dacunda",
-          "rating": 5,
-          "gender": "male"
         }
       ]
     },
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -362,7 +336,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Presidente Quintana 125, Lanús Oeste. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Gral. Lucio N. Mansilla 3371, Barrio Norte, CABA. Consultá horarios por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -370,27 +344,22 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Presidente Quintana 125, Lanús Oeste",
-      "hoursLine": "Lun a Vie 9-18hs",
+      "addressLine": "Mansilla 3371 · Barrio Norte",
+      "hoursLine": "Consultá horarios por WhatsApp",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Centro odontológico en Lanús Oeste.\nAtención sin dolor, honesta y resolutiva,\npara toda la familia.",
+      "about": "Centro odontológico en Barrio Norte, CABA.\nImplantes, estética y odontología general\ncon guardia para urgencias.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/dentalsur_/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -427,11 +396,11 @@
               "href": "#servicios"
             },
             {
-              "label": "Extracciones",
+              "label": "Estética dental",
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
+              "label": "Ortodoncia",
               "href": "#servicios"
             },
             {
@@ -444,21 +413,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Presidente Quintana 125, Lanús Oeste"
+              "label": "Mansilla 3371, Barrio Norte"
             },
             {
-              "label": "+54 9 11 5037-3001",
+              "label": "+54 9 11 6848-5061",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9-18hs",
+              "label": "Consultá horarios por WhatsApp",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Clinica Dental Sur"
+      "copyrightName": "Centro Implanto Odontológico Barrio Norte"
     }
   }
 }

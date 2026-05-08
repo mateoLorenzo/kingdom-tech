@@ -1,0 +1,359 @@
+{
+  "brand": {
+    "name": "San Isidro Labrador",
+    "shortName": "San Isidro Labrador",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491124672026",
+      "defaultMessage": "Hola, quiero reservar un turno en el Centro Odontológico San Isidro Labrador."
+    },
+    "phoneDisplay": "011 2467-2026",
+    "address": "Anatole France 3012, San Isidro, Provincia de Buenos Aires",
+    "hours": "Lun a Vie · 8 a 22hs",
+    "mapQuery": "Anatole France 3012, San Isidro, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://san-isidro-labrador.kingdom-tech.co",
+    "title": "San Isidro Labrador — Centro Odontológico | San Isidro",
+    "description": "Centro odontológico en San Isidro con equipo multidisciplinario, guardia de urgencias y atención de Lunes a Viernes de 8 a 22hs. Familias que nos confían hace más de 20 años.",
+    "ogTitle": "San Isidro Labrador — Centro Odontológico en San Isidro",
+    "ogDescription": "Equipo multidisciplinario en San Isidro: cirugía, implantes, ortodoncia y guardia de urgencias. Atención de Lun a Vie, 8 a 22hs.",
+    "siteName": "San Isidro Labrador — Centro Odontológico",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en San Isidro. Guardia de urgencias y equipo multidisciplinario, con atención de Lun a Vie, 8 a 22hs.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Anatole France 3012",
+        "city": "San Isidro",
+        "region": "Buenos Aires",
+        "postalCode": "B1642GHB",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.4857,
+        "lng": -58.5236
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "22:00"
+        }
+      ],
+      "rating": {
+        "value": 2.6,
+        "count": 223
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Anatole France 3012 · San Isidro · GBA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Equipo multidisciplinario en San Isidro\ncon guardia de urgencias 14hs por día.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "+20 Años",
+        "label": "Atendiendo San Isidro"
+      },
+      "stats": [
+        {
+          "value": "+20",
+          "label": "Años de Exp."
+        },
+        {
+          "value": "223",
+          "label": "Opiniones"
+        },
+        {
+          "value": "8-22",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Para toda la familia", "accent": true }
+      ],
+      "items": [
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Cirugía", "image": "/img/ondodoncia.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Un centro odontológico completo: todas las especialidades bajo un mismo techo, con guardia rápida y respuesta por WhatsApp. " },
+        { "text": "Familias que nos confían hace más de 20 años.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Guardia\nDe Urgencias",
+          "body": "Atendemos urgencias en el día, de Lunes a Viernes de 8 a 22hs. Si te duele, no esperás: tomamos el caso y lo resolvemos rápido."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo\nMultidisciplinario",
+          "body": "Odontología general, cirugía, implantes, ortodoncia y estética. Un mismo equipo resuelve todo tu tratamiento, sin derivaciones externas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Micaela Cerrutti",
+          "role": "Odontología General",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ivo Petrovic",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Florencia Leoni",
+          "role": "Odontología General",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Gómez",
+          "role": "Cirugía e Implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Voy al centro odontológico desde hace aproximadamente 17 años. Excelentes los profesionales de todas las áreas: odontología general, ortodoncia, cirugía. Somos una familia numerosa y siempre nos atienden bien.",
+          "name": "Mercedes Curti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia. Saqué turno por WhatsApp, súper fácil y rápido. Las recepcionistas muy amables. Recomiendo.",
+          "name": "Ana B.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Agradezco enormemente el profesionalismo de la Dra. Micaela Cerrutti y su trato tan amable.",
+          "name": "Lucia Federighi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Cálida y eficiente recepción, especialmente Patricia, que es con la que más traté. Mucha paciencia. El Dr. Ivo Petrovic excelente y expeditivo.",
+          "name": "Margarita Elena Thomas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Impecable. El Dr. Gómez un 10. Me fui con una muela menos pero feliz, impecable su atención.",
+          "name": "Paloma Sarkany",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una urgencia y me atendieron rápido. Después me dieron turno para el otro día. Excelente atención, unos genios. El lugar impecable.",
+          "name": "Carolina Elisa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a la clínica después de pasar por varios odontólogos sin pegar en la tecla con lo que tenía. Me atendió el Dr. Ivo Petrovic, impecable y amable, me explicó todo con mucha paciencia.",
+          "name": "Andrea D'Alessio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente. Fui por urgencia 20 minutos antes del cierre. Me trataron sumamente bien, muy agradables y me solucionaron el problema.",
+          "name": "Flor Patagonia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui para sacarme una muela de juicio, la Dra. Delgado una genia, excelente profesional, y toda la paciencia para aclarar mis dudas. La asistente Nancy también amorosa. El Dr. Gómez me retiró los puntos, un genio también.",
+          "name": "Andy D.V.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Increíble hoy por hoy que se critica tanto: en este lugar la atención es buena, el personal increíble y la doctora que me atiende no la dejo más. Gracias Florencia Leoni.",
+          "name": "Inés Baiguera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena la atención del centro. Recomiendo al Dr. Gómez. Excelente profesional: cálido, explica todo con detalle y tranquilidad.",
+          "name": "Mercedes Rebay",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La guardia realiza una atención excelente. Fui en dos oportunidades y me atendieron dos odontólogos diferentes. Realmente para felicitar: acá sí atienden muy bien.",
+          "name": "Omar Chull",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Anatole France 3012, San Isidro, Provincia de Buenos Aires. Atendemos de lunes a viernes de 8 a 22hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Anatole France 3012, San Isidro",
+      "hoursLine": "Lun a Vie · 8 a 22hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en San Isidro.\nEquipo multidisciplinario con guardia\nde urgencias 14hs por día.",
+      "socials": [
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/odontologia.sil",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Urgencias", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Cirugía", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Anatole France 3012, San Isidro" },
+            {
+              "label": "+54 9 11 2467-2026",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "Lun a Vie · 8 a 22hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "San Isidro Labrador — Centro Odontológico"
+    }
+  }
+}

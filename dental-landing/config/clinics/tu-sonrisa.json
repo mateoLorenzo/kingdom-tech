@@ -1,56 +1,53 @@
 {
   "brand": {
-    "name": "Centro Odontológico",
-    "shortName": "Centro Odontológico",
+    "name": "Tu Sonrisa Odontología",
+    "shortName": "Tu Sonrisa",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/centro-odontologico/logo.png",
-      "alt": "Centro Odontológico",
-      "height": 44
+      "type": "text"
     }
   },
   "theme": {
-    "primary": "#1A2D73",
-    "accent": "#38A3DE",
-    "label": "#1A2D73",
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
     "bgSoft": "#F9F9FB",
-    "footerBg": "#0A1A3C",
+    "footerBg": "#0A1F3D",
     "footerText": "#FFFFFF",
     "text": "#1A1A1A"
   },
   "contact": {
     "whatsapp": {
-      "phone": "541141583311",
-      "defaultMessage": "Hola, quiero reservar un turno en Centro Odontológico."
+      "phone": "541139867665",
+      "defaultMessage": "Hola, quiero reservar un turno en Tu Sonrisa Odontología."
     },
-    "phoneDisplay": "+54 11 4158-3311",
-    "address": "Av. Eva Perón 5679, Mataderos, CABA",
-    "hours": "Lun a Sáb · 9 a 19hs · Dom 11 a 16hs",
-    "mapQuery": "Av. Eva Perón 5679, Buenos Aires, Argentina"
+    "phoneDisplay": "011 3986-7665",
+    "address": "Av. Santa Fe 2755, Barrio Norte, CABA",
+    "hours": "Lun a Sáb · 8 a 19:30hs · Dom 9 a 15hs",
+    "mapQuery": "Av. Santa Fe 2755, Barrio Norte, Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://centro-odontologico.kingdom-tech.co",
-    "title": "Centro Odontológico — Mataderos | CABA",
-    "description": "Clínica odontológica en Mataderos. Atención integral para toda la familia: implantes, ortodoncia, endodoncia, prótesis, diseño de sonrisa y urgencias.",
-    "ogTitle": "Centro Odontológico — Atención integral en Mataderos",
-    "ogDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia, diseño de sonrisa y urgencias.",
-    "siteName": "Centro Odontológico",
+    "baseUrl": "https://tu-sonrisa.kingdom-tech.co",
+    "title": "Tu Sonrisa Odontología — Clínica Especializada | Barrio Norte",
+    "description": "Clínica odontológica en Barrio Norte, CABA. Atendemos todos los días, con precios accesibles y turnos rápidos. 4.9★ con más de 10.500 opiniones en Google.",
+    "ogTitle": "Tu Sonrisa Odontología — Clínica Especializada",
+    "ogDescription": "Clínica odontológica en Barrio Norte. Abierta todos los días. 4.9★ con más de 10.500 opiniones en Google.",
+    "siteName": "Tu Sonrisa Odontología",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia y urgencias.",
+    "twitterDescription": "Clínica odontológica en Barrio Norte, CABA. 4.9★ con 10.500+ opiniones. Abierta todos los días.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Eva Perón 5679",
-        "city": "Buenos Aires",
+        "street": "Av. Santa Fe 2755",
+        "city": "Ciudad Autónoma de Buenos Aires",
         "region": "CABA",
-        "postalCode": "C1440",
+        "postalCode": "C1425",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.6621324,
-        "lng": -58.4858093
+        "lat": -34.5934,
+        "lng": -58.4019
       },
       "hours": [
         {
@@ -62,17 +59,21 @@
             "Friday",
             "Saturday"
           ],
-          "opens": "09:00",
-          "closes": "19:00"
+          "opens": "08:00",
+          "closes": "19:30"
         },
         {
           "days": [
             "Sunday"
           ],
-          "opens": "11:00",
-          "closes": "16:00"
+          "opens": "09:00",
+          "closes": "15:00"
         }
-      ]
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 10569
+      }
     }
   },
   "nav": [
@@ -111,35 +112,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Eva Perón 5679 · Mataderos · CABA",
+      "eyebrow": "Av. Santa Fe 2755 · Barrio Norte · CABA",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Familiar",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Turnos ágiles por WhatsApp, atención cálida\ny el cuidado profesional que tu sonrisa merece.",
+      "subheadline": "Clínica odontológica en Barrio Norte.\nAtendemos todos los días con turnos rápidos y precios accesibles.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "Centro Odontológico",
-        "label": "Clínica odontológica integral en Mataderos"
+        "brand": "4.9 ★",
+        "label": "10.500+ opiniones en Google"
       },
       "stats": [
         {
-          "value": "9-19",
-          "label": "Lun a Sáb"
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
         },
         {
-          "value": "Dom",
-          "label": "11 a 16hs"
+          "value": "10K+",
+          "label": "Reviews"
         },
         {
-          "value": "7 días",
-          "label": "A la semana"
+          "value": "Todos",
+          "label": "Los días"
         }
       ]
     },
@@ -150,34 +152,34 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Para toda la familia",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Implantes",
-          "image": "/img/implantes.jpg"
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
         },
         {
           "name": "Ortodoncia",
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
         },
         {
-          "name": "Diseño de sonrisa",
-          "image": "/img/estetica.jpg"
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Radiología",
-          "image": "/img/limpieza.jpg"
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
         },
         {
           "name": "Odontopediatría",
@@ -193,18 +195,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "En Mataderos cuidamos la sonrisa de toda la familia con atención cálida, explicaciones claras y trabajos prolijos. "
+          "text": "Atención integral en un único lugar, con turnos rápidos y precios accesibles. "
         },
         {
-          "text": "Cada paciente, cada etapa.",
+          "text": "Abiertos todos los días.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Atención\nPersonalizada",
-          "body": "Te escuchamos, te explicamos cada paso y planificamos tu tratamiento en conjunto. Sin apuros, con tiempo real dedicado a vos."
+          "title": "Turnos\nEn el día",
+          "body": "Resolvemos urgencias el mismo día y coordinamos turnos programados con rapidez. Nuestro volumen de atención nos permite ofrecer horarios flexibles todos los días."
         },
         {
           "type": "image",
@@ -212,8 +214,8 @@
         },
         {
           "type": "content",
-          "title": "Turnos\nPor WhatsApp",
-          "body": "Coordiná tu consulta con un mensaje. Respondemos rápido y te damos disponibilidad en el momento, incluso para urgencias."
+          "title": "Precios\nAccesibles",
+          "body": "Tratamientos de calidad con planes y precios pensados para todos. Te explicamos cada paso del tratamiento con claridad antes de empezar."
         },
         {
           "type": "image",
@@ -234,27 +236,27 @@
       ],
       "members": [
         {
-          "name": "Dra. Macarena",
-          "role": "Odontología Integral",
+          "name": "Dra. Mariana",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Endodoncia",
+          "name": "Dra. Marcela Faldin",
+          "role": "Ortodoncia",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -272,74 +274,74 @@
       ],
       "items": [
         {
-          "quote": "Excelente centro. Me saqué una muela por dolor intenso, fue rápido y siguiendo las indicaciones no tuve complicaciones. Muy recomendable.",
-          "name": "Gustavo Ticona",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Hace años me atiendo acá. Excelentes profesionales y atención muy cálida. El diseño de sonrisa quedó impecable, toda la familia se atiende acá.",
-          "name": "Kiara Gómez",
+          "quote": "Excelente atención de la Dra. Mariana, explicación detallada, aclarando todas las dudas, con mucho profesionalismo y amabilidad. El lugar súper lindo, las chicas de recepción súper atentas.",
+          "name": "Santa López",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Muy buena atención, amable, prolija y sin dolor. Ya fui varias veces y siempre quedo muy conforme con el trabajo.",
-          "name": "Nadia Acosta",
+          "quote": "Escribí el viernes de madrugada por un dolor horrible, el sábado súper amables me atendieron y me dieron turno por la urgencia. La atención al llegar y la amabilidad de todos, un 10.",
+          "name": "Alexa",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Buena atención y calidad. Fui por una urgencia y el trabajo quedó de diez.",
-          "name": "Albert Avendaño",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención, responden consultas rápido y todo fue ágil y efectivo. Muy amables y respetuosos.",
-          "name": "Mariela Hernandez",
+          "quote": "Me fue increíble con la Dra. Kelly. Súper atenta, observadora. Me escuchó porque venía muy ansiosa y me trató increíble. Muy profesional, lo recomiendo 100%.",
+          "name": "María Luisa Colina",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. La Dra. Macarena muy profesional y paciente. Gran experiencia.",
-          "name": "Eduardo Perez",
+          "quote": "Fuimos con mi novia por una urgencia, se pudo resolver rápido y con la mejor atención. Muy amable todo el personal. Destaco a Kyle en la recepción que estuvo atento en todo momento.",
+          "name": "Juan Zachozy",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención. Todo el personal muy amable y los resultados siempre impecables.",
-          "name": "Carlos Cella",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Trabajos impecables. Explica todo claramente y es muy detallista en lo estético. Muy conforme.",
-          "name": "Luis Alberto Romero",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Súper recomendable. Me hice varios tratamientos y siempre quedaron perfectos. Nunca tuve problemas.",
-          "name": "Soledad Apel",
+          "quote": "Vengo aquí desde hace 3 años y no los cambio por nada. La atención es muy buena al igual que sus profesionales.",
+          "name": "Evelyn Ganscka",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente profesional. Me hice un conducto sin dolor, muy cuidadoso y atento. Feliz con el resultado.",
-          "name": "Jacqueline Gonzalez",
+          "quote": "Vine por primera vez y quedé encantada. El espacio es grande y muy limpio, se nota el cuidado del personal. La Dra. Luisana súper amable, me explicó todo con detalle.",
+          "name": "Fabiana Russo",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. Me solucionaron una extracción que en otro lugar hicieron mal. Muy recomendable.",
-          "name": "Fernando Quezada",
+          "quote": "Muy amable la Dra. Mariana, me explicó todo lo que tenía bastante detalladamente y con mucha paciencia. Siempre me atiende con muy buena onda y está atenta a mis inquietudes.",
+          "name": "Mairelys Carile",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui atendida por la Dra. Analía Rau, una excelente profesional. Me explicó en detalle cada movimiento, fue muy amable y cuidadosa. Ir al dentista con este tipo de atención lo cambia todo.",
+          "name": "Cari Pierulivo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención. La Dra. Eva (odontología general) y Marcela Faldin (ortodoncia) son unas genias: súper profesionales y cálidas. Me sentí muy cómoda, súper recomendable.",
+          "name": "Paola Crispin",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención por parte de todo el personal, además de contar con muy buenos precios. Las chicas de recepción, un amor.",
+          "name": "Johanny López",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Lugar impecable, atención excelente en cada sector, muy amables y atentos. Más que conforme.",
+          "name": "Marcelo Presta",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Siempre me atienden muy bien. Me salvaron un diente que estaba para extracción. Impecable trabajo.",
-          "name": "Viviana Lopez",
+          "quote": "El mejor equipo odontológico en Buenos Aires. La atención, los precios, el profesionalismo. Increíble de verdad y muy agradecida, me salvaron los dientes.",
+          "name": "Miriam Blanco",
           "rating": 5,
           "gender": "female"
         }
@@ -374,7 +376,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Eva Perón 5679, Mataderos, CABA. Atendemos de lunes a sábado de 9 a 19hs y los domingos de 11 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Av. Santa Fe 2755, Barrio Norte, CABA. Atendemos de lunes a sábado de 8 a 19:30hs y los domingos de 9 a 15hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -382,25 +384,25 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos en minutos y coordinamos\ntu primera consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Eva Perón 5679, Mataderos, CABA",
-      "hoursLine": "Lun a Sáb 9-19hs · Dom 11-16hs",
+      "addressLine": "Av. Santa Fe 2755, Barrio Norte, CABA",
+      "hoursLine": "Lun a Sáb · 8-19:30hs · Dom 9-15hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica en Mataderos.\nAtención integral para toda la familia,\ncon turnos ágiles por WhatsApp.",
+      "about": "Clínica odontológica especializada en Barrio Norte.\nAtención integral todos los días,\ncon precios accesibles y turnos rápidos.",
       "socials": [
         {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/consultoriodentalclean",
+          "label": "Sitio web",
+          "href": "https://tusonrisargentina.com",
           "external": true
         },
         {
@@ -435,7 +437,7 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Implantes",
+              "label": "Odontología general",
               "href": "#servicios"
             },
             {
@@ -443,11 +445,11 @@
               "href": "#servicios"
             },
             {
-              "label": "Diseño de sonrisa",
+              "label": "Estética dental",
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Implantes",
               "href": "#servicios"
             }
           ]
@@ -456,21 +458,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Eva Perón 5679, Mataderos"
+              "label": "Av. Santa Fe 2755, Barrio Norte"
             },
             {
-              "label": "+54 11 4158-3311",
+              "label": "011 3986-7665",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Sáb 9-19 · Dom 11-16",
+              "label": "Todos los días · 8-19:30",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Centro Odontológico"
+      "copyrightName": "Tu Sonrisa Odontología"
     }
   }
 }

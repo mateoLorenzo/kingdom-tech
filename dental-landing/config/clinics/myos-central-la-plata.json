@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Clinica Dental Sur",
-    "shortName": "Dental Sur",
+    "name": "Myos Consultorios Odontológicos",
+    "shortName": "Myos",
     "logo": {
       "type": "text"
     }
@@ -17,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491150373001",
-      "defaultMessage": "Hola, quiero reservar un turno en Dental Sur."
+      "phone": "5492215117377",
+      "defaultMessage": "Hola, quiero reservar un turno en Myos Consultorios Odontológicos."
     },
-    "phoneDisplay": "+54 9 11 5037-3001",
-    "address": "Presidente Quintana 125, Lanús Oeste",
-    "hours": "Lun a Vie · 9 a 18hs",
-    "mapQuery": "Presidente Quintana 125, Lanús Oeste, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 221 511-7377",
+    "address": "Av. 13 416, La Plata, Buenos Aires",
+    "hours": "Lun a Sáb · 9 a 20hs",
+    "mapQuery": "Av. 13 416, La Plata, Provincia de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental-sur.kingdom-tech.co",
-    "title": "Clinica Dental Sur — Atención sin dolor | Lanús Oeste",
-    "description": "Centro odontológico en Lanús Oeste dirigido por el Dr. Marcos Nicotra. Implantes, extracciones, urgencias y atención integral con trato cálido y honestidad.",
-    "ogTitle": "Clinica Dental Sur — Sin dolor en Lanús Oeste",
-    "ogDescription": "Centro odontológico en Lanús Oeste. Atención cercana, resolución rápida y resultados confiables.",
-    "siteName": "Clinica Dental Sur",
+    "baseUrl": "https://myos-central-la-plata.kingdom-tech.co",
+    "title": "Myos Consultorios Odontológicos — Central La Plata | Av. 13",
+    "description": "Clínica odontológica en La Plata centro. Ortodoncia, implantes, cirugía y atención integral. 4.8★ con 297 opiniones en Google.",
+    "ogTitle": "Myos Consultorios Odontológicos — Central La Plata",
+    "ogDescription": "Clínica odontológica en La Plata centro. Ortodoncia, implantes y cirugía sin dolor. 4.8★ con 297 opiniones.",
+    "siteName": "Myos Consultorios Odontológicos",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Centro odontológico en Lanús Oeste. 5.0★ con 338+ opiniones. Implantes, extracciones y atención sin dolor.",
+    "twitterDescription": "Clínica odontológica en La Plata centro. Ortodoncia, implantes y cirugía sin dolor. 4.8★ con 297 opiniones.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Presidente Quintana 125",
-        "city": "Lanús Oeste",
+        "street": "Av. 13 416",
+        "city": "La Plata",
         "region": "Buenos Aires",
-        "postalCode": "B1824",
+        "postalCode": "B1900",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.7101841,
-        "lng": -58.3936501
+        "lat": -34.9135,
+        "lng": -57.958
       },
       "hours": [
         {
@@ -56,15 +56,16 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday"
+            "Friday",
+            "Saturday"
           ],
           "opens": "09:00",
-          "closes": "18:00"
+          "closes": "20:00"
         }
       ],
       "rating": {
-        "value": 5.0,
-        "count": 338
+        "value": 4.8,
+        "count": 297
       }
     }
   },
@@ -104,36 +105,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Presidente Quintana 125 · Lanús Oeste",
+      "eyebrow": "Av. 13 416 · La Plata Centro",
       "headline": [
         {
-          "text": "Odontología\nSin dolor y\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Con confianza",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y resolución rápida,\npensada para que vengas tranquilo a cada consulta.",
+      "subheadline": "Atención clara, cercana y sin dolor\npara cuidar cada detalle de tu sonrisa.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "5.0 ★",
-        "label": "338+ opiniones en Google"
+        "brand": "4.8 ★",
+        "label": "297 opiniones en Google"
       },
       "stats": [
         {
-          "value": "5.0",
+          "value": "4.8",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "338",
+          "value": "297",
           "label": "Reviews"
         },
         {
-          "value": "9-18",
-          "label": "Lun a Vie"
+          "value": "100%",
+          "label": "Sin dolor"
         }
       ]
     },
@@ -150,35 +151,35 @@
       ],
       "items": [
         {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
           "name": "Implantes",
           "image": "/img/implantes.jpg"
         },
         {
-          "name": "Extracciones",
-          "image": "/img/emergencia.jpg"
+          "name": "Cirugía y extracciones",
+          "image": "/img/ondodoncia.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
-        },
-        {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
         {
-          "name": "Ortodoncia",
-          "image": "/img/brackets.jpg"
-        },
-        {
-          "name": "Limpieza y prevención",
+          "name": "Limpieza dental",
           "image": "/img/limpieza.jpg"
         },
         {
-          "name": "Urgencias",
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
           "image": "/img/Odontopediatría.jpg"
         }
       ]
@@ -187,18 +188,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que el miedo al dentista es real. Por eso priorizamos el trato humano, la honestidad al asesorar "
+          "text": "Cada consulta arranca con una explicación clara y sin apuro. Combinamos tecnología actual con un equipo que prioriza "
         },
         {
-          "text": "y los tratamientos sin dolor.",
+          "text": "que no sientas dolor en ninguna etapa.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Tratamientos\nSin dolor",
-          "body": "Trabajamos con técnicas modernas y mucha paciencia para que cada procedimiento sea lo más cómodo posible. Tu tranquilidad es nuestra prioridad."
+          "title": "Sin dolor\nSin sorpresas",
+          "body": "Nuestros pacientes destacan procedimientos sin dolor, incluso en extracciones y cirugías complejas. Te explicamos cada paso antes de arrancar para que llegues tranquilo."
         },
         {
           "type": "image",
@@ -206,8 +207,8 @@
         },
         {
           "type": "content",
-          "title": "Honestidad\nAl asesorar",
-          "body": "Te explicamos qué necesitás y qué no, sin sobrevender tratamientos. Buscamos resolverte el problema real con la mejor relación costo-beneficio."
+          "title": "4.8/5 Calificación\nPromedio",
+          "body": "297 pacientes nos eligieron y nos calificaron en Google. Puntualidad en los turnos, calidez humana y resultados que se notan en cada sonrisa."
         },
         {
           "type": "image",
@@ -228,26 +229,26 @@
       ],
       "members": [
         {
-          "name": "Dr. Marcos Nicotra",
-          "role": "Director Clínico",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
+          "name": "Dra. Noelia Sarasua",
           "role": "Ortodoncia",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Implantología",
+          "name": "Dr. Franco Aguirre",
+          "role": "Cirugía · Extracciones",
           "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontopediatría",
+          "experience": "",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dr. Joaquín Castagno",
+          "role": "Odontología general",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -266,78 +267,77 @@
       ],
       "items": [
         {
-          "quote": "Me sacaron una muela de juicio rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Excelente trato humano.",
-          "name": "Natalia Naz",
+          "quote": "Son excelentes. Súper profesionales, fui a la sucursal de 13 y 38 La Plata por recomendación y también lo recomiendo. Supieron resolver perfectamente el desastre que me habían hecho en otro lado.",
+          "name": "Priscila Monteroni",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por un problema dental y el Dr. Marcos lo resolvió rápido. Muy profesional y cálido. Súper recomendable.",
-          "name": "Daiana Zerbini",
+          "quote": "Fui a la sucursal de 13 entre 38 y 39. Me atendieron Enzo y Joaquín, unos genios. Ni bien entré se presentaron por su nombre, me explicaron todos los procedimientos y me ayudaban a no tener dolor.",
+          "name": "Barbara Barrientos",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención de principio a fin. Me hicieron un tratamiento de perno y corona con resultado impecable.",
-          "name": "Nadia Fernandez",
+          "quote": "Fui al consultorio de 13 entre 38 y 39, me atendió el odontólogo Castagno Joaquín. Excelente profesional. Me sentí cómoda, tuvo paciencia, explicación muy clara. Estoy súper conforme.",
+          "name": "Rosa Almada",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Desde la recepción hasta el Dr. Marcos, todo excelente. Me sentí muy cómodo y bien atendido.",
-          "name": "Federico Armiento",
+          "quote": "Me atiendo en Myos de La Plata desde hace 3 años con la odontóloga Sarasua. Tratamiento de brackets autoligado y corrección de mordida. No solo ese tratamiento, el equipo entero es excelente.",
+          "name": "Emanuel Ledesma",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Lugar impecable. La recepcionista y el equipo muy amables. Marcos siempre honesto y resolutivo.",
-          "name": "Mayra Gabriele",
+          "quote": "Toda nuestra familia se atiende en Myos de 13 entre 40 y 41. Ofrecen atención odontológica integral: ortodoncia, implantología, radiografías. Muy recomendables para toda la familia.",
+          "name": "Carolina Farias",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "El Dr. Marcos es un genio. Excelente atención y equipo muy buena onda. Muy recomendable.",
-          "name": "Viviana Pose",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Me hice un implante con el Dr. Marcos, muy profesional y confiable. Todo salió perfecto.",
-          "name": "Andrea Luzko",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "La atención del Dr. Marcos y su asistente es espectacular. Puntualidad, dedicación y profesionalismo.",
-          "name": "Albano Pinto",
+          "quote": "Me saqué dos muelas con el Dr. Franco Aguirre en la sucursal de La Plata, calle 13. La atención fue excelente, no me dolió para nada. Llegué con miedo y me tranquilizó en todo momento.",
+          "name": "Diego Luparello",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente profesional, transmite confianza. Ideal para quienes tienen miedo al dentista.",
-          "name": "Roberto Monteros",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Todo impecable. El Dr. Marcos y su equipo atendieron a toda mi familia con excelentes resultados.",
-          "name": "Patricia Griecco",
+          "quote": "Me atendí en la sucursal de La Plata en calle 13, excelente atención. Puntualidad en los turnos, profesionales altamente recomendables. Especialmente el Dr. Franco Aguirre.",
+          "name": "Ana Rosa Romero",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por implantes y la atención fue impecable. Muy honestos al asesorar. Me fui muy conforme.",
-          "name": "Walter Dacunda",
+          "quote": "Muchas gracias a cada uno de los profesionales por la información y la contención para lograr volver a sonreír. Un gran equipo de trabajo, profesionalismo y calidez humana.",
+          "name": "Milagros Vasquez",
           "rating": 5,
-          "gender": "male"
+          "gender": "female"
+        },
+        {
+          "quote": "El doctor Juan Cerda fue muy atento, con atención y amabilidad contestó todas mis dudas. Salí tranquila y recomendaría el consultorio sin dudarlo.",
+          "name": "Ailen Delgadillo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y muy buenos trabajos. Estoy conforme y segura con cada consulta. El equipo es profesional y la atención desde recepción es muy amable.",
+          "name": "Celeste Pedrazzi",
+          "rating": 5,
+          "gender": "female"
         }
       ]
     },
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -354,15 +354,15 @@
         },
         {
           "question": "¿Atienden urgencias?",
-          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
         },
         {
           "question": "¿Atienden a niños?",
-          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Presidente Quintana 125, Lanús Oeste. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Av. 13 416, La Plata, Buenos Aires. Atendemos de lunes a sábado de 9 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -370,27 +370,22 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Presidente Quintana 125, Lanús Oeste",
-      "hoursLine": "Lun a Vie 9-18hs",
+      "addressLine": "Av. 13 416, La Plata",
+      "hoursLine": "Lun a Sáb · 9-20hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Centro odontológico en Lanús Oeste.\nAtención sin dolor, honesta y resolutiva,\npara toda la familia.",
+      "about": "Clínica odontológica en La Plata centro.\nOrtodoncia, implantes, cirugía y\natención integral sin dolor.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/dentalsur_/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -423,19 +418,19 @@
           "heading": "Servicios",
           "items": [
             {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
               "label": "Implantes",
               "href": "#servicios"
             },
             {
-              "label": "Extracciones",
+              "label": "Cirugía dental",
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
-              "href": "#servicios"
-            },
-            {
-              "label": "Urgencias",
+              "label": "Odontopediatría",
               "href": "#servicios"
             }
           ]
@@ -444,21 +439,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Presidente Quintana 125, Lanús Oeste"
+              "label": "Av. 13 416, La Plata"
             },
             {
-              "label": "+54 9 11 5037-3001",
+              "label": "+54 9 221 511-7377",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9-18hs",
+              "label": "Lun a Sáb · 9-20hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Clinica Dental Sur"
+      "copyrightName": "Myos Consultorios Odontológicos"
     }
   }
 }

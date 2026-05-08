@@ -31,8 +31,6 @@
     "description": "Clínica odontológica de alta complejidad en Villa del Parque. Especialistas en implantes dentales, cirugía avanzada y rehabilitación integral. Tratamientos sin dolor.",
     "ogTitle": "Dr. Maximiliano Scime — Implantes y Cirugía Odontológica",
     "ogDescription": "Especialistas en implantes y cirugía avanzada en Villa del Parque. Casos complejos resueltos sin dolor, con honestidad profesional.",
-    "ogImage": "/img/hero-5.jpg",
-    "ogAlt": "Clínica Dr. Scime — Implantes y cirugía odontológica en Villa del Parque",
     "siteName": "Clínica Dr. Scime",
     "locale": "es_AR",
     "htmlLang": "es",
@@ -89,6 +87,10 @@
     {
       "label": "Testimonios",
       "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
     },
     {
       "label": "Turnos",
@@ -309,6 +311,39 @@
           "name": "Lorena Corio",
           "rating": 5,
           "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Marcos Sastre 3489, Villa del Parque, CABA. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },

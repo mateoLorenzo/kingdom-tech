@@ -1,0 +1,361 @@
+{
+  "brand": {
+    "name": "Centro Odontológico Acoyte",
+    "shortName": "Acoyte",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491140882634",
+      "defaultMessage": "Hola, quiero reservar un turno en el Centro Odontológico Acoyte."
+    },
+    "phoneDisplay": "011 4958-1754",
+    "address": "Av. Acoyte 565, Caballito, CABA",
+    "hours": "Lun a Vie · 11 a 19hs",
+    "mapQuery": "Centro Odontológico Acoyte, Av. Acoyte 565, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://centro-odontologico-acoyte.kingdom-tech.co",
+    "title": "Centro Odontológico Acoyte — Odontología integral | Caballito",
+    "description": "Centro odontológico en Caballito, CABA. Odontología integral con tecnología de punta y radiografías en el día. 4.5★ con 132 opiniones en Google.",
+    "ogTitle": "Centro Odontológico Acoyte — Caballito",
+    "ogDescription": "Centro odontológico en Caballito, CABA. Tecnología de punta y trato familiar. 4.5★ con 132 opiniones en Google.",
+    "siteName": "Centro Odontológico Acoyte",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Caballito con tecnología de punta y radiografías en el día. 4.5★ con 132 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Acoyte 565",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1405",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6178,
+        "lng": -58.439
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "11:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.5,
+        "count": 132
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Acoyte 565 · Caballito · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Odontología integral con tecnología\nde punta y trato familiar en Caballito.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.5 ★",
+        "label": "132 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.5",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "132",
+          "label": "Reviews"
+        },
+        {
+          "value": "11-19",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Odontología general", "image": "/img/limpieza.jpg" },
+        { "name": "Placas para bruxismo", "image": "/img/protesis.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Radiografías", "image": "/img/limpieza.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Clínica moderna con tecnología de punta " },
+        { "text": "y radiografías resueltas en el momento.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Todo En\nUn Mismo Lugar",
+          "body": "Contamos con radiografías digitales en el consultorio. Diagnóstico y plan de tratamiento resueltos en la misma visita, sin derivaciones ni tiempos de espera."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Trato\nFamiliar",
+          "body": "Pacientes que nos acompañan hace más de 10 años. Detallismo en cada trabajo, grande o chico, con la contención que hace que quieras volver."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Silvio Lovera",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Tenía mucho nerviosismo por mi tratamiento, pero lograron que me relajara por completo. Clínica moderna, con tecnología de punta y un equipo muy paciente. Superó mis expectativas.",
+          "name": "Santiago Medina",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención del Dr. Silvio y su personal. Es muy detallista. Me hice placas para el bruxismo y me saqué las muelas de juicio, todo salió bárbaro. Hacen radiografías ahí, muy práctico.",
+          "name": "Carolina Lin",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Lugar de excelencia donde el profesionalismo y el amor al consultante se hacen presentes. Cuando uno sufre una dolencia necesita contención y seguridad: aquí lo encontré.",
+          "name": "María Fernanda Badariotti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente profesional, con mucha paciencia y predisposición. Es súper detallista y busca la excelencia aun en los trabajos más pequeños. Agradecido por todo, sobre todo por su calidad humana.",
+          "name": "Juan Pablo Tosini",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Lo conocí post pandemia y me cambió la salud. Tengo una boca muy sana, me siento mucho mejor no solo estéticamente. Fui a varios odontólogos y este es el mejor.",
+          "name": "Juanita",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendió el Dr. Lovera, me arregló una caries sin dolor y estéticamente quedó perfecto. Un excelente profesional y buena persona.",
+          "name": "Gabriel Dadamo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente profesional. Me asesoró sobre el procedimiento y me lo hizo en dos sesiones sin problemas. Altamente recomendable.",
+          "name": "Florencia Fernández",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención. Trato familiar. El paciente se siente cómodo y confiado. Da ganas de volver.",
+          "name": "Ana Pepe",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Silvio, un crack total, me dejó la boca impecable. Lo recomiendo desde hace 10 años.",
+          "name": "Ricardo Botana",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Una maravilla. El centro está muy bien equipado y el doctor Silvio Lovera es un genio. Felicitaciones.",
+          "name": "Jorge Lettera",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención, hace 12 años soy paciente. Tratamientos de calidad.",
+          "name": "Verónica Flores",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente trabajo Silvio, muchas gracias. Todo quedó de tope gama, recomendable al 100%.",
+          "name": "Adrián Illanes",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Acoyte 565, Caballito, CABA. Atendemos de lunes a viernes de 11 a 19hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Acoyte 565, Caballito · CABA",
+      "hoursLine": "Lun a Vie · 11 a 19hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en Caballito, CABA.\nOdontología integral con tecnología\nde punta y trato familiar.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://www.odontologiacoyte.com.ar/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Odontología general", "href": "#servicios" },
+            { "label": "Placas de bruxismo", "href": "#servicios" },
+            { "label": "Extracciones", "href": "#servicios" },
+            { "label": "Radiografías", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Acoyte 565, Caballito" },
+            {
+              "label": "+54 9 11 4088-2634",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 4958-1754" },
+            { "label": "Lun a Vie · 11 a 19hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico Acoyte"
+    }
+  }
+}

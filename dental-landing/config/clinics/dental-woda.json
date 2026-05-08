@@ -1,12 +1,9 @@
 {
   "brand": {
-    "name": "Orthé Recoleta",
-    "shortName": "Orthé",
+    "name": "Dental Woda",
+    "shortName": "Woda",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/orthe-recoleta/logo.png",
-      "alt": "Orthé Recoleta — Odontología Integral",
-      "height": 56
+      "type": "text"
     }
   },
   "theme": {
@@ -20,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491121634412",
-      "defaultMessage": "Hola, quiero reservar un turno en Orthé Recoleta."
+      "phone": "5491173624454",
+      "defaultMessage": "Hola, quiero reservar un turno en Dental Woda."
     },
-    "phoneDisplay": "+54 9 11 2163-4412",
-    "address": "Av. Las Heras 2125, Recoleta, CABA",
-    "hours": "Lun a Vie · 9 a 20hs · Sáb 9 a 16hs",
-    "mapQuery": "Av. Las Heras 2125, Recoleta, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 7362-4454",
+    "address": "Marcelo T. de Alvear 2163, Piso 5, Recoleta",
+    "hours": "Lun a Vie · 9 a 20hs · Sáb 9 a 15hs",
+    "mapQuery": "Marcelo Torcuato de Alvear 2163, C1122 Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://orthe-recoleta.kingdom-tech.co",
-    "title": "Orthé Recoleta — Odontología Integral | Recoleta, CABA",
-    "description": "Clínica odontológica en Recoleta. Cirugía, implantes, ortodoncia y odontología general sin dolor. Turnos por WhatsApp. 4.9★ con 348+ opiniones en Google.",
-    "ogTitle": "Orthé Recoleta — Odontología Integral sin dolor",
-    "ogDescription": "Clínica odontológica integral en Recoleta. Cirugía, implantes, ortodoncia y atención general con trato humano y sin dolor.",
-    "siteName": "Orthé Recoleta",
+    "baseUrl": "https://dental-woda.kingdom-tech.co",
+    "title": "Dental Woda — Odontología digital en Recoleta | Scan 3D sin moldes",
+    "description": "Clínica odontológica en Recoleta, CABA. Tecnología digital, coronas y carillas sin moldes, blanqueamiento e implantes. 4.9★ con 498 opiniones en Google.",
+    "ogTitle": "Dental Woda — Odontología digital en Recoleta",
+    "ogDescription": "Clínica odontológica en Recoleta. Scan digital sin moldes, blanqueamiento e implantes. 4.9★ con 498 opiniones.",
+    "siteName": "Dental Woda",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica integral en Recoleta. 4.9★ con 348+ opiniones. Cirugía e implantes sin dolor.",
+    "twitterDescription": "Clínica odontológica en Recoleta. Scan digital, blanqueamiento e implantes. 4.9★ con 498 opiniones.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Las Heras 2125",
-        "city": "Buenos Aires",
+        "street": "Marcelo T. de Alvear 2163, Piso 5",
+        "city": "Ciudad Autónoma de Buenos Aires",
         "region": "CABA",
-        "postalCode": "C1119",
+        "postalCode": "C1122",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.5889995,
-        "lng": -58.3950613
+        "lat": -34.5958,
+        "lng": -58.3967
       },
       "hours": [
         {
@@ -69,12 +66,12 @@
             "Saturday"
           ],
           "opens": "09:00",
-          "closes": "16:00"
+          "closes": "15:00"
         }
       ],
       "rating": {
         "value": 4.9,
-        "count": 348
+        "count": 498
       }
     }
   },
@@ -114,36 +111,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Las Heras 2125 · Recoleta · CABA",
+      "eyebrow": "M. T. de Alvear 2163 · Recoleta · CABA",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Sin dolor",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Cirugía, implantes, ortodoncia y atención integral,\ncon el trato y la rapidez que buscás.",
+      "subheadline": "Tecnología digital y atención cálida\npara cuidar cada detalle de tu sonrisa.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
         "brand": "4.9 ★",
-        "label": "348+ opiniones en Google"
+        "label": "498 opiniones en Google"
       },
       "stats": [
-        {
-          "value": "9-20",
-          "label": "Lun a Vie"
-        },
-        {
-          "value": "Sáb",
-          "label": "9 a 16hs"
-        },
         {
           "value": "4.9",
           "label": "★★★★★",
           "labelStyle": "stars"
+        },
+        {
+          "value": "498",
+          "label": "Reviews"
+        },
+        {
+          "value": "Scan 3D",
+          "label": "Sin moldes"
         }
       ]
     },
@@ -154,38 +151,38 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Con tecnología digital",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Limpieza dental",
-          "image": "/img/limpieza.jpg"
-        },
-        {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
         {
-          "name": "Ortodoncia",
-          "image": "/img/brackets.jpg"
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
         },
         {
           "name": "Implantes",
           "image": "/img/implantes.jpg"
         },
         {
-          "name": "Prótesis",
-          "image": "/img/protesis.jpg"
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/ondodoncia.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Odontopediatría",
-          "image": "/img/Odontopediatría.jpg"
+          "name": "Prótesis y coronas",
+          "image": "/img/protesis.jpg"
         },
         {
           "name": "Urgencias",
@@ -197,18 +194,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Extracciones, cirugías y tratamientos complejos resueltos en el momento, con el equipo coordinado y "
+          "text": "Escaneamos tu boca en 3D en lugar de tomar moldes. Coronas y carillas resueltas en pocas visitas, "
         },
         {
-          "text": "sin dolor.",
+          "text": "con un equipo que te explica cada paso.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Cirugía\nSin Dolor",
-          "body": "Extracciones de muelas de juicio e implantes que nuestros pacientes describen como rápidos, prolijos e indoloros. Con anestesia moderna y un equipo experimentado."
+          "title": "Scan digital\nSin moldes",
+          "body": "Usamos escáner intraoral para diseñar coronas, carillas y tratamientos con precisión milimétrica. Menos visitas, cero moldes incómodos, resultados exactos."
         },
         {
           "type": "image",
@@ -216,8 +213,8 @@
         },
         {
           "type": "content",
-          "title": "Equipo\nCoordinado",
-          "body": "Cada tratamiento con el profesional indicado y una recepción que resuelve turnos rápido por WhatsApp. Nuestros pacientes destacan al equipo entero, no solo al doctor."
+          "title": "4.9/5 Calificación\nPromedio",
+          "body": "498 pacientes nos eligieron y nos calificaron en Google. Turnos rápidos, trato cálido y equipo preparado para que incluso si le tenés miedo al dentista te sientas tranquilo."
         },
         {
           "type": "image",
@@ -238,26 +235,26 @@
       ],
       "members": [
         {
-          "name": "Dra. Karina",
-          "role": "Odontología Integral",
+          "name": "Dra. Mercedes Brusco",
+          "role": "Estética · Blanqueamiento",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr. Ignacio",
-          "role": "Cirugía Odontológica",
+          "name": "Dr. Juan Genoud",
+          "role": "Odontología general",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Sara",
-          "role": "Ortodoncia",
+          "name": "Dra. Nicole Brasquet",
+          "role": "Implantología · Cirugía",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr. David",
-          "role": "Odontología Integral",
+          "name": "Dr. Enrique Portinari",
+          "role": "Odontología general",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -276,62 +273,62 @@
       ],
       "items": [
         {
-          "quote": "Excelente cirugía de muela de juicio, fue rápida y sin dolor. Muy agradecida por el trato y la contención del equipo.",
-          "name": "Magalí Mendizza",
+          "quote": "Altamente recomendable. Gran profesionalismo de los doctores, y los chicos de recepción son muy amables y empáticos. Excelente atención y el lugar muy limpio. Mi Dra. Camila Fontana es una genia.",
+          "name": "Susana Irala",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me atendió el Dr. David y fue una excelente experiencia. Muy profesional, amable y atento en todo momento.",
-          "name": "Martín Fischman",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Me extraje una muela de juicio con Nacho y fue impecable. Gran profesional, todo muy claro y excelente atención.",
-          "name": "Ignacio Freiberg",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Sara es una excelente profesional, escucha y explica todo. Muy conforme con mi tratamiento de ortodoncia.",
-          "name": "Omar Gutierrez",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Me hice extracciones con Nacho y fueron rapidísimas y sin dolor. La Dra. Karina también muy detallista.",
-          "name": "Carlos Leiva",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención de todo el equipo. Muy amables y profesionales, se nota la pasión por lo que hacen.",
-          "name": "Florencia González",
+          "quote": "Muy agradecida con todos, me atendió la Dra. Martina. Nunca me habían dado anestesia tan suavemente, no sentí absolutamente nada. Las chicas de recepción amorosas y el lugar impecable, voy a volver.",
+          "name": "Ornella Vizconti",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "La Dra. Karina es excelente, me hice varios tratamientos sin inconvenientes. Muy buena atención del equipo.",
-          "name": "Rodolfo Cano",
+          "quote": "Como paciente con un miedo importante a los dentistas, me siento en la obligación de recomendar este lugar. Excelentes profesionales desde la recepción hasta la doctora Mercedes Brusco, una genia con su técnica.",
+          "name": "Rosario Cardozo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Felicito a Dental Woda y sus profesionales por el trabajo hiper profesional que hacen, con última tecnología, y dando soluciones verdaderas a las necesidades del paciente. Totalmente satisfecho.",
+          "name": "Javier Martínez",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención desde el asesoramiento hasta el tratamiento. Turnos rápidos y precios accesibles.",
-          "name": "Gimena Torres",
+          "quote": "Excelente todo: es fácil y rápido sacar un turno, los recepcionistas son amabilísimos y la atención profesional es impecable. Los precios están en relación con el servicio. Te explican todo en detalle.",
+          "name": "S. V.",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me saqué una muela con el Dr. Ignacio y fue rapidísimo y sin dolor. Muy recomendable.",
-          "name": "Manuela Iparraguirre",
+          "quote": "Me realicé una extracción de muela de juicio con la doctora Nicole, una genia. Súper cálida y buena onda. Fueron dos segundos y ya estaba listo, un trabajo espectacular. Muy buen ambiente.",
+          "name": "Nicolás Gago",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente trato, muy buenos especialistas. La Dra. Sánchez Fiamma una genia total, me explicó y disipó todas mis dudas. 100% recomendable.",
+          "name": "Sebastián Zamudio",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendí hoy, de 10 la verdad, muy rápido. No me atendían en ningún lugar y acá a pesar de estar por cerrar me atendieron con mucha amabilidad y me sacaron el dolor. Re linda la gente y el consultorio.",
+          "name": "Maca Diaz",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Turno por WhatsApp muy rápido. Me atendieron excelente y el resultado fue muy bueno. Seguro vuelvo.",
-          "name": "Ivana Mamchur",
+          "quote": "Estoy muy feliz con la atención recibida en Dental Woda. Me realicé un implante y un tratamiento de ortodoncia, y en todo momento me sentí acompañada, bien informada y en manos de profesionales capacitados.",
+          "name": "Noelia Natalino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo en Dental Woda con la Dra. Mercedes, una excelente profesional, atenta y comprometida. Quiero destacar el gran trabajo en equipo y la buena energía. Turnos rápidos y organización impecable.",
+          "name": "Anush Ansourian",
           "rating": 5,
           "gender": "female"
         }
@@ -362,11 +359,11 @@
         },
         {
           "question": "¿Atienden a niños?",
-          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Las Heras 2125, Recoleta, CABA. Atendemos de lunes a viernes de 9 a 20hs y los sábados de 9 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Marcelo T. de Alvear 2163, Piso 5, Recoleta. Atendemos de lunes a viernes de 9 a 20hs y los sábados de 9 a 15hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -374,32 +371,22 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Las Heras 2125, Recoleta, CABA",
-      "hoursLine": "Lun a Vie 9-20hs · Sáb 9-16hs",
+      "addressLine": "M. T. de Alvear 2163, Piso 5 · Recoleta",
+      "hoursLine": "Lun a Vie 9-20hs · Sáb 9-15hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica integral en Recoleta.\nCirugía, implantes y ortodoncia,\ncon trato humano y sin dolor.",
+      "about": "Clínica odontológica en Recoleta, CABA.\nTecnología digital, blanqueamiento\ne implantes con atención cálida.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/orthe.recoleta/",
-          "external": true
-        },
-        {
-          "label": "Facebook",
-          "href": "https://www.facebook.com/Orthe.Recoleta/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -432,7 +419,7 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Cirugía odontológica",
+              "label": "Estética dental",
               "href": "#servicios"
             },
             {
@@ -444,7 +431,7 @@
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
+              "label": "Blanqueamiento",
               "href": "#servicios"
             }
           ]
@@ -453,24 +440,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Las Heras 2125, Recoleta"
+              "label": "M. T. de Alvear 2163, Piso 5"
             },
             {
-              "label": "+54 9 11 2163-4412",
+              "label": "+54 9 11 7362-4454",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "+54 11 4803-3130"
-            },
-            {
-              "label": "Lun a Vie 9-20 · Sáb 9-16",
+              "label": "Lun a Vie 9-20hs · Sáb 9-15hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Orthé Recoleta"
+      "copyrightName": "Dental Woda"
     }
   }
 }

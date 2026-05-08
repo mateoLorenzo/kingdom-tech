@@ -1,0 +1,366 @@
+{
+  "brand": {
+    "name": "Odonto Martin García",
+    "shortName": "Odonto Martin García",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491136083317",
+      "defaultMessage": "Hola, quiero reservar un turno en Odonto Martin García."
+    },
+    "phoneDisplay": "011 3608-3317",
+    "address": "Ruy Díaz de Guzmán 48, Piso 2B, Barracas, CABA",
+    "hours": "Lun a Vie · 8 a 19hs · Sáb 9 a 17hs",
+    "mapQuery": "Odonto Martin García, Ruy Díaz de Guzmán 48, Barracas, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odonto-martin-garcia.kingdom-tech.co",
+    "title": "Odonto Martin García — Clínica dental | Barracas, CABA",
+    "description": "Clínica odontológica en Barracas, CABA. Odontología accesible, urgencias en el día y tratamientos sin dolor. 4.7★ con 112 opiniones en Google.",
+    "ogTitle": "Odonto Martin García — Clínica Dental en Barracas",
+    "ogDescription": "Clínica odontológica en Barracas, CABA. Precios acordes, urgencias en el día y sin dolor. 4.7★ con 112 opiniones.",
+    "siteName": "Odonto Martin García",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Barracas, CABA. Precios acordes, urgencias y sin dolor. 4.7★ con 112 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Ruy Díaz de Guzmán 48, 2° B",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1267",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6342,
+        "lng": -58.3806
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 112
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Ruy Díaz de Guzmán 48 · Barracas · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Odontología accesible y sin dolor\nen Barracas, CABA.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.7 ★",
+        "label": "112 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "112",
+          "label": "Reviews"
+        },
+        {
+          "value": "Lun-Sáb",
+          "label": "Turnos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precios acordes", "accent": true }
+      ],
+      "items": [
+        { "name": "Odontología general", "image": "/img/limpieza.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Odontología accesible en Barracas, " },
+        { "text": "con urgencias incluso los sábados.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Sin Dolor\nSin Miedo",
+          "body": "Nuestros pacientes destacan que los procedimientos no duelen: extracciones, conductos y arreglos resueltos con paciencia y cuidado para que la visita sea lo más amena posible."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Precios\nAcordes",
+          "body": "Atención accesible con facilidades de pago para tratamientos largos. Aranceles dentro de lo esperado, sin sorpresas y con la calidad que recomiendan nuestros pacientes."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Patricia Melo",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Marlon [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Carla [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "La atención es muy recomendable, gente que sabe lo que hace. Se aseguran de que no duela y sea lo más ameno posible. Siempre acudo a ellos si surge una urgencia. Vayan sin miedo.",
+          "name": "Choco Suizo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Unos genios, son muy piolas. Me dieron facilidad para pagar el tratamiento de conducto y encima me regalaron una limpieza. Unos capos.",
+          "name": "Mariano Zarza",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atiendo hace casi 3 años y siempre recibí un excelente trato de la Dra. Patricia y su equipo. Me costó años encontrar una odontóloga de confianza.",
+          "name": "Fran Rodríguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a atenderme por primera vez y quedé muy conforme. Me atendieron el Dr. y la Dra. Patricia en turnos distintos y son un excelente equipo. La atención muy amena.",
+          "name": "Ramón Santana",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui por urgencia por dolor de muela. La Dra. Patricia me trató muy bien y quedé muy conforme con el trabajo. Mucha paciencia y un trato muy bueno.",
+          "name": "Laura Rápolo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, buena predisposición y precios accesibles. La Dra. es muy amable y atenta, siempre me voy muy conforme.",
+          "name": "Ángela Herrera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención por la Doc. Patricia. Sábado a la tarde y me solucionó un arreglo de mi diente rápidamente.",
+          "name": "Viviana Alende",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendieron súper bien. Tenía una urgencia, escribí temprano, me dieron turno para el día y me atendieron súper bien. Lo recomiendo.",
+          "name": "Natalia Chaia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me realicé prótesis allí. Excelente atención, buenos materiales y precios acordes. Lo recomiendo, gracias Patricia.",
+          "name": "Alejandra Alcoba",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Maravillosa atención y trato. Toman todas las medidas, piensan en los pacientes y en los médicos. Y juro que no duele nada.",
+          "name": "Laura Fernández",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Los recomiendo 100%. Profesionales de primera junto con el buen ambiente, más que satisfecho. Patricia, Carla y Marlon, sigan así.",
+          "name": "Sebastián Bramuglia",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención. Me saqué una muela y no me dolió nada. Lo recomiendo mucho.",
+          "name": "Emi Díaz",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Ruy Díaz de Guzmán 48, Piso 2B, Barracas, CABA. Atendemos de lunes a viernes de 8 a 19hs y los sábados de 9 a 17hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny atendemos urgencias en el día.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Ruy Díaz de Guzmán 48, Barracas · CABA",
+      "hoursLine": "Lun a Vie 8-19hs · Sáb 9-17hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Barracas, CABA.\nOdontología accesible y sin dolor\ncon urgencias incluso los sábados.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://odontomartingarcianegocio.wordpress.com/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Odontología general", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Prótesis dentales", "href": "#servicios" },
+            { "label": "Urgencias", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Ruy Díaz de Guzmán 48, Barracas" },
+            {
+              "label": "+54 9 11 3608-3317",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 3608-3317" },
+            { "label": "Lun a Vie 8-19 · Sáb 9-17", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Odonto Martin García"
+    }
+  }
+}

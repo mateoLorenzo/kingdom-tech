@@ -1,0 +1,361 @@
+{
+  "brand": {
+    "name": "Centro Odontológico MRZ",
+    "shortName": "MRZ",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5492214540222",
+      "defaultMessage": "Hola, quiero reservar un turno en el Centro Odontológico MRZ."
+    },
+    "phoneDisplay": "0221 482-0169",
+    "address": "Av. 7 Nº 113, La Plata, Provincia de Buenos Aires",
+    "hours": "Lun a Vie · 9 a 17hs",
+    "mapQuery": "Centro Odontológico MRZ, Av. 7 113, La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://centro-odontologico-mrz.kingdom-tech.co",
+    "title": "Centro Odontológico MRZ — Implantología y Cirugía | La Plata",
+    "description": "Centro odontológico en La Plata especializado en implantología y cirugía bucal. Tecnología de punta, trato humano y seguimiento integral. 4.9★ con 157 opiniones en Google.",
+    "ogTitle": "Centro Odontológico MRZ — Implantología y Cirugía",
+    "ogDescription": "Implantología y cirugía bucal en La Plata. Tecnología de punta y calidez profesional. 4.9★ con 157 opiniones.",
+    "siteName": "Centro Odontológico MRZ",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en La Plata. Implantología y cirugía bucal con tecnología de punta. 4.9★ con 157 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. 7 Nº 113",
+        "city": "La Plata",
+        "region": "Provincia de Buenos Aires",
+        "postalCode": "B1902",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.9094,
+        "lng": -57.942
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 157
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. 7 Nº 113 · La Plata · Pcia. de Buenos Aires",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Implantología y cirugía bucal\ncon tecnología de punta y trato humano.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "157 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "157",
+          "label": "Reviews"
+        },
+        {
+          "value": "9-17",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Cirugía bucal", "image": "/img/ondodoncia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Años de experiencia en implantología y cirugía bucal, " },
+        { "text": "minimizando el dolor en cada procedimiento.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Implantes\nSin Miedo",
+          "body": "Acompañamos cada cirugía con indicaciones claras, pre y postoperatorio detallado y seguimiento a distancia. Pacientes que llegan con miedo se van tranquilos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tecnología\nDe Punta",
+          "body": "Equipamiento moderno y protocolos de higiene rigurosos. Cada implante, extracción o cirugía se realiza con la precisión y el cuidado que tu boca merece."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Martina [A confirmar]",
+          "role": "Cirugía · Extracciones",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Manuel Ramallo Zenteno",
+          "role": "Implantología · Cirugía",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Agustina [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Henry [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Tienen un profesionalismo y amabilidad excelente. En el implante no tuve ninguna molestia ni inflamación ni moretón gracias a su experiencia. Sin duda lo recomiendo.",
+          "name": "Alejandra Voglino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son de primerísimo nivel. Un orgullo tener en La Plata el mejor equipamiento y tecnología de punta, la mejor calidad profesional y un excelente trato humano.",
+          "name": "Gustavo Bassino",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Los profesionales son excelentes y el equipamiento súper moderno. La clínica es absolutamente higiénica, linda y ordenada. La atención de los recepcionistas, súper cordial.",
+          "name": "Victoria Sarlo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a realizarme un implante y puedo decir que cuentan con un excelente profesionalismo, con un trato muy amable y un lugar súper recomendado en equipamiento, limpieza y cuidado.",
+          "name": "Fede Martín",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, en horario y con todas las indicaciones pre y posquirúrgicas, y seguimiento a distancia. Muy recomendable desde la recepción hasta el retiro.",
+          "name": "Marcos Pérez Marín",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención y las prácticas siempre tuvieron una prioridad: la salud del paciente, minimizar el dolor y realzar la estética bucal. Excelencia en el personal y extrema dedicación.",
+          "name": "Néstor Cena",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendí con Agus, Martina y Manuel, todos un diez. Estoy muy conforme con el servicio que brinda el centro, se nota el compromiso con cada paciente.",
+          "name": "María Inés Elichondoborde",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me realizaron una cirugía por una muela de juicio retenida y el postoperatorio lo estoy transitando sin ningún problema. Recomiendo a todo este equipo.",
+          "name": "Mariano Parodi",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace años que me atiendo acá. Son excelentes profesionales, cuidadosos y profundamente humanos. Algo tan difícil como una intervención pasa a ser mucho más llevadero.",
+          "name": "Alejandra Lhomy",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llegué con muchísimo miedo porque me dan impresión las agujas y todo procedimiento médico, pero desde el primer momento el equipo me acompañó y se terminó todo muy bien.",
+          "name": "Inés Bellesi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente asesoramiento y calidad humana. Los médicos que me atendieron se preocuparon y ocuparon para que la cirugía sea lo más llevadera posible.",
+          "name": "Mónica Barbis",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El lugar está impecable. Excelente atención. Profesionalismo. Gracias Henry y Romina.",
+          "name": "Aníbal L. G.",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. 7 Nº 113, La Plata, Provincia de Buenos Aires. Atendemos de lunes a viernes de 9 a 17hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. 7 Nº 113, La Plata · Pcia. Bs. As.",
+      "hoursLine": "Lun a Vie · 9 a 17hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en La Plata.\nImplantología y cirugía bucal\ncon tecnología de punta y calidez profesional.",
+      "socials": [
+        {
+          "label": "Web",
+          "href": "https://mrzsalud.com.ar",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Cirugía bucal", "href": "#servicios" },
+            { "label": "Prótesis dentales", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. 7 Nº 113, La Plata" },
+            {
+              "label": "+54 9 221 454-0222",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "0221 482-0169" },
+            { "label": "Lun a Vie · 9 a 17hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico MRZ"
+    }
+  }
+}

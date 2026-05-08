@@ -1,78 +1,77 @@
 {
   "brand": {
-    "name": "Centro Odontológico",
-    "shortName": "Centro Odontológico",
+    "name": "Clinica Boulevard",
+    "shortName": "Boulevard",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/centro-odontologico/logo.png",
-      "alt": "Centro Odontológico",
-      "height": 44
+      "type": "text"
     }
   },
   "theme": {
-    "primary": "#1A2D73",
-    "accent": "#38A3DE",
-    "label": "#1A2D73",
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
     "bgSoft": "#F9F9FB",
-    "footerBg": "#0A1A3C",
+    "footerBg": "#0A1F3D",
     "footerText": "#FFFFFF",
     "text": "#1A1A1A"
   },
   "contact": {
     "whatsapp": {
-      "phone": "541141583311",
-      "defaultMessage": "Hola, quiero reservar un turno en Centro Odontológico."
+      "phone": "5491169093836",
+      "defaultMessage": "Hola, quiero reservar un turno en Consultorio Boulevard."
     },
-    "phoneDisplay": "+54 11 4158-3311",
-    "address": "Av. Eva Perón 5679, Mataderos, CABA",
-    "hours": "Lun a Sáb · 9 a 19hs · Dom 11 a 16hs",
-    "mapQuery": "Av. Eva Perón 5679, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 6909-3836",
+    "address": "Cnel. Ramón L. Falcón 5451, Villa Luro, CABA",
+    "hours": "Lun a Vie · 10 a 20hs",
+    "mapQuery": "Coronel Ramón L. Falcón 5451, Villa Luro, CABA, Argentina"
   },
   "seo": {
-    "baseUrl": "https://centro-odontologico.kingdom-tech.co",
-    "title": "Centro Odontológico — Mataderos | CABA",
-    "description": "Clínica odontológica en Mataderos. Atención integral para toda la familia: implantes, ortodoncia, endodoncia, prótesis, diseño de sonrisa y urgencias.",
-    "ogTitle": "Centro Odontológico — Atención integral en Mataderos",
-    "ogDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia, diseño de sonrisa y urgencias.",
-    "siteName": "Centro Odontológico",
+    "baseUrl": "https://boulevard.kingdom-tech.co",
+    "title": "Consultorio Boulevard — Odontología familiar | Villa Luro",
+    "description": "Consultorio odontológico en Villa Luro. Atención cálida para toda la familia, fuerte en odontopediatría y pacientes con miedo al dentista. 4.9★ con 147 opiniones.",
+    "ogTitle": "Consultorio Boulevard — Adiós al miedo al dentista",
+    "ogDescription": "Consultorio odontológico en Villa Luro. Especialistas en odontopediatría y atención cálida para toda la familia.",
+    "siteName": "Consultorio Odontológico Boulevard",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia y urgencias.",
+    "twitterDescription": "Consultorio odontológico en Villa Luro. 4.9★ con 147 opiniones. Especialistas en odontopediatría y atención sin miedo.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Eva Perón 5679",
-        "city": "Buenos Aires",
+        "street": "Cnel. Ramón L. Falcón 5451",
+        "city": "Ciudad Autónoma de Buenos Aires",
         "region": "CABA",
-        "postalCode": "C1440",
+        "postalCode": "C1408DRA",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.6621324,
-        "lng": -58.4858093
+        "lat": -34.6388671,
+        "lng": -58.5036861
       },
       "hours": [
         {
           "days": [
-            "Monday",
             "Tuesday",
             "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday"
+            "Friday"
           ],
-          "opens": "09:00",
-          "closes": "19:00"
+          "opens": "10:00",
+          "closes": "20:00"
         },
         {
           "days": [
-            "Sunday"
+            "Monday",
+            "Thursday"
           ],
-          "opens": "11:00",
-          "closes": "16:00"
+          "opens": "12:00",
+          "closes": "20:00"
         }
-      ]
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 147
+      }
     }
   },
   "nav": [
@@ -111,35 +110,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Eva Perón 5679 · Mataderos · CABA",
+      "eyebrow": "Cnel. Falcón 5451 · Villa Luro · CABA",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Adiós al miedo\nAl dentista,\n"
         },
         {
-          "text": "Familiar",
+          "text": "Hola sonrisa",
           "accent": true
         }
       ],
-      "subheadline": "Turnos ágiles por WhatsApp, atención cálida\ny el cuidado profesional que tu sonrisa merece.",
+      "subheadline": "Atención cálida para toda la familia,\ncon paciencia infinita para chicos y miedosos.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "Centro Odontológico",
-        "label": "Clínica odontológica integral en Mataderos"
+        "brand": "4.9 ★",
+        "label": "147 opiniones en Google"
       },
       "stats": [
         {
-          "value": "9-19",
-          "label": "Lun a Sáb"
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
         },
         {
-          "value": "Dom",
-          "label": "11 a 16hs"
+          "value": "147",
+          "label": "Reviews"
         },
         {
-          "value": "7 días",
-          "label": "A la semana"
+          "value": "10-20",
+          "label": "Lun a Vie"
         }
       ]
     },
@@ -150,38 +150,38 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Para toda la familia",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Implantes",
-          "image": "/img/implantes.jpg"
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
         },
         {
           "name": "Ortodoncia",
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
-        },
-        {
-          "name": "Diseño de sonrisa",
-          "image": "/img/estetica.jpg"
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Radiología",
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
           "image": "/img/limpieza.jpg"
         },
         {
-          "name": "Odontopediatría",
-          "image": "/img/Odontopediatría.jpg"
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
         },
         {
           "name": "Urgencias",
@@ -193,18 +193,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "En Mataderos cuidamos la sonrisa de toda la familia con atención cálida, explicaciones claras y trabajos prolijos. "
+          "text": "El miedo al dentista se trabaja con paciencia, calidez y un equipo que entiende a chicos, adultos y abuelos. "
         },
         {
-          "text": "Cada paciente, cada etapa.",
+          "text": "Toda la familia, sin presiones.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Atención\nPersonalizada",
-          "body": "Te escuchamos, te explicamos cada paso y planificamos tu tratamiento en conjunto. Sin apuros, con tiempo real dedicado a vos."
+          "title": "Especialistas\nEn niños",
+          "body": "Trato amoroso y mucha paciencia. Acompañamos la primera consulta de los más chiquitos para que sea una buena experiencia desde el día uno."
         },
         {
           "type": "image",
@@ -212,8 +212,8 @@
         },
         {
           "type": "content",
-          "title": "Turnos\nPor WhatsApp",
-          "body": "Coordiná tu consulta con un mensaje. Respondemos rápido y te damos disponibilidad en el momento, incluso para urgencias."
+          "title": "Calidez\nCon cada paciente",
+          "body": "Te explicamos cada procedimiento con claridad, sin tecnicismos. Buscamos que te sientas cómodo y bien atendido en cada visita."
         },
         {
           "type": "image",
@@ -234,26 +234,26 @@
       ],
       "members": [
         {
-          "name": "Dra. Macarena",
-          "role": "Odontología Integral",
+          "name": "Dra. Sabrina",
+          "role": "Directora Clínica",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Endodoncia",
+          "name": "Dra. Aixa",
+          "role": "Odontopediatría",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dra. Mariana",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Alejandra Navarro",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -272,74 +272,74 @@
       ],
       "items": [
         {
-          "quote": "Excelente centro. Me saqué una muela por dolor intenso, fue rápido y siguiendo las indicaciones no tuve complicaciones. Muy recomendable.",
-          "name": "Gustavo Ticona",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Hace años me atiendo acá. Excelentes profesionales y atención muy cálida. El diseño de sonrisa quedó impecable, toda la familia se atiende acá.",
-          "name": "Kiara Gómez",
+          "quote": "Todas unas genias. No me hacen doler, ya que soy re miedosa. Amables, cariñosas, todas. No las cambio por nadie.",
+          "name": "Soledad Wallace",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Muy buena atención, amable, prolija y sin dolor. Ya fui varias veces y siempre quedo muy conforme con el trabajo.",
-          "name": "Nadia Acosta",
+          "quote": "Excelente atención por parte de las odontólogas, a destacar su trato y amabilidad para tratar con personas mayores. También el profesionalismo de las chicas de recepción.",
+          "name": "Eugenia Benitez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Buena atención y calidad. Fui por una urgencia y el trabajo quedó de diez.",
-          "name": "Albert Avendaño",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención, responden consultas rápido y todo fue ágil y efectivo. Muy amables y respetuosos.",
-          "name": "Mariela Hernandez",
+          "quote": "Con todo mi grupo familiar nos atendemos allí. Cada médico del equipo es excepcional: muy profesionales, actualizados y con mucho respeto.",
+          "name": "Noema",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. La Dra. Macarena muy profesional y paciente. Gran experiencia.",
-          "name": "Eduardo Perez",
+          "quote": "Excelente la atención de la Dra. Sabrina y de la secretaria. Me encontraba con una infección y supieron asistirme para continuar con la solución.",
+          "name": "Nicolás Brumat",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención. Todo el personal muy amable y los resultados siempre impecables.",
-          "name": "Carlos Cella",
+          "quote": "Me encanta atenderme acá. Sabrina es una genia, súper atenta y profesional. El lugar es impecable, con tecnología de última. 100% recomendado.",
+          "name": "Mariano Demolli",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Trabajos impecables. Explica todo claramente y es muy detallista en lo estético. Muy conforme.",
-          "name": "Luis Alberto Romero",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Súper recomendable. Me hice varios tratamientos y siempre quedaron perfectos. Nunca tuve problemas.",
-          "name": "Soledad Apel",
+          "quote": "Mi hijo de 3 años se atiende y el trato para con él es excelente, con mucha paciencia. El lugar es de última generación: limpio, moderno.",
+          "name": "Daniela Onainty",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente profesional. Me hice un conducto sin dolor, muy cuidadoso y atento. Feliz con el resultado.",
-          "name": "Jacqueline Gonzalez",
+          "quote": "Súper cálidos y amables. La odontopediatra Aixa tiene una paciencia inmensa, ¡gracias! Recomiendo mucho.",
+          "name": "Ximena Valdovinos",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. Me solucionaron una extracción que en otro lugar hicieron mal. Muy recomendable.",
-          "name": "Fernando Quezada",
+          "quote": "Increíble lugar, sobre todo si son miedosos como yo. Las recepcionistas son unas genias y los doctores son lo más. Este lugar me sacó el miedo a ir al dentista.",
+          "name": "Ariel Punturiero",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Siempre me atienden muy bien. Me salvaron un diente que estaba para extracción. Impecable trabajo.",
-          "name": "Viviana Lopez",
+          "quote": "Atendieron a mi nena de 3 años amorosamente y lograron curar su muelita. Siendo su primer contacto odontológico, estoy muy contenta. ¡Gracias, Dra. Sabrina!",
+          "name": "Juliana Orellana",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace años. Siempre con Aixa, una divina. Mi nena tuvo su primera consulta a los 3 años y la doctora fue un amor.",
+          "name": "Paula Iorio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Sinceramente, el mejor lugar para atenderte. Mariana siempre súper profesional y divina. Estuve años buscando un lugar que me convenza y no hay otro mejor.",
+          "name": "Aldana",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quería agradecer a Gise, que siempre te recibe con una hermosa sonrisa. Casi dos horas de espera y cuidó a mi ahijada como una reina.",
+          "name": "Marie García Leiva",
           "rating": 5,
           "gender": "female"
         }
@@ -348,8 +348,13 @@
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -374,7 +379,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Eva Perón 5679, Mataderos, CABA. Atendemos de lunes a sábado de 9 a 19hs y los domingos de 11 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Cnel. Ramón L. Falcón 5451, Villa Luro, CABA. Atendemos de lunes a viernes de 10 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -385,22 +390,22 @@
           "text": "Tu sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
       "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Eva Perón 5679, Mataderos, CABA",
-      "hoursLine": "Lun a Sáb 9-19hs · Dom 11-16hs",
+      "addressLine": "Cnel. Falcón 5451, Villa Luro, CABA",
+      "hoursLine": "Lun a Vie · 10 a 20hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica en Mataderos.\nAtención integral para toda la familia,\ncon turnos ágiles por WhatsApp.",
+      "about": "Consultorio odontológico en Villa Luro.\nAtención cálida para toda la familia,\nespecialistas en odontopediatría.",
       "socials": [
         {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/consultoriodentalclean",
+          "label": "Facebook",
+          "href": "https://www.facebook.com/people/Consultorio-Odontol%C3%B3gico-Boulevard/100063563560668/",
           "external": true
         },
         {
@@ -435,7 +440,7 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Implantes",
+              "label": "Odontopediatría",
               "href": "#servicios"
             },
             {
@@ -443,11 +448,11 @@
               "href": "#servicios"
             },
             {
-              "label": "Diseño de sonrisa",
+              "label": "Implantes",
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Estética dental",
               "href": "#servicios"
             }
           ]
@@ -456,21 +461,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Eva Perón 5679, Mataderos"
+              "label": "Cnel. Falcón 5451, Villa Luro"
             },
             {
-              "label": "+54 11 4158-3311",
+              "label": "+54 9 11 6909-3836",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Sáb 9-19 · Dom 11-16",
+              "label": "Lun a Vie 10-20hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Centro Odontológico"
+      "copyrightName": "Consultorio Odontológico Boulevard"
     }
   }
 }

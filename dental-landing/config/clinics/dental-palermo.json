@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Clinica Dental Sur",
-    "shortName": "Dental Sur",
+    "name": "Dental Palermo",
+    "shortName": "Dental Palermo",
     "logo": {
       "type": "text"
     }
@@ -17,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491150373001",
-      "defaultMessage": "Hola, quiero reservar un turno en Dental Sur."
+      "phone": "5491137945890",
+      "defaultMessage": "Hola, quiero reservar un turno en Dental Palermo."
     },
-    "phoneDisplay": "+54 9 11 5037-3001",
-    "address": "Presidente Quintana 125, Lanús Oeste",
-    "hours": "Lun a Vie · 9 a 18hs",
-    "mapQuery": "Presidente Quintana 125, Lanús Oeste, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 3794-5890",
+    "address": "Charcas 3127, Palermo, CABA",
+    "hours": "Lun a Sáb · 8:30 a 12:30hs",
+    "mapQuery": "Charcas 3127, Palermo, Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental-sur.kingdom-tech.co",
-    "title": "Clinica Dental Sur — Atención sin dolor | Lanús Oeste",
-    "description": "Centro odontológico en Lanús Oeste dirigido por el Dr. Marcos Nicotra. Implantes, extracciones, urgencias y atención integral con trato cálido y honestidad.",
-    "ogTitle": "Clinica Dental Sur — Sin dolor en Lanús Oeste",
-    "ogDescription": "Centro odontológico en Lanús Oeste. Atención cercana, resolución rápida y resultados confiables.",
-    "siteName": "Clinica Dental Sur",
+    "baseUrl": "https://dental-palermo.kingdom-tech.co",
+    "title": "Dental Palermo — Dr. Claudio Sorrentino | Odontología en Palermo",
+    "description": "Consultorio odontológico en Palermo, CABA. Dr. Claudio Sorrentino — odontología de primer nivel con atención minuciosa y cálida. 4.9★ con 235 opiniones en Google.",
+    "ogTitle": "Dental Palermo — Odontología de primer nivel",
+    "ogDescription": "Consultorio odontológico en Palermo con el Dr. Claudio Sorrentino. Precisión, calidez y atención personalizada. 4.9★ con 235 opiniones.",
+    "siteName": "Dental Palermo",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Centro odontológico en Lanús Oeste. 5.0★ con 338+ opiniones. Implantes, extracciones y atención sin dolor.",
+    "twitterDescription": "Consultorio odontológico en Palermo, CABA. Dr. Claudio Sorrentino. 4.9★ con 235 opiniones. Atención en español e inglés.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Presidente Quintana 125",
-        "city": "Lanús Oeste",
-        "region": "Buenos Aires",
-        "postalCode": "B1824",
+        "street": "Charcas 3127",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.7101841,
-        "lng": -58.3936501
+        "lat": -34.5867,
+        "lng": -58.4138
       },
       "hours": [
         {
@@ -56,15 +56,16 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday"
+            "Friday",
+            "Saturday"
           ],
-          "opens": "09:00",
-          "closes": "18:00"
+          "opens": "08:30",
+          "closes": "12:30"
         }
       ],
       "rating": {
-        "value": 5.0,
-        "count": 338
+        "value": 4.9,
+        "count": 235
       }
     }
   },
@@ -104,36 +105,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Presidente Quintana 125 · Lanús Oeste",
+      "eyebrow": "Charcas 3127 · Palermo · CABA",
       "headline": [
         {
-          "text": "Odontología\nSin dolor y\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Con confianza",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y resolución rápida,\npensada para que vengas tranquilo a cada consulta.",
+      "subheadline": "Odontología de primer nivel\ncon atención minuciosa y cálida.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "5.0 ★",
-        "label": "338+ opiniones en Google"
+        "brand": "4.9 ★",
+        "label": "235 opiniones en Google"
       },
       "stats": [
         {
-          "value": "5.0",
+          "value": "4.9",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "338",
+          "value": "235",
           "label": "Reviews"
         },
         {
-          "value": "9-18",
-          "label": "Lun a Vie"
+          "value": "8:30-12:30",
+          "label": "Lun a Sáb"
         }
       ]
     },
@@ -150,36 +151,36 @@
       ],
       "items": [
         {
-          "name": "Implantes",
-          "image": "/img/implantes.jpg"
-        },
-        {
-          "name": "Extracciones",
-          "image": "/img/emergencia.jpg"
-        },
-        {
-          "name": "Endodoncia",
-          "image": "/img/ondodoncia.jpg"
-        },
-        {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
         },
         {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
         {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
           "name": "Ortodoncia",
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Limpieza y prevención",
-          "image": "/img/limpieza.jpg"
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
         },
         {
           "name": "Urgencias",
-          "image": "/img/Odontopediatría.jpg"
+          "image": "/img/emergencia.jpg"
         }
       ]
     },
@@ -187,18 +188,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que el miedo al dentista es real. Por eso priorizamos el trato humano, la honestidad al asesorar "
+          "text": "Precisión, cuidado y atención personalizada en cada consulta. Tecnología de última generación con un trato humano que te acompaña en cada paso, "
         },
         {
-          "text": "y los tratamientos sin dolor.",
+          "text": "del diagnóstico al resultado final.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Tratamientos\nSin dolor",
-          "body": "Trabajamos con técnicas modernas y mucha paciencia para que cada procedimiento sea lo más cómodo posible. Tu tranquilidad es nuestra prioridad."
+          "title": "Atención\nEn inglés",
+          "body": "Recibimos pacientes de todo el mundo. Te explicamos cada procedimiento con claridad, sin tecnicismos innecesarios, en español o inglés."
         },
         {
           "type": "image",
@@ -206,8 +207,8 @@
         },
         {
           "type": "content",
-          "title": "Honestidad\nAl asesorar",
-          "body": "Te explicamos qué necesitás y qué no, sin sobrevender tratamientos. Buscamos resolverte el problema real con la mejor relación costo-beneficio."
+          "title": "Precisión\nEn cada detalle",
+          "body": "Meticulosidad obsesiva con la calidad del trabajo. Materiales de primer nivel y seguimiento constante para que el resultado sea exactamente el esperado."
         },
         {
           "type": "image",
@@ -228,26 +229,26 @@
       ],
       "members": [
         {
-          "name": "Dr. Marcos Nicotra",
-          "role": "Director Clínico",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Implantología",
+          "name": "Dr. Claudio Sorrentino",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -266,70 +267,64 @@
       ],
       "items": [
         {
-          "quote": "Me sacaron una muela de juicio rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Excelente trato humano.",
-          "name": "Natalia Naz",
+          "quote": "Es el mejor profesional de la salud que he conocido en mi vida. Una persona maravillosa, fuera de serie, a la que estoy inmensamente agradecida.",
+          "name": "Claudia Paveri",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por un problema dental y el Dr. Marcos lo resolvió rápido. Muy profesional y cálido. Súper recomendable.",
-          "name": "Daiana Zerbini",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Excelente atención de principio a fin. Me hicieron un tratamiento de perno y corona con resultado impecable.",
-          "name": "Nadia Fernandez",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Desde la recepción hasta el Dr. Marcos, todo excelente. Me sentí muy cómodo y bien atendido.",
-          "name": "Federico Armiento",
+          "quote": "Cuando llegué tenía un montón de problemas dentales y el Dr. Claudio me los solucionó todos. Realmente transformó mi sonrisa. El tratamiento fue de primer nivel.",
+          "name": "Renan Dias Baptista",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Lugar impecable. La recepcionista y el equipo muy amables. Marcos siempre honesto y resolutivo.",
-          "name": "Mayra Gabriele",
+          "quote": "El Dr. Claudio es un profesional excepcional. Su atención al detalle es evidente. Cada procedimiento fue explicado con claridad. Su amabilidad y trato cercano son insuperables.",
+          "name": "Julia Janette Alves",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "El Dr. Marcos es un genio. Excelente atención y equipo muy buena onda. Muy recomendable.",
-          "name": "Viviana Pose",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Me hice un implante con el Dr. Marcos, muy profesional y confiable. Todo salió perfecto.",
-          "name": "Andrea Luzko",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "La atención del Dr. Marcos y su asistente es espectacular. Puntualidad, dedicación y profesionalismo.",
-          "name": "Albano Pinto",
+          "quote": "Me hizo un diagnóstico completo desde la primera sesión, con un plan de tratamiento exhaustivo. El trabajo al restaurar mis muelas fue realmente excepcional.",
+          "name": "Facundo DB",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente profesional, transmite confianza. Ideal para quienes tienen miedo al dentista.",
-          "name": "Roberto Monteros",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Todo impecable. El Dr. Marcos y su equipo atendieron a toda mi familia con excelentes resultados.",
-          "name": "Patricia Griecco",
+          "quote": "Claudio es el odontólogo que todos quisieran tener. No solo es un profesional extraordinario, sino también una persona increíble.",
+          "name": "Jimena Gomar",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por implantes y la atención fue impecable. Muy honestos al asesorar. Me fui muy conforme.",
-          "name": "Walter Dacunda",
+          "quote": "El Dr. Claudio Sorrentino es uno de los mejores profesionales que he tenido el gusto de cruzarme. Meticuloso, limpio, atento al detalle.",
+          "name": "Maximiliano Giuliani",
           "rating": 5,
           "gender": "male"
+        },
+        {
+          "quote": "Feliz de haber encontrado a este doctor en Buenos Aires. Siempre es bueno poder confiar al 100% en el especialista desde el día uno. Tecnología moderna y tratamientos verdaderamente actualizados.",
+          "name": "Valeria Shchegoleva",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Atención sobresaliente. Puntual y minucioso en su trabajo. Me dio un diagnóstico detallado con fotos y un plan de tratamiento explicado con mucha paciencia.",
+          "name": "Pablo Prestia",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Trabajé en la Oregon Health Sciences University por más de una década. En mi opinión, el Dr. Sorrentino es uno de los mejores odontólogos con los que me crucé en mi vida.",
+          "name": "Armando Gutiérrez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El Dr. Claudio nos agendó por un dolor de encías a último momento y nos hizo sentir tranquilos pese a la ansiedad. El consultorio bien equipado y el procedimiento rápido y profesional.",
+          "name": "Jia Jin Low",
+          "rating": 5,
+          "gender": "female"
         }
       ]
     },
@@ -358,11 +353,11 @@
         },
         {
           "question": "¿Atienden a niños?",
-          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Presidente Quintana 125, Lanús Oeste. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Charcas 3127, Palermo, CABA. Atendemos de lunes a sábado de 8:30 a 12:30hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -370,27 +365,22 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Presidente Quintana 125, Lanús Oeste",
-      "hoursLine": "Lun a Vie 9-18hs",
+      "addressLine": "Charcas 3127, Palermo, CABA",
+      "hoursLine": "Lun a Sáb · 8:30 a 12:30hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Centro odontológico en Lanús Oeste.\nAtención sin dolor, honesta y resolutiva,\npara toda la familia.",
+      "about": "Consultorio odontológico en Palermo, CABA.\nDr. Claudio Sorrentino — odontología\nde primer nivel y atención personalizada.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/dentalsur_/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -423,11 +413,7 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Implantes",
-              "href": "#servicios"
-            },
-            {
-              "label": "Extracciones",
+              "label": "Limpieza dental",
               "href": "#servicios"
             },
             {
@@ -435,7 +421,11 @@
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
               "href": "#servicios"
             }
           ]
@@ -444,21 +434,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Presidente Quintana 125, Lanús Oeste"
+              "label": "Charcas 3127, Palermo, CABA"
             },
             {
-              "label": "+54 9 11 5037-3001",
+              "label": "+54 9 11 3794-5890",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9-18hs",
+              "label": "Lun a Sáb 8:30–12:30hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Clinica Dental Sur"
+      "copyrightName": "Dental Palermo"
     }
   }
 }

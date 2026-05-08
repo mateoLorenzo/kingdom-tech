@@ -1,0 +1,356 @@
+{
+  "brand": {
+    "name": "Armonident Odontología",
+    "shortName": "Armonident",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491125480498",
+      "defaultMessage": "Hola, quiero reservar un turno en Armonident Odontología."
+    },
+    "phoneDisplay": "011 2548-0498",
+    "address": "Yerbal 968, Caballito, CABA",
+    "hours": "Todos los días · 8 a 20hs",
+    "mapQuery": "Armonident Odontología, Yerbal 968, Caballito, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://armonident.kingdom-tech.co",
+    "title": "Armonident — Odontología abierta los 7 días | Caballito, CABA",
+    "description": "Clínica odontológica en Caballito, CABA. Abiertos todos los días de 8 a 20hs. Urgencias, implantes y casos complejos resueltos con calidez. 5.0★ con 85 opiniones.",
+    "ogTitle": "Armonident — Odontología los 7 días",
+    "ogDescription": "Clínica odontológica en Caballito abierta todos los días. Urgencias, implantes y casos complejos. 5.0★ con 85 opiniones en Google.",
+    "siteName": "Armonident Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Caballito abierta los 7 días, 8 a 20hs. 5.0★ con 85 opiniones en Google.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Yerbal 968",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1405",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6203,
+        "lng": -58.4412
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "08:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 85
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Yerbal 968 · Caballito · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Odontología integral y urgencias\nabiertos los 7 días en Caballito.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "5.0 ★",
+        "label": "85 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "7 días",
+          "label": "8 a 20hs"
+        },
+        {
+          "value": "85",
+          "label": "Reviews"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con calidez y dedicación", "accent": true }
+      ],
+      "items": [
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Odontología integral los 7 días, " },
+        { "text": "con turnos incluso sábados y domingos.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Abiertos\nLos 7 Días",
+          "body": "Atendemos de lunes a domingo, de 8 a 20hs. Urgencias resueltas incluso sábados por la noche y domingos temprano: cuando necesites un odontólogo, estamos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Casos\nComplejos",
+          "body": "Fístulas, muelas infectadas, pacientes con pánico o fobias: resolvemos lo que otros descartan. Con paciencia, escucha activa y seguimiento personalizado post-tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. María [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Cubillo",
+          "role": "Odontología · Urgencias",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Beatriz León",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. José [A confirmar]",
+          "role": "Odontología General",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "El mejor odontólogo que puedas conocer en CABA. Mi caso no es sencillo: tengo miedo a atragantarme y nunca volví al odontólogo después de un ataque de pánico. Y acá logré volver.",
+          "name": "Cecilia Chirino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Durante un año tuve una muela con fístula. En otros lugares me proponían una solución simple, acá resolvieron el caso con dedicación y resultados visibles.",
+          "name": "Rodolfo Péndola",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente trato del Dr. Cubillo, me atendió un domingo a las 10hs y pude solucionar el inconveniente en el curso de la semana. Volveré sin duda al consultorio.",
+          "name": "Pablo Chow",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tuve una urgencia sábado a la tarde y me dieron turno para ese mismo día, a pesar de que ya estaban completos. Me explicó paso a paso, me sentí muy cómoda.",
+          "name": "Lorena Gutiérrez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El DOCTOR, con mayúscula. Sufro de ataques de pánico y tenía que hacer una extracción. Me ayudó en todo momento y contestó mis dudas al día siguiente.",
+          "name": "Elena Altamirano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Le tengo pánico al dentista. Me tuvieron mucha paciencia: me saqué sarro y me dolió muy poco, después me saqué una muela y excelente todo. Recomiendo.",
+          "name": "Agustina D'Aloisio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia. Es difícil encontrar un lugar que brinde tanta confianza a toda la familia. Mi esposo con un tratamiento que quedó espectacular, el nivel de detalle es increíble.",
+          "name": "Daniela Bussolino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice una limpieza ultrasónica. El doctor tuvo paciencia y dedicación: sacó sarro viejo dentro de la encía, cosa que en otros lugares no sucede porque uno molesta.",
+          "name": "Déborah Ríos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales, dedicados y detallistas. Le hicieron implantes a mi papá, explicando cada paso. Muy empáticos, lo hicieron sentir tranquilo y cómodo.",
+          "name": "Ana Gómez Ruiz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Siempre te explican el problema y las opciones. La odontopediatra es excepcional: gracias a ella mi hija de 5 años pudo superar el miedo al tratamiento dental.",
+          "name": "Iuliia Romashchenko",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El odontólogo me atendió un sábado por la noche de emergencia por un dolor fuerte. Después de 3 días buscando cómo calmarlo, fue el único que me evaluó detalladamente.",
+          "name": "Fefi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales y un amor de personas. Fui con un terror bárbaro y fueron muy pacientes y cuidadosos. Lo recomiendo para quienes huimos del dentista.",
+          "name": "Lei Ruiz",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Yerbal 968, Caballito, CABA. Atendemos todos los días de 8 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny atendemos urgencias los 7 días.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Yerbal 968, Caballito · CABA",
+      "hoursLine": "Todos los días · 8 a 20hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Caballito, CABA.\nAbiertos los 7 días de 8 a 20hs\npara urgencias y tratamientos integrales.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Urgencias", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Odontopediatría", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Yerbal 968, Caballito" },
+            {
+              "label": "+54 9 11 2548-0498",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 2548-0498" },
+            { "label": "Todos los días · 8 a 20hs", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Armonident Odontología"
+    }
+  }
+}

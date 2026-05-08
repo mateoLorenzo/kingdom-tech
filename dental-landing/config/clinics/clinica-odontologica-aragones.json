@@ -1,0 +1,342 @@
+{
+  "brand": {
+    "name": "Clínica Odontológica Aragonés",
+    "shortName": "Clínica Aragonés",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491127670483",
+      "defaultMessage": "Hola, quiero reservar un turno en Clínica Odontológica Aragonés."
+    },
+    "phoneDisplay": "011 4813-2741",
+    "address": "Av. Santa Fe 1877 · 2° D · Barrio Norte · CABA",
+    "hours": "Lun a Vie · Turnos por WhatsApp",
+    "mapQuery": "Av. Santa Fe 1877, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://clinica-odontologica-aragones.kingdom-tech.co",
+    "title": "Clínica Odontológica Aragonés — Equipo Femenino | Barrio Norte",
+    "description": "Clínica dental en Av. Santa Fe, Barrio Norte. Dra. Romina Aragonés y equipo de odontólogas. Explicaciones claras, consultorio moderno y atención cálida. 4.9★ con +150 opiniones en Google.",
+    "ogTitle": "Clínica Odontológica Aragonés — Barrio Norte, CABA",
+    "ogDescription": "Dra. Romina Aragonés y equipo. Odontología integral en Av. Santa Fe con explicaciones claras y consultorio moderno. 4.9★ con +150 opiniones.",
+    "siteName": "Clínica Odontológica Aragonés",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica dental en Av. Santa Fe, Barrio Norte. Dra. Romina Aragonés y equipo de odontólogas. 4.9★ con +150 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Santa Fe 1877, 2° D",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1123",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5965,
+        "lng": -58.3900
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Wednesday", "Friday"],
+          "opens": "09:00",
+          "closes": "16:30"
+        },
+        {
+          "days": ["Tuesday"],
+          "opens": "10:30",
+          "closes": "18:30"
+        },
+        {
+          "days": ["Thursday"],
+          "opens": "10:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 151
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Santa Fe 1877 · Barrio Norte · CABA",
+      "headline": [
+        { "text": "Expertas en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Equipo femenino de odontólogas\nen Av. Santa Fe.\nExplicaciones claras, consultorio moderno\ny atención cálida para toda la familia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.9 ★",
+        "label": "con +150 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+150",
+          "label": "Opiniones"
+        },
+        {
+          "value": "Lun-Vie",
+          "label": "Con turno"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Con precisión y calidez", "accent": true }
+      ],
+      "items": [
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Familias enteras que vuelven año tras año. " },
+        { "text": "Un equipo femenino con mirada integral y pacientes de confianza.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Equipo Femenino\nDe Excelencia",
+          "body": "Romina Aragonés, Guadalupe Aragonés y Belén Pagano. Odontólogas que explican cada paso, contienen pacientes con miedo y construyen relaciones de largo plazo. Recepción a cargo de Leticia, primera cara amable."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Consultorio\nModerno y Cálido",
+          "body": "Equipamiento moderno, higiene impecable y un espacio diseñado para que estés cómoda desde que entrás. Turnos puntuales, atención personalizada y explicaciones detalladas antes de cualquier procedimiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. Romina Aragonés",
+          "role": "Directora · Odontología Integral",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Belén Pagano",
+          "role": "Odontología Integral",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "El consultorio de Romina y todo su equipo es súper recomendable. Son muy claras en sus explicaciones y la atención es muy buena desde que entrás y te atiende Leticia con mucha amabilidad. Consultorio hermoso y equipamiento moderno.",
+          "name": "Ana Sinise",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Comencé tratamiento con la Dra. Romina Aragonés y realmente me encontré con una profesional con mayúscula. Supo contenerme y superar mi temor al pisar un consultorio. Me realizó una profilaxis impecable.",
+          "name": "Jorge Tosar",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Son excelentes. Me atiendo con la Dra. Aragonés desde hace muchos años. Impecable, profesional, sabe mucho y es súper amable. Realmente recomendable.",
+          "name": "Nazarena Sosa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Feliz por la atención recibida. La amabilidad de las secretarias para destacar. Las Dras. Romina y Guadalupe Aragonés cuidan mi salud dental con profesionalismo y mucha dedicación.",
+          "name": "Marisa Sola",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace años con las Dras. Belén y Guadalupe. Son muy profesionales y atentas, resolviendo todas mis dudas e inquietudes. El consultorio es divino y excelente la atención en la recepción.",
+          "name": "Teresita Arrouzet",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La primera consulta la tuve con la Dra. Aragonés y las posteriores con Belén Pagano. Ambas excelentes profesionales y muy cálidas. Súper recomendadas.",
+          "name": "Kevin Galeano",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente lugar, consultorio súper moderno, y la atención es excelente desde la persona que maneja los WhatsApp hasta las odontólogas, súper profesionales. Súper recomendable.",
+          "name": "Gustavo Villa",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención en la clínica Aragonés es impecable. He comenzado a atenderme con ellas hace un mes. Siempre me explicaron todo a detalle y respondieron todas mis dudas.",
+          "name": "Andrea Esc.",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Santa Fe 1877 · 2° D · Barrio Norte · CABA. Atendemos de lunes a viernes, con turnos coordinados por WhatsApp. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Santa Fe 1877 · 2° D · Barrio Norte",
+      "hoursLine": "Lun a Vie · Turnos por WhatsApp",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Clínica dental en Av. Santa Fe, Barrio Norte.\nEquipo femenino de odontólogas\ncon atención cálida y consultorio moderno.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Limpieza y prevención", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Av. Santa Fe 1877, 2° D" },
+            {
+              "label": "+54 9 11 2767-0483",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 4813-2741" },
+            { "label": "Lun a Vie · Turnos por WhatsApp", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica Odontológica Aragonés"
+    }
+  }
+}

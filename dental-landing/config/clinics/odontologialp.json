@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "name": "Odontología LP",
+    "shortName": "OdontologíaLP",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5492216830377",
+      "defaultMessage": "Hola, tengo una urgencia dental y quiero consultar en Odontología LP."
+    },
+    "phoneDisplay": "0221 15-683-0377",
+    "address": "Calle 2 1040, La Plata, Buenos Aires",
+    "hours": "Abierto 24hs · Todos los días",
+    "mapQuery": "Calle 2 1040, La Plata, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontologialp.kingdom-tech.co",
+    "title": "Odontología LP — Urgencias Dentales 24hs | La Plata",
+    "description": "Urgencias dentales las 24 horas en La Plata. Atención inmediata por WhatsApp, extracciones, endodoncias y odontología integral. 4.8★ con +100 opiniones en Google.",
+    "ogTitle": "Odontología LP — Urgencias Dentales 24hs en La Plata",
+    "ogDescription": "Dolor dental de madrugada, fin de semana o feriado. Te atendemos en el día. 4.8★ en Google, respuesta inmediata por WhatsApp.",
+    "siteName": "Odontología LP",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Urgencias dentales 24hs en La Plata. Atención inmediata por WhatsApp. 4.8★ en Google.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Calle 2 1040",
+        "city": "La Plata",
+        "region": "Buenos Aires",
+        "postalCode": "B1900CXJ",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.9191,
+        "lng": -57.9608
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 114
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Urgencias", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Urgencia 24hs",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Calle 2 1040 · La Plata · Abierto 24hs",
+      "headline": [
+        { "text": "Urgencias dentales\n" },
+        { "text": "24hs en La Plata", "accent": true }
+      ],
+      "subheadline": "Resolvemos tu dolor en el momento.\nAtención inmediata por WhatsApp,\ncualquier día, cualquier hora.",
+      "ctaLabel": "Urgencia 24hs",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.8 ★",
+        "label": "con +100 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+100",
+          "label": "Opiniones"
+        },
+        {
+          "value": "24hs",
+          "label": "Disponibles"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Sin dolor y sin esperas", "accent": true }
+      ],
+      "items": [
+        { "name": "Urgencias 24hs", "image": "/img/emergencia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Urgencias dentales resueltas cuando otros no atienden. " },
+        { "text": "Atención 24hs por WhatsApp, todos los días del año.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nLas 24 Horas",
+          "body": "Dolor a la medianoche, fin de semana o feriado — resolvemos tu urgencia cuando otros no atienden. Respondemos WhatsApp 24/7 y coordinás tu turno en minutos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin Dolor\nY Sin Esperas",
+          "body": "Extracciones y endodoncias con técnica precisa, sin dolor y en el momento. Diagnóstico claro, honorarios accesibles y soluciones efectivas desde la primera consulta."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Nicolás Raffaeli",
+          "role": "Director · Urgencias y Cirugía",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "Un capo, Nicolás, ídolo. Me atendió una urgencia a las 10 de la noche y resolvió lo que otros no pudieron. Totalmente recomendable.",
+          "name": "Leonel Nocetti",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fuimos tarde por la noche con mi pareja por un dolor de urgencia y en menos de media hora estábamos en casa. Atención excelente, mucha vocación y calidad humana.",
+          "name": "Camila Vargas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "No solo es un gran profesional, es una persona con vocación por la salud. 5 estrellas por ello y por Vanesa, que está 24/7 atenta al teléfono.",
+          "name": "Juan Audagno",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me sacó una muela de juicio en una operación muy compleja. Rápido, sin dolor y efectivo. Me fui muy satisfecho y el post operatorio fue lo más pasable posible.",
+          "name": "Hernán Sierra",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llegué con un dolor impresionante de toda una noche. Nicolás me atendió con una calidad profesional indiscutible y con honorarios súper accesibles.",
+          "name": "Sabri Buscaglia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una urgencia de dolor en la muela de juicio y el doctor la solucionó en minutos con una extracción. 10/10 en su trato, conocimientos y manera de trabajar.",
+          "name": "Juan Pablo Méndez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente sin palabras. La secretaria divina, el doctor un genio. Super rápida la atención por WhatsApp y en consultorio.",
+          "name": "Silvina Ribaudo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Increíble la atención. Fui con un dolor súper intenso y en menos de 30 minutos me lo solucionó. Un genio Nicolás, muchísimas gracias.",
+          "name": "Mecha F.",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Calle 2 1040, La Plata, Buenos Aires. Estamos abiertos las 24 horas, todos los días del año. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencias 24hs",
+      "heading": [
+        { "text": "Dolor dental ahora?\n" },
+        { "text": "Te atendemos", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp\nen cualquier momento del día o de la noche.",
+      "ctaLabel": "Escribir por WhatsApp",
+      "addressLine": "Calle 2 1040 · La Plata",
+      "hoursLine": "Abierto 24hs · Todos los días",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Urgencias dentales las 24 horas\nen La Plata, Buenos Aires.\nAtención inmediata por WhatsApp.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Urgencias 24hs", "href": "#servicios" },
+            { "label": "Extracciones", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Calle 2 1040, La Plata" },
+            {
+              "label": "+54 9 221 683-0377",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "0221 15-683-0377" },
+            { "label": "Abierto 24hs · Todos los días", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología LP"
+    }
+  }
+}

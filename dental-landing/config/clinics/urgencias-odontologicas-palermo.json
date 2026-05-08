@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "name": "Urgencias Odontológicas Palermo",
+    "shortName": "Urgencias Palermo",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491154948595",
+      "defaultMessage": "Hola, tengo una urgencia dental y quiero consultar en Urgencias Odontológicas Palermo."
+    },
+    "phoneDisplay": "011 5494-8595",
+    "address": "Bonpland 1240, Palermo, CABA",
+    "hours": "Abierto 24hs · Todos los días",
+    "mapQuery": "Bonpland 1240, Palermo, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://urgencias-odontologicas-palermo.kingdom-tech.co",
+    "title": "Urgencias Odontológicas Palermo — Atención 24hs | CABA",
+    "description": "Urgencias dentales las 24 horas en Palermo. WhatsApp respondido al instante y turno el mismo día. Dr. Augusto Toma — extracciones, endodoncias y cirugía sin dolor. 4.3★ con +120 opiniones.",
+    "ogTitle": "Urgencias Odontológicas Palermo — Atención 24hs",
+    "ogDescription": "Dolor dental a la noche, fin de semana o feriado. Turno el mismo día, respuesta inmediata por WhatsApp. Dr. Augusto Toma en Palermo.",
+    "siteName": "Urgencias Odontológicas Palermo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Urgencias dentales 24hs en Palermo. Turno el mismo día, respuesta inmediata por WhatsApp. 4.3★ con +120 opiniones.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Bonpland 1240",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5862,
+        "lng": -58.4367
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "rating": {
+        "value": 4.3,
+        "count": 120
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Urgencias", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Urgencia 24hs",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Bonpland 1240 · Palermo · Abierto 24hs",
+      "headline": [
+        { "text": "Urgencias dentales\n" },
+        { "text": "24hs en Palermo", "accent": true }
+      ],
+      "subheadline": "Turno el mismo día, a cualquier hora.\nRespuesta inmediata por WhatsApp\ny resolución sin dolor en minutos.",
+      "ctaLabel": "Urgencia 24hs",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.3 ★",
+        "label": "con +120 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.3",
+          "label": "★★★★☆",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+120",
+          "label": "Opiniones"
+        },
+        {
+          "value": "24hs",
+          "label": "Disponibles"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Sin dolor y sin esperas", "accent": true }
+      ],
+      "items": [
+        { "name": "Urgencias 24hs", "image": "/img/emergencia.jpg" },
+        { "name": "Extracciones", "image": "/img/ondodoncia.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Respondemos WhatsApp al instante y coordinamos turno el mismo día. " },
+        { "text": "Disponibles las 24 horas, todos los días del año.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nLas 24 Horas",
+          "body": "Dolor a la medianoche, domingo a la mañana, feriado. Respondemos WhatsApp en minutos y te damos turno para el mismo día. Consultorio impecable en Palermo, listo cuando lo necesites."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin Dolor\nY Con Paciencia",
+          "body": "Extracciones y endodoncias resueltas en 20 minutos, sin dolor y con técnica precisa. Te explicamos cada paso para que entiendas el tratamiento. Pacientes con miedo al dentista llegan, vuelven y recomiendan."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Augusto Toma",
+          "role": "Director · Urgencias y Cirugía",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "El Dr. Augusto Toma me atendió en una urgencia un domingo por la mañana con gran disposición. Consultorio impecable, explica cada detalle con claridad y durante el tratamiento no sentí absolutamente ningún dolor.",
+          "name": "Rubén B.",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Rapidez total en los turnos: escribí a las 21 y me dieron turno a las 22. Augusto un excelente profesional, mucha paciencia. Me resolvió el problema en un rato. Consultorio impecable, muchas gracias.",
+          "name": "Antonella Demarco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me comuniqué por la tarde y me dieron turno el mismo día para las 22hs. El trato excelente. Como una persona que siempre le tuvo miedo al odontólogo, recomiendo 100% a Augusto.",
+          "name": "Fiore Colucci",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui anoche, feriado por Viernes Santo, 21hs, extracción de muela de juicio. En 20 minutos ya estaba en la calle, sin dolor y sin sangrado. Excelente atención y amabilidad.",
+          "name": "Osvaldo López",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Sin conocerlo, mandé WhatsApp y me atendió a las 2 horas. Me resolvió en el acto un implante que ya me hablaban de renovarlo con otra técnica y que me costaría una fortuna. Lo recontra-recomiendo.",
+          "name": "Federico Correa",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Lo contacté un sábado por la mañana con mucho dolor y en 1 hora ya me estaba atendiendo. Me realizó una extracción y en 20 minutos solucionó mi problema. Súper amable, excelente profesional.",
+          "name": "Mariela Sinesi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mandé mensaje al WhatsApp, no tardaron nada en responder y asesorar. En 3 horas tenía turno y la asistencia fue espectacular. El doc un genio, me ayudó a que pasaran los nervios del momento.",
+          "name": "Claudia Dodaro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por una urgencia para mi nena de 8 años y la atención fue excelente. Le explicó paso por paso el tratamiento, fue muy dulce y atento con ella. Recomiendo 100%.",
+          "name": "Rey Bruno",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Bonpland 1240, Palermo, CABA. Atendemos las 24 horas, todos los días. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencias 24hs",
+      "heading": [
+        { "text": "Dolor dental ahora?\n" },
+        { "text": "Te atendemos", "accent": true }
+      ],
+      "description": "Respondemos WhatsApp al instante\ny coordinamos tu turno para el mismo día.",
+      "ctaLabel": "Escribir por WhatsApp",
+      "addressLine": "Bonpland 1240 · Palermo, CABA",
+      "hoursLine": "Abierto 24hs · Todos los días",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Urgencias dentales las 24 horas\nen Palermo, CABA.\nAtención inmediata por WhatsApp.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Urgencias 24hs", "href": "#servicios" },
+            { "label": "Extracciones", "href": "#servicios" },
+            { "label": "Endodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Bonpland 1240, Palermo" },
+            {
+              "label": "+54 9 11 5494-8595",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 5494-8595" },
+            { "label": "Abierto 24hs · Todos los días", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Urgencias Odontológicas Palermo"
+    }
+  }
+}

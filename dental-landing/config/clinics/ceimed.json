@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Clinica Dental Sur",
-    "shortName": "Dental Sur",
+    "name": "Clínica Ceimed",
+    "shortName": "Ceimed",
     "logo": {
       "type": "text"
     }
@@ -17,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491150373001",
-      "defaultMessage": "Hola, quiero reservar un turno en Dental Sur."
+      "phone": "5491157465329",
+      "defaultMessage": "Hola, quiero reservar un turno en Clínica Ceimed."
     },
-    "phoneDisplay": "+54 9 11 5037-3001",
-    "address": "Presidente Quintana 125, Lanús Oeste",
-    "hours": "Lun a Vie · 9 a 18hs",
-    "mapQuery": "Presidente Quintana 125, Lanús Oeste, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 5746-5329",
+    "address": "Segurola 1259, Villa Luro, CABA",
+    "hours": "Lun a Jue · 9 a 17hs · Vie 9 a 16hs",
+    "mapQuery": "Segurola 1259, Villa Luro, Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental-sur.kingdom-tech.co",
-    "title": "Clinica Dental Sur — Atención sin dolor | Lanús Oeste",
-    "description": "Centro odontológico en Lanús Oeste dirigido por el Dr. Marcos Nicotra. Implantes, extracciones, urgencias y atención integral con trato cálido y honestidad.",
-    "ogTitle": "Clinica Dental Sur — Sin dolor en Lanús Oeste",
-    "ogDescription": "Centro odontológico en Lanús Oeste. Atención cercana, resolución rápida y resultados confiables.",
-    "siteName": "Clinica Dental Sur",
+    "baseUrl": "https://ceimed.kingdom-tech.co",
+    "title": "Clínica Ceimed — Odontología con tecnología CEREC | Villa Luro",
+    "description": "Clínica odontológica en Villa Luro, CABA. Implantes, coronas CEREC en el día y cirugía sin dolor. 4.6★ con 287 opiniones en Google.",
+    "ogTitle": "Clínica Ceimed — Odontología con tecnología CEREC",
+    "ogDescription": "Clínica odontológica en Villa Luro. Implantes y coronas CEREC en el día. 4.6★ con 287 opiniones.",
+    "siteName": "Clínica Ceimed",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Centro odontológico en Lanús Oeste. 5.0★ con 338+ opiniones. Implantes, extracciones y atención sin dolor.",
+    "twitterDescription": "Clínica odontológica en Villa Luro. Implantes y coronas CEREC en el día. 4.6★ con 287 opiniones.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Presidente Quintana 125",
-        "city": "Lanús Oeste",
-        "region": "Buenos Aires",
-        "postalCode": "B1824",
+        "street": "Segurola 1259",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1407",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.7101841,
-        "lng": -58.3936501
+        "lat": -34.6293,
+        "lng": -58.5008
       },
       "hours": [
         {
@@ -55,16 +55,22 @@
             "Monday",
             "Tuesday",
             "Wednesday",
-            "Thursday",
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        },
+        {
+          "days": [
             "Friday"
           ],
           "opens": "09:00",
-          "closes": "18:00"
+          "closes": "16:00"
         }
       ],
       "rating": {
-        "value": 5.0,
-        "count": 338
+        "value": 4.6,
+        "count": 287
       }
     }
   },
@@ -104,36 +110,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Presidente Quintana 125 · Lanús Oeste",
+      "eyebrow": "Segurola 1259 · Villa Luro · CABA",
       "headline": [
         {
-          "text": "Odontología\nSin dolor y\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Con confianza",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y resolución rápida,\npensada para que vengas tranquilo a cada consulta.",
+      "subheadline": "Implantes, coronas CEREC en el día\ny cirugía sin dolor en Villa Luro, CABA.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "5.0 ★",
-        "label": "338+ opiniones en Google"
+        "brand": "4.6 ★",
+        "label": "287 opiniones en Google"
       },
       "stats": [
         {
-          "value": "5.0",
+          "value": "4.6",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "338",
+          "value": "287",
           "label": "Reviews"
         },
         {
-          "value": "9-18",
-          "label": "Lun a Vie"
+          "value": "CEREC",
+          "label": "Tecnología"
         }
       ]
     },
@@ -144,7 +150,7 @@
           "text": "Tratamientos dentales\n"
         },
         {
-          "text": "Para tu mejor sonrisa",
+          "text": "Con tecnología CEREC",
           "accent": true
         }
       ],
@@ -154,32 +160,32 @@
           "image": "/img/implantes.jpg"
         },
         {
-          "name": "Extracciones",
-          "image": "/img/emergencia.jpg"
+          "name": "Coronas CEREC",
+          "image": "/img/estetica.jpg"
         },
         {
-          "name": "Endodoncia",
+          "name": "Cirugía dental",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
+          "name": "Extracciones",
+          "image": "/img/ondodoncia.jpg"
         },
         {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
         {
-          "name": "Ortodoncia",
-          "image": "/img/brackets.jpg"
-        },
-        {
           "name": "Limpieza y prevención",
           "image": "/img/limpieza.jpg"
         },
         {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
           "name": "Urgencias",
-          "image": "/img/Odontopediatría.jpg"
+          "image": "/img/emergencia.jpg"
         }
       ]
     },
@@ -187,18 +193,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que el miedo al dentista es real. Por eso priorizamos el trato humano, la honestidad al asesorar "
+          "text": "Trabajamos con tecnología CEREC para realizar coronas y restauraciones "
         },
         {
-          "text": "y los tratamientos sin dolor.",
+          "text": "en una sola sesión.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Tratamientos\nSin dolor",
-          "body": "Trabajamos con técnicas modernas y mucha paciencia para que cada procedimiento sea lo más cómodo posible. Tu tranquilidad es nuestra prioridad."
+          "title": "Coronas\nEn el día",
+          "body": "Con tecnología CEREC diseñamos y colocamos coronas e incrustaciones en una sola visita. Sin moldes incómodos, sin esperas entre consultas."
         },
         {
           "type": "image",
@@ -206,8 +212,8 @@
         },
         {
           "type": "content",
-          "title": "Honestidad\nAl asesorar",
-          "body": "Te explicamos qué necesitás y qué no, sin sobrevender tratamientos. Buscamos resolverte el problema real con la mejor relación costo-beneficio."
+          "title": "Sin dolor\nSin molestias",
+          "body": "Nuestros pacientes destacan procedimientos sin dolor, incluso en implantes y extracciones complejas. Calidez profesional y resultados que se notan."
         },
         {
           "type": "image",
@@ -228,27 +234,27 @@
       ],
       "members": [
         {
-          "name": "Dr. Marcos Nicotra",
-          "role": "Director Clínico",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dra. Marisa Shalom",
+          "role": "Implantología · Cirugía",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Implantología",
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Pamela Badgen",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
-          "experience": "AÑOS DE EXP",
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
           "image": "/img/team-4.jpg"
         }
       ]
@@ -266,78 +272,89 @@
       ],
       "items": [
         {
-          "quote": "Me sacaron una muela de juicio rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Excelente trato humano.",
-          "name": "Natalia Naz",
+          "quote": "La Dra. Marisa me colocó 3 implantes previa radiografía. Jamás sentí molestias ni dolor, ni siquiera al perder efecto la anestesia. Sin dolor posterior, sin calmantes. ¡Felicitaciones!",
+          "name": "Susana Markusfeld",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por un problema dental y el Dr. Marcos lo resolvió rápido. Muy profesional y cálido. Súper recomendable.",
-          "name": "Daiana Zerbini",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Excelente atención de principio a fin. Me hicieron un tratamiento de perno y corona con resultado impecable.",
-          "name": "Nadia Fernandez",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Desde la recepción hasta el Dr. Marcos, todo excelente. Me sentí muy cómodo y bien atendido.",
-          "name": "Federico Armiento",
+          "quote": "Espectacular la clínica y la atención. La Dra. Marisa me colocó un implante con corona que me quedó perfecto. La Dra. Pamela sumamente cálida y capaz. Muy agradecido por el resultado.",
+          "name": "Gustavo Lamisovsky",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Lugar impecable. La recepcionista y el equipo muy amables. Marcos siempre honesto y resolutivo.",
-          "name": "Mayra Gabriele",
+          "quote": "Excelente. Desde la secretaria Paula hasta el equipo de profesionales. Gracias Dra. Marisa y Dra. Pamela por su comprensión y calidez. Con la tecnología CEREC todo resulta indoloro y muy rápido.",
+          "name": "Delia Cabral",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "El Dr. Marcos es un genio. Excelente atención y equipo muy buena onda. Muy recomendable.",
-          "name": "Viviana Pose",
+          "quote": "Excelente atención desde las chicas de recepción y las doctoras. La Dra. Pamela me hizo un excelente trabajo y fue muy amable conmigo. Muchísimas gracias.",
+          "name": "Marce Simón",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Me hice un implante con el Dr. Marcos, muy profesional y confiable. Todo salió perfecto.",
-          "name": "Andrea Luzko",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "La atención del Dr. Marcos y su asistente es espectacular. Puntualidad, dedicación y profesionalismo.",
-          "name": "Albano Pinto",
+          "quote": "Mi agradecimiento enorme a la Dra. Marisa Shalom por la extracción de una muela muy difícil de sacar. Lo hizo con gran profesionalismo, dedicación y rapidez a pesar de la dificultad.",
+          "name": "Marcelo Fontana",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente profesional, transmite confianza. Ideal para quienes tienen miedo al dentista.",
-          "name": "Roberto Monteros",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Todo impecable. El Dr. Marcos y su equipo atendieron a toda mi familia con excelentes resultados.",
-          "name": "Patricia Griecco",
+          "quote": "Excelente experiencia. Me atendieron de manera rápida y profesional. Lo que más me impresionó fue la tecnología avanzada que utilizaron para hacerme la corona: el resultado fue perfecto.",
+          "name": "Claudia Cavallaro",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por implantes y la atención fue impecable. Muy honestos al asesorar. Me fui muy conforme.",
-          "name": "Walter Dacunda",
+          "quote": "La atención es excelente, profesionales de primera y una calidad humana maravillosa. Soy una paciente con problemas pero me han atendido de maravilla. Tanto Marisa como Pame, las mejores.",
+          "name": "Nieves Bottano",
           "rating": 5,
-          "gender": "male"
+          "gender": "female"
+        },
+        {
+          "quote": "Me dieron un sobreturno y así y todo me atendieron súper rápido. Todo sin dolor ni problemas. Súper profesionales. Muchas gracias.",
+          "name": "Iara Tutavac",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención desde la recepcionista Paula, ni hablar de la Dra. Pamela que te recibe con una sonrisa tranquilizadora. Se toma todo el tiempo para atenderte, la cirugía fue un éxito.",
+          "name": "Mariana Pessutti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Agradezco la amabilidad y atención de Ceimed para resolver cualquier inconveniente. Un destacado para la Dra. Pamela: atención profesional excelente y amor por su trabajo.",
+          "name": "Estela Marangio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace 15 días me hice un implante con la Dra. Marisa. Estoy muy satisfecha, la recomiendo mil veces. Gracias Marisa, sos una genia como profesional.",
+          "name": "Marlene Stainzach",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quiero agradecer a la Dra. Marisa Shalom y a su equipo por su calidez, profesionalismo y dedicación. Se destacan por su conocimiento y por el trato humano y cercano.",
+          "name": "Daniela Rodríguez",
+          "rating": 5,
+          "gender": "female"
         }
       ]
     },
     "faq": {
       "eyebrow": "Preguntas frecuentes",
       "heading": [
-        { "text": "Visitanos tranquilo\n" },
-        { "text": "Con todo en claro", "accent": true }
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
       ],
       "items": [
         {
@@ -362,7 +379,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Presidente Quintana 125, Lanús Oeste. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Segurola 1259, Villa Luro, CABA. Atendemos de lunes a jueves de 9 a 17hs y los viernes de 9 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -370,25 +387,25 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Presidente Quintana 125, Lanús Oeste",
-      "hoursLine": "Lun a Vie 9-18hs",
+      "addressLine": "Segurola 1259, Villa Luro, CABA",
+      "hoursLine": "Lun a Jue 9-17hs · Vie 9-16hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Centro odontológico en Lanús Oeste.\nAtención sin dolor, honesta y resolutiva,\npara toda la familia.",
+      "about": "Clínica odontológica en Villa Luro, CABA.\nImplantes, coronas CEREC en el día\ny cirugía sin dolor.",
       "socials": [
         {
           "label": "Instagram",
-          "href": "https://www.instagram.com/dentalsur_/",
+          "href": "https://www.instagram.com/clinicaceimed/",
           "external": true
         },
         {
@@ -427,15 +444,15 @@
               "href": "#servicios"
             },
             {
-              "label": "Extracciones",
+              "label": "Coronas CEREC",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía dental",
               "href": "#servicios"
             },
             {
               "label": "Estética dental",
-              "href": "#servicios"
-            },
-            {
-              "label": "Urgencias",
               "href": "#servicios"
             }
           ]
@@ -444,21 +461,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Presidente Quintana 125, Lanús Oeste"
+              "label": "Segurola 1259, Villa Luro"
             },
             {
-              "label": "+54 9 11 5037-3001",
+              "label": "+54 9 11 5746-5329",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9-18hs",
+              "label": "Lun a Vie · 9-17hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Clinica Dental Sur"
+      "copyrightName": "Clínica Ceimed"
     }
   }
 }

@@ -1,56 +1,53 @@
 {
   "brand": {
-    "name": "Centro Odontológico",
-    "shortName": "Centro Odontológico",
+    "name": "QC Grupo Dental",
+    "shortName": "QC",
     "logo": {
-      "type": "image",
-      "src": "/img/clinics/centro-odontologico/logo.png",
-      "alt": "Centro Odontológico",
-      "height": 44
+      "type": "text"
     }
   },
   "theme": {
-    "primary": "#1A2D73",
-    "accent": "#38A3DE",
-    "label": "#1A2D73",
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
     "bgSoft": "#F9F9FB",
-    "footerBg": "#0A1A3C",
+    "footerBg": "#0A1F3D",
     "footerText": "#FFFFFF",
     "text": "#1A1A1A"
   },
   "contact": {
     "whatsapp": {
-      "phone": "541141583311",
-      "defaultMessage": "Hola, quiero reservar un turno en Centro Odontológico."
+      "phone": "5491150223624",
+      "defaultMessage": "Hola, quiero reservar un turno en QC Grupo Dental."
     },
-    "phoneDisplay": "+54 11 4158-3311",
-    "address": "Av. Eva Perón 5679, Mataderos, CABA",
-    "hours": "Lun a Sáb · 9 a 19hs · Dom 11 a 16hs",
-    "mapQuery": "Av. Eva Perón 5679, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 5022-3624",
+    "address": "Esmeralda 920, Piso 10, Torre Bellini, Microcentro, CABA",
+    "hours": "Lun a Vie · 9 a 18hs · Sáb 9 a 14hs",
+    "mapQuery": "Esmeralda 920, Piso 10, C1007 Ciudad Autónoma de Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://centro-odontologico.kingdom-tech.co",
-    "title": "Centro Odontológico — Mataderos | CABA",
-    "description": "Clínica odontológica en Mataderos. Atención integral para toda la familia: implantes, ortodoncia, endodoncia, prótesis, diseño de sonrisa y urgencias.",
-    "ogTitle": "Centro Odontológico — Atención integral en Mataderos",
-    "ogDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia, diseño de sonrisa y urgencias.",
-    "siteName": "Centro Odontológico",
+    "baseUrl": "https://qc-grupo-dental.kingdom-tech.co",
+    "title": "QC Grupo Dental — Grupo de especialistas | Torre Bellini, Microcentro",
+    "description": "Clínica odontológica multi-especialista en Torre Bellini, Microcentro CABA. Ortodoncia, implantes, endodoncia y odontopediatría. Atendemos en inglés. 4.9★ con 77 opiniones.",
+    "ogTitle": "QC Grupo Dental — Grupo de especialistas",
+    "ogDescription": "Clínica multi-especialista en Torre Bellini, Microcentro. Atendemos en inglés. 4.9★ con 77 opiniones.",
+    "siteName": "QC Grupo Dental",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Clínica odontológica en Mataderos, CABA. Atención integral para toda la familia y urgencias.",
+    "twitterDescription": "Multi-especialista en Torre Bellini, Microcentro. Ortodoncia, implantes y más. 4.9★.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Av. Eva Perón 5679",
-        "city": "Buenos Aires",
+        "street": "Esmeralda 920, Piso 10, Unidad 07",
+        "city": "Ciudad Autónoma de Buenos Aires",
         "region": "CABA",
-        "postalCode": "C1440",
+        "postalCode": "C1007",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.6621324,
-        "lng": -58.4858093
+        "lat": -34.5985,
+        "lng": -58.3761
       },
       "hours": [
         {
@@ -59,20 +56,23 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday",
-            "Saturday"
+            "Friday"
           ],
           "opens": "09:00",
-          "closes": "19:00"
+          "closes": "18:00"
         },
         {
           "days": [
-            "Sunday"
+            "Saturday"
           ],
-          "opens": "11:00",
-          "closes": "16:00"
+          "opens": "09:00",
+          "closes": "14:00"
         }
-      ]
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 77
+      }
     }
   },
   "nav": [
@@ -111,35 +111,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Av. Eva Perón 5679 · Mataderos · CABA",
+      "eyebrow": "Esmeralda 920 · Torre Bellini · Microcentro",
       "headline": [
         {
-          "text": "Atención\nOdontológica\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Familiar",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Turnos ágiles por WhatsApp, atención cálida\ny el cuidado profesional que tu sonrisa merece.",
+      "subheadline": "Grupo de especialistas para cada tratamiento,\ncon atención también en inglés.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "Centro Odontológico",
-        "label": "Clínica odontológica integral en Mataderos"
+        "brand": "4.9 ★",
+        "label": "77 opiniones en Google"
       },
       "stats": [
         {
-          "value": "9-19",
-          "label": "Lun a Sáb"
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
         },
         {
-          "value": "Dom",
-          "label": "11 a 16hs"
+          "value": "77",
+          "label": "Reviews"
         },
         {
-          "value": "7 días",
-          "label": "A la semana"
+          "value": "English",
+          "label": "Available"
         }
       ]
     },
@@ -147,41 +148,41 @@
       "eyebrow": "Servicios",
       "heading": [
         {
-          "text": "Tratamientos dentales\n"
+          "text": "Un especialista\n"
         },
         {
-          "text": "Para cada necesidad",
+          "text": "Para cada tratamiento",
           "accent": true
         }
       ],
       "items": [
         {
-          "name": "Implantes",
-          "image": "/img/implantes.jpg"
-        },
-        {
           "name": "Ortodoncia",
           "image": "/img/brackets.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
-        },
-        {
-          "name": "Diseño de sonrisa",
-          "image": "/img/estetica.jpg"
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Radiología",
-          "image": "/img/limpieza.jpg"
+          "name": "Rehabilitación y coronas",
+          "image": "/img/protesis.jpg"
         },
         {
           "name": "Odontopediatría",
           "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
         },
         {
           "name": "Urgencias",
@@ -193,18 +194,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "En Mataderos cuidamos la sonrisa de toda la familia con atención cálida, explicaciones claras y trabajos prolijos. "
+          "text": "Somos un grupo de especialistas trabajando bajo el mismo techo: ortodoncia, implantes, endodoncia y odontopediatría. "
         },
         {
-          "text": "Cada paciente, cada etapa.",
+          "text": "Cada caso lo atiende el profesional indicado.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Atención\nPersonalizada",
-          "body": "Te escuchamos, te explicamos cada paso y planificamos tu tratamiento en conjunto. Sin apuros, con tiempo real dedicado a vos."
+          "title": "Trabajo\nEn equipo",
+          "body": "Cuando tu caso necesita más de una especialidad, coordinamos todo internamente. Implante + corona + endodoncia lo resolvemos entre Luis, Lerry y Karen, con un plan claro y seguimiento semanal."
         },
         {
           "type": "image",
@@ -212,8 +213,8 @@
         },
         {
           "type": "content",
-          "title": "Turnos\nPor WhatsApp",
-          "body": "Coordiná tu consulta con un mensaje. Respondemos rápido y te damos disponibilidad en el momento, incluso para urgencias."
+          "title": "English-speaking\ndentists",
+          "body": "We treat international patients. Dr. Velásquez y Dra. Karen te atienden en inglés de principio a fin, explicando cada procedimiento con claridad y sin barreras de idioma."
         },
         {
           "type": "image",
@@ -234,26 +235,26 @@
       ],
       "members": [
         {
-          "name": "Dra. Macarena",
-          "role": "Odontología Integral",
+          "name": "Dra. Karen Quintero",
+          "role": "Directora · Ortodoncia",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dr. Luis",
+          "role": "Implantología · Rehabilitación",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-2.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Endodoncia",
+          "name": "Dra. Antonella De Maria",
+          "role": "Odontopediatría",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dr. Lerry",
+          "role": "Endodoncia",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -272,74 +273,62 @@
       ],
       "items": [
         {
-          "quote": "Excelente centro. Me saqué una muela por dolor intenso, fue rápido y siguiendo las indicaciones no tuve complicaciones. Muy recomendable.",
-          "name": "Gustavo Ticona",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Hace años me atiendo acá. Excelentes profesionales y atención muy cálida. El diseño de sonrisa quedó impecable, toda la familia se atiende acá.",
-          "name": "Kiara Gómez",
+          "quote": "Comencé mi tratamiento en QC buscando resolver un tratamiento de conducto. La Dra. Karen evaluó mi caso y me propuso un plan. Gracias a ella entendí cada paso y el Dr. Lerry hizo la endodoncia impecable.",
+          "name": "Juthcely Angel",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Muy buena atención, amable, prolija y sin dolor. Ya fui varias veces y siempre quedo muy conforme con el trabajo.",
-          "name": "Nadia Acosta",
+          "quote": "Excelente Grupo Dental, los recomiendo ampliamente. Su atención y profesionalismo son de primera. Se me realizó tratamiento de conducto de un premolar y además reconstrucción. Todo prolijo.",
+          "name": "Milagros Rodríguez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Buena atención y calidad. Fui por una urgencia y el trabajo quedó de diez.",
-          "name": "Albert Avendaño",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Excelente atención, responden consultas rápido y todo fue ágil y efectivo. Muy amables y respetuosos.",
-          "name": "Mariela Hernandez",
+          "quote": "Es mi clínica dental de confianza. Atención impecable, profesionales de primer nivel para todas las especialidades. De 10 desde el diagnóstico, el tratamiento y el seguimiento de tu caso.",
+          "name": "Francis Cova",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. La Dra. Macarena muy profesional y paciente. Gran experiencia.",
-          "name": "Eduardo Perez",
+          "quote": "Recomiendo totalmente este centro dental. En 2024 me realizaron un implante y dos incrustaciones, y quedé muy satisfecho. El equipo es muy profesional y la atención es excelente.",
+          "name": "Anthony Bernard Muni",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente atención. Todo el personal muy amable y los resultados siempre impecables.",
-          "name": "Carlos Cella",
+          "quote": "Me hice limpieza, relleno de caries y reemplazo de empastes con el Dr. Velásquez. Muy hábil y profesional, explicó todo en inglés y se aseguró de que estuviera cómodo y sin dolor en cada paso.",
+          "name": "Paul Mickelson",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Trabajos impecables. Explica todo claramente y es muy detallista en lo estético. Muy conforme.",
-          "name": "Luis Alberto Romero",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Súper recomendable. Me hice varios tratamientos y siempre quedaron perfectos. Nunca tuve problemas.",
-          "name": "Soledad Apel",
+          "quote": "Mi hija se atiende con la Dra. Antonella De Maria y la adora. Siempre vuelve feliz porque le explica cada procedimiento con claridad, responde todas sus dudas y le transmite mucha confianza.",
+          "name": "Ily Avila",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente profesional. Me hice un conducto sin dolor, muy cuidadoso y atento. Feliz con el resultado.",
-          "name": "Jacqueline Gonzalez",
+          "quote": "Excelentes profesionales. La Doctora Karen me hizo el seguimiento de mi proceso de ortodoncia con paciencia, dejándome una sonrisa divina. El doctor Luis me realizó el implante.",
+          "name": "Emilse Vega",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Excelente atención. Me solucionaron una extracción que en otro lugar hicieron mal. Muy recomendable.",
-          "name": "Fernando Quezada",
+          "quote": "He tenido limpiezas en varios países y mi experiencia aquí es sin duda la mejor. La Dra. K hizo la visita al dentista casi divertida. Además podés elegir tu propia música. Mis dientes lucen como nuevos.",
+          "name": "Jos De La Paz",
           "rating": 5,
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "quote": "Siempre me atienden muy bien. Me salvaron un diente que estaba para extracción. Impecable trabajo.",
-          "name": "Viviana Lopez",
+          "quote": "Muy buena atención. El Dr. Luis excelente profesional. Trabaja muy esmeradamente, cuida la salud de los dientes y la estética también. El implante con la corona y la reconstrucción quedaron perfectas.",
+          "name": "María Inés",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Impecable grupo de profesionales. Trabajo en equipo en busca de lo mejor para el paciente con respecto a salud bucal y estética. Excelentes profesionales y como personas seres empáticos.",
+          "name": "Patricia Franchini",
           "rating": 5,
           "gender": "female"
         }
@@ -374,7 +363,7 @@
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Av. Eva Perón 5679, Mataderos, CABA. Atendemos de lunes a sábado de 9 a 19hs y los domingos de 11 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Esmeralda 920, Piso 10, Torre Bellini, Microcentro, CABA. Atendemos de lunes a viernes de 9 a 18hs y los sábados de 9 a 14hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -382,25 +371,25 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Av. Eva Perón 5679, Mataderos, CABA",
-      "hoursLine": "Lun a Sáb 9-19hs · Dom 11-16hs",
+      "addressLine": "Esmeralda 920, Piso 10 · Torre Bellini",
+      "hoursLine": "Lun a Vie 9-18 · Sáb 9-14",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Clínica odontológica en Mataderos.\nAtención integral para toda la familia,\ncon turnos ágiles por WhatsApp.",
+      "about": "Grupo de especialistas en Torre Bellini,\nMicrocentro CABA. Ortodoncia, implantes,\nendodoncia y odontopediatría.",
       "socials": [
         {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/consultoriodentalclean",
+          "label": "Web",
+          "href": "https://bio.site/qcgrupodental",
           "external": true
         },
         {
@@ -435,19 +424,19 @@
           "heading": "Servicios",
           "items": [
             {
-              "label": "Implantes",
-              "href": "#servicios"
-            },
-            {
               "label": "Ortodoncia",
               "href": "#servicios"
             },
             {
-              "label": "Diseño de sonrisa",
+              "label": "Implantes",
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
               "href": "#servicios"
             }
           ]
@@ -456,21 +445,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Av. Eva Perón 5679, Mataderos"
+              "label": "Esmeralda 920, Piso 10 · Microcentro"
             },
             {
-              "label": "+54 11 4158-3311",
+              "label": "+54 9 11 5022-3624",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Sáb 9-19 · Dom 11-16",
+              "label": "Lun a Vie 9-18 · Sáb 9-14",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Centro Odontológico"
+      "copyrightName": "QC Grupo Dental"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Clinica Dental Sur",
-    "shortName": "Dental Sur",
+    "name": "Clínica Dental Smiling",
+    "shortName": "Smiling",
     "logo": {
       "type": "text"
     }
@@ -17,37 +17,37 @@
   },
   "contact": {
     "whatsapp": {
-      "phone": "5491150373001",
-      "defaultMessage": "Hola, quiero reservar un turno en Dental Sur."
+      "phone": "5491167523939",
+      "defaultMessage": "Hola, quiero reservar un turno en Clínica Dental Smiling."
     },
-    "phoneDisplay": "+54 9 11 5037-3001",
-    "address": "Presidente Quintana 125, Lanús Oeste",
-    "hours": "Lun a Vie · 9 a 18hs",
-    "mapQuery": "Presidente Quintana 125, Lanús Oeste, Buenos Aires, Argentina"
+    "phoneDisplay": "+54 9 11 6752-3939",
+    "address": "Solís 283, Congreso, CABA",
+    "hours": "Lun a Sáb · 9 a 18hs",
+    "mapQuery": "Solís 283, Congreso, Buenos Aires, Argentina"
   },
   "seo": {
-    "baseUrl": "https://dental-sur.kingdom-tech.co",
-    "title": "Clinica Dental Sur — Atención sin dolor | Lanús Oeste",
-    "description": "Centro odontológico en Lanús Oeste dirigido por el Dr. Marcos Nicotra. Implantes, extracciones, urgencias y atención integral con trato cálido y honestidad.",
-    "ogTitle": "Clinica Dental Sur — Sin dolor en Lanús Oeste",
-    "ogDescription": "Centro odontológico en Lanús Oeste. Atención cercana, resolución rápida y resultados confiables.",
-    "siteName": "Clinica Dental Sur",
+    "baseUrl": "https://smiling-congreso.kingdom-tech.co",
+    "title": "Clínica Dental Smiling — Congreso | Odontología accesible",
+    "description": "Clínica odontológica en Congreso, CABA. Equipo completo de especialistas con precios accesibles: implantes, ortodoncia, odontopediatría y más. 4.5★ con 331 opiniones.",
+    "ogTitle": "Clínica Dental Smiling — Congreso",
+    "ogDescription": "Clínica odontológica en Congreso con equipo completo de especialistas y precios accesibles. 4.5★ con 331 opiniones en Google.",
+    "siteName": "Clínica Dental Smiling",
     "locale": "es_AR",
     "htmlLang": "es",
-    "twitterDescription": "Centro odontológico en Lanús Oeste. 5.0★ con 338+ opiniones. Implantes, extracciones y atención sin dolor.",
+    "twitterDescription": "Clínica odontológica en Congreso, CABA. Equipo completo de especialistas con precios accesibles. 4.5★ con 331 opiniones.",
     "noindex": true,
     "structuredData": {
       "type": "Dentist",
       "address": {
-        "street": "Presidente Quintana 125",
-        "city": "Lanús Oeste",
-        "region": "Buenos Aires",
-        "postalCode": "B1824",
+        "street": "Solís 283",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1078",
         "country": "AR"
       },
       "geo": {
-        "lat": -34.7101841,
-        "lng": -58.3936501
+        "lat": -34.6160,
+        "lng": -58.3896
       },
       "hours": [
         {
@@ -56,15 +56,16 @@
             "Tuesday",
             "Wednesday",
             "Thursday",
-            "Friday"
+            "Friday",
+            "Saturday"
           ],
           "opens": "09:00",
           "closes": "18:00"
         }
       ],
       "rating": {
-        "value": 5.0,
-        "count": 338
+        "value": 4.5,
+        "count": 331
       }
     }
   },
@@ -104,36 +105,36 @@
   },
   "sections": {
     "hero": {
-      "eyebrow": "Presidente Quintana 125 · Lanús Oeste",
+      "eyebrow": "Solís 283 · Congreso · CABA",
       "headline": [
         {
-          "text": "Odontología\nSin dolor y\n"
+          "text": "Expertos en\n"
         },
         {
-          "text": "Con confianza",
+          "text": "Odontologia",
           "accent": true
         }
       ],
-      "subheadline": "Atención cercana y resolución rápida,\npensada para que vengas tranquilo a cada consulta.",
+      "subheadline": "Equipo completo y precios accesibles\npara cuidar tu sonrisa sin postergarla.",
       "ctaLabel": "Reservá Turno",
       "image": "/img/hero-7.jpg",
       "laurel": {
-        "brand": "5.0 ★",
-        "label": "338+ opiniones en Google"
+        "brand": "4.5 ★",
+        "label": "331 opiniones en Google"
       },
       "stats": [
         {
-          "value": "5.0",
+          "value": "4.5",
           "label": "★★★★★",
           "labelStyle": "stars"
         },
         {
-          "value": "338",
+          "value": "331",
           "label": "Reviews"
         },
         {
           "value": "9-18",
-          "label": "Lun a Vie"
+          "label": "Lun a Sáb"
         }
       ]
     },
@@ -154,32 +155,32 @@
           "image": "/img/implantes.jpg"
         },
         {
-          "name": "Extracciones",
-          "image": "/img/emergencia.jpg"
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
         },
         {
           "name": "Endodoncia",
           "image": "/img/ondodoncia.jpg"
         },
         {
-          "name": "Prótesis dentales",
-          "image": "/img/protesis.jpg"
-        },
-        {
           "name": "Estética dental",
           "image": "/img/estetica.jpg"
         },
         {
-          "name": "Ortodoncia",
-          "image": "/img/brackets.jpg"
-        },
-        {
-          "name": "Limpieza y prevención",
+          "name": "Limpieza dental",
           "image": "/img/limpieza.jpg"
         },
         {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
           "name": "Urgencias",
-          "image": "/img/Odontopediatría.jpg"
+          "image": "/img/emergencia.jpg"
         }
       ]
     },
@@ -187,18 +188,18 @@
       "eyebrow": "Metodología",
       "paragraph": [
         {
-          "text": "Sabemos que el miedo al dentista es real. Por eso priorizamos el trato humano, la honestidad al asesorar "
+          "text": "Un equipo completo de especialistas y una administración atenta, con precios pensados para que toda la familia tenga su lugar de confianza, "
         },
         {
-          "text": "y los tratamientos sin dolor.",
+          "text": "sin postergar ningún tratamiento.",
           "accent": true
         }
       ],
       "cards": [
         {
           "type": "content",
-          "title": "Tratamientos\nSin dolor",
-          "body": "Trabajamos con técnicas modernas y mucha paciencia para que cada procedimiento sea lo más cómodo posible. Tu tranquilidad es nuestra prioridad."
+          "title": "Precios\nAccesibles",
+          "body": "Tratamientos de calidad a precios que podés planificar. Te pasamos el presupuesto claro antes de empezar, sin sorpresas ni letra chica."
         },
         {
           "type": "image",
@@ -206,8 +207,8 @@
         },
         {
           "type": "content",
-          "title": "Honestidad\nAl asesorar",
-          "body": "Te explicamos qué necesitás y qué no, sin sobrevender tratamientos. Buscamos resolverte el problema real con la mejor relación costo-beneficio."
+          "title": "Equipo de\nEspecialistas",
+          "body": "Profesionales dedicados a cada área: implantes, ortodoncia, odontopediatría, endodoncia y más. Te derivamos con la persona indicada para cada tratamiento."
         },
         {
           "type": "image",
@@ -228,26 +229,26 @@
       ],
       "members": [
         {
-          "name": "Dr. Marcos Nicotra",
-          "role": "Director Clínico",
-          "experience": "AÑOS DE EXP",
-          "image": "/img/team-2.jpg"
-        },
-        {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Ortodoncia",
+          "name": "Dra. Lady Johana Herrera",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-1.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
+          "name": "Dr. Bobarin",
           "role": "Implantología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Evangelina Pellegrini",
+          "role": "Odontología Integral",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-3.jpg"
         },
         {
-          "name": "Dr./Dra. [A confirmar]",
-          "role": "Estética Dental",
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología General",
           "experience": "AÑOS DE EXP",
           "image": "/img/team-4.jpg"
         }
@@ -266,68 +267,62 @@
       ],
       "items": [
         {
-          "quote": "Me sacaron una muela de juicio rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Excelente trato humano.",
-          "name": "Natalia Naz",
+          "quote": "Me atiende el Dr. Bobarin para un implante. La extracción tardó 10 min y el implante 20–30 min. No sentí dolor ni tengo hinchazón en la cara. Lo recomiendo.",
+          "name": "Patricia Bruix",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por un problema dental y el Dr. Marcos lo resolvió rápido. Muy profesional y cálido. Súper recomendable.",
-          "name": "Daiana Zerbini",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Excelente atención de principio a fin. Me hicieron un tratamiento de perno y corona con resultado impecable.",
-          "name": "Nadia Fernandez",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Desde la recepción hasta el Dr. Marcos, todo excelente. Me sentí muy cómodo y bien atendido.",
-          "name": "Federico Armiento",
+          "quote": "Destaco la atención de todo el personal, muy amables desde el primer momento, tanto en WhatsApp como en administración y en los profesionales. La atención bucal, un éxito.",
+          "name": "Eric Sebastián Combret",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Lugar impecable. La recepcionista y el equipo muy amables. Marcos siempre honesto y resolutivo.",
-          "name": "Mayra Gabriele",
+          "quote": "Fui a consulta por primera vez para mi nena, me atendieron rapidísimo. La doctora muy amable y me explicó con detalles todo lo que había que hacer. Muy contenta con la atención.",
+          "name": "Charo Nuñez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "El Dr. Marcos es un genio. Excelente atención y equipo muy buena onda. Muy recomendable.",
-          "name": "Viviana Pose",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "Me hice un implante con el Dr. Marcos, muy profesional y confiable. Todo salió perfecto.",
-          "name": "Andrea Luzko",
-          "rating": 5,
-          "gender": "female"
-        },
-        {
-          "quote": "La atención del Dr. Marcos y su asistente es espectacular. Puntualidad, dedicación y profesionalismo.",
-          "name": "Albano Pinto",
+          "quote": "Excelente atención desde el ingreso y la doctora muy amable y atenta para las respuestas. No sentí nada de molestias en mi curación.",
+          "name": "Luigui Pulido Corro",
           "rating": 5,
           "gender": "male"
         },
         {
-          "quote": "Excelente profesional, transmite confianza. Ideal para quienes tienen miedo al dentista.",
-          "name": "Roberto Monteros",
-          "rating": 5,
-          "gender": "male"
-        },
-        {
-          "quote": "Todo impecable. El Dr. Marcos y su equipo atendieron a toda mi familia con excelentes resultados.",
-          "name": "Patricia Griecco",
+          "quote": "Excelente atención. Muy amables. Lo súper recomiendo. La Dra. Lady Johana Herrera me pudo dar solución al problema que presentaba.",
+          "name": "Diana María Álvarez",
           "rating": 5,
           "gender": "female"
         },
         {
-          "quote": "Fui por implantes y la atención fue impecable. Muy honestos al asesorar. Me fui muy conforme.",
-          "name": "Walter Dacunda",
+          "quote": "Muy buena atención y la extracción que me hicieron fue excelente. Atienden súper bien, se los recomiendo.",
+          "name": "Jorge",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena la atención, la Dra. Daniela Soriano excelente. Y la gente de administración son muy amables. Recomendable.",
+          "name": "Silvana Loza",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es muy buena la atención como así los especialistas que hay. Se lo recomiendo.",
+          "name": "Alberto Carballo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente, súper conforme con todos los especialistas. Precios muy accesibles, somos pacientes hace bastante. Mi dentista Evangelina Pellegrini es una genia, gracias.",
+          "name": "Natalia García",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención de los profesionales y también de la recepción. Lo recomiendo, gracias.",
+          "name": "Maxi Cáceres",
           "rating": 5,
           "gender": "male"
         }
@@ -358,11 +353,11 @@
         },
         {
           "question": "¿Atienden a niños?",
-          "answer": "Si necesitás atención odontopediátrica escribinos por WhatsApp y te orientamos."
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
         },
         {
           "question": "¿Dónde están y cuáles son los horarios?",
-          "answer": "Estamos en Presidente Quintana 125, Lanús Oeste. Atendemos de lunes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+          "answer": "Estamos en Solís 283, Congreso, CABA. Atendemos de lunes a sábado de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },
@@ -370,27 +365,22 @@
       "eyebrow": "Reservá turno",
       "heading": [
         {
-          "text": "Tu sonrisa\n"
+          "text": "Tu mejor sonrisa\n"
         },
         {
-          "text": "Empieza hoy",
+          "text": "Te está esperando",
           "accent": true
         }
       ],
-      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta en el momento.",
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta en el momento.",
       "ctaLabel": "Reservar por WhatsApp",
-      "addressLine": "Presidente Quintana 125, Lanús Oeste",
-      "hoursLine": "Lun a Vie 9-18hs",
+      "addressLine": "Solís 283, Congreso, CABA",
+      "hoursLine": "Lun a Sáb · 9 a 18hs",
       "mapTitle": "Ubicación de la clínica"
     },
     "footer": {
-      "about": "Centro odontológico en Lanús Oeste.\nAtención sin dolor, honesta y resolutiva,\npara toda la familia.",
+      "about": "Clínica odontológica en Congreso, CABA.\nEquipo completo de especialistas\ny precios accesibles para toda la familia.",
       "socials": [
-        {
-          "label": "Instagram",
-          "href": "https://www.instagram.com/dentalsur_/",
-          "external": true
-        },
         {
           "label": "WhatsApp",
           "whatsapp": true,
@@ -427,15 +417,15 @@
               "href": "#servicios"
             },
             {
-              "label": "Extracciones",
+              "label": "Ortodoncia",
               "href": "#servicios"
             },
             {
-              "label": "Estética dental",
+              "label": "Odontopediatría",
               "href": "#servicios"
             },
             {
-              "label": "Urgencias",
+              "label": "Endodoncia",
               "href": "#servicios"
             }
           ]
@@ -444,21 +434,21 @@
           "heading": "Contacto",
           "items": [
             {
-              "label": "Presidente Quintana 125, Lanús Oeste"
+              "label": "Solís 283, Congreso, CABA"
             },
             {
-              "label": "+54 9 11 5037-3001",
+              "label": "+54 9 11 6752-3939",
               "whatsapp": true,
               "external": true
             },
             {
-              "label": "Lun a Vie 9-18hs",
+              "label": "Lun a Sáb 9–18hs",
               "muted": true
             }
           ]
         }
       ],
-      "copyrightName": "Clinica Dental Sur"
+      "copyrightName": "Clínica Dental Smiling"
     }
   }
 }

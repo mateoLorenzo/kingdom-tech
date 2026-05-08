@@ -32,8 +32,6 @@
     "description": "Clínica odontológica en el centro de Buenos Aires. Implantes, ortodoncia, prótesis, blanqueamiento y guardia de emergencias. Turnos online.",
     "ogTitle": "APO — Atención Odontológica Integral",
     "ogDescription": "Clínica odontológica en el centro de Buenos Aires. Implantes, ortodoncia, prótesis, blanqueamiento y guardia de emergencias.",
-    "ogImage": "/img/hero-5.jpg",
-    "ogAlt": "APO — Clínica odontológica en Buenos Aires",
     "siteName": "APO",
     "locale": "es_AR",
     "htmlLang": "es",
@@ -94,6 +92,10 @@
     {
       "label": "Testimonios",
       "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
     },
     {
       "label": "Turnos",
@@ -319,6 +321,44 @@
           "name": "Maria Grazia Vanzan",
           "rating": 5,
           "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Si tenés una urgencia escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Córdoba 1870, CABA. Atendemos de lunes a viernes de 8 a 20hs y los sábados de 8:30 a 13hs. Podés ver la ubicación exacta en el mapa al final de la página."
         }
       ]
     },

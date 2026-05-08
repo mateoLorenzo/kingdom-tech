@@ -1,0 +1,337 @@
+{
+  "brand": {
+    "name": "Amosmile",
+    "shortName": "Amosmile",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491178953727",
+      "defaultMessage": "Hola, quiero reservar un turno en Amosmile."
+    },
+    "phoneDisplay": "011 15-7895-3727",
+    "address": "Olleros 2454 PB B · Colegiales · CABA",
+    "hours": "Lun a Vie 8-19 · Sáb 9-16",
+    "mapQuery": "Olleros 2454, Colegiales, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://amosmile.kingdom-tech.co",
+    "title": "Amosmile — Odontología Didáctica | Colegiales, CABA",
+    "description": "Consultorio odontológico en Colegiales. Dr. Jonathan Arce — odontología didáctica con cámara intraoral, te explica cada detalle del tratamiento. 4.8★ en Google, abierto los 6 días.",
+    "ogTitle": "Amosmile — Odontología Didáctica en Colegiales",
+    "ogDescription": "Dr. Jonathan Arce te muestra cada detalle con cámara intraoral y explica el plan paso a paso. Pacientes con miedo que salen confiando. 4.8★ en Google.",
+    "siteName": "Amosmile",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Colegiales. Odontología didáctica con cámara intraoral. 4.8★ en Google, abierto los 6 días.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Olleros 2454 PB B",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5740,
+        "lng": -58.4518
+      },
+      "hours": [
+        {
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 64
+      }
+    }
+  },
+  "nav": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Metodología", "href": "#metodologia" },
+    { "label": "Nosotros", "href": "#nosotros" },
+    { "label": "Testimonios", "href": "#testimonios" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Turnos", "href": "#contacto" }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Olleros 2454 · Colegiales · CABA",
+      "headline": [
+        { "text": "Expertos en\n" },
+        { "text": "Odontologia", "accent": true }
+      ],
+      "subheadline": "Odontología didáctica.\nTe mostramos cada detalle\ncon cámara intraoral\ny explicamos el plan paso a paso.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "4.8 ★",
+        "label": "con +60 opiniones en Google"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "+60",
+          "label": "Opiniones"
+        },
+        {
+          "value": "6",
+          "label": "Días abierto"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        { "text": "Tratamientos dentales\n" },
+        { "text": "Explicados con claridad", "accent": true }
+      ],
+      "items": [
+        { "name": "Limpieza y prevención", "image": "/img/limpieza.jpg" },
+        { "name": "Estética dental", "image": "/img/estetica.jpg" },
+        { "name": "Ortodoncia", "image": "/img/brackets.jpg" },
+        { "name": "Implantes", "image": "/img/implantes.jpg" },
+        { "name": "Prótesis dentales", "image": "/img/protesis.jpg" },
+        { "name": "Endodoncia", "image": "/img/ondodoncia.jpg" },
+        { "name": "Odontopediatría", "image": "/img/Odontopediatría.jpg" },
+        { "name": "Urgencias", "image": "/img/emergencia.jpg" }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        { "text": "Vemos tu boca en tiempo real con cámara intraoral. " },
+        { "text": "Entendés qué tenés, por qué lo tenés y cuál es el plan.", "accent": true }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Odontología\nDidáctica",
+          "body": "Con cámara intraoral te mostramos cada caries, cada detalle, cada paso del tratamiento. Entender lo que pasa en tu boca te devuelve control sobre tu salud bucal — y decisiones informadas."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Paciencia\nY Sin Juicio",
+          "body": "Si te pasaron años desde tu última visita, no importa. Acá no se juzga. Se arma un plan realista, se explica paso a paso y se avanza al ritmo que vos puedas — con paciencia y honestidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        { "text": "Conocé El Equipo\n" },
+        { "text": "Detrás De Tu Sonrisa", "accent": true }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Jonathan Arce",
+          "role": "Director · Odontología Integral",
+          "experience": "",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "A confirmar",
+          "experience": "",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        { "text": "Pacientes que\n" },
+        { "text": "Nos recomiendan", "accent": true }
+      ],
+      "items": [
+        {
+          "quote": "El Dr. con la cámara te va mostrando cada una de las caries o problemas que va encontrando, y aparte de verlas en tiempo real te va explicando cómo sería el proceso de restauración. Me sentí muy bien atendido desde la recepción.",
+          "name": "Franco Mercado",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Después de años de recorrer odontólogos sin buenos resultados, tuve la fortuna de dar con el Dr. Arce. Logré recuperar funcionalidad, sanidad y la estética de mi boca. Empático, paciente, didáctico y muy comprometido.",
+          "name": "Andrea Medina",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Altamente recomendable. Contacté a Amosmile luego de un par de muy malas experiencias con otros profesionales y llegué al lugar indicado. El Dr. Jonathan Arce trabaja con dedicación y muchísima paciencia.",
+          "name": "Iván Gómez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Siempre que acudo al odontólogo voy con miedo. La paciencia del Dr., las explicaciones y el tiempo que se toma para cada detalle del tratamiento lo hace diferente. Los recomiendo, es un viaje de ida.",
+          "name": "Francisca Molinas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El Dr. Jonathan tiene una mano... que cuando está haciendo su trabajo podés dormir una siesta tranquilamente. Me sentí re cómodo desde el primer momento.",
+          "name": "Hugo Espínola",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El Dr. Jonathan es excelente profesional, muy delicado con todo el tratamiento, siempre muy atento y amable. Me encantó la atención personalizada, siempre dispuesto a aclarar cualquier duda. Consultorio impecable.",
+          "name": "Elke Barrios",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es un crack, te explica lo que hace y qué problemas tenés. No te juzga ni nada. Recién arrancamos con todos los arreglos que necesito y por ahora excelentes resultados.",
+          "name": "Lucas Ceratto",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace tiempo buscaba un lugar así para cuidar mis dientes. Excelente servicio, Jonathan es un excelente profesional y su secretaria es un amor. Los elijo hace un año y recomiendo.",
+          "name": "Catalina Lazzarretti",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        { "text": "Visitanos tranquilo\n" },
+        { "text": "Con todo en claro", "accent": true }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, contamos con odontopediatría especializada en un ambiente cómodo y pensado para los más chicos. Cada visita está pensada para que sea una experiencia tranquila para ellos y sus familias."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Olleros 2454 PB B · Colegiales · CABA. Atendemos de lunes a viernes de 8 a 19hs y los sábados de 9 a 16hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        { "text": "Tu mejor sonrisa\n" },
+        { "text": "Te está esperando", "accent": true }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Olleros 2454 PB B · Colegiales, CABA",
+      "hoursLine": "Lun a Vie 8-19 · Sáb 9-16",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Colegiales, CABA.\nOdontología didáctica, cámara intraoral\ny atención personalizada.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            { "label": "Servicios", "href": "#servicios" },
+            { "label": "Metodología", "href": "#metodologia" },
+            { "label": "Nosotros", "href": "#nosotros" },
+            { "label": "Testimonios", "href": "#testimonios" }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            { "label": "Limpieza y prevención", "href": "#servicios" },
+            { "label": "Estética dental", "href": "#servicios" },
+            { "label": "Ortodoncia", "href": "#servicios" },
+            { "label": "Implantes", "href": "#servicios" }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            { "label": "Olleros 2454 PB B, Colegiales" },
+            {
+              "label": "+54 9 11 7895-3727",
+              "whatsapp": true,
+              "external": true
+            },
+            { "label": "011 15-7895-3727" },
+            { "label": "Lun a Vie 8-19 · Sáb 9-16", "muted": true }
+          ]
+        }
+      ],
+      "copyrightName": "Amosmile"
+    }
+  }
+}
