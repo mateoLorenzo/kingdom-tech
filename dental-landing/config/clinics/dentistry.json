@@ -1,0 +1,424 @@
+{
+  "brand": {
+    "name": "Dentistry",
+    "shortName": "Dentistry",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491147885227",
+      "defaultMessage": "Hola, quiero coordinar una consulta en Dentistry."
+    },
+    "email": "info@dentistry.com.ar",
+    "phoneDisplay": "+54 9 11 4788-5227",
+    "address": "Virrey Olaguer y Feliú 2462, Piso 4 Depto B, Belgrano R, CABA",
+    "hours": "Mar a Vie · 09-16hs",
+    "mapQuery": "Virrey Olaguer y Feliú 2462, Belgrano R, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dentistry.kingdom-tech.co",
+    "title": "Dentistry — Consultorio odontológico bilingüe en Belgrano R",
+    "description": "Consultorio odontológico bilingüe (español e inglés) en Belgrano R. Atendido por la Dra. Marina Stefano, con foco en honestidad terapéutica y trato humano. Trabajamos con OSDE, Omint y prepagas internacionales.",
+    "ogTitle": "Dentistry — Consultorio odontológico bilingüe en Belgrano R",
+    "ogDescription": "Odontología bilingüe ES/EN en Belgrano R con la Dra. Marina Stefano. Honestidad terapéutica, trato humano y prepagas internacionales.",
+    "siteName": "Dentistry",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico bilingüe español e inglés en Belgrano R. Honestidad terapéutica y trato humano.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Virrey Olaguer y Feliú 2462, Piso 4 Depto B",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5673208,
+        "lng": -58.4522845
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Virrey Olaguer y Feliú 2462 · Belgrano R · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología honesta y humana en Belgrano R.\nAtendemos en español e inglés.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dentistry",
+        "label": "Consultorio bilingüe en Belgrano R"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "82",
+          "label": "Reviews"
+        },
+        {
+          "value": "ES/EN",
+          "label": "Bilingual care"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos\n"
+        },
+        {
+          "text": "Honestos y precisos",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general y chequeos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Caries y restauraciones",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Placas de descanso",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Trabajamos con honestidad terapéutica: no inventamos tratamientos ni recomendamos lo que no necesitás. "
+        },
+        {
+          "text": "Atendemos en español y en inglés, con foco en el trato humano.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Honestidad\nTerapéutica",
+          "body": "No te hacemos tratamientos innecesarios. Te explicamos exactamente qué tenés y qué hace falta, sin sobre-tratamientos. Múltiples pacientes lo destacan en sus reseñas."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nBilingüe ES/EN",
+          "body": "We speak English. Atendemos pacientes locales y extranjeros, incluyendo trabajadores de embajadas y prepagas internacionales como Tricare, United Healthcare e International SOS."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "Tu odontóloga",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Marina Stefano",
+          "role": "Odontología integral · ES / EN",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ricardo",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Atenderse con la Dra. Marina es perder el miedo de ir al dentista. Es un verdadero placer. Una profesional amable y cuidadosa, que se toma el tiempo para escuchar y acompañar con mucha dedicación.",
+          "name": "Luli Imperiali",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente clínica con una dentista honesta, algo poco habitual en Estados Unidos, donde te perforan y rellenan un diente sano. Me hicieron un chequeo completo y me dijeron que mi diente solo necesitaba un pequeño pulido. Muy accesible y muy profesional.",
+          "name": "Bryan Hotchkiss",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atiendo con la Dra. Marina Stefano y es una genia tanto en lo profesional como en lo humano. Voy con mi beba de meses porque todavía amamanto, y tanto ella como el resto del personal son súper atentos a esa situación.",
+          "name": "María Laura Piacentini",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde que conocí a Marina, mejoró muchísimo mi salud bucal. Es una gran profesional: atenta, cariñosa y siempre dispuesta a escuchar. Todo el equipo del consultorio comparte la misma calidez y compromiso.",
+          "name": "Juan Manuel Mieres",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "¡No es solo una dentista, es un ángel de la guarda! Fui una viajera canadiense que necesitaba un tratamiento de conducto urgente entre Navidad y Año Nuevo. Nadie estaba abierto, excepto ellos.",
+          "name": "Vivian Tran",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Do you speak English? ¿Atienden en inglés?",
+          "answer": "Yes, we speak English. La Dra. Marina Stefano atiende en español e inglés. Trabajamos con muchos pacientes extranjeros, expats y empleados de embajadas."
+        },
+        {
+          "question": "¿Qué obras sociales y prepagas atienden?",
+          "answer": "Trabajamos con OSDE, Omint, Caja Notarial Escribanos y coberturas internacionales como International SOS, Tricare y United Healthcare. Si tu cobertura no aparece en la lista, escribinos a info@dentistry.com.ar o por WhatsApp y la revisamos."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un chequeo completo, revisamos tu historia clínica y te explicamos exactamente qué necesitás. Trabajamos con honestidad: no recomendamos tratamientos innecesarios."
+        },
+        {
+          "question": "¿Cómo llego al consultorio?",
+          "answer": "Estamos en Virrey Olaguer y Feliú 2462, Piso 4, Departamento B, Belgrano R, CABA. Es un edificio: tocá el timbre del 4° B y subí por el ascensor."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, coordinamos urgencias dentro de nuestros horarios. Escribinos por WhatsApp o a info@dentistry.com.ar y te damos un turno lo antes posible."
+        },
+        {
+          "question": "¿Atienden niños y bebés?",
+          "answer": "Sí. Recibimos pacientes de todas las edades, incluyendo mamás con bebés. Adaptamos la atención para que la experiencia sea cómoda para todos."
+        },
+        {
+          "question": "¿Cuáles son los horarios?",
+          "answer": "Atendemos de martes a viernes de 9 a 16hs. Para coordinar tu turno, escribinos por WhatsApp o a info@dentistry.com.ar."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp o email\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Virrey Olaguer y Feliú 2462, Piso 4 Depto B, Belgrano R",
+      "hoursLine": "Mar a Vie · 09-16hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico bilingüe\nen Belgrano R. Honestidad terapéutica,\ntrato humano y atención en ES/EN.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Placas de descanso",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Virrey Olaguer y Feliú 2462, Piso 4 B"
+            },
+            {
+              "label": "+54 9 11 4788-5227",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "info@dentistry.com.ar",
+              "href": "mailto:info@dentistry.com.ar"
+            },
+            {
+              "label": "Mar a Vie · 09-16hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dentistry"
+    }
+  }
+}

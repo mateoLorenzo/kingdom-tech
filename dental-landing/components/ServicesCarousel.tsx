@@ -62,7 +62,7 @@ export function ServicesCarousel({ services }: { services: Service[] }) {
   const hasOverflow = thumbWidth < 1;
 
   return (
-    <div ref={containerRef} className="mt-12 w-full">
+    <div ref={containerRef} id="services-carousel" className="mt-12 w-full">
       <div ref={emblaRef} className="mx-[calc(50%-50vw)] overflow-hidden">
         <div className="flex -ml-4 pl-6 pr-6 lg:pl-[max(40px,calc((100vw_-_1280px)/2_+_40px))] lg:pr-[max(40px,calc((100vw_-_1280px)/2_+_40px))]">
           {services.map(({ name, image }, i) => (

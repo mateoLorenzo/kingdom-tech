@@ -1,0 +1,416 @@
+{
+  "brand": {
+    "name": "Renová Sonrisa",
+    "shortName": "Renová Sonrisa",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541153682202",
+      "defaultMessage": "Hola, quiero reservar un turno en Renová tu Sonrisa."
+    },
+    "phoneDisplay": "+54 11 5368-2202",
+    "address": "Concordia 4300, Villa Pueyrredón, CABA",
+    "hours": "Lun a Sáb · 09:30-20:00hs",
+    "mapQuery": "Concordia 4300, Villa Pueyrredón, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://renova-sonrisa.kingdom-tech.co",
+    "title": "Renová tu Sonrisa — Estética y ortodoncia en Villa Pueyrredón",
+    "description": "Consultorio odontológico en Villa Pueyrredón especializado en estética dental y ortodoncia. Ortodoncia invisible, blanqueamiento e implantes con honestidad terapéutica. Equipo cálido, abierto de lunes a sábado.",
+    "ogTitle": "Renová tu Sonrisa — Estética y ortodoncia en Villa Pueyrredón",
+    "ogDescription": "Estética dental y ortodoncia en Villa Pueyrredón. Ortodoncia invisible, blanqueamiento e implantes con honestidad terapéutica. Abierto de lunes a sábado.",
+    "siteName": "Renová tu Sonrisa",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Estética dental y ortodoncia en Villa Pueyrredón. Honestidad terapéutica y equipo cálido, abierto de lunes a sábado.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Concordia 4300",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1419",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5942542,
+        "lng": -58.507472
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:30",
+          "closes": "20:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Concordia 4300 · Villa Pueyrredón · CABA",
+      "headline": [
+        {
+          "text": "Renová\n"
+        },
+        {
+          "text": "tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio odontológico en Villa Pueyrredón.\nEstética, ortodoncia y honestidad terapéutica.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Renová tu Sonrisa",
+        "label": "Estética y ortodoncia en Villa Pueyrredón"
+      },
+      "stats": [
+        {
+          "value": "Lun a Sáb",
+          "label": "6 días por semana"
+        },
+        {
+          "value": "Estética",
+          "label": "Y ortodoncia"
+        },
+        {
+          "value": "Honestidad",
+          "label": "Terapéutica"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos\n"
+        },
+        {
+          "text": "Para renovar tu sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia (brackets e invisible)",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Blanqueamiento y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo cálido que prioriza tu salud bucal por encima de todo. Trabajamos con honestidad terapéutica: "
+        },
+        {
+          "text": "te recomendamos solo lo que realmente necesitás, nunca de más.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Honestidad\nTerapéutica",
+          "body": "No sobrevendemos tratamientos. Si no necesitás un implante o un arreglo, te lo decimos. Varios pacientes llegaron derivados de otros lugares y se sorprendieron al escuchar que no hacía falta intervenir."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Estética y\nOrtodoncia",
+          "body": "Somos especialistas en renovar tu sonrisa: ortodoncia con brackets y alineadores invisibles, blanqueamiento y estética dental, con seguimiento sostenido durante todo el tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Victoria",
+          "role": "Ortodoncia · Estética dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Pedro",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Daiana",
+          "role": "Ortodoncia · Estética dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dra. Mariana",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Renovaron su sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Son lo mejor de lo mejor. Me quité dos muelas de juicio rotas y con caries, dos molares con caries, las 4 el mismo día, limpieza de toda la boca y dos caries chicas. Jamás sentí ni siquiera molestia al irse el efecto de la anestesia.",
+          "name": "Daniela Abatecola",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Te atienden súper bien. Yo fui a otro profesional que me quería colocar implantes. Cuando llegué a este consultorio, Victoria me dijo que no necesitaba hacérmelos. Honestidad y profesionalismo.",
+          "name": "Pablo Basile",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Invertí un año y medio en alineadores con un resultado excelente. Las profesionales con mucha empatía y priorizando la salud bucal siempre. Literalmente renové mi sonrisa. Gracias Vicky, Dai y a todo el equipo.",
+          "name": "Mabel Silva",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y seguimiento como paciente. Una gran calidad humana. Tratamiento de ortodoncia de tres años, siempre dando lo mejor de cada uno. Gracias infinitas Mariana, Daiana, Pedro y Victoria.",
+          "name": "Esteban De Marco",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me hice ortodoncia hace unos años, 2 años de tratamiento. Ir a Renová ya se había transformado en un gran plan, por el profesionalismo y la calidez humana. Cambió mi boca por completo. Altamente recomendable.",
+          "name": "Lorena Yañez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos de estética y ortodoncia hacen?",
+          "answer": "Hacemos ortodoncia con brackets metálicos y ortodoncia invisible con alineadores, blanqueamiento, estética dental, implantes, tratamiento periodontal y odontología general. Nos especializamos en renovar tu sonrisa con un plan a medida."
+        },
+        {
+          "question": "¿Hacen ortodoncia invisible con alineadores?",
+          "answer": "Sí. Trabajamos con alineadores transparentes hechos a medida, además de brackets tradicionales. En la primera consulta evaluamos tu caso y te explicamos qué opción se adapta mejor a vos."
+        },
+        {
+          "question": "¿Abren los sábados?",
+          "answer": "Sí. Atendemos de lunes a sábado de 9:30 a 20hs. Tener un horario amplio y abrir los sábados nos permite acomodarnos a tu agenda sin que tengas que faltar al trabajo."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Hacemos un diagnóstico completo y te explicamos qué necesitás, aclarando qué es por salud y qué es estético. Trabajamos con honestidad: no te recomendamos tratamientos innecesarios y te pasamos los valores antes de avanzar."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de tu primera consulta escribinos por WhatsApp y consultá tu cobertura puntual. Coordinamos la mejor opción para tu caso."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Concordia 4300, Villa Pueyrredón, CABA. Atendemos de lunes a sábado de 9:30 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Renová tu sonrisa\n"
+        },
+        {
+          "text": "Empezá hoy",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Concordia 4300, Villa Pueyrredón, CABA",
+      "hoursLine": "Lun a Sáb · 09:30-20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Villa Pueyrredón.\nEstética dental, ortodoncia y honestidad\nterapéutica, abierto de lunes a sábado.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia invisible",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Concordia 4300, Villa Pueyrredón"
+            },
+            {
+              "label": "+54 11 5368-2202",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Sáb · 09:30-20hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Renová tu Sonrisa"
+    }
+  }
+}

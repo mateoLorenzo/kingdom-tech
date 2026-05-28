@@ -1,0 +1,428 @@
+{
+  "brand": {
+    "name": "Ortodoncia Fox",
+    "shortName": "Ortodoncia Fox",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491156421245",
+      "defaultMessage": "Hola, quiero coordinar una consulta con la Dra. Daniela Fox."
+    },
+    "email": "info@ortodonciasalud.com.ar",
+    "phoneDisplay": "+54 9 11 5642-1245",
+    "address": "Monroe 2341, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00-20:00hs",
+    "mapQuery": "Monroe 2341, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://ortodoncia-fox.kingdom-tech.co",
+    "title": "Ortodoncia Salud — Dra. Daniela Fox | Ortodoncia integral en Belgrano",
+    "description": "Consultorio odontológico de la Dra. Daniela Fox en Belgrano. Ortodoncia tradicional e invisible, mirada holística e integral, terapia neural. Tratamientos personalizados con seguimiento de largo plazo para adultos, adolescentes y niños.",
+    "ogTitle": "Ortodoncia Salud — Dra. Daniela Fox | Belgrano",
+    "ogDescription": "Ortodoncia integral con la Dra. Daniela Fox en Belgrano. Brackets, alineadores y mirada holística para adultos, adolescentes y familias.",
+    "siteName": "Ortodoncia Salud — Dra. Daniela Fox",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Ortodoncia integral con la Dra. Daniela Fox en Belgrano. Brackets, alineadores y mirada holística.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Monroe 2341",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5578218,
+        "lng": -58.4594585
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Monroe 2341 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Ortodoncia\n"
+        },
+        {
+          "text": "Integral",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio odontológico de la Dra. Daniela Fox.\nMirada integral, brackets, alineadores y más en Belgrano.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Ortodoncia Salud",
+        "label": "Ortodoncia integral en Belgrano"
+      },
+      "stats": [
+        {
+          "value": "8+",
+          "label": "Años cuidando pacientes"
+        },
+        {
+          "value": "Dra. Fox",
+          "label": "Ortodoncia integral"
+        },
+        {
+          "value": "Belgrano",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos\n"
+        },
+        {
+          "text": "Personalizados",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia (brackets e invisible)",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Aparatología y placas",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Terapia neural",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Cada tratamiento es planificado y acompañado personalmente por la Dra. Daniela Fox, con una mirada integral. "
+        },
+        {
+          "text": "Resolvemos casos complejos que otros no pudieron, con paciencia, claridad y seguimiento de largo plazo.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tratamientos\nPersonalizados",
+          "body": "Te atiende la Dra. Daniela Fox de principio a fin. Diagnóstico, planificación y acompañamiento en cada paso, con explicaciones claras y respeto por tus tiempos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Mirada\nIntegral",
+          "body": "Combinamos ortodoncia tradicional con un enfoque holístico que incluye terapia neural cuando suma al caso. Resolvemos tratamientos que otros profesionales no pudieron."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "Tu ortodoncista",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Daniela Fox",
+          "role": "Ortodoncia · Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Estoy muy contenta con el tratamiento de ortodoncia que me recomendó Daniela. Vengo de miles de tratamientos y nunca encontraban la solución, hasta que di con ella. Volví a sonreír.",
+          "name": "Carolina Ruffolo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y profesionalismo. Daniela es muy clara al explicar los pasos y detalles del tratamiento, transmite confianza y seguridad. Te acompaña en todas las instancias y está en cada duda y consulta. Muy conforme con los resultados.",
+          "name": "Damián Gutiérrez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente Dra. Detallista en lo estético (estoy con tratamiento de ortodoncia) y excelente cirujana: tengo fobia al dentista y en un mismo día me saqué 2 muelas gracias a su acompañamiento. Recomendable 100%.",
+          "name": "Mariana Bustamante",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Daniela corrigió mis dientes, un problema que tenía desde la infancia. Llevé brackets metálicos durante solo 11 meses para corregir más de 20 años de desalineación. Una ortodoncista muy profesional.",
+          "name": "Dani H",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace años que la Dra. Daniela Fox lleva la salud de mi boca. Soy paciente diabética y con súper profesionalismo toma todos los recaudos necesarios para mi bienestar. Meticulosa siempre. Mi marido y mi hermana son pacientes también.",
+          "name": "Manuela Campos",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tipos de ortodoncia hacen?",
+          "answer": "Trabajamos con ortodoncia tradicional con brackets metálicos y ortodoncia invisible con alineadores. En la primera consulta, la Dra. Fox evalúa tu caso y te explica qué opción te conviene más, con tiempos y resultados estimados."
+        },
+        {
+          "question": "¿Atienden adultos que tuvieron tratamientos fallidos antes?",
+          "answer": "Sí. Muchos pacientes llegan después de tratamientos previos que no funcionaron. La Dra. Fox tiene experiencia resolviendo casos complejos con una mirada integral, paciente por paciente."
+        },
+        {
+          "question": "¿Atienden niños y adolescentes?",
+          "answer": "Sí, atendemos pacientes de todas las edades. Muchas familias enteras se atienden con nosotros: padres, hijos y hermanos. Cada tratamiento se planifica según la edad y el caso."
+        },
+        {
+          "question": "¿Qué es la terapia neural y cuándo la usan?",
+          "answer": "Es un enfoque complementario que la Dra. Fox incorpora cuando suma al caso del paciente. Se trata de una mirada integral que se suma al tratamiento odontológico tradicional, nunca lo reemplaza. Te lo explicamos con detalle en la consulta."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita la Dra. Fox hace un diagnóstico completo, revisa tu historia clínica y te explica las opciones de tratamiento con tiempos y valores. No hay presión: salís con la información clara para tomar la decisión."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Trabajamos con tratamientos planificados, no como guardia odontológica. Si sos paciente nuestro y tenés una urgencia, escribinos por WhatsApp y vemos cómo coordinar. Para urgencias agudas te recomendamos una guardia."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de tu primera consulta escribinos por WhatsApp o a info@ortodonciasalud.com.ar y consultá tu cobertura puntual. Atendemos principalmente como consultorio particular."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Monroe 2341, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza acá",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp o email\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Monroe 2341, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00-20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Belgrano\nliderado por la Dra. Daniela Fox.\nOrtodoncia integral y mirada holística.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia con brackets",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia invisible",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Terapia neural",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Monroe 2341, Belgrano"
+            },
+            {
+              "label": "+54 9 11 5642-1245",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "info@ortodonciasalud.com.ar",
+              "href": "mailto:info@ortodonciasalud.com.ar"
+            },
+            {
+              "label": "Lun a Vie · 09-20hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Ortodoncia Salud — Dra. Daniela Fox"
+    }
+  }
+}

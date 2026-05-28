@@ -1,0 +1,428 @@
+{
+  "brand": {
+    "name": "Mi Dentista",
+    "shortName": "Mi Dentista",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491160532880",
+      "defaultMessage": "Hola, quiero reservar un turno en Me Encanta Mi Dentista."
+    },
+    "phoneDisplay": "+54 9 11 6053-2880",
+    "address": "Dr. Pedro Ignacio Rivera 4946, Villa Urquiza, CABA",
+    "hours": "Mar a Vie · 09:00-18:00hs",
+    "mapQuery": "Dr. Pedro Ignacio Rivera 4946, Villa Urquiza, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://mi-dentista.kingdom-tech.co",
+    "title": "Me Encanta Mi Dentista — Odontología en Villa Urquiza | Edu y Nuria",
+    "description": "Consultorio odontológico en Villa Urquiza liderado por Edu y Nuria. Extracciones e implantes sin dolor, ortodoncia, prótesis y seguimiento personalizado: te llamamos después de cada tratamiento. Atención cálida para toda la familia.",
+    "ogTitle": "Me Encanta Mi Dentista — Odontología en Villa Urquiza",
+    "ogDescription": "Edu y Nuria, un equipo que te atiende sin dolor y te llama después del tratamiento. Implantes, ortodoncia y prótesis en Villa Urquiza.",
+    "siteName": "Me Encanta Mi Dentista",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología sin dolor en Villa Urquiza con Edu y Nuria. Seguimiento personalizado y atención cálida para toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Dr. Pedro Ignacio Rivera 4946",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1431",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.571231,
+        "lng": -58.486624
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Dr. Pedro I. Rivera 4946 · Villa Urquiza · CABA",
+      "headline": [
+        {
+          "text": "Me encanta\n"
+        },
+        {
+          "text": "mi dentista",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología de Edu y Nuria en Villa Urquiza.\nAtención sin dolor y seguimiento personalizado.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Me Encanta Mi Dentista",
+        "label": "Odontología en Villa Urquiza"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "161",
+          "label": "Reviews"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Garantizado"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Sin dolor",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Extracciones sin dolor",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes y coronas",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Edu y Nuria, un matrimonio de odontólogos que trabaja en equipo con un seguimiento que no vas a encontrar en otro lado: "
+        },
+        {
+          "text": "te llamamos después del tratamiento para saber cómo estás.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Te llamamos\nDespués",
+          "body": "No terminamos cuando salís del consultorio. Te llamamos después de cada cirugía o extracción para ver cómo evolucionás. Nuestros pacientes lo destacan una y otra vez."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nDe verdad",
+          "body": "Extracciones, cirugías e implantes con técnicas pensadas para que no sientas dolor, incluso si le tenés miedo al dentista. Es lo que más repiten nuestros pacientes."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "Edu y Nuria",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Nuria Rodríguez",
+          "role": "Odontología general · Prevención",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Eduardo Cachenoski",
+          "role": "Cirugías · Implantes · Extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Antonella",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Aman a su dentista",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Además de ser muy profesionales, este matrimonio de odontólogos hace que realmente a mí me ENCANTE IR A MI DENTISTA. Todo el tratamiento, la extracción y la prótesis resultaron excelentes. Son dos personas maravillosas.",
+          "name": "Susana T",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Edu y Nuria siempre estuvieron súper atentos y pendientes de mi evolución después de las cirugías. En mi caso fue una cirugía complicada y gracias a la profesionalidad de Edu todo salió perfecto.",
+          "name": "Michel Sebastián Lovera",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui con miedo a sacarme dos muelas de juicio y salió todo más que bien. Dos profesionales que se preocupan por el paciente, y te llaman para saber cómo te va luego de la extracción. Si necesito algo, sin dudas voy a volver.",
+          "name": "Azul Gallardo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son divinos los dos. Es la primera vez que me llaman por teléfono para averiguar cómo estoy luego de una extracción, y se ofrecieron a abrir un domingo por si tenía algún dolor. Se toman toda una hora para atender al paciente.",
+          "name": "Leonor Griselda",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales de gran calidad humana. Mi vieja le tiene miedo al dentista. La atendió Eduardo y se sintió segura y tranquila. Le hizo una pequeña extracción y no sintió ningún dolor. Sin dudas volverá a atenderse con ellos.",
+          "name": "Pablo Amabile",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Es cierto que llaman después del tratamiento?",
+          "answer": "Sí, es nuestro sello. Después de una cirugía o extracción te llamamos para saber cómo estás evolucionando. Si surge alguna molestia, estamos disponibles para verte cuanto antes."
+        },
+        {
+          "question": "¿Las extracciones y cirugías duelen?",
+          "answer": "Trabajamos con técnicas pensadas para que no sientas dolor, incluso en extracciones de muelas de juicio y cirugías complejas. Es lo que más destacan nuestros pacientes, sobre todo los que le tienen miedo al dentista."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Atendemos de forma particular o por reintegro. No trabajamos con obras sociales de forma directa, pero te entregamos toda la documentación para que pidas el reintegro a tu cobertura. Tenemos precios accesibles y facilidades de pago."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Trabajamos con turnos planificados, pero si sos paciente nuestro y tenés una urgencia con dolor, escribinos por WhatsApp. Hacemos lo posible por verte cuanto antes, incluso fuera de horario."
+        },
+        {
+          "question": "¿Atienden a toda la familia?",
+          "answer": "Sí. Atendemos adultos de todas las edades y adolescentes. Muchas familias del barrio se atienden con nosotros desde hace años."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Nos tomamos el tiempo de escucharte, hacer un diagnóstico completo y explicarte cada opción con calma. Te pasamos los valores y las formas de pago antes de avanzar con cualquier tratamiento."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Dr. Pedro Ignacio Rivera 4946, Villa Urquiza, CABA. Atendemos de martes a viernes de 9 a 18hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp en minutos\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Dr. Pedro Ignacio Rivera 4946, Villa Urquiza",
+      "hoursLine": "Mar a Vie · 09:00-18:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Villa Urquiza con Edu y Nuria.\nAtención sin dolor, seguimiento personalizado\ny trato cálido para toda la familia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/meencantamidentista/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Extracciones sin dolor",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes y coronas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Dr. Pedro I. Rivera 4946, Villa Urquiza"
+            },
+            {
+              "label": "+54 9 11 6053-2880",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Mar a Vie · 09-18hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Me Encanta Mi Dentista"
+    }
+  }
+}

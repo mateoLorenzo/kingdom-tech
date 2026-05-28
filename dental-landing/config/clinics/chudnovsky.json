@@ -1,0 +1,419 @@
+{
+  "brand": {
+    "name": "Dr. Chudnovsky",
+    "shortName": "Centro CACH",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491122805555",
+      "defaultMessage": "Hola, quiero coordinar una consulta en el Centro Odontológico del Prof. Dr. Chudnovsky."
+    },
+    "phoneDisplay": "+54 9 11 2280-5555",
+    "address": "Ciudad de la Paz 1679, Piso 1 Depto A, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:30-18:30hs",
+    "mapQuery": "Ciudad de la Paz 1679, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://chudnovsky.kingdom-tech.co",
+    "title": "Centro Odontológico Prof. Dr. Alexis Chudnovsky | Odontología integral en Belgrano",
+    "description": "Centro odontológico liderado por el Prof. Dr. Alexis Chudnovsky en Belgrano. Odontología integral planificada con tecnología de avanzada. Pacientes fieles desde hace décadas, implantes con durabilidad probada y atención personalizada.",
+    "ogTitle": "Centro Odontológico Prof. Dr. Alexis Chudnovsky | Belgrano",
+    "ogDescription": "Odontología integral planificada en Belgrano con el Prof. Dr. Alexis Chudnovsky. Pacientes fieles desde hace décadas y tecnología de avanzada.",
+    "siteName": "Centro Odontológico Prof. Dr. Alexis Chudnovsky",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Belgrano liderado por el Prof. Dr. Alexis Chudnovsky. Odontología integral planificada con tecnología de avanzada.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Ciudad de la Paz 1679, Piso 1 Depto A",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.566301,
+        "lng": -58.4542957
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "18:30"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Ciudad de la Paz 1679 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro liderado por el Prof. Dr. Alexis Chudnovsky.\nPacientes fieles desde hace décadas en Belgrano.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Centro Odontológico Prof. Dr. Alexis Chudnovsky",
+        "label": "Odontología integral en Belgrano"
+      },
+      "stats": [
+        {
+          "value": "30+",
+          "label": "Años cuidando familias"
+        },
+        {
+          "value": "Prof. Dr.",
+          "label": "Chudnovsky"
+        },
+        {
+          "value": "Belgrano",
+          "label": "Centro premium"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Odontología integral\n"
+        },
+        {
+          "text": "Planificada y duradera",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología integral",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortopedia y ortodoncia infantil",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontología preventiva",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Mantenimiento de largo plazo",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Adultos mayores",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Centro liderado por el Prof. Dr. Alexis Chudnovsky, referente académico en odontología integral. "
+        },
+        {
+          "text": "Tratamientos planificados con resultados durables y pacientes fieles durante décadas.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tratamientos\nPlanificados",
+          "body": "Cada caso se diagnostica y planifica con la atención de un referente académico. Trabajamos sobre la salud integral de la boca, no procedimientos aislados."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Pacientes\nDe décadas",
+          "body": "Familias enteras se atienden con nosotros desde hace 15, 20 y hasta 30 años. Implantes hechos en los 90 que todavía funcionan. Esa es nuestra prueba de calidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al\n"
+        },
+        {
+          "text": "Equipo del Centro",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Prof. Dr. Alexis Chudnovsky",
+          "role": "Director · Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos eligen hace décadas",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Hace 20 años que asisto al Centro Odontológico Profesor Doctor Alexis Chudnovsky para el cuidado de mi boca. Mi reconocimiento y gratitud para con el Prof. Dr. Alexis Chudnovsky y todo el equipo.",
+          "name": "Rubén Lescano",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Soy paciente hace más de 15 años. Mis hijos y toda mi familia se atienden con resultados excelentes. La calidad humana es sobresaliente. Súper recomendable el centro.",
+          "name": "Silvina Castiglio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente centro. Me atiendo hace años; llevé a mis hijos para ortopedia y ortodoncia. Impecables y amorosos. La atención de todos los profesionales es súper calificada, lo recomiendo.",
+          "name": "Paola García Rey",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias al Profesor Dr. Alexis Chudnovsky tengo mi dentadura en excelente estado. Llevo años bajo su mirada atenta y profesional en mi cuidado odontológico. Un experto en la materia y con una calidad profesional poco frecuente.",
+          "name": "Carlos Donigian",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente lugar. Parece que entrás en la NASA. El servicio de primera. La recepción un lujo.",
+          "name": "Diego Azulay",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Hacemos un diagnóstico integral con el Prof. Dr. Chudnovsky o un profesional del equipo. Te explicamos el plan de tratamiento, los tiempos y los valores antes de avanzar. Trabajamos con un enfoque a largo plazo, no procedimientos sueltos."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de tu primera consulta escribinos por WhatsApp y consultá tu cobertura puntual. Trabajamos principalmente como centro particular, con planes a medida para cada paciente."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Trabajamos con tratamientos planificados, no como guardia. Si sos paciente nuestro y tenés una urgencia, escribinos por WhatsApp y coordinamos. Para urgencias de pacientes nuevos, te recomendamos una guardia odontológica."
+        },
+        {
+          "question": "¿Atienden niños y adolescentes?",
+          "answer": "Sí. Atendemos ortopedia y ortodoncia infantil, además de odontología general y preventiva para todas las edades. Muchos chicos siguen siendo nuestros pacientes hasta la adultez."
+        },
+        {
+          "question": "¿Cuánto duran los tratamientos de implantes?",
+          "answer": "Tenemos pacientes con implantes hechos en los años 90 que siguen funcionando perfectamente. Trabajamos con un protocolo planificado y materiales de calidad, con seguimiento de largo plazo."
+        },
+        {
+          "question": "¿Cómo llego al consultorio?",
+          "answer": "Estamos en Ciudad de la Paz 1679, Piso 1, Departamento A, Belgrano, CABA. Es un edificio: tocá el timbre del 1° A y subí por el ascensor."
+        },
+        {
+          "question": "¿Cuáles son los horarios?",
+          "answer": "Atendemos de lunes a viernes de 9:30 a 18:30. No atendemos fines de semana ni feriados."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu salud bucal\n"
+        },
+        {
+          "text": "A largo plazo",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Ciudad de la Paz 1679, Piso 1 Depto A, Belgrano",
+      "hoursLine": "Lun a Vie · 09:30-18:30hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en Belgrano\nliderado por el Prof. Dr. Alexis Chudnovsky.\nOdontología integral planificada.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología integral",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia infantil",
+              "href": "#servicios"
+            },
+            {
+              "label": "Mantenimiento",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Ciudad de la Paz 1679, 1° A, Belgrano"
+            },
+            {
+              "label": "+54 9 11 2280-5555",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 09:30-18:30hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico Prof. Dr. Alexis Chudnovsky"
+    }
+  }
+}

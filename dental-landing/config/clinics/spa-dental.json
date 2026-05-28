@@ -1,0 +1,425 @@
+{
+  "brand": {
+    "name": "Clinica Spa",
+    "shortName": "Spa Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491136905931",
+      "defaultMessage": "Hola, quiero reservar un turno en Spa Dental Buenos Aires."
+    },
+    "phoneDisplay": "+54 9 11 3690-5931",
+    "address": "Moldes 1795, Belgrano, CABA",
+    "hours": "Lun a Sáb · 08:00hs - 20:00hs",
+    "mapQuery": "Moldes 1795, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://spa-dental.kingdom-tech.co",
+    "title": "Spa Dental Buenos Aires — Odontología en Belgrano | Turnos al toque",
+    "description": "Clínica odontológica en Belgrano (CABA). Turnos rápidos por WhatsApp, urgencias en el día, extracción de muelas de juicio, implantes y blanqueamiento. Atendemos OSECAC con copagos accesibles.",
+    "ogTitle": "Spa Dental Buenos Aires — Odontología en Belgrano",
+    "ogDescription": "Turnos al toque y atención por WhatsApp en Belgrano. Implantes, prótesis, blanqueamiento, urgencias y muelas de juicio. OSECAC con copagos bajos.",
+    "siteName": "Spa Dental Buenos Aires",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Belgrano. Turnos al toque por WhatsApp, urgencias y OSECAC.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Moldes 1795",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Moldes 1795 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Atención odontológica en Belgrano.\nTurnos al toque y respuesta por WhatsApp.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Spa Dental Buenos Aires",
+        "label": "Odontología en Belgrano"
+      },
+      "stats": [
+        {
+          "value": "Turnos",
+          "label": "Al toque"
+        },
+        {
+          "value": "OSECAC",
+          "label": "Copagos bajos"
+        },
+        {
+          "value": "Lun-Sáb",
+          "label": "8 a 20hs"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Turnos al toque y respuesta inmediata por WhatsApp. Atendemos OSECAC con copagos accesibles y "
+        },
+        {
+          "text": "planes en cuotas para que avances con tu tratamiento.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Turnos al toque\nPor WhatsApp",
+          "body": "Te respondemos en minutos y coordinamos la consulta el mismo día. Urgencias, panorámicas y primeras consultas sin esperas largas."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "OSECAC\nY cuotas",
+          "body": "Atendemos OSECAC con copagos bajos y ofrecemos planes en cuotas para tratamientos más complejos. Te pasamos los valores claros antes de avanzar."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Camargo",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Avellaneda",
+          "role": "Cirugía · Muelas de juicio",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Patricia",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Muy recomendable para extracción de muelas de juicio con el Dr. Avellaneda. Ya mis dos hijos se la sacaron y salió todo bárbaro, no fue traumático. Gracias.",
+          "name": "Miriam Kalafarski",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Para mí, 10 puntos. Me cobraron más barato que cualquier otro lugar la panorámica. Me atendieron bárbaro y en 15 minutos ya había terminado. En el momento me pasaron el WhatsApp y me dieron el estudio. Recomiendo.",
+          "name": "Lucía De Boni",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "A mí me encantó. Te dan turno rapidísimo, contestan al toque el WhatsApp, te responden las dudas. Te atienden bien y son muy expeditivos.",
+          "name": "Mariana Sanchez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia fue muy buena desde la recepción hasta la profesional (Patricia).",
+          "name": "Javier Morales",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "¡El mejor blanqueamiento me lo hice acá! Muy buena atención.",
+          "name": "Dante Suhilar",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden OSECAC y otras obras sociales?",
+          "answer": "Sí, atendemos OSECAC con copagos accesibles y trabajamos con las principales prepagas y obras sociales. Antes de tu primera consulta escribinos por WhatsApp y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento sin compromiso. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos todas las tarjetas y, según el tratamiento, ofrecemos planes en cuotas. Coordinamos un esquema de pago a tu medida en la consulta."
+        },
+        {
+          "question": "¿Atienden urgencias y muelas de juicio?",
+          "answer": "Sí, reservamos turnos para urgencias en el mismo día y hacemos extracciones de muelas de juicio. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Hacen radiografías panorámicas y estudios?",
+          "answer": "Sí, hacemos radiografías panorámicas y otros estudios necesarios para tu tratamiento. Te los entregamos en el momento."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Moldes 1795, Belgrano, CABA. Atendemos de lunes a sábado de 08:00 a 20:00. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos en minutos por WhatsApp\ny coordinamos tu turno en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Moldes 1795, Belgrano, CABA",
+      "hoursLine": "Lun a Sáb · 08:00hs - 20:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Belgrano.\nTurnos al toque por WhatsApp,\nOSECAC con copagos accesibles.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/spadentalbuenosaires/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Muelas de juicio",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Moldes 1795, Belgrano, CABA"
+            },
+            {
+              "label": "+54 9 11 3690-5931",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Sáb · 8 a 20hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Spa Dental Buenos Aires"
+    }
+  }
+}

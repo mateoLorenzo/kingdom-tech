@@ -1,0 +1,421 @@
+{
+  "brand": {
+    "name": "Urgencias 24h",
+    "shortName": "Urgencias 24h",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491144117775",
+      "defaultMessage": "Hola, necesito una urgencia odontológica."
+    },
+    "phoneDisplay": "+54 9 11 4411-7775",
+    "address": "Pareja 2657, Villa Pueyrredón, CABA",
+    "hours": "Lun a Dom · 24 horas",
+    "mapQuery": "Pareja 2657, Villa Pueyrredón, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://urgencias-24h.kingdom-tech.co",
+    "title": "Odontólogo Urgencias 24 Horas — Guardia odontológica en Villa Pueyrredón",
+    "description": "Guardia odontológica abierta las 24 horas en Villa Pueyrredón (CABA). Urgencias, extracciones, muelas de juicio y endodoncias sin dolor. Te respondemos al instante por WhatsApp.",
+    "ogTitle": "Odontólogo Urgencias 24 Horas — Villa Pueyrredón",
+    "ogDescription": "Guardia odontológica abierta las 24 horas. Urgencias, extracciones y endodoncias sin dolor. WhatsApp al toque.",
+    "siteName": "Odontólogo Urgencias 24 Horas",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia odontológica 24 horas en Villa Pueyrredón. Urgencias sin dolor, atención al toque por WhatsApp.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Pareja 2657",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1419",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Urgencia",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Atención de Urgencia",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Pareja 2657 · Villa Pueyrredón · CABA",
+      "headline": [
+        {
+          "text": "Urgencias\n"
+        },
+        {
+          "text": "Odontológicas 24h",
+          "accent": true
+        }
+      ],
+      "subheadline": "Guardia odontológica abierta todos los días.\nTe atendemos sin dolor, también de madrugada.",
+      "ctaLabel": "Atención de Urgencia",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontólogo Urgencias 24 Horas",
+        "label": "Guardia odontológica en Villa Pueyrredón"
+      },
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "Todos los días"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Urgencias"
+        },
+        {
+          "value": "Ya mismo",
+          "label": "Atención al toque"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Atención odontológica\n"
+        },
+        {
+          "text": "A toda hora",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Urgencias 24h",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Muelas de juicio",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Reparación de prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Caries y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Radiografía y diagnóstico",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Pediatría de urgencia",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Atención odontológica las 24 horas con foco en urgencias sin dolor. "
+        },
+        {
+          "text": "Te explicamos cada paso antes de actuar, para que llegues con miedo y salgas tranquilo.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Abierto 24h\nTodos los días",
+          "body": "Estamos las 24 horas, los 365 días del año. Si te duele de madrugada, un domingo o un feriado, te atendemos. Llamanos o escribinos por WhatsApp y vení."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Urgencias\nSin dolor",
+          "body": "Extracciones, endodoncias y arreglos con técnicas para que no te duela. Te explicamos paso a paso lo que vamos a hacer antes de actuar, especialmente si tenés miedo o fobia al dentista."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "De Guardia",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Edgardo Kotler",
+          "role": "Urgencias · Extracciones · Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Leandro",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Quiero felicitar a Edgardo, es el mejor odontólogo que conocí en mis 39 años. Anoche me extrajo de urgencia una muela de juicio y no me hizo doler para nada, me tranquilizó en todo momento. Amable 100%.",
+          "name": "Sabrina Nieves",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El doctor me atendió a las 2 de la mañana, súper empático, con una sonrisa y muy buena energía. Venía con una tortura y muy mala atención en otra clínica, y el Dr. fue un genio. Me sacó todo el dolor en 10 minutos.",
+          "name": "Nahuel Expósito",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Entré temblando del pánico que me da el dentista y me fui con una sonrisa de oreja a oreja. Me sacó una muela infectada de hace años, me explicó paso a paso lo que iba a hacer.",
+          "name": "Valentina Ayala",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llegué a la noche con una agonía desde el domingo, pasando por cuatro lugares distintos que lo único que hicieron fue puro desastre, y el doctor lo solucionó en media hora. Súper recomendable.",
+          "name": "Josefina Alonso",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por un conducto. Me atendió rápido y excelente. Muy respetuoso y amable. Uno cobra por lo que sabe, no por el tiempo que lleva el trabajo. Hasta lo pagué con gusto. Lo recomiendo.",
+          "name": "Mariano Gervasi",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Llegá tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Realmente atienden las 24 horas?",
+          "answer": "Sí. Atendemos las 24 horas, los 7 días de la semana, todo el año. Si te duele de madrugada, un domingo o un feriado, escribinos por WhatsApp o llamanos y vení."
+        },
+        {
+          "question": "¿Cómo manejan el miedo o la fobia al dentista?",
+          "answer": "Te explicamos paso a paso lo que vamos a hacer antes de empezar y trabajamos para que no sientas dolor. Muchísimos de nuestros pacientes llegan con pánico y se van tranquilos."
+        },
+        {
+          "question": "¿Atienden niños de urgencia?",
+          "answer": "Sí, atendemos urgencias odontológicas pediátricas en cualquier horario. Si tu hijo tiene dolor o se golpeó un diente, escribinos por WhatsApp y vení."
+        },
+        {
+          "question": "¿Cuánto sale una urgencia?",
+          "answer": "El valor depende del procedimiento. La consulta de diagnóstico se cobra aparte del tratamiento. Antes de avanzar te decimos cuánto va a salir todo, sin sorpresas."
+        },
+        {
+          "question": "¿Qué urgencias atienden?",
+          "answer": "Atendemos extracciones de muelas de juicio, dolor agudo, endodoncias (tratamiento de conducto), arreglos de caries, reparación de prótesis y traumatismos dentales. También radiografías de diagnóstico en el momento."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Pareja 2657, Villa Pueyrredón, CABA. Podés ver la ubicación exacta en el mapa al final de la página. Escribinos por WhatsApp antes de venir para que te estemos esperando."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencia 24h",
+      "heading": [
+        {
+          "text": "Tenés dolor\n"
+        },
+        {
+          "text": "Te atendemos ya",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos al instante por WhatsApp,\na la hora que sea, todos los días.",
+      "ctaLabel": "Escribir por WhatsApp",
+      "addressLine": "Pareja 2657, Villa Pueyrredón, CABA",
+      "hoursLine": "Lun a Dom · 24 horas",
+      "mapTitle": "Ubicación de la guardia"
+    },
+    "footer": {
+      "about": "Guardia odontológica las 24 horas\nen Villa Pueyrredón. Urgencias sin dolor,\nmanejo del miedo al dentista.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias 24h",
+              "href": "#servicios"
+            },
+            {
+              "label": "Muelas de juicio",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Pediatría de urgencia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Pareja 2657, Villa Pueyrredón"
+            },
+            {
+              "label": "+54 9 11 4411-7775",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Abierto 24 horas, todos los días",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontólogo Urgencias 24 Horas"
+    }
+  }
+}

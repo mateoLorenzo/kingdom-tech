@@ -1,13 +1,17 @@
 import { whatsappUrl } from "@/lib/whatsapp";
 
-export function WhatsAppFab() {
+// `raised` lifts the FAB on mobile so it clears the disclaimer banner while it
+// is shown; on desktop the banner is centered and never overlaps the FAB.
+export function WhatsAppFab({ raised = false }: { raised?: boolean }) {
   return (
     <a
       href={whatsappUrl()}
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Contactar por WhatsApp"
-      className="animate-hero-fade-up fixed bottom-6 right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg shadow-black/20 transition-transform hover:scale-105 active:scale-95 lg:bottom-8 lg:right-8 lg:h-12 lg:w-12"
+      className={`animate-hero-fade-up fixed right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg shadow-black/20 transition-[transform,bottom] duration-300 ease-out hover:scale-105 active:scale-95 lg:bottom-8 lg:right-8 lg:h-12 lg:w-12 ${
+        raised ? "bottom-32" : "bottom-6"
+      }`}
       style={{ animationDelay: "900ms" }}
     >
       <svg

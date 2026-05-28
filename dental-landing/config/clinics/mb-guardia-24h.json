@@ -1,0 +1,417 @@
+{
+  "brand": {
+    "name": "MB Guardia 24h",
+    "shortName": "MB Guardia 24h",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5408107771939",
+      "defaultMessage": "Hola, necesito una urgencia odontológica."
+    },
+    "phoneDisplay": "0810-777-1939",
+    "address": "Av. de los Constituyentes 4588, Villa Urquiza, CABA",
+    "hours": "Lun a Dom · 24 horas",
+    "mapQuery": "Av. de los Constituyentes 4588, Villa Urquiza, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://mb-guardia-24h.kingdom-tech.co",
+    "title": "MB Odontología — Guardia odontológica 24 horas en Villa Urquiza",
+    "description": "Guardia odontológica las 24 horas en Villa Urquiza (CABA). Atención inmediata del dolor, diagnóstico, medicación y derivación. Trabajamos con OSDE, Hospital Alemán y Accord, también particular.",
+    "ogTitle": "MB Odontología — Guardia 24 horas en Villa Urquiza",
+    "ogDescription": "Guardia odontológica 24 horas en Villa Urquiza. Atención inmediata del dolor, diagnóstico y medicación. OSDE, Hospital Alemán y Accord.",
+    "siteName": "MB Odontología Guardia 24h",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia odontológica 24h en Villa Urquiza. Diagnóstico y medicación del dolor al toque. OSDE, Hospital Alemán y Accord.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. de los Constituyentes 4588",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1431",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5818145,
+        "lng": -58.492497
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Urgencia",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Atención de Urgencia",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. de los Constituyentes 4588 · Villa Urquiza · CABA",
+      "headline": [
+        {
+          "text": "Guardia\n"
+        },
+        {
+          "text": "Odontológica 24h",
+          "accent": true
+        }
+      ],
+      "subheadline": "Abierto las 24 horas, los 365 días.\nAtención inmediata del dolor en Villa Urquiza.",
+      "ctaLabel": "Atención de Urgencia",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "MB Odontología",
+        "label": "Guardia odontológica en Villa Urquiza"
+      },
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "Todos los días"
+        },
+        {
+          "value": "OSDE+",
+          "label": "Prepagas"
+        },
+        {
+          "value": "Espera corta",
+          "label": "Atención al toque"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios de guardia",
+      "heading": [
+        {
+          "text": "Te atendemos\n"
+        },
+        {
+          "text": "A toda hora",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Dolor agudo de muela",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Infecciones y abscesos",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Muelas de juicio",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Caries de urgencia",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Reparación de prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Niños con dolor",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Equipo rotativo de odontólogos atendiendo las 24 horas. Diagnosticamos rápido, te aliviamos el dolor y "
+        },
+        {
+          "text": "te derivamos al especialista correcto para el tratamiento definitivo.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Abierto 24h\nTodos los días",
+          "body": "Estamos las 24 horas, los 365 días del año. Si te duele de madrugada, un domingo o un feriado, hay un odontólogo de guardia esperándote."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "OSDE y\nPrepagas",
+          "body": "Trabajamos con OSDE, Hospital Alemán, Accord y otras prepagas. Si tenés cobertura, traé tu credencial. Si no, atendemos particular con precios claros."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros · Equipo rotativo",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "De Guardia",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Marcela Benito",
+          "role": "Odontología de guardia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Rolando Viana",
+          "role": "Guardia · Manejo de infecciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Verónica Leisz",
+          "role": "Odontología de guardia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Christian A. Rodríguez",
+          "role": "Odontología de guardia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me atendí en la guardia a las 8am por un dolor terrible de muela. Fui con temor. Quiero destacar el trato excelente desde la recepcionista hasta la doctora Verónica Leisz, que me solucionó el problema y me explicó todo detalladamente.",
+          "name": "Paula Santa Cruz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a la guardia por una infección de muela a las 10 am y fue muy rápido y efectivo. El Dr. Rolando Viana es un capo, me explicó todo y trató muy bien, me sacó el miedo. El lugar muy limpio y sistema de turnos automático eficaz.",
+          "name": "Zac Verna",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui hoy a las 3 de la mañana y me atendió la Doctora Natalia. Una atención INCREÍBLE. Mucha predisposición, interés e información.",
+          "name": "Nicolás Goncalves",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui con mi nena de 9 años por una molestia en encías. Me atendió la Dra. Verónica con una amorosidad y experiencia que solo la dan los años. Quedamos muy conformes. Si tenés dudas dónde llevar a tu hijo, no lo dudes.",
+          "name": "Mariana Estrada",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a un turno con la Dra. Marchese, mi hijo de 6 años tiene TDAH y tenía pánico al dentista. Salió feliz con sus caries arregladas y diciendo que le encantó ir. La experiencia fue buenísima.",
+          "name": "Carla Troiani",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Llegá tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Realmente atienden las 24 horas?",
+          "answer": "Sí. Atendemos las 24 horas, los 7 días de la semana, todo el año. Si te duele de madrugada, un domingo o un feriado, hay un odontólogo de guardia esperándote."
+        },
+        {
+          "question": "¿Cuánto se espera para ser atendido?",
+          "answer": "La mayoría de los pacientes nos cuenta que esperaron entre 5 y 15 minutos. En horarios pico la espera puede ser un poco más larga, pero te recibimos siempre el mismo día."
+        },
+        {
+          "question": "¿Qué hacen en la guardia?",
+          "answer": "Diagnosticamos el problema, te aliviamos el dolor con medicación apropiada (antibióticos, analgésicos, antiinflamatorios) y, si hace falta, hacemos atenciones provisorias. Después te derivamos al especialista correcto para el tratamiento definitivo."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, atendemos niños con dolor o molestias en cualquier horario. Tené en cuenta que la guardia es atendida por odontólogos generalistas; para tratamientos pediátricos planificados conviene derivar a un odontopediatra."
+        },
+        {
+          "question": "¿Qué obras sociales atienden?",
+          "answer": "Trabajamos con OSDE, Hospital Alemán, Accord 2.2 y varias prepagas más. Antes de venir podés llamarnos al 0810-777-1939 y confirmamos tu cobertura. También atendemos particular."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Av. de los Constituyentes 4588, Villa Urquiza, CABA. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencia 24h",
+      "heading": [
+        {
+          "text": "Tenés dolor\n"
+        },
+        {
+          "text": "Te atendemos ya",
+          "accent": true
+        }
+      ],
+      "description": "Estamos abiertos las 24 horas, los 365 días.\nVení directo a la guardia o llamanos.",
+      "ctaLabel": "Pedir atención de urgencia",
+      "addressLine": "Av. de los Constituyentes 4588, Villa Urquiza",
+      "hoursLine": "Lun a Dom · 24 horas",
+      "mapTitle": "Ubicación de la guardia"
+    },
+    "footer": {
+      "about": "Guardia odontológica abierta\nlas 24 horas en Villa Urquiza.\nAtención inmediata del dolor.",
+      "socials": [
+        {
+          "label": "Teléfono",
+          "href": "tel:08107771939",
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Dolor agudo",
+              "href": "#servicios"
+            },
+            {
+              "label": "Infecciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Muelas de juicio",
+              "href": "#servicios"
+            },
+            {
+              "label": "Reparación de prótesis",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. de los Constituyentes 4588, Villa Urquiza"
+            },
+            {
+              "label": "0810-777-1939",
+              "href": "tel:08107771939",
+              "external": true
+            },
+            {
+              "label": "Abierto 24 horas, todos los días",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "MB Odontología Guardia 24h"
+    }
+  }
+}

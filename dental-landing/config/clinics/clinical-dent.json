@@ -1,0 +1,420 @@
+{
+  "brand": {
+    "name": "Clinical Dent",
+    "shortName": "Clinical Dent",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541145842791",
+      "defaultMessage": "Hola, quiero reservar un turno en Clinical Dent."
+    },
+    "phoneDisplay": "+54 11 4584-2791",
+    "address": "Av. Nazca 1938, Villa Santa Rita, CABA",
+    "hours": "Lun a Vie · 11-19hs · Sáb · 10-16hs",
+    "mapQuery": "Av. Nazca 1938, Villa Santa Rita, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://clinical-dent.kingdom-tech.co",
+    "title": "Clinical Dent — Consultorio odontológico en Villa Santa Rita",
+    "description": "Consultorio odontológico en Villa Santa Rita (CABA). Equipo de profesionales cálidos, atención sin dolor y turnos también los sábados. Ortodoncia, cirugía, implantes y odontología general.",
+    "ogTitle": "Clinical Dent — Consultorio odontológico en Villa Santa Rita",
+    "ogDescription": "Odontología cálida y sin dolor en Villa Santa Rita. Equipo de profesionales, turnos también los sábados.",
+    "siteName": "Clinical Dent",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Villa Santa Rita. Atención sin dolor, equipo de profesionales y turnos los sábados.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Nazca 1938",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1416",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6121284,
+        "lng": -58.4810425
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "11:00",
+          "closes": "19:00"
+        },
+        {
+          "days": ["Saturday"],
+          "opens": "10:00",
+          "closes": "16:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Nazca 1938 · Villa Santa Rita · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio odontológico en Villa Santa Rita.\nAtención sin dolor y turnos también los sábados.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Clinical Dent",
+        "label": "Tu clínica de barrio en Villa Santa Rita"
+      },
+      "stats": [
+        {
+          "value": "Sin dolor",
+          "label": "Atención cálida"
+        },
+        {
+          "value": "Sábados",
+          "label": "También abrimos"
+        },
+        {
+          "value": "Villa S. Rita",
+          "label": "Clínica de barrio"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia y contención",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Cirugía odontológica",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de profesionales cálidos que te acompaña paso a paso. Atención sin dolor, "
+        },
+        {
+          "text": "pensada especialmente para quienes le tienen miedo al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Sin dolor\nY sin miedo",
+          "body": "Recibimos pacientes que dejaron de ir al dentista por malas experiencias y los ayudamos a volver. Trato paciente, explicaciones claras e intervenciones casi sin dolor."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Abrimos\nLos sábados",
+          "body": "Sabemos que durante la semana es difícil sacar un rato. Por eso atendemos también los sábados de 10 a 16, para que cuides tu sonrisa sin reorganizar tu agenda."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "Detrás De Tu Sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Sol Rodríguez",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Juan Manuel",
+          "role": "Cirugía odontológica",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Bárbara",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Fernando",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente lugar, quiero destacar el trabajo increíble de Bárbara. Súper profesional, súper dulce y paciente. Tuve experiencias horribles en el pasado que hicieron que no me atendiera en ningún dentista por muchos años, pero gracias a ella volví.",
+          "name": "Sofía Antonietto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fernando, un capo. Súper atento, cordial, me explicó detalladamente todo. Muy profesional y sobre todo excelente persona.",
+          "name": "Romy López",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendieron excelente. El lugar súper lindo y limpio. Fui para que me peguen la contención fija y me atendieron en el momento. Muy amables.",
+          "name": "Andi Chef",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Buena atención. No prolongan las esperas. Y las intervenciones son casi sin dolores. Altamente recomendable.",
+          "name": "Gustavo Suárez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Los 2 profesionales que me tocaron son espectaculares: el Dr. Juan Manuel, un cirujano delicado que sabe lo que hace, y la Dra. Sol realmente brilla. Los recomiendo a ambos.",
+          "name": "Claudia G",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Abren los sábados?",
+          "answer": "Sí. Atendemos de lunes a viernes de 11 a 19 y los sábados de 10 a 16. Es ideal si durante la semana se te complica sacar un turno."
+        },
+        {
+          "question": "¿Atienden a pacientes con miedo al dentista?",
+          "answer": "Sí, es algo que nos destaca. Muchos pacientes llegan después de malas experiencias y dejaron de ir al dentista por años. Los acompañamos con paciencia y atención sin dolor para que recuperen la confianza."
+        },
+        {
+          "question": "¿Las intervenciones duelen?",
+          "answer": "Trabajamos con técnicas pensadas para que las intervenciones sean casi sin dolor. Te explicamos cada paso antes de empezar para que estés tranquilo."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de tu primera consulta escribinos por WhatsApp y consultá tu cobertura puntual. Coordinamos la mejor opción para tu caso."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Hacemos un diagnóstico completo, revisamos tu historia clínica y te explicamos las opciones de tratamiento con claridad. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Nazca 1938, Villa Santa Rita, CABA. Atendemos de lunes a viernes de 11 a 19 y sábados de 10 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te está esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp\ny coordinamos tu turno, también los sábados.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Nazca 1938, Villa Santa Rita, CABA",
+      "hoursLine": "Lun a Vie 11-19 · Sáb 10-16",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Villa Santa Rita.\nEquipo cálido, atención sin dolor\ny turnos también los sábados.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía odontológica",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Nazca 1938, Villa Santa Rita"
+            },
+            {
+              "label": "+54 11 4584-2791",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun-Vie 11-19 · Sáb 10-16",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clinical Dent"
+    }
+  }
+}

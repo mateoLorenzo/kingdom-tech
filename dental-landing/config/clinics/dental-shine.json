@@ -1,0 +1,415 @@
+{
+  "brand": {
+    "name": "Dental Shine",
+    "shortName": "Dental Shine",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491159609698",
+      "defaultMessage": "Hola, quiero coordinar una consulta con la Dra. Leila Papalia."
+    },
+    "phoneDisplay": "+54 9 11 5960-9698",
+    "address": "Superí 1368, Belgrano R, CABA",
+    "hours": "Lun 15-19 · Mar/Mié/Vie 10-19 · Jue 10-13",
+    "mapQuery": "Superí 1368, Belgrano R, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-shine.kingdom-tech.co",
+    "title": "Dental Shine — Dra. Leila Papalia | Ortodoncia invisible y estética dental en Belgrano R",
+    "description": "Consultorio odontológico de la Dra. Leila Papalia en Belgrano R. Ortodoncia invisible, blanqueamiento, estética dental y placas de descanso. Tratamientos planificados con atención personalizada.",
+    "ogTitle": "Dental Shine — Dra. Leila Papalia | Belgrano R",
+    "ogDescription": "Ortodoncia invisible, blanqueamiento y estética dental en Belgrano R. Tratamientos planificados con atención personalizada de la Dra. Leila Papalia.",
+    "siteName": "Dental Shine — Dra. Leila Papalia",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Ortodoncia invisible y estética dental en Belgrano R con la Dra. Leila Papalia. Atención personalizada y tratamientos planificados.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Superí 1368",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": ["Monday"],
+          "opens": "15:00",
+          "closes": "19:00"
+        },
+        {
+          "days": ["Tuesday", "Wednesday", "Friday"],
+          "opens": "10:00",
+          "closes": "19:00"
+        },
+        {
+          "days": ["Thursday"],
+          "opens": "10:00",
+          "closes": "13:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Superí 1368 · Belgrano R · CABA",
+      "headline": [
+        {
+          "text": "Ortodoncia y\n"
+        },
+        {
+          "text": "Estética dental",
+          "accent": true
+        }
+      ],
+      "subheadline": "Tratamientos planificados con la\nDra. Leila Papalia en Belgrano R.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Shine",
+        "label": "Odontología personalizada en Belgrano R"
+      },
+      "stats": [
+        {
+          "value": "Dra. Leila",
+          "label": "Papalia"
+        },
+        {
+          "value": "Invisible",
+          "label": "Ortodoncia"
+        },
+        {
+          "value": "Belgrano R",
+          "label": "Lun a Vie"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos\n"
+        },
+        {
+          "text": "Planificados a medida",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia invisible",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Placa de descanso",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Cada tratamiento es planificado y personalizado por la Dra. Leila Papalia. "
+        },
+        {
+          "text": "Te explica el plan con claridad y avanza con vos, paso a paso.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nPersonalizada",
+          "body": "Te atiende la Dra. Leila Papalia. Sin pasamanos: la misma profesional te diagnostica, planifica el tratamiento y te acompaña a lo largo del proceso."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Ortodoncia\nInvisible",
+          "body": "Especialista en alineadores y ortodoncia invisible. Resultados estéticos sin brackets a la vista, ideales para adultos jóvenes con tratamientos planificados."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "Tu odontóloga",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Leila Papalia",
+          "role": "Ortodoncia · Estética dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. Es una gran profesional y se nota que sabe muchísimo. Me hice un blanqueamiento y quedé encantada con el resultado. Además, trabaja ortodoncia invisible y te explica todo con mucha claridad. Muy cercana y recomendable.",
+          "name": "Lorena F",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Vine a hacerme una limpieza y una placa de descanso, respondió a todas mis preguntas con mucha amabilidad. Excelente profesional, hoy es mi odontóloga de confianza. ¡La recomiendo!",
+          "name": "Matías Iazurlo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me encanta cómo trabaja Lei. Es perfecta.",
+          "name": "Tiare Salcedo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La mejor dentista del planeta. 200% recomendable.",
+          "name": "Lautaro Lautaro",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La mejor odontóloga por mucho. Excelente atención.",
+          "name": "Antonio Bergamasco",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Nos especializamos en ortodoncia invisible y tradicional, blanqueamiento, estética dental y placas de descanso para bruxismo. También hacemos limpieza, implantes y endodoncia."
+        },
+        {
+          "question": "¿Cómo es la ortodoncia invisible?",
+          "answer": "Trabajamos con alineadores transparentes hechos a medida. Son removibles, casi imperceptibles y avanzan tu tratamiento de forma planificada. En la primera consulta te explicamos cómo sería tu caso puntual."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Atendemos particular y consultamos cobertura por prepaga según el tratamiento. Antes de tu primera consulta escribinos por WhatsApp y revisamos tu caso."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "En la primera visita te recibe la Dra. Leila Papalia, hace un diagnóstico completo y te explica las opciones de tratamiento. Recibís un plan claro y los valores antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Ofrecen financiación o cuotas?",
+          "answer": "Sí. Aceptamos tarjetas y, según el tratamiento, coordinamos planes en cuotas. Te pasamos los valores por escrito antes de empezar."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Superí 1368, Belgrano R, CABA. Lunes 15 a 19, martes y miércoles 10 a 19, jueves 10 a 13 y viernes 10 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu sonrisa\n"
+        },
+        {
+          "text": "Empieza acá",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Superí 1368, Belgrano R, CABA",
+      "hoursLine": "Lun a Vie · consultá horarios",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Belgrano R.\nOrtodoncia invisible, estética dental\ny tratamientos planificados a medida.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia invisible",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Placa de descanso",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Superí 1368, Belgrano R"
+            },
+            {
+              "label": "+54 9 11 5960-9698",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun-Vie · consultá horarios",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Shine — Dra. Leila Papalia"
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "brand": {
+    "name": "Dr. Barboza",
+    "shortName": "Dr. Barboza",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491131601610",
+      "defaultMessage": "Hola, quiero coordinar una consulta de diseño de sonrisa con el Dr. Barboza."
+    },
+    "phoneDisplay": "+54 9 11 3160-1610",
+    "address": "Av. Lincoln 3772, Villa Pueyrredón, CABA",
+    "hours": "Lun a Vie · 14:00-20:00hs",
+    "mapQuery": "Av. Lincoln 3772, Villa Pueyrredón, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dr-barboza.kingdom-tech.co",
+    "title": "Diseñador de Sonrisas — Dr. Oscar Barboza | Estética dental en Villa Pueyrredón",
+    "description": "Odontología y diseño de sonrisas en Villa Pueyrredón liderado por el Dr. Oscar Barboza y la Dra. Micaela Barboza. Estética dental, blanqueamiento, ortodoncia e implantes. Pacientes fieles desde hace más de 20 años.",
+    "ogTitle": "Diseñador de Sonrisas — Dr. Oscar Barboza | Villa Pueyrredón",
+    "ogDescription": "Estética dental y diseño de sonrisa con el Dr. Oscar Barboza y la Dra. Micaela Barboza en Villa Pueyrredón. Pacientes de confianza desde hace décadas.",
+    "siteName": "Odontología Diseñador de Sonrisas — Dr. Oscar Barboza",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Diseño de sonrisas y estética dental en Villa Pueyrredón con el Dr. Oscar Barboza y la Dra. Micaela Barboza.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Lincoln 3772",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1419",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6000566,
+        "lng": -58.507445
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "14:00",
+          "closes": "20:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Lincoln 3772 · Villa Pueyrredón · CABA",
+      "headline": [
+        {
+          "text": "Diseñador\n"
+        },
+        {
+          "text": "de Sonrisas",
+          "accent": true
+        }
+      ],
+      "subheadline": "Estética dental y diseño de sonrisa en Villa Pueyrredón,\ncon el Dr. Oscar Barboza y la Dra. Micaela Barboza.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Diseñador de Sonrisas",
+        "label": "Dr. Oscar Barboza · Villa Pueyrredón"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "20+",
+          "label": "Años de confianza"
+        },
+        {
+          "value": "Padre e hija",
+          "label": "Dúo profesional"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Diseñamos\n"
+        },
+        {
+          "text": "Tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Diseño de sonrisa y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (rescate de conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Cirugías y prótesis",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un consultorio familiar liderado por el Dr. Oscar Barboza junto a su hija, la Dra. Micaela Barboza. "
+        },
+        {
+          "text": "Diseñamos sonrisas y rescatamos las que otros dieron por perdidas, con pacientes que confían en nosotros hace décadas.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Padre e hija\nDe confianza",
+          "body": "El Dr. Oscar Barboza atiende junto a su hija, la Dra. Micaela. Un equipo familiar que acompaña a sus pacientes durante 10, 20 y más años, con la confianza que solo da el tiempo."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Rescatamos\nTu sonrisa",
+          "body": "Recibimos pacientes con tratamientos mal hechos en otros lados y salvamos piezas que daban por perdidas. Diseñamos sonrisas que mejoran tu salud y tu confianza social."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "La familia Barboza",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Micaela Barboza",
+          "role": "Estética dental · Blanqueamiento",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Oscar Barboza",
+          "role": "Director · Diseño de sonrisas",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología Integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Confían hace años",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Hace ya 10 años que me atiendo con el doctor y toda la familia. Equipo hermoso. Desde lo estético hasta la parte de salud me salvaron una muela en el peor momento, de un mal conducto que me habían hecho en otro lado.",
+          "name": "Julieta García",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace más de veinte años que confío mi sonrisa a esta clínica. Siempre me atendieron con profesionalismo, dedicación y una calidez humana que se agradece. Un equipo que realmente cuida de mi familia.",
+          "name": "Marian Malvi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Un caballero, excelente profesional y persona admirable, junto con su hija Micaela que también es odontóloga. Hacen en su centro de estética odontológica una labor admirable. Súper recomendables.",
+          "name": "Mario Rosmino",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El mejor odontólogo de la historia. Me salvó la boca a mí y a muchos chicos del plantel de Chacarita Juniors.",
+          "name": "Facundo Brambatti",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El mejor de todos sin duda. Me diseñó mi sonrisa, me dio salud bucal y me cambió la vida social. Más no puedo pedir, gracias.",
+          "name": "Celia Aguada",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué es el diseño de sonrisa?",
+          "answer": "Es un plan personalizado para mejorar la estética de tu sonrisa combinando tratamientos como blanqueamiento, carillas, ortodoncia y restauraciones, según lo que tu caso necesite. El Dr. Barboza evalúa tu sonrisa y te propone un diseño a medida."
+        },
+        {
+          "question": "¿Quiénes atienden en el consultorio?",
+          "answer": "El consultorio está liderado por el Dr. Oscar Barboza, junto a su hija, la Dra. Micaela Barboza, y un equipo de profesionales. Un consultorio familiar con pacientes que confían en ellos desde hace décadas."
+        },
+        {
+          "question": "¿Pueden rescatar un tratamiento mal hecho en otro lado?",
+          "answer": "Sí, es una de las cosas que más nos agradecen. Recibimos pacientes con conductos, arreglos o tratamientos mal hechos en otros lugares y, en muchos casos, logramos salvar piezas que daban por perdidas."
+        },
+        {
+          "question": "¿Hacen blanqueamiento y estética dental?",
+          "answer": "Sí. La estética dental es nuestro foco: hacemos blanqueamiento, diseño de sonrisa y tratamientos estéticos que buscan resultados naturales y duraderos."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de tu primera consulta escribinos por WhatsApp y consultá tu cobertura puntual. Coordinamos la mejor opción para tu caso."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Hacemos un diagnóstico completo, evaluamos tu sonrisa y tu salud bucal, y te explicamos las opciones de tratamiento con claridad. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Lincoln 3772, Villa Pueyrredón, CABA. Atendemos de lunes a viernes de 14 a 20hs. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Diseñá tu sonrisa\n"
+        },
+        {
+          "text": "Con nosotros",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp\ny coordinamos tu primera consulta.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Lincoln 3772, Villa Pueyrredón, CABA",
+      "hoursLine": "Lun a Vie · 14:00-20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología y diseño de sonrisas en\nVilla Pueyrredón, con el Dr. Oscar Barboza\ny la Dra. Micaela Barboza.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Lincoln 3772, Villa Pueyrredón"
+            },
+            {
+              "label": "+54 9 11 3160-1610",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 14-20hs",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Diseñador de Sonrisas — Dr. Oscar Barboza"
+    }
+  }
+}

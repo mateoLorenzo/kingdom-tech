@@ -1,0 +1,425 @@
+{
+  "brand": {
+    "name": "Martínez 24h",
+    "shortName": "Martínez 24h",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491166736986",
+      "defaultMessage": "Hola, necesito una urgencia odontológica en Martínez."
+    },
+    "phoneDisplay": "+54 9 11 6673-6986",
+    "address": "Sarmiento 229, Martínez, Buenos Aires",
+    "hours": "Lun a Dom · 24 horas",
+    "mapQuery": "Sarmiento 229, Martínez, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://martinez-24h.kingdom-tech.co",
+    "title": "Odontología Privada Martínez — Guardia odontológica 24 horas en Zona Norte",
+    "description": "Guardia odontológica las 24 horas en Martínez, Zona Norte. Décadas de experiencia, equipo amplio de profesionales, radiografía panorámica in situ y endodoncia con especialistas internos. Atención por WhatsApp.",
+    "ogTitle": "Odontología Privada Martínez — Guardia 24h en Zona Norte",
+    "ogDescription": "Guardia odontológica 24h en Martínez con décadas de experiencia. Radiografía panorámica in situ, endodoncia con especialista y atención por WhatsApp.",
+    "siteName": "Odontología Privada Martínez",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia odontológica 24 horas en Martínez, Zona Norte. Décadas de experiencia, radiología in situ y atención por WhatsApp.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Sarmiento 229",
+        "city": "Martínez",
+        "region": "Buenos Aires",
+        "postalCode": "B1640",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.4871085,
+        "lng": -58.4989818
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Urgencia",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Atención de Urgencia",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Sarmiento 229 · Martínez · Zona Norte",
+      "headline": [
+        {
+          "text": "Atención\n"
+        },
+        {
+          "text": "Odontológica 24h",
+          "accent": true
+        }
+      ],
+      "subheadline": "Guardia odontológica con décadas de experiencia\nen Martínez. Te atendemos a cualquier hora.",
+      "ctaLabel": "Atención de Urgencia",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Privada Martínez",
+        "label": "Guardia odontológica en Zona Norte"
+      },
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "Todos los días"
+        },
+        {
+          "value": "Décadas",
+          "label": "En Zona Norte"
+        },
+        {
+          "value": "Radiología",
+          "label": "In situ"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Te atendemos\n"
+        },
+        {
+          "text": "A toda hora",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Urgencias 24h",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Radiografía y diagnóstico",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Niños con dolor",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Muelas de juicio",
+          "image": "/img/brackets.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Décadas de experiencia atendiendo guardias en Zona Norte. Equipo amplio de profesionales rotativos, "
+        },
+        {
+          "text": "especialistas internos para derivación y radiología in situ para diagnosticar al instante.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Décadas\nDe experiencia",
+          "body": "Décadas operando como guardia odontológica de referencia en Martínez. Equipo amplio de profesionales que se rotan las 24 horas, todos los días del año."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Radiología\nIn situ",
+          "body": "Hacemos radiografías panorámicas en el momento, sin derivar a otro lado. Diagnóstico inmediato para que el odontólogo de guardia decida el tratamiento con información completa."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros · Equipo rotativo",
+      "heading": [
+        {
+          "text": "Conocé El Equipo\n"
+        },
+        {
+          "text": "De Guardia",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Carolina Asla",
+          "role": "Guardia · Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. José Emanuel Lencina",
+          "role": "Odontología de guardia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Ana M. Martínez Villamizar",
+          "role": "Odontología de guardia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Luis Enrique",
+          "role": "Endodoncia · Derivación interna",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Nos recomiendan",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Yo me decidí a ir luego de leer comentarios y no dejarme guiar por la puntuación. Recomiendo 100%. Llegué a las 00:30 muerta de dolor. No había nadie y me atendieron al toque.",
+          "name": "Florencia Buchko",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui el domingo a la tarde, después de 10 días de sufrir por una muela yendo de un lado al otro sin solución. La Dra. Carolina Asla, tremenda odontóloga. Súper cuidadosa, realizó un trabajo de apertura para un tratamiento de conducto y chau dolor.",
+          "name": "Fernando Corrale",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llevé a mi hija de 6 años a la guardia un martes a las 12 de la noche con dolor de caries. 10 puntos la atención de la doctora y la recepción. Salió feliz y sin dolor. Genios.",
+          "name": "Diego Buscarini",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llegué con una urgencia por dolor a la madrugada y a los 10 minutos me estaban atendiendo. Tras quitarme el dolor me derivaron al endodoncista Luis Enrique, un capo con mayúsculas. El conducto que me hizo, impecable.",
+          "name": "Jorge Ball",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Había leído reseñas muy malas, pero fui igual. Mi experiencia fue un 10. Primero la atención por WhatsApp súper rápida durante el día. Todas las dudas fueron resueltas.",
+          "name": "María Soledad Abalos",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Llegá tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Realmente atienden las 24 horas?",
+          "answer": "Sí. Atendemos las 24 horas, los 7 días de la semana, todo el año. Décadas de operación como guardia odontológica de referencia en Martínez y Zona Norte."
+        },
+        {
+          "question": "¿Cómo coordino la atención?",
+          "answer": "Lo más rápido es escribirnos por WhatsApp. Te respondemos al toque y te indicamos cómo llegar. Si es una urgencia con dolor, podés venir directo a la guardia."
+        },
+        {
+          "question": "¿Hacen radiografía panorámica en el momento?",
+          "answer": "Sí, tenemos radiología in situ. Si tu caso lo necesita, te hacemos la panorámica al instante en la misma guardia, sin derivar a otro lado."
+        },
+        {
+          "question": "¿Atienden urgencias de niños?",
+          "answer": "Sí, atendemos niños con dolor o molestias agudas en cualquier horario. Tené en cuenta que la guardia es atendida por odontólogos generalistas; para tratamientos pediátricos planificados conviene derivar a un odontopediatra."
+        },
+        {
+          "question": "¿Hacen extracciones en la guardia?",
+          "answer": "Las extracciones complejas se programan por turno aparte. En la guardia te aliviamos el dolor con medicación, hacemos atenciones provisorias y coordinamos el turno para la extracción cuanto antes."
+        },
+        {
+          "question": "¿Tienen especialistas además del odontólogo de guardia?",
+          "answer": "Sí. Contamos con endodoncistas, implantólogos y otros especialistas internos. Si tu tratamiento necesita derivación, lo coordinamos puertas adentro sin que tengas que buscar afuera."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de venir escribinos por WhatsApp y consultá tu cobertura puntual. También atendemos particular."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Sarmiento 229, Martínez, Zona Norte. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencia 24h",
+      "heading": [
+        {
+          "text": "Tenés dolor\n"
+        },
+        {
+          "text": "Te atendemos ya",
+          "accent": true
+        }
+      ],
+      "description": "Estamos abiertos las 24 horas, los 365 días.\nEscribinos por WhatsApp o vení directo.",
+      "ctaLabel": "Escribir por WhatsApp",
+      "addressLine": "Sarmiento 229, Martínez, Zona Norte",
+      "hoursLine": "Lun a Dom · 24 horas",
+      "mapTitle": "Ubicación de la guardia"
+    },
+    "footer": {
+      "about": "Guardia odontológica las 24 horas\nen Martínez, Zona Norte.\nDécadas de experiencia y radiología in situ.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias 24h",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Radiografía panorámica",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Sarmiento 229, Martínez"
+            },
+            {
+              "label": "+54 9 11 6673-6986",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Abierto 24 horas, todos los días",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Privada Martínez"
+    }
+  }
+}

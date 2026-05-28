@@ -1,5 +1,5 @@
 import { Header } from "@/components/Header";
-import { WhatsAppFab } from "@/components/WhatsAppFab";
+import { BottomOverlays } from "@/components/BottomOverlays";
 import { Hero } from "@/components/sections/Hero";
 import { Services } from "@/components/sections/Services";
 import { Methodology } from "@/components/sections/Methodology";
@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <WhatsAppFab />
+      <BottomOverlays />
       <Hero />
       <Services />
       <Methodology />

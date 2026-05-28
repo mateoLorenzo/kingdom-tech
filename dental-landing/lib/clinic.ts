@@ -60,6 +60,19 @@ import odontoShine from "@/config/clinics/odonto-shine.json";
 import armonident from "@/config/clinics/armonident.json";
 import clinicaOdontologicaCallao from "@/config/clinics/clinica-odontologica-callao.json";
 import qcGrupoDental from "@/config/clinics/qc-grupo-dental.json";
+import spaDental from "@/config/clinics/spa-dental.json";
+import urgencias24h from "@/config/clinics/urgencias-24h.json";
+import dentalShine from "@/config/clinics/dental-shine.json";
+import urquizaDental from "@/config/clinics/urquiza-dental.json";
+import mbGuardia24h from "@/config/clinics/mb-guardia-24h.json";
+import dentistry from "@/config/clinics/dentistry.json";
+import chudnovsky from "@/config/clinics/chudnovsky.json";
+import martinez24h from "@/config/clinics/martinez-24h.json";
+import ortodonciaFox from "@/config/clinics/ortodoncia-fox.json";
+import miDentista from "@/config/clinics/mi-dentista.json";
+import clinicalDent from "@/config/clinics/clinical-dent.json";
+import renovaSonrisa from "@/config/clinics/renova-sonrisa.json";
+import drBarboza from "@/config/clinics/dr-barboza.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -125,6 +138,19 @@ const registry = {
   armonident: armonident as ClinicConfig,
   "clinica-odontologica-callao": clinicaOdontologicaCallao as ClinicConfig,
   "qc-grupo-dental": qcGrupoDental as ClinicConfig,
+  "spa-dental": spaDental as ClinicConfig,
+  "urgencias-24h": urgencias24h as ClinicConfig,
+  "dental-shine": dentalShine as ClinicConfig,
+  "urquiza-dental": urquizaDental as ClinicConfig,
+  "mb-guardia-24h": mbGuardia24h as ClinicConfig,
+  dentistry: dentistry as ClinicConfig,
+  chudnovsky: chudnovsky as ClinicConfig,
+  "martinez-24h": martinez24h as ClinicConfig,
+  "ortodoncia-fox": ortodonciaFox as ClinicConfig,
+  "mi-dentista": miDentista as ClinicConfig,
+  "clinical-dent": clinicalDent as ClinicConfig,
+  "renova-sonrisa": renovaSonrisa as ClinicConfig,
+  "dr-barboza": drBarboza as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

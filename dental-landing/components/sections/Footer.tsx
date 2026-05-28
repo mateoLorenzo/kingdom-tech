@@ -44,7 +44,7 @@ export function Footer() {
 
   return (
     <footer className="w-full bg-brand-footer-bg text-brand-footer-text">
-      <div className="mx-auto w-full max-w-[1280px] px-6 py-16 lg:px-10">
+      <div className="mx-auto w-full max-w-[1280px] px-6 pt-16 pb-36 lg:px-10 lg:pb-16">
         <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div>
             <BrandLogo variant="onDark" />
