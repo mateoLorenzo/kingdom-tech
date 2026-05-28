@@ -79,8 +79,13 @@
     "hero": {
       "eyebrow": "Calle 2 1040 · La Plata · Abierto 24hs",
       "headline": [
-        { "text": "Urgencias dentales\n" },
-        { "text": "24hs en La Plata", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Resolvemos tu dolor en el momento.\nAtención inmediata por WhatsApp,\ncualquier día, cualquier hora.",
       "ctaLabel": "Urgencia 24hs",

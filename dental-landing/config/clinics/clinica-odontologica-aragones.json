@@ -89,8 +89,13 @@
     "hero": {
       "eyebrow": "Av. Santa Fe 1877 · Barrio Norte · CABA",
       "headline": [
-        { "text": "Expertas en\n" },
-        { "text": "Odontologia", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Equipo femenino de odontólogas\nen Av. Santa Fe.\nExplicaciones claras, consultorio moderno\ny atención cálida para toda la familia.",
       "ctaLabel": "Reservá Turno",

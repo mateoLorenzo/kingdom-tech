@@ -79,8 +79,13 @@
     "hero": {
       "eyebrow": "Av. Córdoba 2077 · CABA",
       "headline": [
-        { "text": "Expertos en\n" },
-        { "text": "Cirugía dental", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Muelas de juicio, ortodoncia\ny cirugía maxilofacial.\n5.0★ con +220 opiniones y seguimiento\nposoperatorio diario por WhatsApp.",
       "ctaLabel": "Reservá Turno",

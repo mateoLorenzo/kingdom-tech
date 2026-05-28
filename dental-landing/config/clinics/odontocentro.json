@@ -84,8 +84,13 @@
     "hero": {
       "eyebrow": "Av. Congreso 2444 · Núñez · CABA",
       "headline": [
-        { "text": "Odontología para\n" },
-        { "text": "Toda la familia", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Equipo multidisciplinario en Núñez.\nHorarios amplios de 8 a 21hs\ny precios accesibles con pago en cuotas.",
       "ctaLabel": "Reservá Turno",

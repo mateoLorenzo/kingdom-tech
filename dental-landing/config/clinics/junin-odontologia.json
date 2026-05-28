@@ -79,8 +79,13 @@
     "hero": {
       "eyebrow": "Junín 1655 · Recoleta · CABA",
       "headline": [
-        { "text": "Odontología de\n" },
-        { "text": "Confianza en Recoleta", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Equipo Zurita, padre e hijo,\ncon especialistas en implantes, cirugía,\nperiodoncia y estética dental.",
       "ctaLabel": "Reservá Turno",

@@ -79,8 +79,13 @@
     "hero": {
       "eyebrow": "Av. Córdoba 966 · Microcentro · CABA",
       "headline": [
-        { "text": "Odontología integral\n" },
-        { "text": "En el corazón de CABA", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Un equipo multidisciplinario en Microcentro:\ncirugía, ortodoncia, implantes,\nconductos y ATM bajo un mismo techo.",
       "ctaLabel": "Reservá Turno",

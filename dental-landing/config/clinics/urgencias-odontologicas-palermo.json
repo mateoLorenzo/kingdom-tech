@@ -79,8 +79,13 @@
     "hero": {
       "eyebrow": "Bonpland 1240 · Palermo · Abierto 24hs",
       "headline": [
-        { "text": "Urgencias dentales\n" },
-        { "text": "24hs en Palermo", "accent": true }
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
       ],
       "subheadline": "Turno el mismo día, a cualquier hora.\nRespuesta inmediata por WhatsApp\ny resolución sin dolor en minutos.",
       "ctaLabel": "Urgencia 24hs",
