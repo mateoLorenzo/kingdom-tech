@@ -1,0 +1,421 @@
+{
+  "brand": {
+    "name": "Clinica SC",
+    "shortName": "SC Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491164269486",
+      "defaultMessage": "Hola, quiero coordinar un turno en SC Odontología."
+    },
+    "phoneDisplay": "+54 9 11 6426-9486",
+    "address": "Fitz Roy 1947, Piso 5, Palermo, CABA",
+    "hours": "Mar a Vie · consultá horarios",
+    "mapQuery": "Fitz Roy 1947, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://sc-odontologia.kingdom-tech.co",
+    "title": "SC Odontología — Expertos en Odontología | Palermo · English-speaking",
+    "description": "Odontología sin dolor en Palermo con la Dra. Sofía Cappelletti. Trato cálido, tecnología moderna y atención también en inglés para turistas y expats. Implantes, estética dental, carillas y cirugía.",
+    "ogTitle": "SC Odontología — Expertos en Odontología | Palermo",
+    "ogDescription": "Odontología sin dolor en Palermo con la Dra. Sofía Cappelletti. Trato cálido, tecnología moderna y atención también en inglés.",
+    "siteName": "SC Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología sin dolor en Palermo con la Dra. Sofía Cappelletti. Atención cálida y también en inglés.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Fitz Roy 1947, Piso 5",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday"
+          ],
+          "opens": "12:00",
+          "closes": "17:00"
+        },
+        {
+          "days": [
+            "Wednesday"
+          ],
+          "opens": "12:00",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 153
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Fitz Roy 1947 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología sin dolor en Palermo, con la Dra. Sofía Cappelletti.\nTrato cálido, tecnología moderna y atención también en inglés.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "SC Odontología",
+        "label": "Dra. Sofía Cappelletti · Palermo"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "153",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "English spoken"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Estética dental y carillas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Coronas y bonding",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Cirugía maxilofacial",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "La Dra. Sofía Cappelletti es reconocida por una atención sin dolor y un manejo experto de la anestesia. Te explica cada paso con claridad y transparencia. "
+        },
+        {
+          "text": "Una experiencia cálida que te saca el miedo al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nSin dolor",
+          "body": "Pacientes con dientes sensibles y temor a la consulta destacan que no sintieron nada. Un implante en 40 minutos con cero dolor es real. Turnos puntuales, sin esperas ni cancelaciones, en un consultorio moderno e impecable."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "También\nEn inglés",
+          "body": "Atendemos a muchos turistas y expats: la Dra. Sofía habla inglés con fluidez y te acompaña en cada paso. We speak English and we'll make you feel at home. Tecnología de primer nivel y materiales de calidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Te atienden",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Sofía Cappelletti",
+          "role": "Directora · Odontología y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Juliana",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Todo excelente, Sofía es una genia, súper profesional y amable, al igual que todos los miembros del staff. Se encargan de que salga todo perfecto y de hacerte sentir cómodo/a, y el consultorio es hermoso. Súper recomendado.",
+          "name": "Bianca Boetsch",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente! Sofi es una genia. Todo ordenado, limpio, profesional. Buen manejo de los turnos, sin esperas ni cancelaciones. Responden por WhatsApp. ¡Todo ok! Recomiendo.",
+          "name": "Pia Arrieta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me salvaron la muela que en otro lugar me querían sacar. Sofi es excelente odontóloga. Recomiendo 100%.",
+          "name": "Milagros Roldan",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Sofía es una genia. No me alcanzan los adjetivos: el profesionalismo, la seguridad que contagia, la velocidad con que trabaja y la calidez humana son insuperables. Un implante en 40 minutos con CERO dolor es absolutamente real.",
+          "name": "Oscar Darío Novodvoretz",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Vengo de EE.UU. y tuve una experiencia excepcional con la Dra. Sofía en Buenos Aires. La clínica es moderna, impecablemente limpia y bien ubicada en Palermo. Fue profesional, cálida y se tomó el tiempo de explicar cada paso.",
+          "name": "Toni Alehyane",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Atención de primera, súper profesional, tanto la Dra. Sofía como la Dra. Juliana, y siempre con la mejor predisposición. Explica todo con claridad, algo que valoro enormemente por mi temor a la consulta odontológica.",
+          "name": "Emanuel Fernandez",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos con un manejo experto de la anestesia para que la experiencia sea indolora. Es de lo que más destacan nuestros pacientes, incluso quienes tienen dientes sensibles o miedo al dentista."
+        },
+        {
+          "question": "Do you speak English?",
+          "answer": "Yes! La Dra. Sofía habla inglés con fluidez y atendemos a muchos turistas y expats en Buenos Aires. You can book your appointment by WhatsApp and we'll take care of everything."
+        },
+        {
+          "question": "¿Quién atiende en SC Odontología?",
+          "answer": "La práctica está liderada por la Dra. Sofía Cappelletti, junto a la Dra. Juliana y su equipo. Un trato cercano, detallista y profesional por el que los pacientes vuelven siempre."
+        },
+        {
+          "question": "¿Cómo saco un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos tu turno. Nuestros pacientes destacan el buen manejo de la agenda: turnos puntuales, sin esperas ni cancelaciones."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Fitz Roy 1947, piso 5, Palermo, CABA, dentro de un edificio profesional. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Fitz Roy 1947, Piso 5, Palermo, CABA",
+      "hoursLine": "Mar a Vie · consultá horarios",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología sin dolor en Palermo, con la Dra. Sofía\nCappelletti. Trato cálido, tecnología moderna y\natención también en inglés.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas y bonding",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Fitz Roy 1947, Piso 5, Palermo"
+            },
+            {
+              "label": "+54 9 11 6426-9486",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Mar a Vie · por turnos",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "SC Odontología"
+    }
+  }
+}
