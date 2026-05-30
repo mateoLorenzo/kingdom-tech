@@ -1,0 +1,422 @@
+{
+  "brand": {
+    "name": "Clinica NG",
+    "shortName": "NG Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541163066079",
+      "defaultMessage": "Hola, quiero coordinar un turno en NG Odontología y Bienestar."
+    },
+    "phoneDisplay": "+54 11 6306-6079",
+    "address": "Soldado de la Independencia 1170, Las Cañitas, CABA",
+    "hours": "Lun a Vie · consultá horarios",
+    "mapQuery": "Soldado de la Independencia 1170, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://ng-odontologia.kingdom-tech.co",
+    "title": "NG Odontología y Bienestar — Expertos en Odontología | Las Cañitas",
+    "description": "Odontología y bienestar en Las Cañitas con la Dra. Noelia Garcete. Una atención cálida, detallista e indolora que hace que ir al dentista se sienta distinto. Endodoncia, coronas, estética y odontología general.",
+    "ogTitle": "NG Odontología y Bienestar — Las Cañitas",
+    "ogDescription": "Odontología y bienestar en Las Cañitas con la Dra. Noelia Garcete. Atención cálida e indolora. Endodoncia, coronas y estética dental.",
+    "siteName": "NG Odontología y Bienestar",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología y bienestar en Las Cañitas con la Dra. Noelia Garcete. Atención cálida e indolora.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Soldado de la Independencia 1170",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday"
+          ],
+          "opens": "08:00",
+          "closes": "16:00"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Thursday"
+          ],
+          "opens": "08:00",
+          "closes": "13:00"
+        },
+        {
+          "days": [
+            "Wednesday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 35
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Soldado de la Independencia 1170 · Las Cañitas",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología y bienestar en Las Cañitas, con la Dra. Noelia Garcete.\nUna atención tan cálida que ir al dentista se siente distinto.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "NG Odontología",
+        "label": "Dra. Noelia Garcete · Las Cañitas"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "35",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Atención cálida"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Pernos y coronas",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "En NG combinamos odontología y bienestar. La Dra. Noelia Garcete te recibe con un trato cálido y contenedor que, como dicen nuestros pacientes, hace que la visita se sienta como un día de spa. "
+        },
+        {
+          "text": "Tratamientos indoloros y una atención que te saca el miedo al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Como un\nDía de spa",
+          "body": "Un consultorio agradable y un trato amoroso para que te relajes. Nuestros pacientes cuentan que llegan tensos y se van tranquilos: hay quien hasta se durmió en la consulta. Te explicamos todo con claridad."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tratamientos\nSin dolor",
+          "body": "Técnicas e instrumental modernos para que no sientas dolor, ni siquiera el pinchazo de la anestesia. Atendemos urgencias con turnos rápidos y acompañamos a pacientes que llegan con miedo al dentista."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que te cuida",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Noelia Garcete",
+          "role": "Directora · Odontología y endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Agustina",
+          "role": "Asistente odontológica",
+          "experience": "EQUIPO NG",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Noe es una excelente profesional. Nunca me gustó ir al dentista, pero ella me hizo sentir cómodo. Muy recomendable. Muchas gracias.",
+          "name": "Alejandro Pepek",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Quiero contarles lo feliz que me hace sentir cada vez que voy a visitar a Noelia y su equipo. Ir al odontólogo es un día de spa, así me hacen sentir.",
+          "name": "Liliana Seffino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a hacerme tratamiento de conducto + perno y corona y más que contento con los resultados, la atención y los horarios son súper cómodos. Lo recomiendo un montón.",
+          "name": "Santiago Gabriel Corbalán",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. La doctora es una genia: te contiene, explica todo con claridad y no me hizo doler nada. Súper recomendable.",
+          "name": "Leonardo Prato",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Impecable y amorosa atención. Mis muelas y yo agradecidas. Tan confiada y relajada estuve que hasta me dormí en la consulta. Gracias Dra. Noelia.",
+          "name": "Daniela Menegazzo",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos con técnicas e instrumental modernos pensados para que no sientas dolor, ni siquiera el pinchazo de la anestesia. Es de lo que más destacan nuestros pacientes."
+        },
+        {
+          "question": "Tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Muchos de nuestros pacientes llegaron con miedo y hoy vienen tranquilos. La Dra. Noelia te contiene, te explica cada paso y hace que la consulta sea una experiencia relajada."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, damos turnos rápidos ante una emergencia. Escribinos por WhatsApp y resolvemos tu consulta lo antes posible."
+        },
+        {
+          "question": "¿Quién atiende en NG?",
+          "answer": "Te atiende la Dra. Noelia Garcete, junto a su asistente Agustina. Un trato personalizado y cálido por el que muchas familias vuelven año tras año."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Soldado de la Independencia 1170, Las Cañitas, CABA. Atendemos de lunes a viernes por turnos; escribinos por WhatsApp y coordinamos el horario que mejor te quede."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Soldado de la Independencia 1170, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie · consultá horarios",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología y bienestar en Las Cañitas, con la\nDra. Noelia Garcete. Atención cálida, indolora\ny pensada para tu tranquilidad.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y pernos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Soldado de la Independencia 1170, Las Cañitas"
+            },
+            {
+              "label": "+54 11 6306-6079",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · por turnos",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "NG Odontología y Bienestar"
+    }
+  }
+}
