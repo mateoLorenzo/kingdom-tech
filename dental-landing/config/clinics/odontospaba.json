@@ -1,0 +1,427 @@
+{
+  "brand": {
+    "name": "Clinica OdontoSpa",
+    "shortName": "OdontoSpaBA",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491126045991",
+      "defaultMessage": "Hola, quiero coordinar un turno en OdontoSpaBA."
+    },
+    "phoneDisplay": "+54 9 11 2604-5991",
+    "address": "Av. Cabildo 642, Piso 12, Belgrano, CABA",
+    "hours": "Lun a Vie 08-19 · Sáb 10-15",
+    "mapQuery": "Av. Cabildo 642, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontospaba.kingdom-tech.co",
+    "title": "OdontoSpaBA — Expertos en Odontología | Experiencia spa en Belgrano",
+    "description": "Una experiencia odontológica tipo spa en Belgrano: piso 12 sobre Av. Cabildo, vista panorámica, ambiente relajado y todas las especialidades en un solo lugar. Estética dental, diseño de sonrisa, implantes y más.",
+    "ogTitle": "OdontoSpaBA — Experiencia odontológica spa en Belgrano",
+    "ogDescription": "Odontología tipo spa en Belgrano: vista panorámica, ambiente relajado y todas las especialidades. Estética dental, blanqueamiento, implantes y prótesis.",
+    "siteName": "OdontoSpaBA",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Una experiencia odontológica tipo spa en Belgrano, con todas las especialidades en un solo lugar.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Cabildo 642, Piso 12, Oficina 1202",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.57093,
+        "lng": -58.4435992
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 80
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Cabildo 642 · Piso 12 · Belgrano",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Una experiencia odontológica tipo spa en Belgrano:\nvista panorámica, ambiente relajado y todas las especialidades.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "OdontoSpaBA",
+        "label": "Experiencia Spa · Belgrano"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "80",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Experiencia",
+          "label": "Tipo spa"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Todas las especialidades\n"
+        },
+        {
+          "text": "En un solo lugar",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Blanqueamiento y limpieza",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Reinventamos la visita al dentista como una experiencia tipo spa. En el piso 12 sobre Av. Cabildo, con vista panorámica, fragancia y música relajante, cuidamos cada detalle. "
+        },
+        {
+          "text": "Todas las especialidades, en un ambiente donde de verdad te relajás.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Una experiencia\nTipo spa",
+          "body": "Desde que entrás no parece un consultorio. Ambiente cuidado en cada detalle: fragancia, música relajante y una vista panorámica de la ciudad desde el piso 12. Una forma distinta de cuidar tu sonrisa."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Todas las\nEspecialidades",
+          "body": "Estética, diseño de sonrisa, implantes, prótesis, ortodoncia y más, integradas en un solo lugar y con técnicas modernas mínimamente invasivas. Diseñamos juntos el plan que mejor se adapta a vos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Detrás de tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Heivi",
+          "role": "Directora · Estética dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Marian",
+          "role": "Prótesis dentales",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelentes profesionales, mucha paciencia y empatía, explican todo paso a paso, te cuidan en todo momento. Cuidan todos los detalles: fragancia ambiente, música relajante, la vista. Trabajo de calidad. De verdad excelente.",
+          "name": "Daniela Alfonzo Blanco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es un ambiente agradable, armonioso y con un estilo muy cool. Podés encontrar todas las especialidades odontológicas en un solo lugar y juntos diseñamos el plan estético que mejor se adapta a mis necesidades.",
+          "name": "Andreina Guerra",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Un servicio de primera. Desde que entras al lugar no te sentís en un consultorio, literal como dice el nombre es un spa. 100% recomendado, los mejores.",
+          "name": "Jose Alberto Oliveros",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Una gran experiencia. Muy profesional en todo su trabajo, las mejores técnicas, procedimientos modernos menos indoloros con resultados increíbles. Me cambió estéticamente la sonrisa. Súper recomendada.",
+          "name": "Diana Bertel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper profesionales. Increíble trabajo. Me saqué las 4 muelas de una, fue sin dolor y bastante rápido. Unas genias.",
+          "name": "Ema de Dios",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué es la experiencia tipo spa?",
+          "answer": "Pensamos cada detalle para que tu visita sea relajante: un espacio en el piso 12 sobre Av. Cabildo con vista panorámica, fragancia ambiental y música. Una forma distinta y placentera de cuidar tu sonrisa."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Integramos todas las especialidades en un solo lugar: estética dental, diseño de sonrisa, blanqueamiento, implantes, prótesis, ortodoncia, endodoncia y odontología general, con técnicas modernas."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos con técnicas modernas mínimamente invasivas pensadas para que la experiencia sea cómoda e indolora. Varios pacientes destacan tratamientos sin dolor, incluso extracciones."
+        },
+        {
+          "question": "¿Atienden los sábados?",
+          "answer": "Sí, atendemos sábados de 10 a 15, además de lunes a viernes de 8 a 19. Una opción cómoda para quienes trabajan durante la semana."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Cabildo 642, piso 12, Belgrano, CABA. Atendemos de lunes a viernes de 8 a 19 y los sábados de 10 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Cabildo 642, Piso 12, Belgrano, CABA",
+      "hoursLine": "Lun a Vie 08-19 · Sáb 10-15",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Una experiencia odontológica tipo spa en Belgrano,\nsobre Av. Cabildo. Todas las especialidades en un\nambiente relajado y con vista panorámica.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Cabildo 642, Piso 12, Belgrano"
+            },
+            {
+              "label": "+54 9 11 2604-5991",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 8-19 · Sáb 10-15",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "OdontoSpaBA"
+    }
+  }
+}
