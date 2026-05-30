@@ -1,0 +1,422 @@
+{
+  "brand": {
+    "name": "Clinica Láser",
+    "shortName": "Odontología Láser",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541147740186",
+      "defaultMessage": "Hola, quiero coordinar un turno en el Centro de Odontología Láser."
+    },
+    "phoneDisplay": "+54 11 4774-0186",
+    "address": "Charcas 4776, 5°B, Palermo, CABA",
+    "hours": "Lun a Vie · consultá horarios",
+    "mapQuery": "Charcas 4776, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontologia-laser.kingdom-tech.co",
+    "title": "Centro de Odontología Láser — Expertos en Odontología | Palermo",
+    "description": "Centro de Odontología Láser en Palermo: especialistas en ortodoncia y alineadores invisibles, odontopediatría y tratamientos sin dolor con opción de láser en lugar de torno. Un equipo de larga trayectoria.",
+    "ogTitle": "Centro de Odontología Láser — Expertos en Odontología | Palermo",
+    "ogDescription": "Centro odontológico en Palermo: ortodoncia, alineadores invisibles, odontopediatría y tratamientos sin dolor con opción de láser.",
+    "siteName": "Centro de Odontología Láser",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Palermo: ortodoncia, alineadores, odontopediatría y tratamientos sin dolor con láser.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Charcas 4776, 5°B",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Thursday"
+          ],
+          "opens": "15:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Tuesday"
+          ],
+          "opens": "10:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Wednesday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 4.4,
+        "count": 100
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Charcas 4776 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico en Palermo especializado en ortodoncia,\nalineadores invisibles y tratamientos sin dolor con láser.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Láser",
+        "label": "Palermo · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.4",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "100",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin torno",
+          "label": "Opción láser"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores invisibles",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes y coronas",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Placa para bruxismo",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y tratamiento láser",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de larga trayectoria en Palermo, fuerte en ortodoncia y alineadores invisibles, con un acompañamiento claro en cada etapa del tratamiento. "
+        },
+        {
+          "text": "Trabajamos con tratamientos indoloros y opción de láser en lugar de torno.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue cumple",
+          "body": "Brackets y alineadores invisibles con plazos que se cumplen y resultados que superan expectativas. Te explicamos cada etapa con claridad y te acompañamos de principio a fin, también en odontopediatría."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nCon láser",
+          "body": "Ofrecemos la opción de tratamientos con láser en lugar del torno, para que la experiencia sea lo más cómoda e indolora posible. Turnos ágiles, poca espera y un equipo de recepción siempre atento."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Detrás de tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Tamara Stiberman",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Leonardo Stiberman",
+          "role": "Director · Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Diana Fridman",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Después de probar con más de 7 odontólogos en Capital, di con Sofía Della Pietra y hoy es mi odontóloga de cabecera, no la cambio por nada y voy con total confianza. Súper recomendable y excelente profesional.",
+          "name": "Camila Cochancod",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde hace 12 años confío en el Dr. Leonardo para mi atención odontológica y no podría estar más agradecida. Es un profesional excepcional, con una formación impecable y un trato humano inigualable. ¡Altamente recomendado!",
+          "name": "Maria Flor Planas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hice mi tratamiento de ortodoncia con Tamara y fue una experiencia excelente de principio a fin. Me dijo que el proceso iba a durar 2 años y cumplió tal cual. Siempre atenta, clara y profesional, y el resultado superó mis expectativas.",
+          "name": "Carla Dercye",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡El mejor lugar lejos! Diana y Leo te atienden increíble, excelentes profesionales. Diana es la mejor odontóloga de niños: paciente, amorosa, explica todo.",
+          "name": "Maia Ganon",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Me hice la ortodoncia y una corona, y los resultados son excepcionales, me ha cambiado la sonrisa y la cara. Ahora sigo atendiéndome para todos los controles dentales. ¡Los recomiendo!",
+          "name": "Pablo Grimald",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y alineadores invisibles?",
+          "answer": "Sí, es nuestra especialidad. La Dra. Tamara Stiberman lidera los tratamientos de ortodoncia con brackets y alineadores invisibles, con un acompañamiento claro y plazos que se cumplen."
+        },
+        {
+          "question": "¿Qué es el tratamiento con láser?",
+          "answer": "Para muchos procedimientos ofrecemos la opción de láser en lugar del torno, lo que hace la experiencia más cómoda e indolora. Es ideal para quienes le tienen miedo al dentista."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Diana Fridman es nuestra especialista en odontopediatría, muy querida por los chicos y sus familias por su paciencia y dedicación."
+        },
+        {
+          "question": "¿Quiénes atienden en el centro?",
+          "answer": "Somos un equipo de larga trayectoria: el Dr. Leonardo Stiberman, la Dra. Tamara Stiberman (ortodoncia), la Dra. Sofía Della Pietra y la Dra. Diana Fridman (odontopediatría), entre otros."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con algunas obras sociales y prepagas. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Charcas 4776, 5°B, Palermo, CABA. Atendemos de lunes a viernes con horarios que varían según el día; escribinos por WhatsApp y coordinamos el que mejor te quede."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Charcas 4776, 5°B, Palermo, CABA",
+      "hoursLine": "Lun a Vie · consultá horarios",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro de Odontología Láser en Palermo: ortodoncia,\nalineadores invisibles, odontopediatría y tratamientos\nsin dolor con opción de láser.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento láser",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Charcas 4776, 5°B, Palermo"
+            },
+            {
+              "label": "+54 11 4774-0186",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · por turnos",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Centro de Odontología Láser"
+    }
+  }
+}

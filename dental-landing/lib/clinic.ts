@@ -85,6 +85,7 @@ import canitasDental from "@/config/clinics/canitas-dental.json";
 import sefap from "@/config/clinics/sefap.json";
 import ngOdontologia from "@/config/clinics/ng-odontologia.json";
 import estudioDentalDg from "@/config/clinics/estudio-dental-dg.json";
+import odontologiaLaser from "@/config/clinics/odontologia-laser.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -175,6 +176,7 @@ const registry = {
   sefap: sefap as ClinicConfig,
   "ng-odontologia": ngOdontologia as ClinicConfig,
   "estudio-dental-dg": estudioDentalDg as ClinicConfig,
+  "odontologia-laser": odontologiaLaser as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;
