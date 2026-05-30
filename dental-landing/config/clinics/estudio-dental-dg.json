@@ -1,0 +1,398 @@
+{
+  "brand": {
+    "name": "Clinica DG",
+    "shortName": "Estudio Dental DG",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491141850222",
+      "defaultMessage": "Hola, quiero coordinar un turno en Estudio Dental DG."
+    },
+    "phoneDisplay": "+54 9 11 4185-0222",
+    "address": "Av. Dorrego 2117, 3B, Chacarita, CABA",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs",
+    "mapQuery": "Av. Dorrego 2117, Chacarita, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://estudio-dental-dg.kingdom-tech.co",
+    "title": "Estudio Dental DG — Expertos en Odontología | Chacarita, CABA",
+    "description": "Consultorio boutique de odontología estética e implantes en Chacarita, liderado por el Dr. Guillermo Di Ielsi. Excelencia técnica, equipos de última tecnología y un trato humano que genera confianza.",
+    "ogTitle": "Estudio Dental DG — Expertos en Odontología | Chacarita",
+    "ogDescription": "Consultorio boutique de odontología estética e implantes en Chacarita, con el Dr. Guillermo Di Ielsi. Excelencia técnica y trato humano.",
+    "siteName": "Estudio Dental DG",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio boutique de odontología estética e implantes en Chacarita, con el Dr. Guillermo Di Ielsi.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Dorrego 2117, 3B",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 77
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Dorrego 2117, 3B · Chacarita · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio boutique de odontología estética e implantes en\nChacarita, liderado por el Dr. Guillermo Di Ielsi.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Estudio Dental DG",
+        "label": "Dr. Guillermo Di Ielsi · Chacarita"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "77",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Estética",
+          "label": "E implantes"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Estética y cosmética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Blanqueamiento y limpieza",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Protectores para bruxismo",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Urgencias y controles",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un consultorio boutique liderado por el Dr. Guillermo Di Ielsi, donde cada paciente recibe una atención personalizada y un diagnóstico honesto. "
+        },
+        {
+          "text": "Excelencia técnica, estética y un trato humano que genera confianza.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nBoutique",
+          "body": "No sos un número. El Dr. Di Ielsi te atiende personalmente, te explica cada procedimiento con claridad y prioriza tu salud por sobre todo. Pacientes que lo eligen hace más de una década con resultados que perduran."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Estética\nY tecnología",
+          "body": "Consultorio moderno con equipos de última generación, foco en odontología estética e implantes. Diseñamos sonrisas con resultados naturales y duraderos, con la puntualidad y el cuidado que merecés."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "Tu odontólogo",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Guillermo Di Ielsi",
+          "role": "Director · Odontología estética e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Mi experiencia en este consultorio de odontología fue excelente. Me realicé un implante dental y desde la primera cita recibí una atención muy profesional y cálida. Me explicaron cada paso del tratamiento con paciencia.",
+          "name": "Martin Sebastián Lapido",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me encantó el profesionalismo del Dr. Guillermo, la buena onda y paciencia para todas mis preguntas. El resultado, excelente. Recomiendo 100%, súper profesional. El consultorio muy lindo, limpio y moderno.",
+          "name": "Romina Cáceres Villagra",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Siempre me atiende el Dr. Di Ielsi. Tengo 4 implantes hechos hace más de 11 años y están perfectos. Blanqueos, controles, etc. Calidad como profesional y calidad humana. Es un placer contar con su asistencia.",
+          "name": "Francisco Casas",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Gran profesional. Llegué por recomendación y no fallé. Me hice los protectores dentales para dormir, ya que tengo bruxismo, y me cambió la vida. Descanso mejor y no tengo más dolor de cabeza.",
+          "name": "Martin Bel",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente odontólogo, muy profesional y dedicado. Explica cada procedimiento con paciencia y claridad, lo que transmite mucha confianza. Su trato humano y amable hace que las visitas sean una experiencia agradable.",
+          "name": "Mercedes Chiofalo",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen estética dental e implantes?",
+          "answer": "Sí, son nuestro foco. El Dr. Di Ielsi se especializa en odontología estética e implantes, diseñando sonrisas con resultados naturales y duraderos. Varios pacientes tienen implantes hechos hace más de 10 años en perfecto estado."
+        },
+        {
+          "question": "¿Hacen protectores para el bruxismo?",
+          "answer": "Sí. Confeccionamos protectores dentales a medida para quienes aprietan o rechinan los dientes al dormir. Nuestros pacientes destacan que mejoraron su descanso y redujeron los dolores de cabeza."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, en lo posible damos turno en el mismo día ante una urgencia. Escribinos por WhatsApp y resolvemos tu consulta lo antes posible."
+        },
+        {
+          "question": "¿Quién atiende en Estudio Dental DG?",
+          "answer": "Te atiende personalmente el Dr. Guillermo Di Ielsi, en un consultorio boutique. Una atención cercana, sin apuros y con la dedicación de un odontólogo de confianza."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las opciones de financiación disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Dorrego 2117, 3B, Chacarita, CABA. Atendemos de lunes a viernes de 9 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Dorrego 2117, 3B, Chacarita, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio boutique de odontología estética e\nimplantes en Chacarita, liderado por el\nDr. Guillermo Di Ielsi.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Bruxismo",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Dorrego 2117, 3B, Chacarita"
+            },
+            {
+              "label": "+54 9 11 4185-0222",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 9-20h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Estudio Dental DG"
+    }
+  }
+}
