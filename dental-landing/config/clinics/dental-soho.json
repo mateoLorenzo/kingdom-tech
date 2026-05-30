@@ -1,0 +1,440 @@
+{
+  "brand": {
+    "name": "Clinica Soho",
+    "shortName": "Dental Soho",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491125216805",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Soho."
+    },
+    "phoneDisplay": "+54 9 11 2521-6805",
+    "address": "Gorriti 5399, Palermo Soho, CABA",
+    "hours": "Mar a Jue 08-20 · Vie 09-17 · Sáb 08-17",
+    "mapQuery": "Gorriti 5399, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-soho.kingdom-tech.co",
+    "title": "Dental Soho — Expertos en Odontología | Palermo Soho · English-speaking dentist",
+    "description": "Clínica odontológica en Palermo Soho con atención bilingüe (español/inglés), urgencias en el día y turnos por WhatsApp. Equipo amplio liderado por la Dra. Jesica Somer. Implantes, ortodoncia, estética y más.",
+    "ogTitle": "Dental Soho — Expertos en Odontología | Palermo Soho",
+    "ogDescription": "Clínica odontológica bilingüe en Palermo Soho. Urgencias same-day, atención por WhatsApp y un equipo amplio liderado por la Dra. Jesica Somer.",
+    "siteName": "Dental Soho - Odontología Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica bilingüe en Palermo Soho. Urgencias en el día y atención por WhatsApp.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Gorriti 5399",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5869171,
+        "lng": -58.4348163
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 174
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Gorriti 5399 · Palermo Soho · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica en Palermo Soho, bilingüe (español/inglés),\ncon urgencias en el día y turnos por WhatsApp.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Soho",
+        "label": "Palermo Soho · English-speaking"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "174",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Bilingüe",
+          "label": "Español · Inglés"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Urgencias en el día",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental y carillas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica con onda de Palermo Soho: joven, cercana e internacional. Atendemos en español y en inglés, con urgencias en el mismo día y comunicación por WhatsApp. "
+        },
+        {
+          "text": "Un equipo amplio liderado por la Dra. Jesica Somer que te hace perder el miedo al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nBilingüe",
+          "body": "Hablamos español e inglés. Recibimos a pacientes locales, turistas y expats que buscan un dentista que los entienda. Comunicación clara por WhatsApp y turnos de urgencia en el día, incluso los sábados."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo\nAmplio y cálido",
+          "body": "Más de diez profesionales para cada especialidad, liderados por la Dra. Jesica Somer. Un ambiente cálido y profesional donde pacientes y equipo se conocen por su nombre."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Detrás de tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Jesica Somer",
+          "role": "Directora · Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Virgilio",
+          "role": "Implantes y cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Paula",
+          "role": "Endodoncia y urgencias",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dra. Agnes",
+          "role": "Odontología general · English",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "I had a great experience. The dentist speaks English and you can text using WhatsApp. The service was very good and fast, they got me in same day which was nice as a traveler. The price was very affordable.",
+          "name": "Amos Gordon",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente experiencia de principio a fin. Antes estuve con dos dentistas en Alemania que no pudieron ayudarme realmente. Aquí, en cambio, sí lo lograron: escucharon con mucha atención y solucionaron mi problema.",
+          "name": "Markus Walsch",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "I came with an emergency appointment for a retainer. Everyone was super nice and very competent. I felt very well cared for, especially since I am a tourist and only speak very little Spanish. Can only recommend.",
+          "name": "Julia Winners",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llegué a la consulta con la doctora Jesica Somer a través de mi hijo a quien le realizó un tratamiento de ortodoncia IMPECABLE. Además de ser una profesional de excelencia, es una hermosa persona. La súper recomiendo.",
+          "name": "Sandra Acebedo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Siempre me dieron miedo los odontólogos, todas las experiencias que tuve no fueron para nada buenas. Este lugar es la excepción. Trato en todo momento de excelencia, la Dra. Somer es la más. 101% recomendable.",
+          "name": "Aníbal Barreto",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden en inglés? / Do you speak English?",
+          "answer": "Yes! Varios de nuestros profesionales hablan inglés con fluidez. Atendemos a turistas y expats que buscan un dentista que los entienda. You can also text us on WhatsApp to book your appointment."
+        },
+        {
+          "question": "¿Atienden urgencias en el día?",
+          "answer": "Sí. Reservamos turnos de urgencia en el mismo día, incluso los sábados. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Hacemos un diagnóstico completo, te explicamos las opciones de tratamiento con claridad y respondemos todas tus dudas. Recibís toda la información antes de avanzar con cualquier procedimiento."
+        },
+        {
+          "question": "¿Quiénes atienden en Dental Soho?",
+          "answer": "Somos un equipo amplio de más de diez profesionales, liderado por la Dra. Jesica Somer, con especialistas en ortodoncia, implantes, endodoncia, estética y odontología general."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Gorriti 5399, Palermo Soho, CABA. Atendemos de martes a jueves de 8 a 20, viernes de 9 a 17 y sábados de 8 a 17. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu turno en el momento. We speak English too.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Gorriti 5399, Palermo Soho, CABA",
+      "hoursLine": "Mar a Jue 08-20 · Vie 09-17 · Sáb 08-17",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Palermo Soho, bilingüe\n(español/inglés), con urgencias en el día y\nun equipo amplio liderado por la Dra. Jesica Somer.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias en el día",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Gorriti 5399, Palermo Soho"
+            },
+            {
+              "label": "+54 9 11 2521-6805",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Mar a Sáb · ver horarios",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Soho - Odontología Integral"
+    }
+  }
+}
