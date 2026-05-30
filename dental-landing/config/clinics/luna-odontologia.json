@@ -1,0 +1,427 @@
+{
+  "brand": {
+    "name": "Clinica Luna",
+    "shortName": "Luna Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491124723842",
+      "defaultMessage": "Hola, quiero coordinar un turno para mi hijo/a en Luna Odontología."
+    },
+    "phoneDisplay": "+54 9 11 2472-3842",
+    "address": "Ferrari 258, Villa Crespo, CABA",
+    "hours": "Lun a Vie 08-20 · Sáb 08-18",
+    "mapQuery": "Ferrari 258, Villa Crespo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://luna-odontologia.kingdom-tech.co",
+    "title": "Luna Odontología — Odontopediatría en Villa Crespo | Dra. Mariela Luna",
+    "description": "Odontopediatría en Villa Crespo liderada por la Dra. Mariela Luna. Un espacio pensado para que tus hijos pierdan el miedo al dentista: remoción de caries sin torno, sesiones de una hora y método Decir, Mostrar y Hacer.",
+    "ogTitle": "Luna Odontología — Odontopediatría en Villa Crespo",
+    "ogDescription": "Odontopediatría en Villa Crespo con la Dra. Mariela Luna. Remoción de caries sin torno, sesiones de una hora y un ambiente pensado para los chicos.",
+    "siteName": "Luna Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontopediatría en Villa Crespo con la Dra. Mariela Luna. Sin torno y pensado para los chicos.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Ferrari 258",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.6042784,
+        "lng": -58.4395177
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 46
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Odontopediatría · Ferrari 258 · Villa Crespo",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontopediatría en Villa Crespo: un espacio pensado para\nque tus hijos pierdan el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Luna Odontología",
+        "label": "Odontopediatría · Villa Crespo"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "Sin torno",
+          "label": "Remoción de caries"
+        },
+        {
+          "value": "1 hora",
+          "label": "Por consulta"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Cuidamos la sonrisa\n"
+        },
+        {
+          "text": "De los más chicos",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontopediatría integral",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Remoción de caries sin torno",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia infantil",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Urgencias en niños",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Controles preventivos",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Rehabilitación dental infantil",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Creemos que hay otro modo de trabajar con niños: sin miedo, sin apuros y con mucha paciencia. "
+        },
+        {
+          "text": "Nos ganamos su confianza con nuestro método Decir, Mostrar y Hacer.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Decir, Mostrar\nY Hacer",
+          "body": "Antes de cada procedimiento le explicamos al niño qué vamos a hacer, se lo mostramos y recién después lo hacemos. Así transformamos el miedo en confianza y cada visita se vuelve una experiencia tranquila."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin torno\nSin dolor",
+          "body": "Usamos técnicas mínimamente invasivas y remoción de caries sin torno. Dedicamos una hora a cada consulta, respetando los tiempos de cada chico, en un espacio kids-friendly con juguetes y mucho color."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida a tus hijos",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Mariela Luna",
+          "role": "Directora · Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Aldana",
+          "role": "Ortodoncia infantil",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Familias que\n"
+        },
+        {
+          "text": "Vuelven felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente. Mariela, con su paciencia y su amorosidad, hizo que mi hijo pase del miedo total a ir confiado a atenderse. Lo ayudó a ganar confianza y ahora va tranquilo y contento pese a la complejidad de su tratamiento.",
+          "name": "Vero Treviño",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quiero destacar el trabajo de Mariela, que atendió a mi hijo por una fractura en el diente delantero. Desde que la llamé para solicitarle un turno de urgencia hasta la atención, todo fue impecable.",
+          "name": "Ivanna Delgado",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mariela Luna es la prueba de que hay otro modo de trabajar con niños. Sin miedo, sin crueldades, sin apuros. Trabaja con paciencia en ganarse la confianza y hace de la experiencia odontológica algo distinto.",
+          "name": "Dolores Curia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención. Te dan una hora de consulta y maneja perfectamente ese tiempo con los niños que tienen miedo al torno. El lugar es cómodo, con juguetes, opciones de espejos y baberos de colores.",
+          "name": "Alan Herrera Cruz",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy dulce, atenta y profesional. A mi hija le encanta ir, está cómoda y segura, y yo me voy con todo el procedimiento explicado. ¡Amé!",
+          "name": "Jesús Alamo",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Vení tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Desde qué edad pueden venir los chicos?",
+          "answer": "Recomendamos la primera visita desde temprana edad, para crear un vínculo positivo con el dentista. Acompañamos a los niños en cada etapa de su crecimiento y recambio dentario."
+        },
+        {
+          "question": "¿Es verdad que remueven caries sin torno?",
+          "answer": "Sí. Trabajamos con técnicas mínimamente invasivas y remoción de caries sin torno, que es justamente uno de los principales miedos de los chicos. Por eso la experiencia es mucho más tranquila."
+        },
+        {
+          "question": "¿Cómo es la primera consulta?",
+          "answer": "Dedicamos una hora a cada consulta y aplicamos nuestro método Decir, Mostrar y Hacer: le explicamos al niño cada paso, se lo mostramos y recién después lo hacemos. Así gana confianza y pierde el miedo."
+        },
+        {
+          "question": "¿Mi hijo tiene miedo al dentista, lo pueden ayudar?",
+          "answer": "Es justamente lo que más hacemos. Muchas familias llegan con chicos que tenían pánico y, con paciencia y empatía, logran ir contentos. Respetamos los tiempos de cada niño, sin apuros."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, atendemos urgencias en niños, como fracturas dentales o dolor. Escribinos por WhatsApp y coordinamos un turno lo antes posible."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Ferrari 258, Villa Crespo, CABA. Atendemos de lunes a viernes de 8 a 20 y los sábados de 8 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Una sonrisa sana\n"
+        },
+        {
+          "text": "Desde chiquitos",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\nla primera consulta de tu hijo/a.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Ferrari 258, Villa Crespo, CABA",
+      "hoursLine": "Lun a Vie 08-20 · Sáb 08-18",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontopediatría en Villa Crespo, liderada por la\nDra. Mariela Luna. Un espacio pensado para que\ntus hijos pierdan el miedo al dentista.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Caries sin torno",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia infantil",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias en niños",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Ferrari 258, Villa Crespo, CABA"
+            },
+            {
+              "label": "+54 9 11 2472-3842",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 8-20 · Sáb 8-18",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Luna Odontología"
+    }
+  }
+}
