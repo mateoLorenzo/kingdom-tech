@@ -1,0 +1,429 @@
+{
+  "brand": {
+    "name": "Clinica Micaela",
+    "shortName": "Micaela Luna",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541171522791",
+      "defaultMessage": "Hola, quiero coordinar un turno con la Dra. Micaela Luna."
+    },
+    "phoneDisplay": "+54 11 7152-2791",
+    "address": "Virrey del Pino 2686, Las Cañitas, CABA",
+    "hours": "Lun a Vie 09-20 · Sáb 08-13",
+    "mapQuery": "Virrey del Pino 2686, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://micaela-luna.kingdom-tech.co",
+    "title": "Micaela Luna Odontología — Expertos en Odontología | Las Cañitas",
+    "description": "Odontología en Las Cañitas con la Dra. Micaela Luna. Una atención cálida, clara y paciente que te saca el miedo al dentista, también para los más chicos. Estética, implantes, odontopediatría y urgencias.",
+    "ogTitle": "Micaela Luna Odontología — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Odontología en Las Cañitas con la Dra. Micaela Luna. Atención cálida y clara que te saca el miedo al dentista. Estética, implantes y odontopediatría.",
+    "siteName": "Micaela Luna Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Las Cañitas con la Dra. Micaela Luna. Atención cálida y clara que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Virrey del Pino 2686",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "20:30"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "13:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 322
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Virrey del Pino 2686 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Las Cañitas con la Dra. Micaela Luna.\nUna atención cálida y clara que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Micaela Luna",
+        "label": "Dra. Micaela Luna · Las Cañitas"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "322",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Trato cálido"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "La Dra. Micaela Luna se toma el tiempo de explicarte cada paso del tratamiento con paciencia y claridad, en un consultorio moderno e impecable. "
+        },
+        {
+          "text": "Una atención cálida que hace que ir al dentista sea una experiencia tranquila.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Si le tenés miedo al dentista, este es tu lugar. Muchos pacientes se animaron a hacerse todo lo que necesitaban y no sintieron dolor. Una atención sin apuros, que explica todo y te da tranquilidad y confianza."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "También\nPara los chicos",
+          "body": "La Dra. Micaela es muy querida por los más chicos: les explica todo para que no tengan miedo y los acompaña en su crecimiento. Un consultorio moderno y cuidado, con turnos ágiles que coordinás por WhatsApp."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Micaela Luna",
+          "role": "Directora · Odontología y odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Lean",
+          "role": "Cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Franco",
+          "role": "Equipo y asistencia",
+          "experience": "EQUIPO",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Quiero agradecer a la Dra. Micaela por la atención tan amorosa y profesional que me brindó. Me explicó todo con mucha paciencia, aclaró cada una de mis dudas y me transmitió una calma que realmente necesitaba. Súper recomendable.",
+          "name": "Angela Valderrey",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Atención súper profesional y cálida, despejó todas mis dudas y la sesión fue sin inconvenientes. Voy a continuar mi tratamiento con ella, excelente profesional. El consultorio también es muy lindo.",
+          "name": "Miguel Velasco",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Si sos una persona que le tiene miedo al dentista, tenés que venir acá. Es la mejor dentista con la que me atendí, me animé a hacerme todo lo que tenía que hacer y nada dolió; de verdad quedé sorprendida.",
+          "name": "Ivi Margenats",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Una genia Mica. Muy amorosa y paciente con los peques. Les explica todo para que no tengan miedo. A mi hijo le arregló una muela con cero dolor.",
+          "name": "Mariana Fenocchio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Todo 10 puntos! Puntualidad, atención, profesionalismo. Micaela es una genia que se toma todo el tiempo del mundo para explicarte de A a Z todo. La mejor recomendación en odontología, lejos.",
+          "name": "Esteban Felipe Romanutti",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me sentí muy cómodo y muy bien atendido por Micaela. Es muy simpática y amable, y te explica todo con detalle y simpleza. Es muy cuidadosa cuando trabaja y su consultorio está impecable. La recomiendo 100%.",
+          "name": "Carlos Romero",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es lo que más nos agradecen. Muchos pacientes que le tenían miedo al dentista se animaron a hacerse todo lo que necesitaban y no sintieron dolor. La Dra. Micaela te explica todo con paciencia y te da tranquilidad."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Micaela es muy querida por los más chicos: les explica cada paso para que no tengan miedo y los acompaña en su crecimiento. Muchas familias la eligen como odontopediatra."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, resolvemos urgencias como un dolor de muela. Escribinos por WhatsApp y hacemos lo posible por darte un turno lo antes posible, incluso un sobreturno en el día."
+        },
+        {
+          "question": "¿Quién atiende en el consultorio?",
+          "answer": "Te atiende la Dra. Micaela Luna, en odontología general y odontopediatría, junto a su equipo, incluido un cirujano para las intervenciones que lo requieran."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Virrey del Pino 2686, Las Cañitas, CABA. Atendemos de lunes a viernes de 9 a 20 (jueves hasta 20:30) y los sábados de 8 a 13. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Virrey del Pino 2686, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie 09-20 · Sáb 08-13",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Las Cañitas con la Dra. Micaela Luna.\nUna atención cálida y clara que te saca el miedo al\ndentista, también para los más chicos.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Virrey del Pino 2686, Las Cañitas"
+            },
+            {
+              "label": "+54 11 7152-2791",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 9-20 · Sáb 8-13",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Micaela Luna Odontología"
+    }
+  }
+}
