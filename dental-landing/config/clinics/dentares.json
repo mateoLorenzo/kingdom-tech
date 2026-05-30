@@ -1,0 +1,417 @@
+{
+  "brand": {
+    "name": "Clinica Dentares",
+    "shortName": "Dentares",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491140848411",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dentares."
+    },
+    "phoneDisplay": "+54 9 11 4084-8411",
+    "address": "Arce 867, Las Cañitas, CABA",
+    "hours": "Lun a Vie 10-20 · Sáb 08-21",
+    "mapQuery": "Arce 867, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dentares.kingdom-tech.co",
+    "title": "Dentares — Expertos en Odontología | Las Cañitas, CABA",
+    "description": "Consultorio odontológico en Las Cañitas liderado por el Dr. Luciano Martinessi. Atención cálida y sin dolor, materiales de primer nivel, atención los sábados y urgencias. Implantes, ortodoncia y más.",
+    "ogTitle": "Dentares — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Consultorio odontológico en Las Cañitas con el Dr. Luciano Martinessi. Atención cálida y sin dolor, sábados y urgencias. Implantes, ortodoncia y más.",
+    "siteName": "Dentares - Consultorio Odontológico",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Las Cañitas con el Dr. Luciano Martinessi. Atención sin dolor, sábados y urgencias.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Arce 867, 5D",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "21:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 158
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Arce 867 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio odontológico en Las Cañitas, liderado por el\nDr. Luciano Martinessi. Atención sin dolor, incluso los sábados.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dentares",
+        "label": "Dr. Luciano Martinessi · Las Cañitas"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "158",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sábados",
+          "label": "Hasta las 21hs"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Extracciones y muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia y arreglos",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "El Dr. Luciano Martinessi te atiende con un trato cálido, paciente y, sobre todo, sin dolor. Te explica el diagnóstico y cada paso del tratamiento con claridad. "
+        },
+        {
+          "text": "Muchos pacientes que le tenían terror al dentista volvieron a atenderse.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nSin dolor",
+          "body": "Implantes, extracciones y brackets sin molestias: es lo que más destacan nuestros pacientes. Si venís de malas experiencias o le tenés miedo al dentista, este es tu lugar. Materiales e instrumental de primer nivel."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sábados\nY urgencias",
+          "body": "Atendemos de lunes a viernes y también los sábados hasta tarde, resolviendo urgencias incluso el fin de semana. Respondemos rápido por WhatsApp y los turnos se cumplen. Coordinás con Mili y Cande en recepción."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que te cuida",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Luciano Martinessi",
+          "role": "Director · Odontología general e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Mili",
+          "role": "Recepción y coordinación",
+          "experience": "EQUIPO DENTARES",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Cande",
+          "role": "Recepción y coordinación",
+          "experience": "EQUIPO DENTARES",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Muy contenta con la atención de Luciano. Me había hecho implantes que quedaron muy bien, ahora fui por limpieza, mano excelente, ninguna molestia. Muy lindo el consultorio, muy equipado y súper buena atención.",
+          "name": "Anna Adelasio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Luciano me hizo sentir cómoda, fue muy amable y explica con claridad. Un profesional que transmite confianza. Lo súper recomiendo.",
+          "name": "Brenda Anchordoqui",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Voy con miedo por malas experiencias en otros lugares, pero acá desde el día 1 estás súper cómoda: desde el trato por WhatsApp con Mili hasta la atención y el profesionalismo de Lu.",
+          "name": "Caro Da Silva",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui un sábado 21hs con una urgencia y me la solucionaron. 10 puntos todo.",
+          "name": "Fernandes Ignacio",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Siempre sufrí en mis tratamientos odontológicos. Con Luciano nada me dio dolor, me fue explicando paso a paso y los resultados son excelentes. ¡Inauguré un nuevo camino en la odontología!",
+          "name": "Paula Carrera",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "No. La atención sin dolor es nuestra marca registrada: implantes, extracciones y brackets sin molestias. Es lo que más destacan nuestros pacientes, sobre todo los que venían con miedo al dentista."
+        },
+        {
+          "question": "Le tengo terror al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es algo muy común entre nuestros pacientes. Muchos llegaron con terror por malas experiencias y hoy se atienden tranquilos. El Dr. Luciano te explica todo con paciencia y te acompaña en cada paso."
+        },
+        {
+          "question": "¿Atienden los sábados y las urgencias?",
+          "answer": "Sí. Atendemos de lunes a viernes y también los sábados hasta tarde, resolviendo urgencias incluso el fin de semana. Escribinos por WhatsApp y coordinamos lo antes posible."
+        },
+        {
+          "question": "¿Quién atiende en Dentares?",
+          "answer": "Te atiende el Dr. Luciano Martinessi, en odontología general, implantes, extracciones y ortodoncia, junto a Mili y Cande en recepción, que coordinan tus turnos y te responden por WhatsApp."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Arce 867, Las Cañitas, CABA. Atendemos de lunes a viernes de 10 a 20 y los sábados de 8 a 21. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Arce 867, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie 10-20 · Sáb 08-21",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Las Cañitas, liderado por\nel Dr. Luciano Martinessi. Atención cálida y sin dolor,\ncon atención los sábados y urgencias.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Arce 867, Las Cañitas, CABA"
+            },
+            {
+              "label": "+54 9 11 4084-8411",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 10-20 · Sáb 8-21",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dentares - Consultorio Odontológico"
+    }
+  }
+}
