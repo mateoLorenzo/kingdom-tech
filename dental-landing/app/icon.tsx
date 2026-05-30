@@ -7,7 +7,9 @@ export const size = { width: 64, height: 64 };
 export const contentType = "image/png";
 
 export default async function Icon() {
-  const letter = clinic.brand.name.trim().charAt(0).toUpperCase() || "C";
+  const letter =
+    (clinic.brand.shortName ?? clinic.brand.name).trim().charAt(0).toUpperCase() ||
+    "C";
 
   const fontData = await readFile(
     join(process.cwd(), "app", "_fonts", "DMSerifDisplay-Italic.ttf")

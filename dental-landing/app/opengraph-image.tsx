@@ -8,7 +8,9 @@ export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 export default async function OpengraphImage() {
-  const letter = clinic.brand.name.trim().charAt(0).toUpperCase() || "C";
+  const letter =
+    (clinic.brand.shortName ?? clinic.brand.name).trim().charAt(0).toUpperCase() ||
+    "C";
 
   const fontData = await readFile(
     join(process.cwd(), "app", "_fonts", "DMSerifDisplay-Italic.ttf")
