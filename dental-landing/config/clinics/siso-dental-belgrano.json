@@ -1,0 +1,430 @@
+{
+  "brand": {
+    "name": "Clinica SISO",
+    "shortName": "SISO Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491122651912",
+      "defaultMessage": "Hola, quiero coordinar un turno en SISO Dental Belgrano."
+    },
+    "phoneDisplay": "+54 9 11 2265-1912",
+    "address": "Virrey del Pino 2387, Las Cañitas, CABA",
+    "hours": "Lun a Vie · 09:30hs - 20:00hs",
+    "mapQuery": "Virrey del Pino 2387, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://siso-dental-belgrano.kingdom-tech.co",
+    "title": "SISO Dental Belgrano — Expertos en Odontología | Las Cañitas",
+    "description": "Clínica odontológica en Las Cañitas con un equipo multidisciplinario de especialistas. Ortodoncia, implantes, endodoncia, estética y odontopediatría, con atención cálida, turnos ágiles y sin dolor.",
+    "ogTitle": "SISO Dental Belgrano — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Clínica odontológica en Las Cañitas con equipo multidisciplinario de especialistas. Atención cálida, turnos ágiles y sin dolor.",
+    "siteName": "SISO Dental Belgrano",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Las Cañitas con equipo multidisciplinario. Atención cálida, turnos ágiles y sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Virrey del Pino 2387",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 527
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Virrey del Pino 2387 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica en Las Cañitas con un equipo multidisciplinario\nde especialistas. Atención cálida, turnos ágiles y sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "SISO Dental",
+        "label": "Las Cañitas · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "527",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Equipo",
+          "label": "Multidisciplinario"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Todas las especialidades\n"
+        },
+        {
+          "text": "En un solo lugar",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Limpieza y blanqueamiento",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Prótesis y placas",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo multidisciplinario de especialistas en un mismo lugar: ortodoncia, implantes, endodoncia, cirugía y más. Cada paciente encuentra al profesional indicado para su caso. "
+        },
+        {
+          "text": "Atención cálida, explicaciones claras y un trato sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tu especialista\nPara cada caso",
+          "body": "Contamos con profesionales para cada necesidad y te explicamos cada procedimiento en detalle. Turnos ágiles, resolución eficiente de urgencias e instalaciones impecables y confortables."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nY sin miedo",
+          "body": "Muchos de nuestros pacientes llegan con miedo al dentista y se van tranquilos. Un trato paciente y cuidadoso, ideal para quienes vienen de malas experiencias. Por algo nos eligen cientos de pacientes."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Florencia Pipo",
+          "role": "Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Giuliano Dangelo",
+          "role": "Cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Sol Colombo",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Matías Sarno",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente experiencia. Desde que llegamos, las chicas fueron muy agradables y atentas. La doctora también fue muy profesional y amable, nos explicó todo con claridad y nos hizo sentir cómodos en todo momento. Un lugar muy recomendable.",
+          "name": "Marie C",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estuve para hacerme control y limpieza. Un genio el Dr. Giuliano, me explicó todo en detalle, como si estuviera en una clase de facultad, lo que me convenía para mi caso. Los súper recomiendo!",
+          "name": "Daniel Gonzalez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente experiencia, llegué por las reviews de Google Maps. Tenía que hacerme un tratamiento de conducto y la Dra. Florencia me salvó, fue sumamente amable y paciente. Yo que le tengo miedo al dentista confío completamente en este lugar.",
+          "name": "M. Nova Pineros",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de los odontólogos y las chicas. Buenos materiales de trabajo. Llegué con una ortodoncia empezada y terminé el resto del proceso con la Dra. Sol Colombo. ¡Una genia y súper profesional!",
+          "name": "Cielo Sofía Tafur Flores",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La atención de los profesionales es excelente. Llevé a mis hijos a hacerse un tratamiento de ortodoncia y en un año los resultados fueron increíbles. Para destacar el gran trabajo del Dr. Matías Sarno. El lugar es impecable.",
+          "name": "Pablo Giorgini",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Primera vez que voy. Súper buena la atención desde que saqué el turno hasta el consultorio. Me explicaron todo perfecto. Fui con mi hijo y lo atendieron súper bien también. Me dejaron tranquila. Gracias!",
+          "name": "Camila Tomietto",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué especialidades tienen?",
+          "answer": "Somos un equipo multidisciplinario: ortodoncia, implantes, endodoncia, cirugía, estética, odontopediatría y odontología general. Cada paciente encuentra al especialista indicado para su caso en un mismo lugar."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos con un trato paciente y cuidadoso para que la experiencia sea cómoda y sin dolor. Muchos pacientes que llegaban con miedo al dentista destacan lo tranquilos que se sintieron."
+        },
+        {
+          "question": "¿Dan turnos rápido?",
+          "answer": "Sí, los turnos ágiles y la resolución eficiente de urgencias son de lo que más destacan nuestros pacientes. Escribinos por WhatsApp y coordinamos tu atención lo antes posible."
+        },
+        {
+          "question": "¿Quiénes atienden en SISO Belgrano?",
+          "answer": "Un equipo amplio de especialistas, entre ellos los Dres. Giuliano Dangelo (cirugía), Florencia Pipo (endodoncia), Sol Colombo y Matías Sarno (ortodoncia), entre otros profesionales."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Virrey del Pino 2387, Las Cañitas, CABA. Atendemos de lunes a viernes de 9:30 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Virrey del Pino 2387, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie · 09:30hs - 20:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Las Cañitas con un equipo\nmultidisciplinario de especialistas. Atención cálida,\nturnos ágiles y sin dolor.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Virrey del Pino 2387, Las Cañitas"
+            },
+            {
+              "label": "+54 9 11 2265-1912",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 9:30-20h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "SISO Dental Belgrano"
+    }
+  }
+}
