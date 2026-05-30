@@ -1,0 +1,433 @@
+{
+  "brand": {
+    "name": "Clinica Cañitas",
+    "shortName": "Cañitas Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491157245431",
+      "defaultMessage": "Hola, quiero coordinar un turno en Cañitas Dental."
+    },
+    "phoneDisplay": "+54 9 11 5724-5431",
+    "address": "Arévalo 2915, Piso 3, Las Cañitas, CABA",
+    "hours": "Lun a Vie · 07-22hs · Sáb 11:30-14hs",
+    "mapQuery": "Arévalo 2915, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://canitas-dental.kingdom-tech.co",
+    "title": "Cañitas Dental — Expertos en Odontología | Las Cañitas, Palermo",
+    "description": "El consultorio odontológico de Las Cañitas, liderado por la Dra. Florencia Tomei y el Dr. Gonzalo Canto. Carillas y estética dental, horarios extendidos y seguimiento personalizado de cada paciente.",
+    "ogTitle": "Cañitas Dental — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "El consultorio odontológico de Las Cañitas con la Dra. Flor Tomei y el Dr. Gonzalo Canto. Carillas, estética dental y horarios extendidos.",
+    "siteName": "Cañitas Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "El consultorio odontológico de Las Cañitas. Carillas, estética dental y horarios extendidos.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Arévalo 2915, Piso 3",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5719956,
+        "lng": -58.4309212
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday"
+          ],
+          "opens": "08:30",
+          "closes": "22:00"
+        },
+        {
+          "days": [
+            "Tuesday"
+          ],
+          "opens": "08:00",
+          "closes": "22:30"
+        },
+        {
+          "days": [
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "07:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "11:30",
+          "closes": "14:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 66
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Arévalo 2915 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "El consultorio odontológico de Las Cañitas, liderado por la\nDra. Flor Tomei y el Dr. Gonzalo Canto. Carillas y estética dental.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Cañitas Dental",
+        "label": "Las Cañitas · Palermo"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "66",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Hasta 22hs",
+          "label": "Horarios amplios"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Carillas y estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Somos el consultorio odontológico de Las Cañitas: un dúo de profesionales, la Dra. Flor Tomei y el Dr. Gonzalo Canto, que te atienden personalmente. "
+        },
+        {
+          "text": "Con seguimiento de cada paciente y horarios pensados para tu rutina.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nPersonalizada",
+          "body": "Te acompañamos durante todo el tratamiento y después también: nuestros pacientes destacan que les escribimos para ver cómo siguen. Un vínculo cercano, con materiales y técnicas de primera calidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Carillas\nY estética",
+          "body": "La estética dental es nuestro foco: diseñamos sonrisas con carillas y tratamientos a medida. Tenemos horarios extendidos —algunos días hasta las 22— para que cuidarte se adapte a tu rutina."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Te atienden",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Florencia Tomei",
+          "role": "Estética dental y carillas",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Gonzalo Canto",
+          "role": "Odontología general e integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Flor es una genia y me sentí súper cómoda en su consultorio. Me realizó un procedimiento en muy poco tiempo porque vivo en el exterior, fue re eficiente, profesional y cuidadosa. Recomiendo su consultorio a todos los que me preguntan dónde me hice las carillas.",
+          "name": "Milagros Villanueva",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "De principio a fin de mi tratamiento siempre me sentí cuidada y atendida, podía consultarles cuando tenía dudas y me escribían para ver cómo estaba. Excelentes profesionales. En estos 3 años no habría otro lugar donde me hubiera querido atender.",
+          "name": "Marina Mettler",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales, súper responsables, siempre te asesoran con la verdad y lo mejor para tu salud dental. Utilizan materiales de primera calidad. La amabilidad, el respeto y la predisposición los destaco.",
+          "name": "Mabel Campagne",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente trabajo y atención. Además de profesionales, son cálidos y están en todos los detalles. Gracias al Dr. Gonzalo Canto por su trabajo y su paciencia.",
+          "name": "Paula Montoli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me resolvieron la urgencia un día sábado. Súper eficientes. Gracias, recomiendo.",
+          "name": "Graciela Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen carillas y estética dental?",
+          "answer": "Sí, es nuestro foco. La Dra. Flor Tomei diseña sonrisas con carillas y tratamientos estéticos a medida. Incluso recibimos pacientes que viven en el exterior y vuelven para hacerse las carillas con nosotros."
+        },
+        {
+          "question": "¿Qué horarios tienen?",
+          "answer": "Tenemos horarios muy amplios para que cuidarte se adapte a tu rutina: algunos días abrimos a las 7 de la mañana y otros atendemos hasta las 22. Los sábados atendemos de 11:30 a 14. Coordinamos tu turno por WhatsApp."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, resolvemos urgencias e incluso hemos atendido casos un sábado. Escribinos por WhatsApp y hacemos lo posible por atenderte lo antes posible."
+        },
+        {
+          "question": "¿Quiénes atienden en Cañitas Dental?",
+          "answer": "Te atienden personalmente los dueños del consultorio: la Dra. Florencia Tomei, con foco en estética y carillas, y el Dr. Gonzalo Canto, en odontología general e integral."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Arévalo 2915, piso 3, en Las Cañitas, CABA. Es un consultorio en altura, no en planta baja. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Arévalo 2915, Piso 3, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie · 07-22hs · Sáb 11:30-14hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "El consultorio odontológico de Las Cañitas, con la\nDra. Flor Tomei y el Dr. Gonzalo Canto. Carillas,\nestética dental y horarios extendidos.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Carillas estéticas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Arévalo 2915, Piso 3, Las Cañitas"
+            },
+            {
+              "label": "+54 9 11 5724-5431",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 07-22 · Sáb 11:30-14",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Cañitas Dental"
+    }
+  }
+}
