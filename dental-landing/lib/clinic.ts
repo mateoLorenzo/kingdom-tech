@@ -79,6 +79,7 @@ import dentalSoho from "@/config/clinics/dental-soho.json";
 import virreyDelPino from "@/config/clinics/virrey-del-pino.json";
 import lunaOdontologia from "@/config/clinics/luna-odontologia.json";
 import odontospaba from "@/config/clinics/odontospaba.json";
+import cobBaradero from "@/config/clinics/cob-baradero.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -163,6 +164,7 @@ const registry = {
   "virrey-del-pino": virreyDelPino as ClinicConfig,
   "luna-odontologia": lunaOdontologia as ClinicConfig,
   odontospaba: odontospaba as ClinicConfig,
+  "cob-baradero": cobBaradero as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

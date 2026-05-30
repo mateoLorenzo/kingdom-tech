@@ -1,0 +1,420 @@
+{
+  "brand": {
+    "name": "Clinica COB",
+    "shortName": "COB Baradero",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491156325771",
+      "defaultMessage": "Hola, quiero coordinar un turno en COB Consultorios Odontológicos."
+    },
+    "phoneDisplay": "+54 9 11 5632-5771",
+    "address": "Gorostiaga 2355, Belgrano, CABA",
+    "hours": "Lun a Vie · 08:00hs - 19:00hs",
+    "mapQuery": "Gorostiaga 2355, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cob-baradero.kingdom-tech.co",
+    "title": "COB Consultorios Odontológicos — Expertos en Odontología | Belgrano, CABA",
+    "description": "Centro odontológico en Belgrano (CABA) con más de 20 años de trayectoria, equipo amplio multi-especialidad y tecnología de última generación. Ortodoncia con alineadores invisibles, implantes, odontopediatría y más.",
+    "ogTitle": "COB Consultorios Odontológicos — Belgrano, CABA",
+    "ogDescription": "Centro odontológico en Belgrano con más de 20 años, equipo multi-especialidad y tecnología moderna. Alineadores invisibles, implantes y odontopediatría.",
+    "siteName": "COB Consultorios Odontológicos Baradero",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Belgrano con más de 20 años y tecnología de última generación.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Gorostiaga 2355",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5705887,
+        "lng": -58.4427668
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.2,
+        "count": 140
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Gorostiaga 2355 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico en Belgrano con más de 20 años y\ntecnología de última generación. Especialistas para toda la familia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "COB Odontología",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.2",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "140",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "+20",
+          "label": "Años en Belgrano"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Todas las especialidades\n"
+        },
+        {
+          "text": "En un solo lugar",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores invisibles",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes y cirugía",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Urgencias odontológicas",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Más de 20 años cuidando las sonrisas de Belgrano, con pacientes que confían en nosotros desde hace décadas. "
+        },
+        {
+          "text": "Combinamos esa experiencia con consultorios modernos y tecnología de última generación.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Experiencia\nY tecnología",
+          "body": "Un equipo amplio de especialistas en ortodoncia, implantes, odontopediatría, endodoncia y prótesis, con instrumental de última generación. Cada paciente encuentra a su profesional de cabecera."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Para toda\nLa familia",
+          "body": "Atendemos a familias enteras, de chicos a adultos mayores. Nuestra ortodoncia con alineadores invisibles es uno de nuestros tratamientos insignia, con resultados que superan las expectativas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Silvina De Angelis",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Sergio Balquin",
+          "role": "Cirugía e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Daniela Ciuffardi",
+          "role": "Odontología integral e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Yataco",
+          "role": "Especialista",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Pacientes que\n"
+        },
+        {
+          "text": "Confían hace años",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Recomendado 100%. Excelentes instalaciones, instrumental súper moderno y muy buena atención en la recepción. La calidad de los profesionales es premium: la Dra. Hernández y el Dr. Yataco son brillantes en sus especialidades.",
+          "name": "Gonzalo Arias",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace más de 20 años que me atiendo en este lugar, siempre con gran profesionalismo y excelente atención. Los tratamientos de ortodoncia son increíbles, con mejores resultados de lo esperado. Sigo confiando en ellos.",
+          "name": "Ro Amado",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper recomendable. Fui con mi hija de 6 años y la Dra. De Angelis enseguida se dio cuenta de que, más allá del problema en la mordida, tenía un problema en la forma de respirar. Con solo un año de aparatos cambió todo.",
+          "name": "Cecilia Mugica",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención del Dr. Sergio Balquin. Hicimos una cirugía de implante. Sumamente cálido, comprensivo, profesional, preciso y correcto. Súper recomendable.",
+          "name": "Mariela Rabyj",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales, calidad humana y mucho profesionalismo. Cuentan con la mejor tecnología en ortodoncia, lo recomiendo sin dudarlo. Toda mi familia se atiende ahí.",
+          "name": "Anabella Desimoni",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Dónde están exactamente?",
+          "answer": "Estamos en Gorostiaga 2355, en el barrio de Belgrano, CABA (no en la localidad de Baradero). Una ubicación cómoda y accesible en plena zona norte de la Ciudad."
+        },
+        {
+          "question": "¿Hacen ortodoncia con alineadores invisibles?",
+          "answer": "Sí, es uno de nuestros tratamientos insignia. La Dra. Silvina De Angelis lidera la ortodoncia con alineadores invisibles, con resultados que nuestros pacientes destacan especialmente."
+        },
+        {
+          "question": "¿Atienden a niños y a toda la familia?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos mayores. En odontopediatría hacemos una detección integral que va más allá de la mordida."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, resolvemos urgencias odontológicas. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Cuáles son los horarios?",
+          "answer": "Atendemos de lunes a viernes de 8 a 19. Podés ver la ubicación exacta en el mapa al final de la página y coordinar tu turno por WhatsApp."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Gorostiaga 2355, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 19:00hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en Belgrano, CABA, con más\nde 20 años de trayectoria, equipo multi-especialidad\ny tecnología de última generación.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Alineadores invisibles",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Gorostiaga 2355, Belgrano, CABA"
+            },
+            {
+              "label": "+54 9 11 5632-5771",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 8-19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "COB Consultorios Odontológicos Baradero"
+    }
+  }
+}
