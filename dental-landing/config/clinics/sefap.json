@@ -1,0 +1,412 @@
+{
+  "brand": {
+    "name": "Clinica SEFAP",
+    "shortName": "SEFAP Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491130042528",
+      "defaultMessage": "Hola, quiero coordinar un turno en SEFAP Odontología."
+    },
+    "phoneDisplay": "+54 9 11 3004-2528",
+    "address": "Av. Elcano 3346, Colegiales, CABA",
+    "hours": "Lun a Vie · 08:00hs - 20:00hs",
+    "mapQuery": "Av. Elcano 3346, Colegiales, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://sefap.kingdom-tech.co",
+    "title": "SEFAP Odontología — Expertos en Odontología | Colegiales, CABA",
+    "description": "Odontología personalizada en Colegiales con la Dra. Lucía Noailles. Atención cálida, sin apuros y con enfoque pedagógico: te explicamos cada procedimiento y te ayudamos a perderle el miedo al dentista.",
+    "ogTitle": "SEFAP Odontología — Expertos en Odontología | Colegiales",
+    "ogDescription": "Odontología personalizada en Colegiales con la Dra. Lucía Noailles. Atención cálida, sin apuros y enfoque pedagógico.",
+    "siteName": "SEFAP Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología personalizada en Colegiales con la Dra. Lucía Noailles. Sin apuros y con enfoque pedagógico.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Elcano 3346",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5751007,
+        "lng": -58.4597086
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 15
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Elcano 3346 · Colegiales · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología personalizada en Colegiales, con la Dra. Lucía Noailles.\nTe explicamos todo, sin apuros y sin miedo.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "SEFAP Odontología",
+        "label": "Dra. Lucía Noailles · Colegiales"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "Sin apuro",
+          "label": "Atención personal"
+        },
+        {
+          "value": "Colegiales",
+          "label": "CABA"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general y preventiva",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis e implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "En SEFAP no te despachamos rápido. La Dra. Lucía Noailles te dedica el tiempo que necesitás, con una atención cálida, detallista y personalizada. "
+        },
+        {
+          "text": "Te explicamos cada paso y te enseñamos a cuidar tu salud bucal.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nSin apuros",
+          "body": "Cada paciente recibe una atención individualizada, con sesiones en las que te explicamos en detalle cada procedimiento. Una experiencia muy distinta a la de los consultorios de alta rotación."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Acompañamos con paciencia y calidez a quienes llegan con miedo a la consulta. Además, te enseñamos hábitos preventivos para que tu salud bucal mejore visita tras visita."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a\n"
+        },
+        {
+          "text": "Tu odontóloga",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Lucía Noailles",
+          "role": "Odontología general, preventiva y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Se toma el tiempo para dar una atención cálida, individualizada y profesional. Fue muy superior a los odontólogos con los que me venía tratando, que me despachaban rápido. Hoy es mi odontóloga de cabecera.",
+          "name": "Sebastian Perez Pandolfo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me encanta cómo me atendieron. Muy cuidadosos. Me ayudaron mucho a superar mi miedo a las visitas odontológicas. Súper agradecida. El consultorio es muy moderno y muy limpio.",
+          "name": "Juguemos a Cantar",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, súper detallista en la evaluación y en los tratamientos, sean arreglos o estética, además de la gran calidez humana. Recomiendo 100%.",
+          "name": "Carolina Hernandorena",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Una genia Lucía. Muy profesional y también pedagógica para la mejora de hábitos.",
+          "name": "Gaspar de Erausquin",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. La Dra. Lucía tiene mucha paciencia, me trató súper bien y entendió rápidamente lo que buscaba. Se tomó el tiempo para explicarme detalladamente todo el procedimiento.",
+          "name": "Ana Nuñez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Muy personalizada y sin apuros. Te dedicamos el tiempo que necesitás, hacemos una evaluación detallada y te explicamos cada paso del tratamiento. Nada de consultas exprés."
+        },
+        {
+          "question": "Tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es algo que hacemos a diario. Acompañamos con paciencia y calidez a quienes llegan con miedo, para que la experiencia sea tranquila. Muchos pacientes lograron superar su fobia con nosotros."
+        },
+        {
+          "question": "¿Quién atiende en SEFAP?",
+          "answer": "Te atiende la Dra. Lucía Noailles, con un enfoque general, preventivo y estético. Sus pacientes la destacan por la dedicación, la calidez y por enseñar hábitos de cuidado."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Tienen Instagram?",
+          "answer": "Sí, podés conocernos en Instagram como @sefap_odontologia, donde compartimos consejos y novedades del consultorio."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Elcano 3346, Colegiales, CABA. Atendemos de lunes a viernes de 8 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Elcano 3346, Colegiales, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología personalizada en Colegiales, con la\nDra. Lucía Noailles. Atención cálida, sin apuros\ny con enfoque pedagógico.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/sefap_odontologia/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prevención",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Elcano 3346, Colegiales, CABA"
+            },
+            {
+              "label": "+54 9 11 3004-2528",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@sefap_odontologia",
+              "href": "https://www.instagram.com/sefap_odontologia/",
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 8-20h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "SEFAP Odontología"
+    }
+  }
+}
