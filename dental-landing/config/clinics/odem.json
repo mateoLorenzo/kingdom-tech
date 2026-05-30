@@ -1,0 +1,427 @@
+{
+  "brand": {
+    "name": "Clinica ODEM",
+    "shortName": "ODEM",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541170796336",
+      "defaultMessage": "Hola, quiero coordinar un turno en Clínicas ODEM."
+    },
+    "phoneDisplay": "(011) 7079-6336",
+    "address": "Lavalle 1718, Centro, CABA",
+    "hours": "Guardia abierta las 24 horas, todos los días",
+    "mapQuery": "Lavalle 1718, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odem.kingdom-tech.co",
+    "title": "Clínicas ODEM — Expertos en Odontología | Guardia 24h en el centro de CABA",
+    "description": "Clínica odontológica en pleno centro porteño con guardia abierta las 24 horas, todos los días, y un equipo amplio de especialistas. Urgencias, implantes, ortodoncia, odontopediatría y prótesis. Obras sociales y PAMI.",
+    "ogTitle": "Clínicas ODEM — Guardia odontológica 24h en CABA",
+    "ogDescription": "Clínica odontológica en el centro de CABA con guardia 24h y un equipo amplio de especialistas. Urgencias, implantes, ortodoncia y más. Obras sociales y PAMI.",
+    "siteName": "Clínicas ODEM de Odontología Personalizada",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en el centro de CABA con guardia 24h y equipo amplio de especialistas. Obras sociales y PAMI.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Lavalle 1718",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1019",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Lavalle 1718 · Centro · CABA · Guardia 24h",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica en pleno centro porteño con guardia\nabierta las 24 horas y un equipo amplio de especialistas.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Clínicas ODEM",
+        "label": "Guardia 24h · Centro CABA"
+      },
+      "stats": [
+        {
+          "value": "24 hs",
+          "label": "Guardia odontológica"
+        },
+        {
+          "value": "PAMI",
+          "label": "Y obras sociales"
+        },
+        {
+          "value": "Equipo",
+          "label": "Amplio de especialistas"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Todas las especialidades\n"
+        },
+        {
+          "text": "En un solo lugar",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Guardia y urgencias 24h",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica grande en pleno centro porteño con algo que pocas tienen: guardia odontológica abierta las 24 horas, todos los días. "
+        },
+        {
+          "text": "Un equipo amplio de especialistas para resolver tu urgencia o tu tratamiento, a cualquier hora.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Guardia\nLas 24 horas",
+          "body": "Tengas un dolor a la madrugada o una urgencia un domingo, te atendemos. Nuestra guardia funciona las 24 horas, todos los días, con atención inmediata y sin dolor para resolver tu problema cuanto antes."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo\nDe especialistas",
+          "body": "Cirugía, implantes, ortodoncia, odontopediatría, prótesis y más, con un staff amplio de profesionales. Trabajamos con obras sociales y PAMI, y una recepción ágil que te ayuda a coordinar el turno."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Luciana Romano Saavedra",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Carlos Villanueva",
+          "role": "Guardia y urgencias",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Verónica Leisz",
+          "role": "Cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Valla",
+          "role": "Implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención de la odontopediatra Luciana Romano. Muy amable, paciente y dedicada con los niños. Se toma el tiempo de explicar todo y genera mucha confianza en los chicos. La súper recomiendo.",
+          "name": "Roxana Ramirez Ríos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendí en ODEM; una maravilla de atención. Las instalaciones impecables y el personal administrativo muy atento. Tuve la suerte de atenderme con la Dra. Camila Arana, una excelente profesional.",
+          "name": "Daniel Filipic",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui de urgencia a la guardia durante la madrugada por una caries que empezó a dolerme; la atención fue casi inmediata y en cuestión de 15 minutos la doctora me había resuelto la urgencia.",
+          "name": "Federico",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui a una extracción con la Dra. Alicia Puricelli y me atendió súper bien y con toda la suavidad del mundo. Llegué con desconfianza por malas experiencias previas y me fui contenta con su trato y profesionalismo.",
+          "name": "Antonella Ariani",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención profesional y humana. Caímos un domingo súper tarde y Verónica nos atendió de lujo, con mucha paciencia y claridad para explicar un tema complejo. Jamás imaginé que en una guardia resolvieran así.",
+          "name": "Juan Carlos Bejarano",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me dieron el turno en la misma semana. La recepción me brindó horarios acordes a los de mi trabajo. Las buenas atenciones empiezan desde el minuto uno.",
+          "name": "Sebastian Aimonetti",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿La guardia atiende las 24 horas?",
+          "answer": "Sí. Nuestra guardia odontológica funciona las 24 horas, todos los días del año. Si tenés dolor o una urgencia a cualquier hora, podés venir y te atendemos."
+        },
+        {
+          "question": "¿Atienden obras sociales y PAMI?",
+          "answer": "Sí, trabajamos con obras sociales y PAMI, además de consultas particulares. Consultanos por la cobertura puntual de la tuya y el coseguro correspondiente."
+        },
+        {
+          "question": "¿Atienden urgencias sin turno?",
+          "answer": "Sí, la guardia recibe urgencias sin turno previo. Muchos pacientes destacan que les resolvieron el dolor en pocos minutos, incluso de madrugada o un domingo."
+        },
+        {
+          "question": "¿Qué especialidades tienen?",
+          "answer": "Somos un equipo amplio: guardia, cirugía, implantes, ortodoncia, odontopediatría, endodoncia, prótesis y estética. Resolvés todo en un mismo lugar, en pleno centro de CABA."
+        },
+        {
+          "question": "¿Cómo saco un turno?",
+          "answer": "Podés escribirnos por WhatsApp o comunicarte con nuestra recepción para coordinar tu turno. Te ayudamos a encontrar el horario que mejor se adapte a vos."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Lavalle 1718, en pleno centro de CABA (zona Tribunales). Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos tu turno.\nGuardia abierta las 24 horas para tus urgencias.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Lavalle 1718, Centro, CABA",
+      "hoursLine": "Guardia abierta las 24 horas, todos los días",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en el centro de CABA con\nguardia abierta las 24 horas y un equipo amplio\nde especialistas. Obras sociales y PAMI.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Guardia 24h",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Lavalle 1718, Centro, CABA"
+            },
+            {
+              "label": "(011) 7079-6336",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Guardia 24 horas",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínicas ODEM de Odontología Personalizada"
+    }
+  }
+}
