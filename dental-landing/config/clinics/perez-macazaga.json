@@ -1,0 +1,426 @@
+{
+  "brand": {
+    "name": "Clinica Macazaga",
+    "shortName": "Pérez Macazaga",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491162277052",
+      "defaultMessage": "Hola, quiero coordinar una consulta con el Dr. Julián Pérez Macazaga."
+    },
+    "phoneDisplay": "+54 9 11 6227-7052",
+    "address": "Palpa 3491, Belgrano R, CABA",
+    "hours": "Lun a Jue 09:30-19:00 · Vie 09:30-18:30",
+    "mapQuery": "Palpa 3491, Belgrano R, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://perez-macazaga.kingdom-tech.co",
+    "title": "Pérez Macazaga Odontología Integral — Expertos en Odontología | Belgrano R",
+    "description": "Odontología integral en Belgrano R liderada por el Dr. Julián Pérez Macazaga. Implantes, carillas, prótesis y tratamiento de bruxismo con diagnósticos detallados y soluciones para casos que otros no pudieron resolver.",
+    "ogTitle": "Pérez Macazaga Odontología Integral — Belgrano R",
+    "ogDescription": "Odontología integral con el Dr. Julián Pérez Macazaga en Belgrano R. Implantes, carillas, prótesis y bruxismo. Resolvemos lo que otros no pudieron.",
+    "siteName": "Pérez Macazaga Odontología Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Belgrano R con el Dr. Julián Pérez Macazaga. Implantes, carillas, prótesis y bruxismo.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Palpa 3491",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.5795769,
+        "lng": -58.452988
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "09:30",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "18:30"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 60
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Palpa 3491 · Belgrano R · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en Belgrano R, liderada por el\nDr. Julián Pérez Macazaga. Resolvemos lo que otros no pudieron.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Pérez Macazaga",
+        "label": "Dr. Julián Pérez Macazaga · Belgrano R"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "60",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Integral",
+          "label": "Plan a tu medida"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos pensados\n"
+        },
+        {
+          "text": "Para resolver tu caso",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Carillas y diseño de sonrisa",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Prótesis sobre implantes",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Tratamiento de bruxismo",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontología integral",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un consultorio liderado por el Dr. Julián Pérez Macazaga, con foco en odontología integral planificada y diagnósticos detallados. "
+        },
+        {
+          "text": "Resolvemos con creatividad y honestidad lo que otros profesionales no pudieron.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Resolvemos\nLo que otros no",
+          "body": "Recibimos pacientes que arrastraban problemas durante años y, con un diagnóstico preciso y un protocolo integral, encontramos la solución. Creatividad, profesionalismo y honestidad terapéutica en cada caso."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Odontología\nIntegral planificada",
+          "body": "Manejo experto de casos complejos: implantes, carillas estéticas, prótesis sobre implantes y tratamiento del bruxismo. Un equipo sólido y un trato cálido que acompaña en cada etapa."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Macarena Bujan",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Julián Pérez Macazaga",
+          "role": "Director · Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Andrea",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Joaquín",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "El Dr. Julián Pérez Macazaga ha logrado mejorar mi boca de manera total. Arrastré durante años el mismo problema y, de pronto, en solo dos sesiones y con creatividad y profesionalismo, solucionó lo que nadie pudo antes.",
+          "name": "Adriana Beatriz Latashen",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendí con el Dr. Julián, destaco el profesionalismo y calidad humana. Venía de malas experiencias sobre todo con el tratamiento del bruxismo que me tenía muy preocupada, y el doc me evaluó y me armó un protocolo integral.",
+          "name": "Antonela Araujo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente trabajo. Nunca estuve más confiado con un consultorio dental. Me hice un arreglo y volví la semana siguiente por un blanqueamiento. Los precios fueron muy razonables y el dentista, muy amable.",
+          "name": "Omar G",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Un genio de la odontología. Me cambió la vida, la forma de comer. No podría haber elegido mejor profesional. Estamos en tratamiento, me puso dientes nuevos. Felicitaciones Julián y a mí por estar en las mejores manos.",
+          "name": "Monica Silvia Méndez Allerhand",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención de Julián. Me dio un primer turno súper rápido y después de explicarme todo pedí un segundo turno para solucionar mi situación. Mucha calidez y atención en el trato antes, durante y después del proceso.",
+          "name": "Nacho Franco",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué es la odontología integral?",
+          "answer": "Es un abordaje completo de tu salud bucal: en lugar de resolver una pieza aislada, planificamos un tratamiento que contempla toda tu boca. Hacemos un diagnóstico detallado y te proponemos un plan a tu medida."
+        },
+        {
+          "question": "¿Pueden resolver un caso que otros no pudieron?",
+          "answer": "Es una de las cosas que más nos agradecen. Recibimos pacientes con problemas históricos no resueltos y, con creatividad y un protocolo integral, en muchos casos logramos la solución que buscaban hace años."
+        },
+        {
+          "question": "¿Tratan el bruxismo?",
+          "answer": "Sí. Contamos con un protocolo integral para el bruxismo: evaluamos tu caso, identificamos las causas y diseñamos un plan que protege tus piezas y mejora tu descanso y tu calidad de vida."
+        },
+        {
+          "question": "¿Quiénes atienden en el consultorio?",
+          "answer": "El consultorio está liderado por el Dr. Julián Pérez Macazaga, junto a la Dra. Macarena Bujan y un equipo de profesionales. Un equipo sólido con foco en la odontología integral y el trato humano."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Antes de tu primera consulta escribinos por WhatsApp y consultá tu cobertura puntual. Coordinamos la mejor opción para tu caso."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Palpa 3491, Belgrano R, CABA. Atendemos de lunes a jueves de 9:30 a 19:00 y los viernes de 9:30 a 18:30. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Palpa 3491, Belgrano R, CABA",
+      "hoursLine": "Lun a Jue 09:30-19:00 · Vie 09:30-18:30",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología integral en Belgrano R, liderada por\nel Dr. Julián Pérez Macazaga. Resolvemos\nlo que otros no pudieron.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas y estética",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis",
+              "href": "#servicios"
+            },
+            {
+              "label": "Bruxismo",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Palpa 3491, Belgrano R, CABA"
+            },
+            {
+              "label": "+54 9 11 6227-7052",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 9:30–19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Pérez Macazaga Odontología Integral"
+    }
+  }
+}
