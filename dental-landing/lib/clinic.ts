@@ -94,6 +94,7 @@ import dentares from "@/config/clinics/dentares.json";
 import odem from "@/config/clinics/odem.json";
 import belgranoStudioDental from "@/config/clinics/belgrano-studio-dental.json";
 import micaelaLuna from "@/config/clinics/micaela-luna.json";
+import bassOdontologia from "@/config/clinics/bass-odontologia.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -193,6 +194,7 @@ const registry = {
   odem: odem as ClinicConfig,
   "belgrano-studio-dental": belgranoStudioDental as ClinicConfig,
   "micaela-luna": micaelaLuna as ClinicConfig,
+  "bass-odontologia": bassOdontologia as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

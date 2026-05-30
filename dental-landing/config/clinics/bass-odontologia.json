@@ -1,0 +1,423 @@
+{
+  "brand": {
+    "name": "Clinica Bass",
+    "shortName": "Bass Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491125081898",
+      "defaultMessage": "Hola, quiero coordinar un turno en Bass Odontología."
+    },
+    "phoneDisplay": "+54 11 2508-1898",
+    "address": "Vuelta de Obligado 1947, Piso 8, Belgrano, CABA",
+    "hours": "Lun a Vie 09-20 · Sáb 09-16",
+    "mapQuery": "Vuelta de Obligado 1947, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://bass-odontologia.kingdom-tech.co",
+    "title": "Bass Odontología — Expertos en Odontología | Belgrano, CABA",
+    "description": "Clínica odontológica moderna en Belgrano que combina ciencia y arte. Estética dental, carillas, ortodoncia, alineadores e implantes, con tratamientos sin dolor, precios accesibles y consulta inicial sin cargo.",
+    "ogTitle": "Bass Odontología — Expertos en Odontología | Belgrano",
+    "ogDescription": "Clínica odontológica moderna en Belgrano. Estética, carillas, ortodoncia e implantes, sin dolor y con precios accesibles. Consulta inicial sin cargo.",
+    "siteName": "Bass Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica moderna en Belgrano. Estética, ortodoncia e implantes sin dolor, con precios accesibles.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Vuelta de Obligado 1947, Piso 8 A",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 292
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Vuelta de Obligado 1947 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica moderna en Belgrano que combina ciencia\ny arte. Estética, ortodoncia e implantes, sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Bass Odontología",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "292",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Y sin esperas"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Estética dental y carillas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia y alineadores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Limpieza y profilaxis",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica moderna en Belgrano donde todo está pensado con cuidado: desde la recepción y el ambiente hasta el trabajo de los profesionales, que combinan ciencia y arte. "
+        },
+        {
+          "text": "Tratamientos sin dolor, precios accesibles y una atención cálida.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Ciencia\nY arte",
+          "body": "Estética, ortodoncia, alineadores invisibles, implantes y carillas de porcelana con resultados que devuelven la sonrisa. Manejamos con paciencia a quienes le tienen miedo al dentista, en un ambiente impecable y moderno."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Accesible\nY sin esperas",
+          "body": "La primera consulta es sin cargo y trabajamos con precios accesibles y pago en cuotas. Turnos con poca espera y horarios que se respetan. Coordinás todo por WhatsApp, con respuesta ágil de nuestra recepción."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Sol Vidal",
+          "role": "Odontología estética y restauradora",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Alejandro Veroli",
+          "role": "Implantes y cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Belén Vidal",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Una excelente atención en Bass Belgrano. Calidez y profesionalismo. Me atendí con las Dras. Luz y Sol. Los arreglos quedaron impecables y todo el tratamiento transcurrió sin dolor. Combinaron ciencia y arte para que mi sonrisa volviera a lucir impecable.",
+          "name": "Lidia Barugel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Todo en Bass es excelente y está pensado con cuidado. Desde las chicas de recepción que son amorosas, el perfume, la limpieza y ni hablar de las profesionales. Sol es simplemente excelente, detallista y profesional.",
+          "name": "Daniela Sak",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente atención! Son súper profesionales, puntuales y atentos. El lugar es impecable, moderno y con un ambiente muy agradable. Me sentí cuidada desde el primer momento. ¡Gracias por devolverme la sonrisa!",
+          "name": "Adriana Rosselli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Recomiendo MUCHO Bass Odontología. Un lugar hermoso, higiénico, con muy buen ambiente y una atención sin igual. El tratamiento nunca se sintió invasivo ni doloroso y la calidad profesional es impresionante.",
+          "name": "Axel Rubió",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La mejor decisión de este año fue elegir a Bass. Trabajaron durante 10 meses para hacerme implantes, coronas y carillas de porcelana. Excelente trabajo de Sol y Ale y demás equipo. Agradezco la paciencia, la dedicación y el amor.",
+          "name": "Julieta Perlan",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estaba de vacaciones en Buenos Aires y necesitaba ver a un dentista con urgencia. Su agenda estaba completa pero igual me dieron un turno y me atendieron. Fueron muy cálidos, acogedores y profesionales. Recomiendo Bass sin dudarlo.",
+          "name": "Jente Witziers",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿La primera consulta tiene costo?",
+          "answer": "La primera consulta es sin cargo: te hacemos una evaluación, te explicamos las opciones y te damos un presupuesto claro antes de avanzar con cualquier tratamiento."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "No. Nuestros pacientes destacan que los tratamientos nunca se sienten invasivos ni dolorosos. Manejamos con paciencia y cuidado a quienes llegan con miedo o ansiedad al dentista."
+        },
+        {
+          "question": "¿Hacen ortodoncia y alineadores invisibles?",
+          "answer": "Sí. La Dra. Belén Vidal lidera los tratamientos de ortodoncia y alineadores invisibles, con un acompañamiento cercano y resultados que nuestros pacientes destacan."
+        },
+        {
+          "question": "¿Quiénes atienden en Bass?",
+          "answer": "Un equipo amplio de especialistas, entre ellos la Dra. Sol Vidal (estética), la Dra. Belén Vidal (ortodoncia) y el Dr. Alejandro Veroli (implantes y cirugía), además de una recepción muy atenta."
+        },
+        {
+          "question": "¿Tienen precios accesibles y cuotas?",
+          "answer": "Sí. Trabajamos con precios accesibles y opciones de pago en cuotas con tarjeta. Lo coordinamos en la consulta según el tratamiento que necesites."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Vuelta de Obligado 1947, piso 8, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 20 y los sábados de 9 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta sin cargo.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Vuelta de Obligado 1947, Piso 8, Belgrano, CABA",
+      "hoursLine": "Lun a Vie 09-20 · Sáb 09-16",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica moderna en Belgrano que combina\nciencia y arte. Estética, ortodoncia e implantes,\nsin dolor y con precios accesibles.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética y carillas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y prótesis",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Vuelta de Obligado 1947, Piso 8, Belgrano"
+            },
+            {
+              "label": "+54 11 2508-1898",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 9-20 · Sáb 9-16",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Bass Odontología"
+    }
+  }
+}
