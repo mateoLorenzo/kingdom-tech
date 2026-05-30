@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Button } from "@/components/Button";
-import { clinic, whatsappUrl } from "@/lib/clinic";
+import { clinic, ctaUrl } from "@/lib/clinic";
 import { dmSerifDisplay } from "@/app/fonts";
 import type { HeroStat as HeroStatType } from "@/config/types";
 
@@ -56,7 +56,7 @@ export function Hero() {
             style={{ animationDelay: "460ms" }}
           >
             <Button
-              href={whatsappUrl()}
+              href={ctaUrl()}
               target="_blank"
               rel="noopener noreferrer"
             >

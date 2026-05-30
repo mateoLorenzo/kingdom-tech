@@ -133,6 +133,7 @@ export type ClinicConfig = {
     text: string;
   };
   contact: {
+    mode?: "whatsapp" | "phone";
     whatsapp: {
       phone: string;
       defaultMessage: string;

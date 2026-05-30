@@ -1,7 +1,7 @@
 import { Button } from "@/components/Button";
 import { Reveal } from "@/components/Reveal";
 import { RevealWords } from "@/components/RevealWords";
-import { clinic, whatsappUrl } from "@/lib/clinic";
+import { clinic, ctaUrl } from "@/lib/clinic";
 import { dmSerifDisplay } from "@/app/fonts";
 import { toRevealSegments } from "@/lib/accentSegments";
 
@@ -38,7 +38,7 @@ export function ContactCta() {
             </Reveal>
             <Reveal delay={620}>
               <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start justify-center">
-                <Button href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
+                <Button href={ctaUrl()} target="_blank" rel="noopener noreferrer">
                   {contactCta.ctaLabel}
                 </Button>
                 <div className="text-sm text-brand-text/70 text-center sm:text-left">

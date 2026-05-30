@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { Button } from "./Button";
 import { BrandLogo } from "./BrandLogo";
-import { clinic, whatsappUrl, resolveHref } from "@/lib/clinic";
+import { clinic, ctaUrl, resolveHref } from "@/lib/clinic";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -40,7 +40,7 @@ export function Header() {
           ))}
         </nav>
 
-        <Button href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
+        <Button href={ctaUrl()} target="_blank" rel="noopener noreferrer">
           {clinic.cta.contactLabel}
         </Button>
       </div>

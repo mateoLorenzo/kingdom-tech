@@ -1,17 +1,41 @@
-import { whatsappUrl } from "@/lib/whatsapp";
+import { ctaUrl, usesWhatsapp } from "@/lib/clinic";
 
 // `raised` lifts the FAB on mobile so it clears the disclaimer banner while it
 // is shown; on desktop the banner is centered and never overlaps the FAB.
+// When the clinic doesn't use WhatsApp (`contact.mode === "phone"`), the FAB
+// becomes a call button (phone icon + tel link) instead.
 export function WhatsAppFab({ raised = false }: { raised?: boolean }) {
+  const baseClass = `animate-hero-fade-up fixed right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full text-white shadow-lg shadow-black/20 transition-[transform,bottom] duration-300 ease-out hover:scale-105 active:scale-95 lg:bottom-8 lg:right-8 lg:h-12 lg:w-12 ${
+    raised ? "bottom-32" : "bottom-6"
+  }`;
+
+  if (!usesWhatsapp) {
+    return (
+      <a
+        href={ctaUrl()}
+        aria-label="Llamar al consultorio"
+        className={`${baseClass} bg-brand-accent`}
+        style={{ animationDelay: "900ms" }}
+      >
+        <svg
+          viewBox="0 0 24 24"
+          className="h-5 w-5 lg:h-6 lg:w-6"
+          fill="currentColor"
+          aria-hidden="true"
+        >
+          <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" />
+        </svg>
+      </a>
+    );
+  }
+
   return (
     <a
-      href={whatsappUrl()}
+      href={ctaUrl()}
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Contactar por WhatsApp"
-      className={`animate-hero-fade-up fixed right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg shadow-black/20 transition-[transform,bottom] duration-300 ease-out hover:scale-105 active:scale-95 lg:bottom-8 lg:right-8 lg:h-12 lg:w-12 ${
-        raised ? "bottom-32" : "bottom-6"
-      }`}
+      className={`${baseClass} bg-[#25D366]`}
       style={{ animationDelay: "900ms" }}
     >
       <svg

@@ -80,6 +80,7 @@ import virreyDelPino from "@/config/clinics/virrey-del-pino.json";
 import lunaOdontologia from "@/config/clinics/luna-odontologia.json";
 import odontospaba from "@/config/clinics/odontospaba.json";
 import cobBaradero from "@/config/clinics/cob-baradero.json";
+import opat from "@/config/clinics/opat.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -165,6 +166,7 @@ const registry = {
   "luna-odontologia": lunaOdontologia as ClinicConfig,
   odontospaba: odontospaba as ClinicConfig,
   "cob-baradero": cobBaradero as ClinicConfig,
+  opat: opat as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;
@@ -185,10 +187,22 @@ export function whatsappUrl(message?: string): string {
   return `https://wa.me/${phone}?text=${encodeURIComponent(text)}`;
 }
 
+// Primary CTA URL. Defaults to WhatsApp; clinics with `contact.mode === "phone"`
+// (e.g. they explicitly don't use WhatsApp) fall back to a `tel:` link built
+// from `contact.whatsapp.phone`.
+export function ctaUrl(message?: string): string {
+  if (clinic.contact.mode === "phone") {
+    return `tel:+${clinic.contact.whatsapp.phone}`;
+  }
+  return whatsappUrl(message);
+}
+
+export const usesWhatsapp = clinic.contact.mode !== "phone";
+
 export function resolveHref(link: {
   href?: string;
   whatsapp?: boolean;
 }): string {
-  if (link.whatsapp) return whatsappUrl();
+  if (link.whatsapp) return ctaUrl();
   return link.href ?? "#";
 }
