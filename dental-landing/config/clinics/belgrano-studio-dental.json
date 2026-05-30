@@ -1,0 +1,437 @@
+{
+  "brand": {
+    "name": "Clinica Belgrano",
+    "shortName": "Belgrano Studio Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491125783078",
+      "defaultMessage": "Hola, quiero coordinar un turno en Belgrano Studio Dental."
+    },
+    "phoneDisplay": "+54 9 11 2578-3078",
+    "address": "Zapiola 1595, Las Cañitas, CABA",
+    "hours": "Lun a Vie 10-19 · Sáb 09-13",
+    "mapQuery": "Zapiola 1595, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://belgrano-studio-dental.kingdom-tech.co",
+    "title": "Belgrano Studio Dental — Expertos en Odontología | Las Cañitas",
+    "description": "Estudio dental integral en Las Cañitas con un equipo multidisciplinario y un trato cálido que te saca el miedo al dentista. Implantes, estética, odontopediatría, endodoncia y planes de pago flexibles.",
+    "ogTitle": "Belgrano Studio Dental — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Estudio dental integral en Las Cañitas con equipo multidisciplinario y trato cálido. Implantes, estética, odontopediatría y planes de pago flexibles.",
+    "siteName": "Belgrano Studio Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Estudio dental integral en Las Cañitas con equipo multidisciplinario y un trato cálido que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Zapiola 1595",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "13:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 215
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Zapiola 1595 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Estudio dental integral en Las Cañitas, con un equipo cálido\nque te saca el miedo al dentista. Implantes, estética y más.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Belgrano Studio Dental",
+        "label": "Las Cañitas · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "215",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Equipo",
+          "label": "Multidisciplinario"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Todas las especialidades\n"
+        },
+        {
+          "text": "En un solo lugar",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes e injertos",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Estética dental y coronas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un estudio dental integral en Las Cañitas con un equipo multidisciplinario y un trato cálido que cuida cada detalle, desde la recepción hasta el consultorio. "
+        },
+        {
+          "text": "Convertimos a pacientes que le tenían miedo al dentista en habituales.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Muchos pacientes llegan con miedo por malas experiencias y vuelven a sus controles tranquilos. Te explicamos cada paso, te acompañamos en el seguimiento y hacemos que la consulta sea una experiencia cálida y cómoda."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo\nIntegral",
+          "body": "Implantes, estética, odontopediatría, endodoncia, cirugía y más, con un equipo de especialistas y planes de pago flexibles adaptados a vos. Coordinás tu turno por WhatsApp con respuesta ágil."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Paola Aquino",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Alejandro Rangel",
+          "role": "Director · Odontología general e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Josefina Ansa",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Martín",
+          "role": "Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "¡Mejor clínica dental de Buenos Aires! Todas las chicas de atención y recepción siempre muy amables y con toda la paciencia del mundo, y la Dra. maravillosa y eficiente que resolvió todos mis problemas. ¡No la cambiaría por ninguna otra!",
+          "name": "Gabrielle Oliveira",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Trabajo realizado considerando mucho los detalles. Altamente recomendado este lugar para todo tipo de intervención con implantes, agregado de hueso, coronas y trabajo de estética bucal.",
+          "name": "Eli Bek",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Desde el turno por WhatsApp, súper recomendables. Las chicas de recepción muy amables y la doctora se tomó el tiempo para explicarle a mi nena cada cosa que iba a realizarse.",
+          "name": "Carina Delpino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Yo nunca me cuidé los dientes y el Dr. Alejandro me salvó más del 80% de mi dentadura. La atención es espectacular y pudieron adaptar los pagos de mi tratamiento para que me sea más liviano el gasto. Recomendadísimo.",
+          "name": "Martin Fontana",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención es excelente y Paola es la mejor odontopediatra que conocí en mi vida. Mi hija le tenía terror al torno y ahora me pide que la lleve.",
+          "name": "María Belén Tula",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Un lujo la atención y el profesionalismo! El Dr. Alejandro pudo darme un diagnóstico certero y la solución a un problema que tenía hace dos años y que 4 médicos no consiguieron diagnosticar.",
+          "name": "Maria Petit",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es algo que hacemos a diario. Muchos pacientes llegaron con miedo por malas experiencias y hoy vienen tranquilos a sus controles. Te explicamos todo paso a paso y te acompañamos en cada etapa."
+        },
+        {
+          "question": "¿Ofrecen planes de pago?",
+          "answer": "Sí. Adaptamos los pagos de tu tratamiento para que el gasto sea más liviano. Lo coordinamos en la consulta según el plan que necesites."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Paola Aquino es nuestra odontopediatra y es muy querida por los chicos: convierte la visita al dentista en un momento de juego, sin miedo al torno."
+        },
+        {
+          "question": "¿Quiénes atienden en Belgrano Studio Dental?",
+          "answer": "Somos un equipo multidisciplinario, entre ellos el Dr. Alejandro Rangel (implantes), la Dra. Paola Aquino (odontopediatría), la Dra. Josefina Ansa y otros especialistas, además de un equipo de recepción muy atento."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Zapiola 1595, Las Cañitas, CABA. Atendemos de lunes a viernes de 10 a 19 y los sábados de 9 a 13. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Zapiola 1595, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie 10-19 · Sáb 09-13",
+      "mapTitle": "Ubicación del estudio"
+    },
+    "footer": {
+      "about": "Estudio dental integral en Las Cañitas, con un equipo\nmultidisciplinario y un trato cálido que te saca el\nmiedo al dentista. Implantes, estética y más.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Zapiola 1595, Las Cañitas, CABA"
+            },
+            {
+              "label": "+54 9 11 2578-3078",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 10-19 · Sáb 9-13",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Belgrano Studio Dental"
+    }
+  }
+}
