@@ -1,0 +1,423 @@
+{
+  "brand": {
+    "name": "Oral Surgery",
+    "shortName": "Oral Surgery",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491172169900",
+      "defaultMessage": "Hola, quiero coordinar un turno en Oral Surgery."
+    },
+    "phoneDisplay": "+54 9 11 7216-9900",
+    "address": "Güemes 3916, Palermo, CABA",
+    "hours": "Lun a Sáb · 08:30hs - 19:30hs",
+    "mapQuery": "Güemes 3916, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://oral-surgery.kingdom-tech.co",
+    "title": "Oral Surgery — Expertos en Odontología | Cirugía oral e implantes en Palermo",
+    "description": "Centro de cirugía oral e implantes en Palermo liderado por el cirujano maxilofacial Dr. Juan Carlos Vargas. Extracciones de muelas de juicio e implantes sin dolor, urgencias en el día y tecnología de última generación.",
+    "ogTitle": "Oral Surgery — Cirugía oral e implantes en Palermo",
+    "ogDescription": "Centro de cirugía oral e implantes en Palermo con el Dr. Juan Carlos Vargas. Extracciones e implantes sin dolor y urgencias en el día.",
+    "siteName": "Oral Surgery — Odontología Quirúrgica",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro de cirugía oral e implantes en Palermo con el Dr. Juan Carlos Vargas. Sin dolor y con urgencias en el día.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Güemes 3916",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "08:30",
+          "closes": "19:30"
+        },
+        {
+          "days": [
+            "Thursday"
+          ],
+          "opens": "08:30",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 132
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Güemes 3916 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro de cirugía oral e implantes en Palermo, liderado por el\nDr. Juan Carlos Vargas. Extracciones e implantes sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Oral Surgery",
+        "label": "Cirugía oral · Palermo"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "132",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Urgencias",
+          "label": "En el día"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Cirugía oral\n"
+        },
+        {
+          "text": "Y odontología integral",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Limpieza y estética",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro de cirugía oral liderado por el cirujano maxilofacial Dr. Juan Carlos Vargas, con implantes y extracciones rápidas, prolijas y sin dolor. "
+        },
+        {
+          "text": "Atendemos urgencias en el día, incluso fines de semana.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cirugía\nSin dolor",
+          "body": "Extracciones de muelas de juicio e implantes con un manejo experto de la anestesia: nuestros pacientes destacan que no sienten dolor. El Dr. Vargas explica cada paso y acompaña la recuperación posoperatoria."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tecnología\nDe vanguardia",
+          "body": "Diagnóstico con TAC y radiografía panorámica, e implantes con coronas impresas en 3D en zirconio. Turnos amplios de lunes a sábado y atención de urgencias para resolver tu problema cuanto antes."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Juan Carlos Vargas",
+          "role": "Director · Cirugía maxilofacial e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Pame",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Salcedo",
+          "role": "Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. La asistente transmitió mucha calma. El odontólogo fue muy profesional y amable. La extracción de mi muela de juicio fue muy rápida y no sentí dolor. Me explicó todo el procedimiento. Lo recomiendo.",
+          "name": "Ailu Soto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, muy amable desde la recepcionista hasta el doctor. Quiero destacar el maravilloso trabajo del Dr. Vargas: hice la primera parte de un implante, muy satisfecha y no tuve dolor durante el procedimiento.",
+          "name": "Daniela Gisele Zapata",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención por parte del cirujano Dr. Juan Vargas. Desde el primer momento fue muy profesional, atento y humano. Se preocupó constantemente por cómo me sentía, explicando todo con claridad. Un trato impecable.",
+          "name": "Sandra Figueroa Delgado",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Solo puedo estar agradecido por el sobresaliente trabajo que hizo en mi boca: me colocó 5 implantes con gran maestría. El resultado estético y funcional es 10 puntos. Las coronas fueron impresas en 3D en zirconio, realmente top.",
+          "name": "Adolfo Schmidt",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El viernes me quedé con la muela en la mano a las 22 hs, previo a irme de viaje. Llamé, me atendieron divinamente y pude irme de vacaciones con todos los dientes en su lugar. Mil gracias, me salvaron.",
+          "name": "Mayra Garcia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tenía una urgencia, me dieron turno en el día con el especialista que solicité. Excelente atención y profesionalismo de todo el staff. Al día siguiente consulté por WhatsApp y la respuesta fue inmediata. Es un 10 de 10.",
+          "name": "Anabel Carella",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen extracción de muelas de juicio?",
+          "answer": "Sí, es uno de nuestros tratamientos más frecuentes. El Dr. Vargas realiza extracciones rápidas, prolijas y con un manejo experto de la anestesia para que no sientas dolor."
+        },
+        {
+          "question": "¿Colocan implantes?",
+          "answer": "Sí. Somos un centro especializado en implantes, con tecnología de diagnóstico (TAC, panorámica) y coronas impresas en 3D en zirconio. Muchos pacientes destacan resultados estéticos y funcionales de primer nivel."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, atendemos urgencias en el día, incluso fines de semana. Si tenés dolor, una muela rota o una pieza que se salió, escribinos por WhatsApp y hacemos lo posible por verte cuanto antes."
+        },
+        {
+          "question": "¿Quiénes atienden?",
+          "answer": "El centro está liderado por el cirujano maxilofacial Dr. Juan Carlos Vargas, junto a un equipo de especialistas en endodoncia, urgencias y odontología general."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya. Nuestros pacientes destacan precios accesibles y competitivos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Güemes 3916, Palermo, CABA. Atendemos de lunes a sábado de 8:30 a 19:30 (jueves hasta las 19). Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu consulta o urgencia en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Güemes 3916, Palermo, CABA",
+      "hoursLine": "Lun a Sáb · 08:30hs - 19:30hs",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro de cirugía oral e implantes en Palermo,\nliderado por el Dr. Juan Carlos Vargas. Extracciones\ne implantes sin dolor, con urgencias en el día.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía y extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Güemes 3916, Palermo, CABA"
+            },
+            {
+              "label": "+54 9 11 7216-9900",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Sáb · 8:30-19:30h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Oral Surgery — Odontología Quirúrgica"
+    }
+  }
+}
