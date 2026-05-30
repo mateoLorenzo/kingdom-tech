@@ -86,6 +86,7 @@ import sefap from "@/config/clinics/sefap.json";
 import ngOdontologia from "@/config/clinics/ng-odontologia.json";
 import estudioDentalDg from "@/config/clinics/estudio-dental-dg.json";
 import odontologiaLaser from "@/config/clinics/odontologia-laser.json";
+import cooldent from "@/config/clinics/cooldent.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -177,6 +178,7 @@ const registry = {
   "ng-odontologia": ngOdontologia as ClinicConfig,
   "estudio-dental-dg": estudioDentalDg as ClinicConfig,
   "odontologia-laser": odontologiaLaser as ClinicConfig,
+  cooldent: cooldent as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;
@@ -202,7 +204,11 @@ export function whatsappUrl(message?: string): string {
 // from `contact.whatsapp.phone`.
 export function ctaUrl(message?: string): string {
   if (clinic.contact.mode === "phone") {
-    return `tel:+${clinic.contact.whatsapp.phone}`;
+    // `callTel` lets clinics override the exact tel: target (e.g. 0800 numbers
+    // that shouldn't get a +country-code prefix). Otherwise build from the phone.
+    return clinic.contact.callTel
+      ? `tel:${clinic.contact.callTel}`
+      : `tel:+${clinic.contact.whatsapp.phone}`;
   }
   return whatsappUrl(message);
 }

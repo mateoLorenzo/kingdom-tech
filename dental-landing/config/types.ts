@@ -134,6 +134,7 @@ export type ClinicConfig = {
   };
   contact: {
     mode?: "whatsapp" | "phone";
+    callTel?: string;
     whatsapp: {
       phone: string;
       defaultMessage: string;

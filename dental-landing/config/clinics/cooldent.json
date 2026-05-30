@@ -1,0 +1,408 @@
+{
+  "brand": {
+    "name": "Clinica CoolDent",
+    "shortName": "CoolDent",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "callTel": "08004449885",
+    "whatsapp": {
+      "phone": "08004449885",
+      "defaultMessage": "Hola, quiero coordinar un turno en CoolDent."
+    },
+    "phoneDisplay": "0800-444-9885",
+    "address": "Moldes 1799, Las Cañitas, CABA",
+    "hours": "Lun a Vie · 08:00hs - 20:00hs",
+    "mapQuery": "Moldes 1799, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cooldent.kingdom-tech.co",
+    "title": "CoolDent — Expertos en Odontología | Las Cañitas, CABA",
+    "description": "Clínica odontológica en Las Cañitas (CABA) con amplios horarios de lunes a viernes y atención para toda la familia. Extracciones, cirugía, odontopediatría e implantes, con obras sociales.",
+    "ogTitle": "CoolDent — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Clínica odontológica en Las Cañitas con amplios horarios y atención para toda la familia. Extracciones, cirugía, odontopediatría e implantes.",
+    "siteName": "CoolDent",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Las Cañitas con amplios horarios y atención para toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Moldes 1799",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Moldes 1799 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica en Las Cañitas con amplios horarios\ny atención para toda la familia. Obras sociales y urgencias.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "CoolDent",
+        "label": "Las Cañitas · CABA"
+      },
+      "stats": [
+        {
+          "value": "Lun a Sáb",
+          "label": "Horarios amplios"
+        },
+        {
+          "value": "Urgencias",
+          "label": "En el día"
+        },
+        {
+          "value": "OSECAC",
+          "label": "Y obras sociales"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Odontología integral\n"
+        },
+        {
+          "text": "Para toda la familia",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica con horarios amplios de lunes a viernes y un equipo de profesionales para resolver desde un control hasta una urgencia. "
+        },
+        {
+          "text": "Extracciones rápidas, atención para toda la familia y obras sociales.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Resolvemos\nTu urgencia",
+          "body": "Contamos con un equipo de cirujanos para extracciones y muelas de juicio, con turnos disponibles y atención ágil. Muchos pacientes destacan que resolvieron su dolor el mismo día."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Para toda\nLa familia",
+          "body": "Odontología general, odontopediatría, implantes y más, con un trato cordial desde la recepción. Trabajamos con obras sociales y te explicamos cada tratamiento con claridad."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que te cuida",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Claudia",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Tanto la profesional Claudia (con una súper paciencia, escuchó hasta lo último que tenía para contarle sobre mis dientes) como la recepcionista Analía me atendieron muy bien.",
+          "name": "Ana Ortega",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy bueno, me sacó una muela de juicio y al otro día estaba en una audiencia judicial.",
+          "name": "Matias Ferre",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente trato de Nicolás, el secretario; muy correcto, te explica todo perfecto. La odontóloga muy correcta. Saqué turno para comenzar tratamiento.",
+          "name": "Maria Lorena Karabedian",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Siempre me atendieron correctamente en recepción. Me realicé una extracción de muela, fue rápida y sin dolor. Mi experiencia fue muy buena.",
+          "name": "Patricia Andrea Vera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención, desde las chicas de recepción hasta los profesionales. Fui en busca de una segunda opinión: en otro centro me querían hacer un implante y no era necesario.",
+          "name": "Consultorios Cramer",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente el trato tanto del asistente como del odontólogo, muy profesional la forma en que trabajan.",
+          "name": "Marisa Gozza",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales?",
+          "answer": "Sí, trabajamos con obras sociales como OSECAC, además de consultas particulares. Llamanos para confirmar la cobertura puntual de la tuya antes de tu turno."
+        },
+        {
+          "question": "¿Atienden urgencias y extracciones?",
+          "answer": "Sí. Contamos con un equipo de cirujanos para extracciones y muelas de juicio, con atención ágil. Muchos pacientes resolvieron su dolor el mismo día."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, tenemos odontopediatría con una atención dedicada y paciente para que los más chicos se sientan cómodos."
+        },
+        {
+          "question": "¿Cómo saco un turno?",
+          "answer": "Llamanos al 0800-444-9885 y coordinamos tu turno. Tenemos horarios amplios de lunes a viernes para que encuentres el que mejor te quede."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Moldes 1799, Las Cañitas, CABA. Atendemos de lunes a viernes de 8 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Pedí tu turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nHorarios amplios y atención para toda la familia.",
+      "ctaLabel": "Llamar para reservar",
+      "addressLine": "Moldes 1799, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 20:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Las Cañitas, CABA, con\namplios horarios y atención para toda la familia.\nExtracciones, cirugía, odontopediatría e implantes.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Extracciones y cirugía",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Moldes 1799, Las Cañitas, CABA"
+            },
+            {
+              "label": "0800-444-9885",
+              "href": "tel:08004449885"
+            },
+            {
+              "label": "Lun a Vie · 8-20h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "CoolDent"
+    }
+  }
+}
