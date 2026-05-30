@@ -1,0 +1,422 @@
+{
+  "brand": {
+    "name": "Clinica Virrey",
+    "shortName": "Virrey del Pino",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541147820203",
+      "defaultMessage": "Hola, quiero coordinar un turno en el Centro Odontológico Virrey del Pino."
+    },
+    "phoneDisplay": "+54 11 4782-0203",
+    "address": "Virrey del Pino 2433, Belgrano R, CABA",
+    "hours": "Lun a Vie 08-20 · Sáb 08-14",
+    "mapQuery": "Virrey del Pino 2433, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://virrey-del-pino.kingdom-tech.co",
+    "title": "Centro Odontológico Virrey del Pino — Expertos en Odontología | Belgrano R",
+    "description": "Centro odontológico en Belgrano R con un equipo de más de 12 profesionales, obras sociales, MercadoPago y horarios amplios de lunes a sábado. Odontología general, endodoncia, ortodoncia, cirugías y urgencias.",
+    "ogTitle": "Centro Odontológico Virrey del Pino — Belgrano R",
+    "ogDescription": "Centro odontológico en Belgrano R con equipo amplio de especialistas, obras sociales y horarios extendidos. Odontología general, endodoncia, ortodoncia y urgencias.",
+    "siteName": "Centro Odontológico Virrey del Pino",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Belgrano R con equipo amplio, obras sociales y horarios extendidos.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Virrey del Pino 2433",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "geo": {
+        "lat": -34.566282,
+        "lng": -58.45321
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "14:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Virrey del Pino 2433 · Belgrano R · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico en Belgrano R con un equipo de más de\n12 profesionales, obras sociales y horarios amplios.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Virrey del Pino",
+        "label": "Centro Odontológico · Belgrano R"
+      },
+      "stats": [
+        {
+          "value": "+12",
+          "label": "Profesionales"
+        },
+        {
+          "value": "Lun a Sáb",
+          "label": "Horarios amplios"
+        },
+        {
+          "value": "Urgencias",
+          "label": "En el día"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Todas las especialidades\n"
+        },
+        {
+          "text": "En un solo lugar",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Cirugías y extracciones",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis y aparatos",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Urgencias en el día",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un policonsultorio establecido en Belgrano R donde cada paciente encuentra a su especialista: más de 12 profesionales para cada necesidad. "
+        },
+        {
+          "text": "Trabajamos con obras sociales, MercadoPago y horarios amplios para que cuidarte sea fácil.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tu especialista\nPara cada caso",
+          "body": "Un equipo amplio de más de 12 profesionales en odontología general, endodoncia, ortodoncia, cirugía y más. Resolvemos todo en un mismo lugar, con seguimiento y acompañamiento en cada tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Cómodo\nY accesible",
+          "body": "Atendemos de lunes a viernes de 8 a 20 y los sábados hasta las 14. Trabajamos con obras sociales, consultas particulares y MercadoPago, y coordinamos urgencias en el mismo día por WhatsApp."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Gabriela Beider",
+          "role": "Endodoncia y conductos",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Lucas Carrera",
+          "role": "Odontología general y ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Vera",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Agustín Constantino",
+          "role": "Diagnóstico y cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Fui para sacarme dos muelas de juicio. Primero me atendió Agustín Constantino, un capo, súper atento. Las chicas de recepción también muy buena onda. Luego para la cirugía me atendió la Dra. Vera y fue impecable.",
+          "name": "Malena Luna",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia es excelente con el Dr. Carrera. Llevé a mi mamá de 89 años para hacer unas extracciones y un aparato y la atención fue muy buena. La amabilidad y profesionalidad en el trato a un adulto mayor es excelente.",
+          "name": "PS",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gabriela Beider me hizo endodoncia, tratamiento de conducto y anestesia. Una excelente profesional. La recomiendo. ¡Cero dolor!",
+          "name": "Darío Auslender",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estuve de paso en Buenos Aires y necesitaba resolver una urgencia odontológica. Me trataron muy bien desde las secretarías en recepción hasta los profesionales.",
+          "name": "Marcos B.",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención por WhatsApp, el lugar está muy limpio, baños impecables y el doctor Mauro Motta muy bueno. Tienen mucha paciencia con sus pacientes.",
+          "name": "Daniela Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Sí, trabajamos con obras sociales y prepagas, además de consultas particulares. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Qué medios de pago aceptan?",
+          "answer": "Aceptamos distintos medios de pago, incluyendo MercadoPago. En la consulta coordinamos la mejor opción según tu tratamiento."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Coordinamos turnos de urgencia en el mismo día. Escribinos por WhatsApp y resolvemos tu consulta lo antes posible."
+        },
+        {
+          "question": "¿Quiénes atienden en el centro?",
+          "answer": "Somos un equipo amplio de más de 12 profesionales con especialistas en odontología general, endodoncia, ortodoncia, cirugía y más. Cada paciente encuentra al profesional indicado para su caso."
+        },
+        {
+          "question": "¿Atienden a adultos mayores?",
+          "answer": "Sí. Tenemos amplia experiencia en la atención de adultos mayores, con un trato paciente y cuidadoso. También acompañamos a pacientes con miedo al dentista."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Virrey del Pino 2433, Belgrano R, CABA. Atendemos de lunes a viernes de 8 a 20 y los sábados de 8 a 14. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Virrey del Pino 2433, Belgrano R, CABA",
+      "hoursLine": "Lun a Vie 08-20 · Sáb 08-14",
+      "mapTitle": "Ubicación del centro"
+    },
+    "footer": {
+      "about": "Centro odontológico en Belgrano R con un equipo\namplio de especialistas, obras sociales y\nhorarios extendidos de lunes a sábado.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Virrey del Pino 2433, Belgrano R"
+            },
+            {
+              "label": "+54 11 4782-0203",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 8-20 · Sáb 8-14",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico Virrey del Pino"
+    }
+  }
+}
