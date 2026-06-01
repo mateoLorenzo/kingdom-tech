@@ -1,0 +1,416 @@
+{
+  "brand": {
+    "name": "Clinica C&G",
+    "shortName": "Odontología C&G",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491156325973",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología C&G."
+    },
+    "phoneDisplay": "+54 9 11 5632-5973",
+    "address": "Eustaquio Frías 574, Villa Crespo, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Teniente General Eustaquio Frías 574, Villa Crespo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cyg-dental.kingdom-tech.co",
+    "title": "Odontología C&G — Expertos en Odontología | Villa Crespo, CABA",
+    "description": "Odontología en Villa Crespo con foco en ortodoncia y un equipo cálido que te saca el miedo al dentista. Brackets, alineadores invisibles, odontopediatría, estética e implantes, con precios accesibles y pagos flexibles.",
+    "ogTitle": "Odontología C&G — Expertos en Odontología | Villa Crespo",
+    "ogDescription": "Odontología en Villa Crespo con foco en ortodoncia y un equipo cálido. Brackets, alineadores, odontopediatría y estética.",
+    "siteName": "Odontología C&G",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Villa Crespo con foco en ortodoncia y un equipo cálido que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Teniente General Eustaquio Frías 574, PB C",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 164
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Eustaquio Frías 574 · Villa Crespo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Villa Crespo con foco en ortodoncia y un equipo\ncálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología C&G",
+        "label": "Villa Crespo · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "164",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Para toda la familia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo amplio de profesionales con foco en ortodoncia —brackets, brackets de zafiro y alineadores invisibles— y un trato cálido que cambia la experiencia de ir al dentista. "
+        },
+        {
+          "text": "Explicamos todo con claridad, con precios accesibles y pagos flexibles.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que durante años le temieron al dentista cuentan que con nosotros perdieron el miedo. Una mano suave, mucha paciencia y contención en cada paso. Por algo familias enteras nos eligen."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue transforma",
+          "body": "Brackets, brackets de zafiro y alineadores invisibles con resultados que se ven rápido. También odontopediatría, estética, implantes y cirugía, con precios accesibles y opciones de pago a tu medida."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. María José Crespillo",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Verónica",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "¡Son unas genias las docs! Todo el miedo que tenía de ir al dentista durante 36 años de mi vida se fue con ellas. Estoy feliz haciendo mi tratamiento de brackets y resolvieron otros problemas que tenía enseguida.",
+          "name": "Rocio Poo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales. Llevo a mis dos hijas desde hace tiempo y siempre salimos muy conformes. María José es atenta, paciente y tiene una mano muy suave, ideal con los niños. Altamente recomendable para toda la familia.",
+          "name": "Mariana Crespillo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hoy finalicé mi tratamiento odontológico con Majo. Es un lugar de gran atención y calidez, no tuve ningún problema durante estos años. Recomiendo mucho.",
+          "name": "Delfina Clares",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena la atención al público y excelente el nivel profesional. Me atendí con la Dra. Naiara Montenegro: me hice limpieza, arreglos y una corona, y en todo momento fueron muy amables y profesionales.",
+          "name": "Carlos J. Pomilio",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me realizaron un implante y tanto el trato como el profesionalismo fueron excelentes. No sentí nada de dolor. La Dra. Tamara, 10 puntos. Un lugar y profesionales súper recomendables.",
+          "name": "Micaela Estevez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llevé a mi hijo a su chequeo con la odontopediatra Verónica, una genia total, súper paciente y amorosa, hasta le puso a Mickey mientras lo atendía. Recomendado el lugar; todas las profesionales son excelentes.",
+          "name": "Gabriela Peña Prieto",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y alineadores invisibles?",
+          "answer": "Sí, es nuestro foco. Hacemos ortodoncia con brackets, brackets de zafiro y alineadores invisibles, con un acompañamiento cercano y resultados que nuestros pacientes destacan."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo con nosotros, gracias a un trato cálido, una mano suave y mucha paciencia."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Verónica es nuestra odontopediatra y es muy querida por los chicos. Atendemos a familias enteras, de los más chicos a los adultos."
+        },
+        {
+          "question": "¿Tienen precios accesibles y pagos en cuotas?",
+          "answer": "Sí. Trabajamos con precios accesibles y opciones de pago flexibles. Te explicamos cada tratamiento y su costo para que decidas con tranquilidad."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Teniente General Eustaquio Frías 574, Villa Crespo, CABA. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Eustaquio Frías 574, Villa Crespo, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Villa Crespo con foco en ortodoncia y\nun equipo cálido que te saca el miedo al dentista.\nBrackets, alineadores y atención para toda la familia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/odontologia_cyg",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Eustaquio Frías 574, Villa Crespo"
+            },
+            {
+              "label": "+54 9 11 5632-5973",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@odontologia_cyg",
+              "href": "https://www.instagram.com/odontologia_cyg",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología C&G"
+    }
+  }
+}
