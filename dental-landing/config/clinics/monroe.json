@@ -1,0 +1,425 @@
+{
+  "brand": {
+    "name": "Clinica Monroe",
+    "shortName": "Monroe Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491151755182",
+      "defaultMessage": "Hola, quiero coordinar un turno en Monroe Odontología Integral."
+    },
+    "phoneDisplay": "+54 9 11 5175-5182",
+    "address": "Monroe 5274, Villa Urquiza, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:30hs · Sáb · 10:00hs - 15:00hs",
+    "mapQuery": "Monroe 5274, Villa Urquiza, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://monroe.kingdom-tech.co",
+    "title": "Monroe Odontología Integral — Expertos en Odontología | Villa Urquiza, CABA",
+    "description": "Odontología integral en Villa Urquiza con un trato humano que te saca el miedo al dentista. Ortodoncia, blanqueamiento, odontopediatría, conductos y arreglos, con turnos rápidos, precios accesibles y un ambiente cuidado.",
+    "ogTitle": "Monroe Odontología Integral — Expertos en Odontología | Villa Urquiza",
+    "ogDescription": "Odontología integral en Villa Urquiza con trato humano y turnos rápidos. Ortodoncia, blanqueamiento, odontopediatría y más.",
+    "siteName": "Monroe Odontología Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Villa Urquiza con un trato humano que te saca el miedo al dentista. Turnos rápidos y precios accesibles.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Monroe 5274",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1430",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:30"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 78
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Monroe 5274 · Villa Urquiza · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en Villa Urquiza con un trato humano\nque te saca el miedo al dentista y turnos rápidos.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Monroe Odontología Integral",
+        "label": "Villa Urquiza · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "78",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Para toda la familia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Endodoncia y conductos",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo amplio de profesionales con un trato humano y cercano que explica cada procedimiento paso a paso. "
+        },
+        {
+          "text": "Turnos rápidos, precios accesibles y un ambiente cuidado que hace que ir al dentista sea otra experiencia.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaron con miedo cuentan que acá lo perdieron. Un trato cálido, mucha paciencia y un ambiente relajado, con música y un espacio cuidado, que transmiten tranquilidad y confianza en cada visita."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nIntegral",
+          "body": "Ortodoncia, blanqueamiento, odontopediatría, conductos, prótesis y más, con tecnología actualizada. Turnos rápidos y precios accesibles, para vos y para toda tu familia, incluidos los más chiquitos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Cecilia Palacios",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Federico Santamaría",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Micol",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Jesús",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Hoy fue mi primera consulta con la Dra. Cecilia y puedo decir que fue mil. Atendió a mis hijos y a mí. Muy cuidadosa, súper amable y atenta a todo. Nos explicó todo con detalle, fui por recomendación y superó mis expectativas.",
+          "name": "Majo Vera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, puntualidad y turnos inmediatos. Quería agradecer al equipo de MOI y en especial al Dr. Federico Santamaría, que solucionó de inmediato mi consulta, con mucha paciencia y explicándome cada paso.",
+          "name": "Sandra De Rossi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Súper recomendable. Son todos muy profesionales, siempre muy atentos y humanos. Siempre es un terror ir al dentista, pero conocimos este lugar y desde el primer momento atendieron más que bien a mi hija.",
+          "name": "Pame Franco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Cuando hay pasión por lo que haces se nota. Desde el momento en que ingresé sentí la buena energía del lugar, su decoración, música y la atención de la recepcionista.",
+          "name": "Fátima Cáceres",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El servicio que brindan es de 10, los profesionales son lo más, dan tranquilidad y te explican todo. Me atendí en varios lugares pero nunca como acá. Súper recomendable.",
+          "name": "Juan Larracochea",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelentes profesionales y excelente calidad de atención, desde que ingresás a MOI hasta que salís sonriente y feliz. Me atiendo en forma particular y sus presupuestos son bastante accesibles.",
+          "name": "Adriana Aller",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que llegaron con miedo lo perdieron con nosotros, gracias a un trato humano, mucha paciencia, explicaciones claras y un ambiente relajado que transmite tranquilidad."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Hacemos odontopediatría y atendemos a los más chiquitos con mucha calidez y cuidado, para que tengan una buena experiencia. Atendemos a familias enteras."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos ortodoncia, blanqueamiento y estética, odontopediatría, tratamiento de conducto, prótesis, extracciones, limpieza y arreglos. Un abordaje integral con tecnología actualizada."
+        },
+        {
+          "question": "¿Dan turnos rápido?",
+          "answer": "Sí. Nuestros pacientes destacan los turnos rápidos y la puntualidad en la atención. Escribinos por WhatsApp y coordinamos el horario que mejor te quede lo antes posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con atención particular y precios accesibles, y algunas coberturas. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Monroe 5274, Villa Urquiza, CABA. Atendemos de lunes a viernes de 9 a 19:30 y los sábados de 10 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Monroe 5274, Villa Urquiza, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:30hs · Sáb · 10:00hs - 15:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología integral en Villa Urquiza con un\ntrato humano que te saca el miedo al dentista.\nTurnos rápidos y atención para toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Monroe 5274, Villa Urquiza"
+            },
+            {
+              "label": "+54 9 11 5175-5182",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Monroe Odontología Integral"
+    }
+  }
+}
