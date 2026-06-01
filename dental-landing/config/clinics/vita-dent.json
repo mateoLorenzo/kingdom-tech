@@ -1,0 +1,417 @@
+{
+  "brand": {
+    "name": "Vita Dent",
+    "shortName": "Vita Dent",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491128636042",
+      "defaultMessage": "Hola, quiero coordinar un turno en Vita Dent."
+    },
+    "phoneDisplay": "+54 9 11 2863-6042",
+    "address": "Guatemala 5959, Piso 2 Of. 202, Palermo, CABA",
+    "hours": "Lun a Vie 09-20 · Sáb 10-15",
+    "mapQuery": "Guatemala 5959, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://vita-dent.kingdom-tech.co",
+    "title": "Vita Dent — Expertos en Odontología | Cirugía y estética dental en Palermo",
+    "description": "Odontología en Palermo con foco en cirugía oral y estética dental, liderada por el Dr. Juan Pablo. Tratamientos sin dolor, casos complejos resueltos (implantes, injertos, muelas de juicio) y una calidad humana que los pacientes destacan.",
+    "ogTitle": "Vita Dent — Cirugía y estética dental en Palermo",
+    "ogDescription": "Odontología en Palermo con foco en cirugía oral y estética dental. Tratamientos sin dolor y una calidad humana que se nota.",
+    "siteName": "Vita Dent",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Palermo con foco en cirugía oral y estética dental. Tratamientos sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Guatemala 5959, Piso 2 Of. 202",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 33
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Guatemala 5959 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Palermo con foco en cirugía oral y estética dental.\nTratamientos sin dolor y una calidad humana que se nota.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Vita Dent",
+        "label": "Palermo · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Cirugía e implantes"
+        },
+        {
+          "value": "Palermo",
+          "label": "CABA"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Cirugía y estética\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes e injertos óseos",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética dental e incrustaciones",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Prótesis y coronas",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Combinamos excelencia técnica en cirugía oral y estética dental con una calidad humana y un trato cercano que nuestros pacientes destacan una y otra vez. "
+        },
+        {
+          "text": "Resolvemos hasta los casos más complejos, sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cirugía\nSin dolor",
+          "body": "Extracciones de muelas de juicio, implantes, injertos óseos y levantamiento de seno maxilar. El Dr. Juan Pablo explica cada paso y te da seguridad: pacientes que venían de varios consultorios encontraron acá la solución."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Calidad\nHumana",
+          "body": "Más allá de lo técnico, lo que más destacan nuestros pacientes es el respeto, la empatía y la calidez del equipo. Un consultorio impecable y moderno donde te sentís cuidado de principio a fin."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Te atienden",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Juan Pablo",
+          "role": "Director · Cirugía oral e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Llegué para realizarme una incrustación luego de pasar por varios odontólogos y la atención fue espectacular. Muy amables y no me molestó nada en ningún momento. ¡Súper recomendable!",
+          "name": "Maria Delfina Dominguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hicieron un tratamiento de conducto que quedó perfecto y sin sentir dolor. El trato es amable y profesional.",
+          "name": "Adrian",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tuve una excelente experiencia con el Dr. Juan Pablo. Me realizó dos extracciones de muelas de juicio y todo salió perfecto. Fue muy atento y profesional, la recuperación fue rápida y la cicatrización excelente.",
+          "name": "Lucia M. Cabot",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estoy muy contenta con el trabajo que me hicieron: levantamiento de seno maxilar y colocación de hueso, una cirugía bastante importante. Me explicaron tal cual cómo sería y no tuve dolor.",
+          "name": "Viviana Garcia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente consultorio. Me fui de Moreno a Palermo para atenderme con el Dr. Juan Pablo, el único que me brindó seguridad para la cirugía de las muelas. Muy profesionales y excelente atención.",
+          "name": "Lautaro Tejeda",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Quiero destacar, además de lo excelentes profesionales que son los doctores, la calidad humana y el respeto que se respira. Es impagable.",
+          "name": "Gerardo Acosta",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen cirugías y extracción de muelas de juicio?",
+          "answer": "Sí, es uno de nuestros fuertes. El Dr. Juan Pablo realiza extracciones de muelas de juicio y cirugías orales con un manejo experto: nuestros pacientes destacan recuperaciones rápidas y sin dolor."
+        },
+        {
+          "question": "¿Colocan implantes y hacen injertos?",
+          "answer": "Sí. Resolvemos casos complejos como implantes, injertos óseos y levantamiento de seno maxilar, explicándote cada paso para que vayas tranquilo."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "No. Conductos, extracciones e incrustaciones sin dolor: es lo que más destacan nuestros pacientes, incluso quienes venían de malas experiencias en otros consultorios."
+        },
+        {
+          "question": "¿Quién atiende en Vita Dent?",
+          "answer": "El consultorio está liderado por el Dr. Juan Pablo, especialista en cirugía oral, junto a su equipo. Una atención profesional con una calidad humana que los pacientes valoran mucho."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Guatemala 5959, piso 2, oficina 202, Palermo, CABA. Atendemos de lunes a viernes de 9 a 20 y los sábados de 10 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Guatemala 5959, Piso 2 Of. 202, Palermo, CABA",
+      "hoursLine": "Lun a Vie 09-20 · Sáb 10-15",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Palermo con foco en cirugía oral y\nestética dental. Tratamientos sin dolor y una\ncalidad humana que se nota.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/vita.dentt",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Cirugía y extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Guatemala 5959, Of. 202, Palermo"
+            },
+            {
+              "label": "+54 9 11 2863-6042",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@vita.dentt",
+              "href": "https://www.instagram.com/vita.dentt",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Vita Dent"
+    }
+  }
+}
