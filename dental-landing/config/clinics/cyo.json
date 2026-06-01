@@ -1,0 +1,403 @@
+{
+  "brand": {
+    "name": "Clinica CYO",
+    "shortName": "Odontología CYO",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491173581037",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología CYO."
+    },
+    "phoneDisplay": "+54 9 11 7358-1037",
+    "address": "Cdad. de la Paz 1701, Las Cañitas, CABA",
+    "hours": "Consultá horarios por WhatsApp",
+    "mapQuery": "Ciudad de la Paz 1701, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cyo.kingdom-tech.co",
+    "title": "Odontología CYO — Expertos en Odontología | Las Cañitas, CABA",
+    "description": "Odontología en Las Cañitas con un equipo cálido de profesionales. Atención sin dolor, estética y blanqueamiento dental, con un trato cercano y delicado que genera confianza.",
+    "ogTitle": "Odontología CYO — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Odontología en Las Cañitas con un equipo cálido. Atención sin dolor, estética y blanqueamiento dental.",
+    "siteName": "Odontología CYO",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Las Cañitas con un equipo cálido. Atención sin dolor, estética y blanqueamiento.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Ciudad de la Paz 1701",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "rating": {
+        "value": 4.7,
+        "count": 12
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Cdad. de la Paz 1701 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Las Cañitas con un equipo cálido de profesionales.\nAtención sin dolor, estética y blanqueamiento dental.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología CYO",
+        "label": "Las Cañitas · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Atención cálida"
+        },
+        {
+          "value": "Las Cañitas",
+          "label": "CABA"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de odontólogas con un trato cálido, delicado y muy profesional. Te explicamos cada paso, respondemos todas tus dudas y cuidamos tu salud bucal sin que sientas dolor. "
+        },
+        {
+          "text": "Así, ir al dentista se vuelve una experiencia tranquila.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nSin dolor",
+          "body": "Nuestras pacientes destacan la buena mano y la delicadeza: procedimientos sin sufrimiento, con puntualidad y un consultorio impecable. Una atención cercana que cuida cada detalle."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Estética\nDental",
+          "body": "Diseñamos tu sonrisa con blanqueamiento y tratamientos estéticos, además de la odontología general y preventiva. Coordinás tu turno por WhatsApp con respuesta rápida."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Te atienden",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Sofía",
+          "role": "Odontología general y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Vicky",
+          "role": "Odontología general y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "¡Excelente atención! Desde el primer momento se nota la calidez humana y el profesionalismo. Me atendí con Vicky y un 10: respondió cada una de mis dudas. Recomendable 100%.",
+          "name": "Lucia Bourdieu",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia. Desde el primer momento han sido muy profesionales, cálidas y atentas. Me atendí con Sofía y lo volveré a hacer sin dudas.",
+          "name": "Belén Aricó",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me encantó la atención de las doctoras, tanto Sofi como Vicky, ¡un amor! Volveré para el blanqueamiento que quedamos en hacer.",
+          "name": "Camila Dominguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, resolvieron mis problemas, cuidaron mi salud bucal con mucha delicadeza y sin sufrimiento. Gracias.",
+          "name": "Marina",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención. Me atendí con Vicky y tiene muy buena mano, ¡no me dolió!",
+          "name": "Gabriela Artave",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente servicio! Muy puntuales y profesionales en el trato.",
+          "name": "Joaquín Alcibar",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "No. Nuestras pacientes destacan la buena mano y la delicadeza de las odontólogas: procedimientos sin dolor ni sufrimiento, en un ambiente cálido y tranquilo."
+        },
+        {
+          "question": "¿Hacen blanqueamiento y estética dental?",
+          "answer": "Sí. La estética dental y el blanqueamiento son de nuestros tratamientos más pedidos, además de la odontología general y preventiva."
+        },
+        {
+          "question": "¿Quiénes atienden en CYO?",
+          "answer": "Te atiende un equipo de odontólogas, Sofía y Vicky, muy valoradas por sus pacientes por la calidez, la paciencia y el profesionalismo en cada consulta."
+        },
+        {
+          "question": "¿Cómo saco un turno y qué horarios tienen?",
+          "answer": "Escribinos por WhatsApp y coordinamos tu turno en el horario que mejor te quede. Respondemos rápido y te confirmamos la disponibilidad."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Ciudad de la Paz 1701, Las Cañitas, CABA. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Cdad. de la Paz 1701, Las Cañitas, CABA",
+      "hoursLine": "Consultá horarios por WhatsApp",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Las Cañitas con un equipo cálido\nde profesionales. Atención sin dolor, estética\ny blanqueamiento dental.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/odontologiacyo/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Cdad. de la Paz 1701, Las Cañitas"
+            },
+            {
+              "label": "+54 9 11 7358-1037",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@odontologiacyo",
+              "href": "https://www.instagram.com/odontologiacyo/",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología CYO"
+    }
+  }
+}
