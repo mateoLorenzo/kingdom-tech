@@ -1,0 +1,406 @@
+{
+  "brand": {
+    "name": "Biodoncia",
+    "shortName": "Biodoncia Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491157200887",
+      "defaultMessage": "Hola, quiero coordinar un turno en Biodoncia."
+    },
+    "phoneDisplay": "+54 9 11 5720-0887",
+    "address": "Humahuaca 4203, Almagro, CABA",
+    "hours": "Lun a Vie · 08:00hs - 18:00hs",
+    "mapQuery": "Humahuaca 4203, Almagro, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://biodoncia.kingdom-tech.co",
+    "title": "Biodoncia Odontología — Expertos en Odontología | Almagro, CABA",
+    "description": "Odontología en Almagro liderada por dos odontólogas, con un trato cálido que te saca el miedo al dentista. Ortodoncia y alineadores, odontopediatría, estética, limpieza y un enfoque integral con explicaciones claras.",
+    "ogTitle": "Biodoncia Odontología — Expertos en Odontología | Almagro",
+    "ogDescription": "Odontología en Almagro con trato cálido y enfoque integral. Ortodoncia, alineadores, odontopediatría y estética.",
+    "siteName": "Biodoncia Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Almagro con un trato cálido que te saca el miedo al dentista. Ortodoncia, alineadores y enfoque integral.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Humahuaca 4203",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1192",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 28
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Humahuaca 4203 · Almagro · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Almagro con un trato cálido que te saca\nel miedo al dentista y un enfoque integral de tu salud.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Biodoncia Odontología",
+        "label": "Almagro · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "28",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Para toda la familia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica liderada por dos odontólogas, Milagros y Belén, que combinan alto profesionalismo con un trato cálido y un abordaje integral del paciente. "
+        },
+        {
+          "text": "Explicamos todo con claridad y transparencia, con turnos puntuales y sin esperas.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaron con pánico al dentista cuentan que con nosotras superaron sus miedos. Atención empática, explicaciones claras y un acompañamiento que hace que ir al dentista sea una linda experiencia."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Enfoque\nIntegral",
+          "body": "Ortodoncia y alineadores con evaluación digital y análisis de postura mandibular, odontopediatría, estética y más. Un diagnóstico profundo y un seguimiento personalizado para cuidar tu salud a largo plazo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Milagros",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Belén",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excepcional está siendo mi experiencia en Biodoncia. Desde el primer contacto, la atención al paciente es puntual, amable, clara y transparente. El lugar impecable de higiene.",
+          "name": "Max Martín",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llegué con pánico al dentista, pero Mili y Belu empatizaron, me hicieron sentir seguro y pude superar mis miedos. Ahora, cada vez que voy a control, voy contento y tranquilo. Profesionales increíbles, se nota que tienen pasión y vocación.",
+          "name": "Bruno Pedrozo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tuve una experiencia excelente en este consultorio odontológico. Llegué con un tratamiento bastante complejo que requería tiempo, precisión y mucha experiencia, y desde el primer momento me sentí en manos de verdaderos profesionales.",
+          "name": "Melina Vallone",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estoy haciendo tratamiento de ortodoncia con alineadores y la experiencia es excelente. La evaluación inicial fue muy completa, con imágenes digitales y análisis de postura mandibular.",
+          "name": "Maria Sol Bigalli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Fui con mi hija de 5 años y la trataron súper, muy recomendable para iniciar a los chicos chiquitos en la salud dental. Las odontólogas muy profesionales y el lugar impecable.",
+          "name": "Cecilia Borghini",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelencia es la palabra que califica este consultorio. Atención y profesionalismo desde el primer momento. Soy de tener un poco de miedo al dolor y la verdad que Mili me transmitió confianza en todo el proceso, recomendable 100%.",
+          "name": "Santiago Ponce",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y alineadores invisibles?",
+          "answer": "Sí. Hacemos ortodoncia con brackets y con alineadores, con una evaluación inicial muy completa que incluye imágenes digitales y análisis de postura mandibular. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que llegaron con pánico al dentista superaron sus miedos con nosotras, gracias a una atención empática, explicaciones claras y mucho acompañamiento."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Hacemos odontopediatría y atendemos a los más chiquitos con paciencia y cuidado, para que tengan una buena primera experiencia y aprendan a cuidar su salud dental. Atendemos a familias enteras."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Cálida, transparente y puntual. Somos dos odontólogas, Milagros y Belén, y trabajamos con un enfoque integral: te explicamos cada tratamiento con claridad y hacemos un seguimiento personalizado de tu caso."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Humahuaca 4203, Almagro, CABA. Atendemos de lunes a viernes de 8 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Humahuaca 4203, Almagro, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Almagro liderada por dos\nodontólogas, con un trato cálido que te saca el\nmiedo al dentista y un enfoque integral.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Humahuaca 4203, Almagro"
+            },
+            {
+              "label": "+54 9 11 5720-0887",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Biodoncia Odontología"
+    }
+  }
+}

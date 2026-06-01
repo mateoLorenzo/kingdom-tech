@@ -108,6 +108,7 @@ import cygDental from "@/config/clinics/cyg-dental.json";
 import dentalTotal from "@/config/clinics/dental-total.json";
 import dentistryCo from "@/config/clinics/dentistry-co.json";
 import toriggia from "@/config/clinics/toriggia.json";
+import biodoncia from "@/config/clinics/biodoncia.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -221,6 +222,7 @@ const registry = {
   "dental-total": dentalTotal as ClinicConfig,
   "dentistry-co": dentistryCo as ClinicConfig,
   "toriggia": toriggia as ClinicConfig,
+  "biodoncia": biodoncia as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;
