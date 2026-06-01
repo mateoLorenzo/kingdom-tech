@@ -1,0 +1,371 @@
+{
+  "brand": {
+    "name": "Clinica Toriggia",
+    "shortName": "Dra. Mariela Toriggia",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491168834404",
+      "defaultMessage": "Hola, quiero coordinar un turno con la Dra. Mariela Toriggia."
+    },
+    "phoneDisplay": "+54 9 11 6883-4404",
+    "address": "Carlos Villate 4199, Munro, Vicente López",
+    "hours": "Lun, Mié y Jue · 14:00hs - 18:30hs · Mar y Vie · 08:30hs - 13:30hs",
+    "mapQuery": "Carlos Villate 4199, Munro, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://toriggia.kingdom-tech.co",
+    "title": "Dra. Mariela Toriggia — Expertos en Odontología | Munro, Vicente López",
+    "description": "Odontología en Munro con especialización en ATM y bruxismo. Ortodoncia, tratamiento de disfunción de la articulación, extracciones y atención cálida y sin dolor en zona norte.",
+    "ogTitle": "Dra. Mariela Toriggia — Expertos en Odontología | Munro",
+    "ogDescription": "Odontología en Munro especializada en ATM y bruxismo. Ortodoncia, extracciones y atención cálida y sin dolor.",
+    "siteName": "Dra. Mariela Toriggia",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Munro especializada en ATM y bruxismo, con ortodoncia y atención cálida y sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Carlos Villate 4199",
+        "city": "Munro",
+        "region": "Buenos Aires",
+        "postalCode": "B1605",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "14:00",
+          "closes": "18:30"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Friday"
+          ],
+          "opens": "08:30",
+          "closes": "13:30"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Carlos Villate 4199 · Munro · Vicente López",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Munro especializada en ATM y bruxismo,\ncon ortodoncia y una atención cálida y sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dra. Mariela Toriggia",
+        "label": "Munro · Vicente López"
+      },
+      "stats": [
+        {
+          "value": "ATM",
+          "label": "Y bruxismo"
+        },
+        {
+          "value": "Ortodoncia",
+          "label": "Para tu mejor sonrisa"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Trato cálido y cercano"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "ATM y bruxismo",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Especialización en ATM y bruxismo combinada con ortodoncia, para que tu mordida y tu sonrisa funcionen en armonía. "
+        },
+        {
+          "text": "Una mano cuidadosa y un trato cercano que hace que cada tratamiento sea sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "ATM y bruxismo\nEn buenas manos",
+          "body": "El dolor de mandíbula, el desgaste y el rechinar de dientes tienen solución. Evaluamos tu articulación y diseñamos un tratamiento a tu medida para que vuelvas a estar cómodo y sin molestias."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Ortodoncia\nSin dolor",
+          "body": "Ortodoncia y extracciones con una mano bárbara, como destacan quienes ya se atendieron. Te acompañamos en cada paso con paciencia y cuidado, para que el tratamiento sea una buena experiencia."
+        },
+        {
+          "type": "image",
+          "image": "/img/brackets.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Mariela Toriggia",
+          "role": "Ortodoncia · ATM y bruxismo",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "La Dra. Mariela es lo más. Además del tratamiento de ortodoncia me realizó varias extracciones y tiene una mano bárbara, no me dolió para nada ni durante ni después.",
+          "name": "Jessica Pastorino",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué es el tratamiento de ATM y bruxismo?",
+          "answer": "La ATM es la articulación de la mandíbula, y el bruxismo es el hábito de apretar o rechinar los dientes. Cuando duele la mandíbula, hay desgaste o tensión, evaluamos tu caso y diseñamos un tratamiento para devolverte la comodidad. Es nuestra especialidad."
+        },
+        {
+          "question": "¿Hacen ortodoncia?",
+          "answer": "Sí. Hacemos ortodoncia con un acompañamiento cercano y una mano cuidadosa, como destacan nuestros pacientes. Escribinos por WhatsApp y te asesoramos sobre la mejor opción para vos."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos para que no. Nuestros pacientes destacan que las extracciones y tratamientos se hacen sin dolor, con una mano bárbara y mucho cuidado en cada paso."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Carlos Villate 4199, Munro, Vicente López. Atendemos lunes, miércoles y jueves de 14 a 18:30, y martes y viernes de 8:30 a 13:30. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Carlos Villate 4199, Munro, Vicente López",
+      "hoursLine": "Lun, Mié y Jue · 14:00hs - 18:30hs · Mar y Vie · 08:30hs - 13:30hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Munro especializada en ATM y\nbruxismo, con ortodoncia y una atención cálida\ny sin dolor en zona norte.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "ATM y bruxismo",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Carlos Villate 4199, Munro"
+            },
+            {
+              "label": "+54 9 11 6883-4404",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dra. Mariela Toriggia"
+    }
+  }
+}
