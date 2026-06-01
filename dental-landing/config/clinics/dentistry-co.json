@@ -1,0 +1,412 @@
+{
+  "brand": {
+    "name": "Dentistry Co.",
+    "shortName": "Dentistry Co.",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491123192186",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dentistry Co."
+    },
+    "phoneDisplay": "+54 9 11 2319-2186",
+    "address": "Gral. Lavalle 1210, Ituzaingó, Buenos Aires",
+    "hours": "Mar a Vie · 09:00hs - 19:00hs · Lun · 16:30hs - 18:30hs",
+    "mapQuery": "General Lavalle 1210, Ituzaingó, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dentistry-co.kingdom-tech.co",
+    "title": "Dentistry Co. — Expertos en Odontología | Ituzaingó, Buenos Aires",
+    "description": "Consultorio odontológico en Ituzaingó con atención cálida y personalizada. Implantes, estética dental, urgencias y tratamientos integrales, con un trato cercano que nos hizo referentes en la zona Oeste.",
+    "ogTitle": "Dentistry Co. — Expertos en Odontología | Ituzaingó",
+    "ogDescription": "Consultorio odontológico en Ituzaingó con atención cálida y personalizada. Implantes, estética dental y urgencias con trato cercano.",
+    "siteName": "Dentistry Co.",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Ituzaingó con atención cálida y personalizada. Implantes, estética y urgencias.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Gral. Lavalle 1210",
+        "city": "Ituzaingó",
+        "region": "Buenos Aires",
+        "postalCode": "B1714",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        },
+        {
+          "days": [
+            "Monday"
+          ],
+          "opens": "16:30",
+          "closes": "18:30"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Gral. Lavalle 1210 · Ituzaingó · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio odontológico en Ituzaingó con atención cálida\ny personalizada, referentes de la zona Oeste.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dentistry Co.",
+        "label": "Ituzaingó · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Implantes",
+          "label": "Y estética dental"
+        },
+        {
+          "value": "Trato",
+          "label": "Cercano y personalizado"
+        },
+        {
+          "value": "Zona Oeste",
+          "label": "Referentes en Ituzaingó"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Urgencias y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un dúo de profesionales —Cristian y Marina— que combina experiencia en implantes y estética con un trato cercano y personalizado. "
+        },
+        {
+          "text": "Por algo somos referentes en la zona Oeste, con pacientes que vuelven y nos recomiendan.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nPersonalizada",
+          "body": "Cada paciente recibe un trato cercano y dedicado de principio a fin. Te explicamos cada paso con paciencia y acompañamos todo el tratamiento, como destacan quienes nos eligen una y otra vez."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Implantes\nY estética",
+          "body": "Expertos en implantes y en resultados estéticos de alta calidad. También resolvemos urgencias con rapidez: cuando aparece el dolor, te hacemos lugar y lo solucionamos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Marina",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Cristian",
+          "role": "Implantes y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Perfecta atención siempre que tuve algún problema. Arreglo estético 10/10 también. El mejor consultorio de los que conocí de zona Oeste.",
+          "name": "Joaco Langot",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Cristian y Marina, unos profesionales. Gracias infinitas por la paciencia, dedicación y compromiso durante mi tratamiento.",
+          "name": "Noelia Moran",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales. Siempre recurrimos a Dentistry Co. para nuestra salud dental. Expertos en implantes y todo tipo de prácticas odontológicas. Súper recomendables.",
+          "name": "Adrián Rosón",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente la atención. Llegué desesperado después de llamar a un montón de odontólogos y la Dra. enseguida me extrajo la muela. Súper agradecido.",
+          "name": "Marcelo Swier",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La verdad muy a gusto me sentí, la atención muy buena, la doctora una genia.",
+          "name": "Guido Antonio",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente la Dra. Marina, súper recomendada.",
+          "name": "Elibeth Cuello Fernandez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen implantes y estética dental?",
+          "answer": "Sí, es nuestra especialidad. Somos expertos en implantes dentales y en estética, con resultados de alta calidad que nuestros pacientes destacan. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Resolvemos urgencias con rapidez, como extracciones y dolor. Cuando aparece el problema, te hacemos lugar y lo solucionamos lo antes posible."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Cálida, cercana y personalizada. Somos un dúo de profesionales, Cristian y Marina, y acompañamos cada tratamiento con dedicación. Por algo nos eligen y recomiendan en toda la zona Oeste."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Gral. Lavalle 1210, Ituzaingó, Buenos Aires. Atendemos de martes a viernes de 9 a 19 y los lunes de 16:30 a 18:30 (miércoles cerrado). Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Gral. Lavalle 1210, Ituzaingó, Buenos Aires",
+      "hoursLine": "Mar a Vie · 09:00hs - 19:00hs · Lun · 16:30hs - 18:30hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Ituzaingó con\natención cálida y personalizada. Implantes,\nestética y urgencias, referentes de la zona Oeste.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Gral. Lavalle 1210, Ituzaingó"
+            },
+            {
+              "label": "+54 9 11 2319-2186",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dentistry Co."
+    }
+  }
+}
