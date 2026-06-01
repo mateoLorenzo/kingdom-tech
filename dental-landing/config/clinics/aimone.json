@@ -1,0 +1,381 @@
+{
+  "brand": {
+    "name": "Clinica Aimone",
+    "shortName": "Clínica Odontológica Aimone",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541148210455",
+      "defaultMessage": "Hola, quiero coordinar un turno en la Clínica Odontológica Aimone."
+    },
+    "phoneDisplay": "+54 11 4821-0455",
+    "address": "Av. Pueyrredón 1770, Piso 2 B, Recoleta, CABA",
+    "hours": "Lun a Vie · 08:00hs - 21:00hs",
+    "mapQuery": "Av. Pueyrredón 1770, Recoleta, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://aimone.kingdom-tech.co",
+    "title": "Clínica Odontológica Aimone — Expertos en Odontología | Recoleta, CABA",
+    "description": "Odontología en Recoleta con atención personalizada del Dr. Aimone. Estética dental, rehabilitación de la sonrisa, implantes y urgencias resueltas en el día, con tecnología actualizada y un trato humano que devuelve la confianza.",
+    "ogTitle": "Clínica Odontológica Aimone — Expertos en Odontología | Recoleta",
+    "ogDescription": "Odontología en Recoleta con atención personalizada del Dr. Aimone. Estética, rehabilitación, implantes y urgencias en el día.",
+    "siteName": "Clínica Odontológica Aimone",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Recoleta con atención personalizada. Estética dental, rehabilitación de la sonrisa y urgencias en el día.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Pueyrredón 1770, Piso 2 B",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1119",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "21:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Pueyrredón 1770 · Recoleta · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Recoleta con atención personalizada\ny un trato humano que te devuelve la confianza.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Clínica Odontológica Aimone",
+        "label": "Recoleta · CABA"
+      },
+      "stats": [
+        {
+          "value": "Urgencias",
+          "label": "Resueltas en el día"
+        },
+        {
+          "value": "Estética",
+          "label": "Rehabilitación de la sonrisa"
+        },
+        {
+          "value": "Confianza",
+          "label": "Pacientes fieles hace años"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Rehabilitación de la sonrisa",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Urgencias en el día",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica de referencia donde el Dr. Aimone combina alto profesionalismo con un trato humano que recupera la confianza y la autoestima del paciente. "
+        },
+        {
+          "text": "Tecnología y técnicas siempre actualizadas, en un consultorio moderno y confiable.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención que\nDevuelve la sonrisa",
+          "body": "Pacientes que pasaron por muchos consultorios sin solución cuentan que acá la encontraron. El Dr. Aimone se sienta, escucha y explica paso a paso, devolviendo no solo la sonrisa sino también la confianza."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Urgencias\nEn el día",
+          "body": "Cuando aparece el dolor o una urgencia, la resolvemos en el día con gran profesionalismo. Estética, rehabilitación e implantes con la última tecnología, en un consultorio moderno y confiable."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Aimone",
+          "role": "Odontología y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me atiendo hace años acá y es debido a varios factores: son muy profesionales, mucha dedicación en cada consulta, siempre actualizados con lo último.",
+          "name": "Luciana Bizzozero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El Doctor no solo me devolvió la sonrisa, me devolvió mi autoestima, las ganas de sonreír y no esconderme. Pasé por muchos centros odontológicos y nadie pudo darme una solución. El Doctor fue la única persona que se sentó y me explicó paso a paso.",
+          "name": "Eli Sandoval",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El Dr. Aimone es excelente, me resolvió una urgencia en el día con gran profesionalismo. ¡Quedó impecable mi diente! Gracias por todo, seguiré recomendando esta clínica.",
+          "name": "Claudia Canetto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo con él desde siempre. Buena atención, buen trato a los clientes, consultorio moderno y muy confiable. Lo recomiendo.",
+          "name": "Camila Villarejo",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Resolvemos urgencias en el día con gran profesionalismo. Cuando aparece el dolor o un problema, llamanos y te hacemos lugar para solucionarlo lo antes posible."
+        },
+        {
+          "question": "¿Hacen estética y rehabilitación de la sonrisa?",
+          "answer": "Sí, es una de nuestras especialidades. Trabajamos la estética dental y la rehabilitación integral de la sonrisa, con técnicas y tecnología siempre actualizadas. Llamanos y te asesoramos."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Personalizada y humana. El Dr. Aimone se toma el tiempo de sentarse, escucharte y explicarte cada paso. Por eso muchos pacientes se atienden con él desde hace años y lo recomiendan."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a viernes de 8 a 21."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Av. Pueyrredón 1770, Piso 2 B, Recoleta, CABA. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Av. Pueyrredón 1770, Piso 2 B, Recoleta, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 21:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Recoleta con atención\npersonalizada del Dr. Aimone. Estética,\nrehabilitación e implantes con un trato humano.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Rehabilitación",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Pueyrredón 1770, Recoleta"
+            },
+            {
+              "label": "+54 11 4821-0455",
+              "href": "tel:+541148210455"
+            },
+            {
+              "label": "Lun a Vie · 8-21h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica Odontológica Aimone"
+    }
+  }
+}
