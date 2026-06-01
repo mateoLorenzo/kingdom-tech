@@ -1,0 +1,414 @@
+{
+  "brand": {
+    "name": "Dental Pro",
+    "shortName": "Dental Pro",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491130172090",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Pro."
+    },
+    "phoneDisplay": "+54 9 11 3017-2090",
+    "address": "Juramento 2089, Piso 7, Belgrano, CABA",
+    "hours": "Lun a Vie · 08:00hs - 20:00hs · Sáb · 09:00hs - 14:00hs",
+    "mapQuery": "Juramento 2089, Belgrano, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-pro.kingdom-tech.co",
+    "title": "Dental Pro — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología en Belgrano con turnos rápidos, atención cálida y precios accesibles. Implantes, tratamiento de conducto, carillas, estética dental, limpieza y arreglos, con profesionales capacitados y financiación.",
+    "ogTitle": "Dental Pro — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología en Belgrano con turnos rápidos, atención cálida y precios accesibles. Implantes, conductos, carillas y estética dental.",
+    "siteName": "Dental Pro",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Belgrano con turnos rápidos, atención cálida y precios accesibles. Implantes, conductos, carillas y estética.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Juramento 2089, Piso 7",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "14:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Juramento 2089 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Belgrano con turnos rápidos, atención\ncálida y precios accesibles para toda la familia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Pro",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "Turnos",
+          "label": "Rápidos y fáciles"
+        },
+        {
+          "value": "Implantes",
+          "label": "Y estética dental"
+        },
+        {
+          "value": "Accesible",
+          "label": "Con financiación"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Carillas y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Urgencias dentales",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica odontológica con turnos rápidos y fáciles de conseguir, profesionales capacitados y prolijos, e instalaciones limpias y modernas. "
+        },
+        {
+          "text": "Atención cálida y humana, con precios accesibles y financiación.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Turnos rápidos\nY sin esperas",
+          "body": "Conseguir tu turno es fácil y rápido, como destacan nuestros pacientes. Te atendemos en horario, sin esperas, y te explicamos todo paso a paso para que tomes la mejor decisión para tu sonrisa."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Implantes y estética\nDe primer nivel",
+          "body": "Implantes, tratamientos de conducto, carillas y estética dental con profesionales capacitados y tecnología actualizada. Todo con precios accesibles y opciones de financiación a tu medida."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Beis",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Enzo Salvatori",
+          "role": "Implantología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Juan Pablo",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me atendí en sucursal Constituyentes con el Doctor Juan Pablo y fue una experiencia muy agradable. Amable, cálido, atento, cuidadoso, paciente y muy prolijo.",
+          "name": "Mariana Natalia Perna",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente lugar, me atendí por dos implantes en Sede Juramento, todo el personal súper amables y atentos. Mil gracias al Doc. Enzo Salvatori, un amor de persona y magnífico profesional, lo recomiendo 100%.",
+          "name": "Carla Aguilera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales! Atención súper cálida. Me hice un implante y salió todo perfecto. Súper recomendables.",
+          "name": "Sebastian Cardoni",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendí en Constituyentes, la verdad impecable. Buena onda y no tuve que esperar por mi turno. Me hice 2 tratamientos de conducto. Recomendable y accesible.",
+          "name": "Ariel Cristensen",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La rapidez para conseguir una cita es impresionante. Todo el personal es extremadamente profesional y atento. Me sentí en buenas manos en todo momento.",
+          "name": "Martyna Wolosiewicz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Dental Pro! Excelente atención, tecnología y profesionales de primer nivel. Súper recomendable!",
+          "name": "Esteban Bravino",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Es fácil conseguir turno?",
+          "answer": "Sí, es de lo que más nos destacan. Los turnos son rápidos y fáciles de conseguir. Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede."
+        },
+        {
+          "question": "¿Hacen implantes y tratamientos de conducto?",
+          "answer": "Sí. Realizamos implantes dentales, tratamientos de conducto, carillas y estética con profesionales capacitados y tecnología actualizada. Escribinos y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Tienen precios accesibles y financiación?",
+          "answer": "Sí. Trabajamos con precios accesibles y opciones de financiación para que puedas hacer tu tratamiento con tranquilidad. Te explicamos cada tratamiento y su costo antes de empezar."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Cuando aparece el dolor o una urgencia, escribinos por WhatsApp y te hacemos lugar para resolverlo lo antes posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Juramento 2089, Piso 7, Belgrano, CABA. Atendemos de lunes a viernes de 8 a 20 y los sábados de 9 a 14. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Juramento 2089, Piso 7, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 20:00hs · Sáb · 09:00hs - 14:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Belgrano con turnos rápidos,\natención cálida y precios accesibles. Implantes,\nconductos, carillas y estética para toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas y estética",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Juramento 2089, Belgrano"
+            },
+            {
+              "label": "+54 9 11 3017-2090",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Pro"
+    }
+  }
+}

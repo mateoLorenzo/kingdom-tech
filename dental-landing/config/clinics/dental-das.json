@@ -1,0 +1,422 @@
+{
+  "brand": {
+    "name": "Dental Das",
+    "shortName": "Dental Das Group",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491132295596",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Das Group."
+    },
+    "phoneDisplay": "+54 9 11 3229-5596",
+    "address": "Laprida 1621, Piso 2 B, Recoleta, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Laprida 1621, Recoleta, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-das.kingdom-tech.co",
+    "title": "Dental Das Group Argentina — Expertos en Odontología | Recoleta, CABA",
+    "description": "Odontología en Recoleta con atención bilingüe español-inglés y laboratorio propio. Implantes, carillas de porcelana, coronas, blanqueamiento y urgencias resueltas en el día, con tecnología de última generación y resultados estéticos naturales.",
+    "ogTitle": "Dental Das Group Argentina — Expertos en Odontología | Recoleta",
+    "ogDescription": "Odontología en Recoleta con atención bilingüe y laboratorio propio. Implantes, carillas, coronas, blanqueamiento y urgencias en el día.",
+    "siteName": "Dental Das Group Argentina",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Recoleta con atención bilingüe y laboratorio propio. Implantes, carillas, coronas y urgencias en el día.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Laprida 1621, Piso 2 B",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 296
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Laprida 1621 · Recoleta · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Recoleta con atención bilingüe y laboratorio\npropio: implantes, carillas y urgencias resueltas en el día.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Das Group",
+        "label": "Recoleta · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "296",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Bilingüe",
+          "label": "Atención en español e inglés"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Carillas de porcelana",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Coronas y puentes",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Blanqueamiento",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Urgencias en el día",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica bilingüe con laboratorio propio donde los Dres. Telo resuelven tratamientos complejos y urgencias en tiempo récord, con tecnología de última generación. "
+        },
+        {
+          "text": "Resultados estéticos naturales y un trato humano que devuelve la confianza.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nEn el día",
+          "body": "Cuando aparece el dolor o se rompe una pieza, te hacemos lugar en el día o al día siguiente. Con laboratorio propio resolvemos coronas el mismo día, para que vuelvas a sonreír sin esperas."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Estética que\nSe ve natural",
+          "body": "Carillas de porcelana, blanqueamiento, implantes y rehabilitación con resultados naturales que nuestros pacientes destacan. Tecnología de primer nivel y atención bilingüe, también para pacientes del exterior."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Marisol Telo",
+          "role": "Estética y endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Gustavo Telo",
+          "role": "Implantología y rehabilitación",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Giuliana",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente profesional el Dr. Gustavo Telo. Logró colocarme implantes dentales que otros dentistas me habían dicho que no eran posibles. Todo el tratamiento fue realizado con gran profesionalismo, puntualidad y respeto.",
+          "name": "Claudia López",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "I would highly recommend the Dental Das group to anybody traveling to Buenos Aires. The services are superior to what I get in California. They have the latest technology in x-rays and are able to create crowns the same day.",
+          "name": "Jennifer Karmiol",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "I came from the U.S. for an emergency root canal, and Dr. Marisol Telo handled it with remarkable skill, precision, and compassion. She made a stressful situation feel completely manageable.",
+          "name": "Jessica Clark",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente todo! De lo más recomendable! Me quedó la sonrisa perfecta, me hice 4 carillas y blanqueamiento. Un trabajo perfecto de Gustavo y Sol! Unos genios!",
+          "name": "Mercedes Fernandez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy de las que tienen un trauma fuerte con los odontólogos. Me atendió Marisol Telo y me sentí muy contenida. Quiero decir que la atención fue excelente.",
+          "name": "sabrina ines ruscitti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Dr. Gustavo Telo and Dr. Marisol Telo were amazing professionals working with top grade medical equipment. In two visits they did three new crowns, a cavity fill and a chip repair. The pricing was phenomenal.",
+          "name": "Karol Capezio",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Resolvemos urgencias en el día o al día siguiente. Cuando aparece el dolor o se rompe una pieza, escribinos por WhatsApp y te hacemos lugar para solucionarlo lo antes posible."
+        },
+        {
+          "question": "¿Hacen implantes, carillas y coronas?",
+          "answer": "Sí, son nuestras especialidades. Hacemos implantes dentales, carillas de porcelana, coronas y puentes de zirconio, con resultados estéticos naturales y tecnología de última generación."
+        },
+        {
+          "question": "¿Tienen laboratorio propio?",
+          "answer": "Sí. Contamos con laboratorio propio en el lugar, lo que nos permite resolver coronas el mismo día y acortar los tiempos de tratamiento sin resignar calidad."
+        },
+        {
+          "question": "¿Atienden en inglés a pacientes del exterior?",
+          "answer": "Sí. Somos un equipo bilingüe español-inglés y recibimos pacientes de turismo dental de Estados Unidos, Reino Unido y Europa, coordinando incluso por WhatsApp antes del viaje."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Laprida 1621, Piso 2 B, Recoleta, CABA. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Laprida 1621, Piso 2 B, Recoleta, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Recoleta con atención bilingüe y\nlaboratorio propio. Implantes, carillas, coronas y\nurgencias resueltas en el día.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/dentaldasgroup",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas de porcelana",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y puentes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Laprida 1621, Recoleta"
+            },
+            {
+              "label": "+54 9 11 3229-5596",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@dentaldasgroup",
+              "href": "https://www.instagram.com/dentaldasgroup",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Das Group Argentina"
+    }
+  }
+}

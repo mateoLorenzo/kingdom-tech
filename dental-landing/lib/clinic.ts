@@ -131,6 +131,20 @@ import maurelli from "@/config/clinics/maurelli.json";
 import dentalSystem from "@/config/clinics/dental-system.json";
 import aqua from "@/config/clinics/aqua.json";
 import bravo from "@/config/clinics/bravo.json";
+import bairesdent from "@/config/clinics/bairesdent.json";
+import dentalPro from "@/config/clinics/dental-pro.json";
+import olexen from "@/config/clinics/olexen.json";
+import dentalDas from "@/config/clinics/dental-das.json";
+import dgDental from "@/config/clinics/dg-dental.json";
+import mastropierro from "@/config/clinics/mastropierro.json";
+import epelbaum from "@/config/clinics/epelbaum.json";
+import dentalSurLanus from "@/config/clinics/dental-sur-lanus.json";
+import najo from "@/config/clinics/najo.json";
+import integralLomas from "@/config/clinics/integral-lomas.json";
+import odontoZ from "@/config/clinics/odonto-z.json";
+import fiorito from "@/config/clinics/fiorito.json";
+import rando from "@/config/clinics/rando.json";
+import gamaDental from "@/config/clinics/gama-dental.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -267,6 +281,20 @@ const registry = {
   "dental-system": dentalSystem as ClinicConfig,
   "aqua": aqua as ClinicConfig,
   "bravo": bravo as ClinicConfig,
+  "bairesdent": bairesdent as ClinicConfig,
+  "dental-pro": dentalPro as ClinicConfig,
+  "olexen": olexen as ClinicConfig,
+  "dental-das": dentalDas as ClinicConfig,
+  "dg-dental": dgDental as ClinicConfig,
+  "mastropierro": mastropierro as ClinicConfig,
+  "epelbaum": epelbaum as ClinicConfig,
+  "dental-sur-lanus": dentalSurLanus as ClinicConfig,
+  "najo": najo as ClinicConfig,
+  "integral-lomas": integralLomas as ClinicConfig,
+  "odonto-z": odontoZ as ClinicConfig,
+  "fiorito": fiorito as ClinicConfig,
+  "rando": rando as ClinicConfig,
+  "gama-dental": gamaDental as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

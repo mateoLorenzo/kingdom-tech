@@ -1,0 +1,430 @@
+{
+  "brand": {
+    "name": "Clinica NAJO",
+    "shortName": "Odontología NAJO 24 hs",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491138685402",
+      "defaultMessage": "Hola, tengo una urgencia y quiero coordinar un turno en Odontología NAJO 24 hs."
+    },
+    "phoneDisplay": "+54 9 11 3868-5402",
+    "address": "Buenos Aires 3173, Florencio Varela, Buenos Aires",
+    "hours": "Guardia 24 hs · Todos los días",
+    "mapQuery": "Buenos Aires 3173, Florencio Varela, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://najo.kingdom-tech.co",
+    "title": "Odontología NAJO 24 hs — Expertos en Odontología | Florencio Varela",
+    "description": "Guardia odontológica 24 horas en Florencio Varela. Urgencias dentales resueltas en el día, extracciones de muelas de juicio sin dolor, endodoncia e infecciones, con turnos por WhatsApp casi inmediatos y un trato cálido para los que le tienen miedo al dentista.",
+    "ogTitle": "Odontología NAJO 24 hs — Expertos en Odontología | Florencio Varela",
+    "ogDescription": "Guardia odontológica 24 hs en Florencio Varela. Urgencias, extracciones sin dolor y endodoncia, con turnos por WhatsApp casi inmediatos.",
+    "siteName": "Odontología NAJO 24 hs",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia odontológica 24 hs en Florencio Varela. Urgencias y extracciones sin dolor, con turnos por WhatsApp casi inmediatos.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Buenos Aires 3173",
+        "city": "Florencio Varela",
+        "region": "Buenos Aires",
+        "postalCode": "B1888",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 331
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Buenos Aires 3173 · Florencio Varela · Guardia 24 hs",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Guardia odontológica 24 horas en Florencio Varela.\nUrgencias resueltas en el día y extracciones sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología NAJO 24 hs",
+        "label": "Florencio Varela"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "331",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "24 hs",
+          "label": "Guardia todos los días"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Guardia y urgencias 24 hs",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Endodoncia y conductos",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Tratamiento de infecciones",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Reconstrucción de piezas",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una guardia odontológica abierta las 24 horas, todos los días, para resolver tu urgencia cuando aparece el dolor —de madrugada, un domingo o un feriado. "
+        },
+        {
+          "text": "Turnos por WhatsApp casi inmediatos y extracciones sin dolor, con un trato cálido para los que le tienen miedo al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Guardia 24 hs\nCuando más duele",
+          "body": "Atendemos urgencias a cualquier hora, todos los días. Pacientes que no conseguían turno en ningún lado cuentan que acá los atendieron en el día, muchas veces de madrugada o un domingo, y se fueron sin dolor."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nY sin miedo",
+          "body": "Extracciones de muelas de juicio en minutos, endodoncia e infecciones resueltas con paciencia y claridad. Una mano suave y mucha contención, ideal para quienes le tienen miedo al dentista."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Nadia Acevedo",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ignacio",
+          "role": "Odontología general y urgencias",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Micaela",
+          "role": "Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Claudio Costa",
+          "role": "Odontología y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Concurrí al consultorio un domingo por una contingencia dental imprevista. Fui atendida por la Dra. Nadia, quien actuó con celeridad, solvencia técnica y claridad en la información brindada.",
+          "name": "Marta Beatriz Alarcon",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención de la Dra Fabiana. Fui a la guardia con un dolor intenso y después de explicarme las opciones y tratamientos me sacó el dolor. A pesar de que me queda lejos volveré si necesito atender alguna urgencia.",
+          "name": "Diego Marin",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La recepcionista fuera de serie, súper amable, y si tenés miedo como yo te contiene. Y qué decir de la doctora Nadia: me sacó una muela en 10 minutos, a las 12 AM.",
+          "name": "Fabian Araujo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención! Quiero agradecer a la odontóloga Nadia Acevedo. Es la primera vez en la vida que me saco una pieza, ni más ni menos que la de juicio, y no me duele nada, no tuve ni que tomar el analgésico.",
+          "name": "Nicolas Ferrario",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La doctora Nadia me sacó una muela de juicio con la que venía sufriendo hace meses. Puso música, me tranquilizó y en menos de un minuto la muela estaba afuera. Increíble.",
+          "name": "Aymara Lopez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui el domingo por guardia, siendo de Lanús elegí ir por sus calificaciones y no me equivoqué. Me atendió la Dra. Nadia, una genia! Yo estaba muy asustada y con mucho miedo y tenía una infección.",
+          "name": "Yanina Bosovich",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias las 24 horas?",
+          "answer": "Sí. Somos una guardia odontológica abierta las 24 horas, todos los días, incluso de madrugada, domingos y feriados. Si tenés dolor o una urgencia, escribinos por WhatsApp y te hacemos lugar lo antes posible."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Por WhatsApp. Respondemos rápido y, en la mayoría de los casos, te damos un turno para el mismo día. Así evitás esperar en la sala y llegás directo a tu horario."
+        },
+        {
+          "question": "¿Hacen extracciones de muelas de juicio?",
+          "answer": "Sí, es de lo que más nos agradecen. Hacemos extracciones, incluso de muelas de juicio, de forma rápida y sin dolor, como destacan nuestros pacientes en sus opiniones."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Muchos de nuestros pacientes llegan con miedo y se van sorprendidos. Trabajamos con mucha paciencia, contención y una mano suave para que la experiencia sea tranquila de principio a fin."
+        },
+        {
+          "question": "¿Hacen endodoncia y arreglos además de urgencias?",
+          "answer": "Sí. Además de la guardia hacemos endodoncia y conductos, tratamiento de infecciones, reconstrucción de piezas y tratamientos estéticos. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Buenos Aires 3173, Florencio Varela, Provincia de Buenos Aires, y atendemos las 24 horas, todos los días. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu turno de urgencia en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Buenos Aires 3173, Florencio Varela, Buenos Aires",
+      "hoursLine": "Guardia 24 hs · Todos los días",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Guardia odontológica 24 horas en Florencio\nVarela. Urgencias resueltas en el día y\nextracciones sin dolor, con turnos por WhatsApp.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/odontologianajo",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Guardia y urgencias 24 hs",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Buenos Aires 3173, Florencio Varela"
+            },
+            {
+              "label": "+54 9 11 3868-5402",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@odontologianajo",
+              "href": "https://www.instagram.com/odontologianajo",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología NAJO 24 hs"
+    }
+  }
+}

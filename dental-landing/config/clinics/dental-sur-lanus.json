@@ -1,0 +1,416 @@
+{
+  "brand": {
+    "name": "Clinica Sur",
+    "shortName": "Odontología Dental Sur",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491150373001",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología Dental Sur."
+    },
+    "phoneDisplay": "+54 9 11 5037-3001",
+    "address": "Pres. Quintana 125, Lanús, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 18:00hs",
+    "mapQuery": "Pres. Quintana 125, Lanús, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-sur-lanus.kingdom-tech.co",
+    "title": "Odontología Dental Sur — Expertos en Odontología | Lanús, Buenos Aires",
+    "description": "Odontología en Lanús con atención sin dolor y un trato humano que te saca el miedo al dentista. Implantes, coronas, extracciones de muela de juicio, endodoncia y limpieza, en un consultorio moderno e impecable.",
+    "ogTitle": "Odontología Dental Sur — Expertos en Odontología | Lanús",
+    "ogDescription": "Odontología en Lanús con atención sin dolor y un trato humano. Implantes, coronas, extracciones y endodoncia en un consultorio moderno.",
+    "siteName": "Odontología Dental Sur",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Lanús con atención sin dolor y un trato humano que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Pres. Quintana 125",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1824",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 5,
+        "count": 354
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Pres. Quintana 125 · Lanús · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Lanús con atención sin dolor y un trato\nhumano que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Dental Sur",
+        "label": "Lanús · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "354",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Adiós al miedo al dentista"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Extracciones y muela de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y control",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una atención cálida y honesta que le saca el miedo al dentista, con tratamientos sin dolor y diagnósticos claros. "
+        },
+        {
+          "text": "Todo en un consultorio moderno e impecable, donde familias enteras se atienden con confianza.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaron con pánico cuentan que salieron sonriendo. Una mano suave, mucha contención y todo explicado paso a paso hacen que extracciones y tratamientos se vivan sin dolor."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Profesionalismo\nY honestidad",
+          "body": "Implantes, coronas, endodoncia y extracciones con un diagnóstico claro y honesto, sin tratamientos de más. Un consultorio moderno e impecable donde el resultado queda natural y prolijo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Marcos Nicotra",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. Me sacaron una muela de juicio y fue rápido, sin dolor y con mucha contención. Tenía pánico y salí sonriendo. Súper recomendable por la dedicación y el trato tan humano.",
+          "name": "Natalia Naz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de principio a fin. Me realizaron un tratamiento de perno y corona y el resultado fue impecable: la pieza quedó súper natural. El consultorio es muy ordenado y limpio. ¡Súper recomendable!",
+          "name": "Nadia Fernandez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Me puso un implante el Dr. Marcos, es muy profesional. ¡Hiperrecomendado y confiable!",
+          "name": "Andrea Luzko",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente profesional, sobre todo son esas personas que tienen pasión por la profesión. Lugar ideal para los que tienen miedo de ir al dentista. Súper recomendable.",
+          "name": "Roberto Monteros",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Impecable la atención desde que llegas hasta que te vas. Fui por una corona, quedó impecable, sin dolor ni molestias, el material súper natural y estético. El lugar es impecable y súper moderno.",
+          "name": "Milton Carelli",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Conocí Dental Sur en una situación de mucho dolor y cero experiencia odontológica. El Dr. Marcos, con su profesionalismo, seguridad y calidez humana, me atendió y solucionó mi problema. Son excepcionales.",
+          "name": "Marcela De Luca",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que llegaron con pánico perdieron el miedo con nosotros, gracias a un trato cálido, una mano suave y tratamientos sin dolor."
+        },
+        {
+          "question": "¿Hacen implantes y coronas?",
+          "answer": "Sí. Hacemos implantes, coronas, perno y corona y rehabilitación, con resultados que quedan naturales y prolijos. Escribinos por WhatsApp y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Sacan muelas de juicio?",
+          "answer": "Sí, es uno de nuestros tratamientos más frecuentes. Nuestros pacientes destacan que las extracciones se hacen rápido, sin dolor y con mucha contención en cada paso."
+        },
+        {
+          "question": "¿Atienden a toda la familia?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos, con un trato cercano y honesto que genera confianza desde la primera consulta."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Pres. Quintana 125, Lanús, Buenos Aires. Atendemos de lunes a viernes de 9 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Pres. Quintana 125, Lanús, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Lanús con atención sin dolor y un\ntrato humano que te saca el miedo al dentista.\nImplantes, coronas y atención para toda la familia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/dentalsur_/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y prótesis",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Pres. Quintana 125, Lanús"
+            },
+            {
+              "label": "+54 9 11 5037-3001",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@dentalsur_",
+              "href": "https://www.instagram.com/dentalsur_/",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Dental Sur"
+    }
+  }
+}

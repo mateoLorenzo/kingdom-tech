@@ -1,0 +1,414 @@
+{
+  "brand": {
+    "name": "Clinica Rando",
+    "shortName": "Consultorios Dra. Rando",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491128808911",
+      "defaultMessage": "Hola, quiero coordinar un turno en los Consultorios Odontológicos Dra. Alicia Rando."
+    },
+    "phoneDisplay": "+54 9 11 2880-8911",
+    "address": "Calle 141 2388, Berazategui, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs · Sáb · 09:00hs - 15:00hs",
+    "mapQuery": "Calle 141 2388, Berazategui, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://rando.kingdom-tech.co",
+    "title": "Consultorios Odontológicos Dra. Alicia Rando — Expertos en Odontología | Berazategui",
+    "description": "Odontología en Berazategui con un equipo de profesionales valorado por su trato cuidadoso y su atención puntual. Extracciones, limpieza, estética e implantes, con turnos sin largas esperas y un consultorio prolijo y cómodo.",
+    "ogTitle": "Consultorios Odontológicos Dra. Alicia Rando — Expertos en Odontología | Berazategui",
+    "ogDescription": "Odontología en Berazategui con un equipo valorado por su trato cuidadoso y atención puntual. Extracciones, limpieza, estética e implantes.",
+    "siteName": "Consultorios Odontológicos Dra. Alicia Rando",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Berazategui con un equipo valorado por su trato cuidadoso y atención puntual, sin largas esperas.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Calle 141 2388",
+        "city": "Berazategui",
+        "region": "Buenos Aires",
+        "postalCode": "B1884",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "15:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Calle 141 2388 · Berazategui · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Berazategui con un equipo de profesionales\nvalorado por su trato cuidadoso y su atención puntual.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Consultorios Dra. Rando",
+        "label": "Berazategui · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Equipo",
+          "label": "De profesionales"
+        },
+        {
+          "value": "Sin esperas",
+          "label": "Atención puntual con turno"
+        },
+        {
+          "value": "Trato cálido",
+          "label": "Cuidado en cada paso"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de odontólogos valorado por su trato cuidadoso, su sinceridad y el mejor asesoramiento para elegir el tratamiento más indicado para cada paciente. "
+        },
+        {
+          "text": "Turnos puntuales, poca espera y un consultorio siempre prolijo y cómodo.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nCon cuidado",
+          "body": "Nuestros pacientes destacan que los tratamos con el mayor cuidado posible. Desde la recepción hasta el sillón, te acompañamos con amabilidad y paciencia para que tu visita sea una buena experiencia."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Turnos\nSin esperas",
+          "body": "Trabajamos con turno concertado para respetar tu tiempo: puntualidad y poca espera, en un consultorio limpio y cómodo. Te asesoramos con sinceridad sobre el tratamiento más indicado para vos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Alicia Rando",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Álvaro Moreno",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Vázquez",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente lugar y atención. El odontólogo que me hizo la extracción me trató súper bien, lo hizo con el mayor cuidado posible, amé su atención.",
+          "name": "Fernando Haukaluk",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención! Mucha sinceridad y el mejor asesoramiento para el tratamiento más indicado y favorable para el paciente. Dr. Álvaro Moreno, gracias!",
+          "name": "Carlos Cueto",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Es excelente la atención tanto de los recepcionistas como de los médicos. Recomiendo.",
+          "name": "Sofia Mendez Chavez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Limpieza, atención y puntualidad. La recepcionista es muy amable.",
+          "name": "Silvana Rodriguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo aquí con el Dr. Di Paola. Excelente profesional.",
+          "name": "Loli Garcia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes. Dr. Vázquez, groso total.",
+          "name": "Melina Belén Jiménez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden con turno?",
+          "answer": "Sí. Trabajamos con turno concertado para respetar tu tiempo: vas a encontrar puntualidad y poca espera. Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede."
+        },
+        {
+          "question": "¿Hacen extracciones?",
+          "answer": "Sí. Las extracciones son uno de los tratamientos que más nos agradecen, hechas con el mayor cuidado posible y un trato muy atento, como destacan nuestros pacientes."
+        },
+        {
+          "question": "¿Qué otros tratamientos realizan?",
+          "answer": "Hacemos odontología general: limpieza y arreglos, estética y blanqueamiento, ortodoncia, prótesis e implantes. Contanos qué necesitás y te asesoramos con sinceridad sobre la mejor opción."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Cuidadosa y cercana, de un equipo de profesionales valorado por su trato amable, desde la recepción hasta el consultorio. Te explicamos todo con claridad para que decidas tranquilo."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Calle 141 2388, Berazategui, Buenos Aires. Atendemos de lunes a viernes de 9 a 20 y los sábados de 9 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Calle 141 2388, Berazategui, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs · Sáb · 09:00hs - 15:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Berazategui con un equipo de\nprofesionales valorado por su trato cuidadoso\ny su atención puntual, sin largas esperas.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Limpieza y arreglos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Calle 141 2388, Berazategui"
+            },
+            {
+              "label": "+54 9 11 2880-8911",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorios Odontológicos Dra. Alicia Rando"
+    }
+  }
+}

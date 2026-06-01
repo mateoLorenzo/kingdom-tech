@@ -1,0 +1,411 @@
+{
+  "brand": {
+    "name": "Clinica Fiorito",
+    "shortName": "Dra. Sabrina Agulnik",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541127391690",
+      "defaultMessage": "Hola, quiero coordinar un turno en el consultorio de la Dra. Sabrina Agulnik."
+    },
+    "phoneDisplay": "011 2739-1690",
+    "address": "José Luis Murature, Villa Fiorito, Lomas de Zamora",
+    "hours": "Lun a Vie · 10:00hs - 19:00hs · Sáb · 10:00hs - 17:00hs",
+    "mapQuery": "José Luis Murature, Villa Fiorito, Lomas de Zamora, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://fiorito.kingdom-tech.co",
+    "title": "Dra. Sabrina Agulnik — Expertos en Odontología | Villa Fiorito, Lomas de Zamora",
+    "description": "Odontología en Villa Fiorito con un equipo de odontólogas de trato cálido y humano. Tratamiento de conducto, ortodoncia, prótesis, extracciones, odontopediatría y arreglos, con precios accesibles y consultorios modernos e impecables.",
+    "ogTitle": "Dra. Sabrina Agulnik — Expertos en Odontología | Villa Fiorito",
+    "ogDescription": "Odontología en Villa Fiorito con un equipo de odontólogas de trato cálido. Conducto, ortodoncia, prótesis y odontopediatría.",
+    "siteName": "Consultorio Odontológico Fiorito — Dra. Sabrina Agulnik",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Villa Fiorito con un equipo de odontólogas de trato cálido y humano, con precios accesibles.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "José Luis Murature",
+        "city": "Lomas de Zamora",
+        "region": "Buenos Aires",
+        "postalCode": "B1821",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 45
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "José Luis Murature · Villa Fiorito · Lomas de Zamora",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Villa Fiorito con un equipo de odontólogas\nde trato cálido y humano para toda la familia.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dra. Sabrina Agulnik",
+        "label": "Villa Fiorito · Lomas de Zamora"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "45",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Trato cálido",
+          "label": "Para toda la familia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Arreglos y limpieza",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de odontólogas con trato humano y cálido que adapta cada tratamiento a lo que necesitás. "
+        },
+        {
+          "text": "Consultorios modernos e impecables, con precios accesibles y mucha paciencia en cada paso.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Trato humano\nY mucha paciencia",
+          "body": "Familias enteras se atienden con nosotras desde hace años. Lo que más destacan es la calidez, la paciencia y el buen trato, desde la recepción hasta el sillón. Cada tratamiento se piensa a la medida de cada paciente."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tratamientos\nDe la A a la Z",
+          "body": "Tratamiento de conducto, ortodoncia, prótesis, extracciones, odontopediatría y arreglos, todo en un mismo lugar. Trabajos prolijos, mucha higiene y precios accesibles, en consultorios modernos y confortables."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Sabrina Agulnik",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Mirtha",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Hace años que mis hijos y yo somos pacientes del consultorio. Espectacular la Dra. Sabrina y todos los que la acompañan. Muchas gracias por nuestras sonrisas.",
+          "name": "Alejandra Distefano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Tanto de las chicas de entrada como las doctoras. En especial la ortodoncista Mirtha. Calidad humana y busca que el tratamiento sea acorde a cada paciente y sus necesidades.",
+          "name": "Brenda Contreras",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui por un tratamiento de conducto y arreglo en 2 dientes, el arreglo de los dientes quedó impecable. Recomendable.",
+          "name": "Pablo Toscano",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. Profesionales atentos y responsables. Consultorios modernos y confortables.",
+          "name": "Natalia Lema",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me devolvieron la sonrisa!!! Excelentes profesionales, súper recomendables.",
+          "name": "fabian hofman",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atiendo hace años y siempre trabajaron de manera impecable, sobre todo mucha higiene y muy buenas profesionales.",
+          "name": "Maximiliano Fretes Barnichea",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos tratamiento de conducto, ortodoncia, prótesis, extracciones, odontopediatría y arreglos. Trabajamos todo en un mismo lugar, con trabajos prolijos y mucha higiene."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos. Muchos pacientes vienen con sus hijos desde hace años porque destacan la paciencia y el buen trato con los chicos."
+        },
+        {
+          "question": "¿Hacen ortodoncia?",
+          "answer": "Sí. Contamos con la Dra. Mirtha en ortodoncia, muy recomendada por nuestros pacientes. Llamanos y te asesoramos sobre la mejor opción para vos."
+        },
+        {
+          "question": "¿Tienen precios accesibles?",
+          "answer": "Sí. Trabajamos con precios accesibles y acordes, y te explicamos cada tratamiento con anticipación para que decidas con tranquilidad."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en José Luis Murature, Villa Fiorito, Lomas de Zamora. Atendemos de lunes a viernes de 10 a 19 y sábados de 10 a 17. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "José Luis Murature, Villa Fiorito, Lomas de Zamora",
+      "hoursLine": "Lun a Vie · 10:00hs - 19:00hs · Sáb · 10:00hs - 17:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Villa Fiorito con un equipo de\nodontólogas de trato cálido y humano. Conducto,\nortodoncia, prótesis y atención para toda la familia.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "José Luis Murature, Villa Fiorito"
+            },
+            {
+              "label": "011 2739-1690",
+              "href": "tel:+541127391690"
+            },
+            {
+              "label": "Lun a Sáb · 10-19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio Odontológico Fiorito — Dra. Sabrina Agulnik"
+    }
+  }
+}

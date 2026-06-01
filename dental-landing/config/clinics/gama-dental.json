@@ -1,0 +1,435 @@
+{
+  "brand": {
+    "name": "GAMA Dental",
+    "shortName": "GAMA Dental y Estética",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491139407139",
+      "defaultMessage": "Hola, quiero coordinar un turno en GAMA Dental y Estética."
+    },
+    "phoneDisplay": "+54 9 11 3940-7139",
+    "address": "Dr. A. Melo 2581, Lanús, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 18:00hs · Sáb · 09:00hs - 16:00hs",
+    "mapQuery": "Dr. A Melo 2581, Lanús, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gama-dental.kingdom-tech.co",
+    "title": "GAMA Dental y Estética — Expertos en Odontología | Lanús, Buenos Aires",
+    "description": "Odontología integral en Lanús con turnos rápidos y urgencias en el día. Ortodoncia, odontopediatría, implantes, endodoncia, prótesis y diseño de sonrisa, en un centro moderno con tecnología de alta gama y atención cálida para toda la familia.",
+    "ogTitle": "GAMA Dental y Estética — Expertos en Odontología | Lanús",
+    "ogDescription": "Odontología integral en Lanús con turnos rápidos y urgencias en el día. Ortodoncia, odontopediatría, implantes y diseño de sonrisa.",
+    "siteName": "GAMA Dental y Estética",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Lanús con turnos rápidos y urgencias en el día, en un centro moderno para toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Dr. A. Melo 2581",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1824",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.3,
+        "count": 119
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Dr. A. Melo 2581 · Lanús · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en Lanús con turnos rápidos y\nurgencias en el día, en un centro moderno para toda la familia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "GAMA Dental y Estética",
+        "label": "Lanús · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.3",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "119",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Urgencias",
+          "label": "Turnos en el día"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Diseño de sonrisa",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro odontológico moderno, con instalaciones impecables y equipamiento de alta tecnología, donde un equipo amplio de profesionales atiende a toda la familia. "
+        },
+        {
+          "text": "Turnos rápidos, urgencias en el día y una atención que prioriza tu salud dental.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Turnos rápidos\nY urgencias en el día",
+          "body": "Cuando aparece el dolor o una urgencia, te hacemos lugar en el día. Amplia disponibilidad horaria de lunes a sábado, recordatorios de turnos efectivos y una organización que nuestros pacientes destacan."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Toda la familia\nEn buenas manos",
+          "body": "De los más chicos a los adultos: ortodoncia, odontopediatría, implantes, endodoncia, prótesis y diseño de sonrisa. Un equipo cálido que prioriza la funcionalidad y la salud de tus dientes por sobre lo económico."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Ornella",
+          "role": "Ortodoncia pediátrica",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Mazut",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Carolina",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Nuñez",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente centro! Todos los profesionales súper comprometidos, dedicados y especializados en su labor. La atención y la calidad humana acompañan la excelencia. La Dra Ornella sin dudas es una de las mejores ortodoncistas pediátricas!",
+          "name": "Giselle Hourcade",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Pedí un turno por una urgencia y me citaron para el mismo día, lo cual hoy en día es oro. La atención de la Dra Carolina un lujo la verdad. Recomendable lugar.",
+          "name": "Emiliano Rey",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención es excelente, priorizan la funcionalidad de tus dientes por sobre lo monetario. Se preocupan por tu salud dental como no vi en otros lugares.",
+          "name": "Pablo Lusci",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, muy profesionales, equipos de alta tecnología. Los recordatorios de turnos son muy efectivos.",
+          "name": "Cecilia Macarena Paez Lopez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia es espectacular. Tuve un problema y en el día me asignaron turno. Me atendieron de maravilla. Estoy seguro de haber encontrado el lugar perfecto para mi salud bucal. Muy recomendable.",
+          "name": "Hector Perez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Realmente unos consultorios súper modernos e impecables. Al igual que la atención maravillosa. Destaco la atención profesional y amorosa para con mi madre del Dr Mazut y de la Dra Silvina Flores. Excelente lugar!",
+          "name": "Clau Agullo",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias en el día?",
+          "answer": "Sí. Tenemos amplia disponibilidad horaria y muchos pacientes destacan que les dimos turno de un día para otro, incluso ante una urgencia. Escribinos por WhatsApp y te hacemos lugar lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Contamos con odontopediatría y ortodoncia pediátrica, con profesionales muy queridas por los chicos. Atendemos a familias enteras, de los más chicos a los adultos."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos ortodoncia, odontopediatría, implantes, endodoncia (tratamiento de conducto), extracciones, prótesis y diseño de sonrisa, en un centro moderno con equipamiento de alta tecnología."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos de lunes a viernes de 9 a 18 y los sábados de 9 a 16."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con varias coberturas. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Dr. A. Melo 2581, Lanús, Provincia de Buenos Aires. Atendemos de lunes a viernes de 9 a 18 y los sábados de 9 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Dr. A. Melo 2581, Lanús, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 18:00hs · Sáb · 09:00hs - 16:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología integral en Lanús con turnos rápidos\ny urgencias en el día. Ortodoncia, odontopediatría,\nimplantes y diseño de sonrisa para toda la familia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/gamadental.lanus/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Dr. A. Melo 2581, Lanús"
+            },
+            {
+              "label": "+54 9 11 3940-7139",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@gamadental.lanus",
+              "href": "https://www.instagram.com/gamadental.lanus/",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "GAMA Dental y Estética"
+    }
+  }
+}

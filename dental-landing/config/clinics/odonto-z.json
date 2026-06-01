@@ -1,0 +1,406 @@
+{
+  "brand": {
+    "name": "Clinica Odonto",
+    "shortName": "Odonto._z",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491156321992",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odonto._z."
+    },
+    "phoneDisplay": "+54 9 11 5632-1992",
+    "address": "Eduardo Madero 1406, Valentín Alsina, Buenos Aires",
+    "hours": "Lun a Vie · 09:30hs - 17:00hs · Sáb · 08:00hs - 13:00hs",
+    "mapQuery": "Eduardo Madero 1406, Valentín Alsina, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odonto-z.kingdom-tech.co",
+    "title": "Odonto._z — Expertos en Odontología | Valentín Alsina, Buenos Aires",
+    "description": "Odontología en Valentín Alsina con una atención cálida, paciente y comprensiva que tranquiliza hasta a quienes le temen al dentista. Consulta general, limpieza, estética, ortodoncia e implantes en un consultorio agradable y cómodo.",
+    "ogTitle": "Odonto._z — Expertos en Odontología | Valentín Alsina",
+    "ogDescription": "Odontología en Valentín Alsina con una atención cálida y paciente que tranquiliza hasta a quienes le temen al dentista.",
+    "siteName": "Odonto._z",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Valentín Alsina con una atención cálida, paciente y comprensiva.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Eduardo Madero 1406",
+        "city": "Valentín Alsina",
+        "region": "Buenos Aires",
+        "postalCode": "B1826",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday"
+          ],
+          "opens": "09:30",
+          "closes": "17:00"
+        },
+        {
+          "days": [
+            "Wednesday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        },
+        {
+          "days": [
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "17:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "13:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Eduardo Madero 1406 · Valentín Alsina · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Valentín Alsina con una atención cálida\ny paciente que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odonto._z",
+        "label": "Valentín Alsina · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Sin miedo",
+          "label": "Atención paciente y cálida"
+        },
+        {
+          "value": "Cercanía",
+          "label": "Un trato que tranquiliza"
+        },
+        {
+          "value": "Sábados",
+          "label": "También te atendemos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Consulta y control",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una atención cercana, paciente y comprensiva que tranquiliza incluso a quienes le temen al dentista. "
+        },
+        {
+          "text": "En un consultorio agradable y cómodo, donde te explicamos todo con calma y cuidamos cada detalle.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Quienes le temían a la consulta cuentan que acá encontraron paciencia y comprensión. Una mano suave, mucho cuidado y contención en cada paso para que vivas tu tratamiento con tranquilidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Un consultorio\nQue da gusto",
+          "body": "Un espacio agradable y cómodo donde te sentís bien recibido. Atención cálida y dedicada, desde una consulta de control hasta tratamientos de estética, ortodoncia e implantes."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Siempre una excelente atención. Paciencia y comprensión, a los que tenemos miedo a ir a la consulta. Gracias.",
+          "name": "Sergio Lazo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hermoso consultorio, un amor la doc!",
+          "name": "Vero Escajadilla",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención.",
+          "name": "Noelia",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Atendemos con paciencia, comprensión y una mano suave, para tranquilizar incluso a quienes le temen al dentista. Vas a estar en buenas manos."
+        },
+        {
+          "question": "¿Hacen consultas y controles generales?",
+          "answer": "Sí. Hacemos consultas, controles, limpiezas y arreglos, y también tratamientos de estética, ortodoncia, endodoncia e implantes. Escribinos por WhatsApp y te asesoramos según lo que necesites."
+        },
+        {
+          "question": "¿Cómo es el consultorio?",
+          "answer": "Es un espacio agradable y cómodo, pensado para que te sientas bien recibido y atendido con calma desde que llegás."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que merecés."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Eduardo Madero 1406, Valentín Alsina, Buenos Aires. Atendemos de lunes a viernes de 9:30 a 17 y los sábados de 8 a 13. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Eduardo Madero 1406, Valentín Alsina, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:30hs - 17:00hs · Sáb · 08:00hs - 13:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Valentín Alsina con una atención\ncálida, paciente y comprensiva que te saca el\nmiedo al dentista, en un consultorio cómodo.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/odonto._z",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Consulta y control",
+              "href": "#servicios"
+            },
+            {
+              "label": "Limpieza y arreglos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Eduardo Madero 1406, Valentín Alsina"
+            },
+            {
+              "label": "+54 9 11 5632-1992",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@odonto._z",
+              "href": "https://instagram.com/odonto._z",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio odontológico Odonto._z"
+    }
+  }
+}

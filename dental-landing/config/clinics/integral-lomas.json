@@ -1,0 +1,418 @@
+{
+  "brand": {
+    "name": "Clinica Lomas",
+    "shortName": "Odontología Integral Lomas",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491153448888",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología Integral Lomas."
+    },
+    "phoneDisplay": "+54 9 11 5344-8888",
+    "address": "Av. Meeks 71, Lomas de Zamora, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Av. Meeks 71, Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://integral-lomas.kingdom-tech.co",
+    "title": "Odontología Integral Lomas — Expertos en Odontología | Lomas de Zamora",
+    "description": "Centro odontológico integral en Lomas de Zamora: guardia y urgencias, extracciones, endodoncia, ortodoncia, odontopediatría y estudios resueltos en el mismo lugar. Instalaciones modernas, atención ágil y un equipo de profesionales que explican todo con paciencia.",
+    "ogTitle": "Odontología Integral Lomas — Expertos en Odontología | Lomas de Zamora",
+    "ogDescription": "Centro odontológico integral en Lomas de Zamora. Guardia y urgencias, extracciones, endodoncia, ortodoncia y odontopediatría en un solo lugar.",
+    "siteName": "Odontología Integral Lomas",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico integral en Lomas de Zamora con guardia, urgencias y múltiples especialidades en un solo lugar.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Meeks 71",
+        "city": "Lomas de Zamora",
+        "region": "Buenos Aires",
+        "postalCode": "B1832",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.4,
+        "count": 1835
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Meeks 71 · Lomas de Zamora · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico integral en Lomas de Zamora:\nurgencias, especialidades y estudios en un solo lugar.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Integral Lomas",
+        "label": "Lomas de Zamora · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.4",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "1.835",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Guardia",
+          "label": "Urgencias en el día"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Guardia y urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Limpieza y consulta general",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro odontológico integral, grande y moderno, donde resolvemos urgencias, estudios y múltiples especialidades en un solo lugar. "
+        },
+        {
+          "text": "Atención ágil, instalaciones impecables y profesionales que explican cada paso con paciencia.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nResueltas en el día",
+          "body": "Cuando aparece el dolor, te atendemos rápido. Pacientes que llegaron sin turno por una guardia espontánea destacan que en minutos les hicimos la placa y los atendió la doctora con un diagnóstico claro."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Todo en\nUn solo lugar",
+          "body": "Extracciones, endodoncia, ortodoncia, odontopediatría, periodoncia y radiografías panorámicas resueltas en la misma clínica. Un equipo amplio, instalaciones modernas y una recepción ágil que cuida tu tiempo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Magali Laspina",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Luis F. Ocampo",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Martina Schulthais",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Gonzalo Petrelli",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Fui con un fuerte dolor en un diente, con hinchazón. Me atendieron excelente y rápido, me hicieron una placa y en 10 minutos me atendió la doctora y me dio su diagnóstico.",
+          "name": "Omar Direse",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui con mi hijo a la guardia espontánea. Nos atendieron rápido. El espacio es hermoso, ambientado para los pequeños. La doctora fue empática, me explicó adecuadamente y dio indicaciones. Sin dudas volvería.",
+          "name": "Romina Rodriguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi hijo está dentro del espectro autista. La Dra. Laspina es maravillosa, súper profesional, cariñosa y competente. La recomendaría para todo niño. Muchísimas gracias.",
+          "name": "Silvia Bozzuti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice una extracción por primera vez después de años de posponerlo por miedo. La Dra. Martina Schulthais me explicó el procedimiento y me acompañó. Excelente.",
+          "name": "Florencia Maidana",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Este centro lo amerita. Tienen un nivel de operatividad eximio; llegás y hay tres recepcionistas atendiendo con muy buena actitud, sin dejar que esperes.",
+          "name": "Lilian Retamar",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buenos profesionales. Instalaciones de primer nivel. Muy buenos precios. Fui porque me lo recomendaron y seguiré recomendándolos.",
+          "name": "Caro Gatti",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias y guardia?",
+          "answer": "Sí. Tenemos guardia y resolvemos urgencias en el día. Muchos pacientes llegan con dolor sin turno y los atendemos rápido, con placa en el momento y un diagnóstico claro."
+        },
+        {
+          "question": "¿Qué especialidades hacen?",
+          "answer": "Somos un centro odontológico integral: extracciones y cirugía, endodoncia, ortodoncia, odontopediatría, periodoncia, limpieza y consulta general, además de radiografías panorámicas en el mismo lugar."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Contamos con odontopediatría, con la Dra. Magali Laspina muy querida por las familias, incluso para chicos con condiciones especiales. El espacio está ambientado para los más pequeños."
+        },
+        {
+          "question": "¿Hacen los estudios en el lugar?",
+          "answer": "Sí. Realizamos radiografías y placas panorámicas en la misma clínica, así resolvés el diagnóstico y el tratamiento sin tener que ir a otro lado."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Trabajamos con obras sociales y prepagas. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Meeks 71, Lomas de Zamora, Buenos Aires. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu turno o tu urgencia en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Meeks 71, Lomas de Zamora, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Centro odontológico integral en Lomas de Zamora:\nurgencias, especialidades y estudios en un solo lugar,\ncon instalaciones modernas y atención ágil.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Guardia y urgencias",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Meeks 71, Lomas de Zamora"
+            },
+            {
+              "label": "+54 9 11 5344-8888",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Integral Lomas"
+    }
+  }
+}

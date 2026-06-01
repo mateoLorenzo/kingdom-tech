@@ -1,0 +1,401 @@
+{
+  "brand": {
+    "name": "DG Dental",
+    "shortName": "DG Dental Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491154834813",
+      "defaultMessage": "Hola, quiero coordinar un turno en DG Dental Odontología."
+    },
+    "phoneDisplay": "+54 9 11 5483-4813",
+    "address": "Colombres 20, Almagro, CABA",
+    "hours": "Lun a Vie · 09:00hs - 17:00hs",
+    "mapQuery": "Colombres 20, Almagro, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dg-dental.kingdom-tech.co",
+    "title": "DG Dental Odontología — Expertos en Odontología | Almagro, CABA",
+    "description": "Odontología integral en Almagro con la Dra. Daniela González. Implantes, ortodoncia, endodoncia, carillas, extracciones y odontopediatría, con atención cálida, sin dolor y precios accesibles.",
+    "ogTitle": "DG Dental Odontología — Expertos en Odontología | Almagro",
+    "ogDescription": "Odontología integral en Almagro con la Dra. Daniela González. Implantes, ortodoncia, carillas y atención sin dolor a precios accesibles.",
+    "siteName": "DG Dental Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Almagro con atención cálida, sin dolor y precios accesibles. Implantes, ortodoncia y carillas.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Colombres 20",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1405",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Colombres 20 · Almagro · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en Almagro con atención cálida,\nsin dolor y precios accesibles para toda la familia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "DG Dental Odontología",
+        "label": "Almagro · CABA"
+      },
+      "stats": [
+        {
+          "value": "Sin dolor",
+          "label": "Atención cálida y paciente"
+        },
+        {
+          "value": "Integral",
+          "label": "Implantes, ortodoncia y más"
+        },
+        {
+          "value": "Accesible",
+          "label": "Precios y pagos flexibles"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Endodoncia y conductos",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Carillas y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Extracciones y muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Odontología integral liderada por la Dra. Daniela González, con una atención humana, paciente y sin dolor que tranquiliza incluso a quienes le temen al dentista. "
+        },
+        {
+          "text": "Explicamos cada procedimiento en detalle, con precios accesibles y facilidades de pago.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención cálida\nY sin dolor",
+          "body": "Pacientes que llegaban con miedo cuentan que acá la pasaron bien hasta en tratamientos difíciles. Una mano suave, mucha paciencia y todo explicado paso a paso para que estés tranquilo en cada visita."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Soluciones\nIntegrales",
+          "body": "Implantes, ortodoncia, endodoncia, carillas, extracciones y odontopediatría, todo en un mismo lugar. Tratamientos completos con precios accesibles y facilidades de pago a tu medida."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Daniela González",
+          "role": "Odontología general e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Karina",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me gusta la atención, muy cálida y muy bueno el asesoramiento para lo que más conviene en tratamiento y precio. Súper recomendada.",
+          "name": "Silvia Vivas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Amé a la doctora, transmite mucha paz, muy paciente. Algo tan traumático como las extracciones de muela del juicio me lo hizo llevadero. Totalmente recomendable.",
+          "name": "Santiago Iván",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tuve cinco extracciones y cinco implantes el mismo día, no tuve dolor y tengo una excelente recuperación. Feliz de haberla elegido, gracias a la doctora Daniela y a su equipo.",
+          "name": "MARU Sánchez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice tratamiento para corregir una ruptura de diente frontal. La doctora siempre muy bien predispuesta a explicarme el tratamiento, sus resultados y riesgos. El resultado fue muy bonito.",
+          "name": "Fernando Pascual",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Quedé súper contenta con mis carillas. Y la Dra. Daniela es un amor, aparte de ser excelente profesional.",
+          "name": "Maricel K",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente. Nivel Dios. Costo beneficio baratísimo. Mis agradecimientos Dra. González.",
+          "name": "Pablo Torres",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos odontología integral: implantes, ortodoncia, endodoncia (conductos), carillas y estética, extracciones de muelas de juicio y odontopediatría. Escribinos por WhatsApp y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes llegan con miedo y se van tranquilos: trabajamos con una mano suave, mucha paciencia y todo explicado paso a paso, para que cada visita sea sin dolor."
+        },
+        {
+          "question": "¿Colocan implantes?",
+          "answer": "Sí. Los implantes son una de nuestras especialidades, con la experiencia de la Dra. Daniela González. Evaluamos tu caso y te explicamos el tratamiento en detalle antes de empezar."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Contamos con odontopediatría a cargo de la Dra. Karina, para que los más chicos vivan una experiencia tranquila y cuidada. Atendemos a familias enteras."
+        },
+        {
+          "question": "¿Tienen precios accesibles y facilidades de pago?",
+          "answer": "Sí. Trabajamos con precios accesibles y facilidades de pago. Te explicamos cada tratamiento y su costo para que decidas con tranquilidad."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Colombres 20, Almagro, CABA. Atendemos de lunes a viernes de 9 a 17. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Colombres 20, Almagro, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 17:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología integral en Almagro con la Dra.\nDaniela González. Implantes, ortodoncia, carillas\ny atención cálida y sin dolor a precios accesibles.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas y estética",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Colombres 20, Almagro"
+            },
+            {
+              "label": "+54 9 11 5483-4813",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "DG Dental Odontología"
+    }
+  }
+}

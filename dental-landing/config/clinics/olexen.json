@@ -1,0 +1,410 @@
+{
+  "brand": {
+    "name": "Clinica Olexen",
+    "shortName": "Dra. Yanina Olexen",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491164298832",
+      "defaultMessage": "Hola, quiero coordinar un turno con la Dra. Yanina Olexen."
+    },
+    "phoneDisplay": "+54 9 11 6429-8832",
+    "address": "Pujol 1502, Floresta, CABA",
+    "hours": "Lun a Mié y Vie · 13:00hs - 19:00hs",
+    "mapQuery": "Pujol 1502, Floresta, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://olexen.kingdom-tech.co",
+    "title": "Dra. Yanina Olexen — Expertos en Odontología | Floresta, CABA",
+    "description": "Odontología integral en Floresta con la Dra. Yanina Olexen. Atención personalizada y sin dolor, limpiezas, tratamiento de conducto y estética dental, con turnos rápidos y un trato delicado que se nota en cada consulta.",
+    "ogTitle": "Dra. Yanina Olexen — Expertos en Odontología | Floresta",
+    "ogDescription": "Odontología integral en Floresta con atención personalizada y sin dolor. Limpiezas, conductos y estética dental con turnos rápidos.",
+    "siteName": "Odontología Integral Dra. Yanina Olexen",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Floresta con la Dra. Yanina Olexen: atención personalizada, sin dolor y con turnos rápidos.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Pujol 1502",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1754",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "opens": "13:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "13:00",
+          "closes": "19:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Pujol 1502 · Floresta · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en Floresta con atención\npersonalizada, sin dolor y un trato delicado.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dra. Yanina Olexen",
+        "label": "Floresta · CABA"
+      },
+      "stats": [
+        {
+          "value": "Sin dolor",
+          "label": "Trabajos delicados"
+        },
+        {
+          "value": "Turnos",
+          "label": "Asignados rápido"
+        },
+        {
+          "value": "Atención",
+          "label": "Dedicada al paciente"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Odontología integral con dedicación exclusiva al paciente: una mano delicada, mucho cuidado y explicaciones claras en cada paso. "
+        },
+        {
+          "text": "Trabajos sin dolor, turnos rápidos y un consultorio prolijo e higiénico.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Trabajos\nSin dolor",
+          "body": "Lo que más destacan nuestros pacientes: que no duele. Una mano de oro, mucha delicadeza y paciencia en cada tratamiento, desde una limpieza hasta un conducto, para que vengas tranquilo."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nQue se nota",
+          "body": "Dedicación exclusiva al paciente: te explicamos todo paso a paso, asignamos los turnos rápido y respetamos tu horario. Un consultorio limpio y prolijo donde te sentís bien atendido."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Yanina Olexen",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Yanina es una excelente profesional y una gran persona! Seria, reflexiva y siempre buscando la mejor solución para el paciente. La super recomiendo!",
+          "name": "Patricia Zen",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Lo súper recomiendo! Hace 2 años me atiendo ahí y siempre quedo contenta con la atención. Te explican todo, los turnos se asignan rápido y son súper profesionales.",
+          "name": "Rocio Arratta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy recomendable, la atención es para destacar, es muy cuidadosa y profesional, excelente trato con el paciente, consultorio limpio. La mejor odontóloga con la que me atendí.",
+          "name": "Karina Acosta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy profesional y atenta. Me hice una limpieza y un conducto. No me hizo doler y me explicó re bien todo. El lugar es lindo e higiénico.",
+          "name": "Antonella Assalian",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente trato con los pacientes. Te explica todo paso a paso. Muy buena y lo importante que no te hace doler.",
+          "name": "Nico Caste",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "No suelo publicar reseñas, pero la odontóloga se lo merece porque la atención fue excelente. Totalmente recomendable.",
+          "name": "Maximiliano Ramirez",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos para que no. Lo que más destacan nuestros pacientes es que no les hace doler, gracias a una mano delicada y mucho cuidado en cada paso, desde una limpieza hasta un tratamiento de conducto."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Odontología integral: limpiezas y arreglos, tratamiento de conducto, estética y blanqueamiento, prótesis, extracciones e implantes. Escribinos por WhatsApp y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Personalizada y dedicada. La Dra. Yanina se toma el tiempo de explicarte todo paso a paso, en un consultorio prolijo e higiénico. Por eso muchos pacientes la eligen y la recomiendan."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Los turnos se asignan rápido y respetamos tu horario para no hacerte esperar."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Pujol 1502, Floresta, CABA. Atendemos lunes, martes, miércoles y viernes de 13 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Pujol 1502, Floresta, CABA",
+      "hoursLine": "Lun a Mié y Vie · 13:00hs - 19:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología integral en Floresta con la Dra.\nYanina Olexen. Atención personalizada, sin dolor\ny un trato delicado en cada consulta.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/od.yaninaolexen",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Limpieza y arreglos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Pujol 1502, Floresta"
+            },
+            {
+              "label": "+54 9 11 6429-8832",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@od.yaninaolexen",
+              "href": "https://instagram.com/od.yaninaolexen",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Integral Dra. Yanina Olexen"
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "brand": {
+    "name": "Clinica Mastropierro",
+    "shortName": "Dr. Mastropierro y equipo",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491166201726",
+      "defaultMessage": "Hola, quiero coordinar un turno en el consultorio del Dr. Mastropierro."
+    },
+    "phoneDisplay": "+54 9 11 6620-1726",
+    "address": "Güemes 3440, Palermo, CABA",
+    "hours": "Lun a Jue · 09:00hs - 16:00hs",
+    "mapQuery": "Güemes 3440, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://mastropierro.kingdom-tech.co",
+    "title": "Dr. Mastropierro y equipo — Expertos en Odontología | Palermo, CABA",
+    "description": "Odontología en Palermo con consultorio de alta tecnología y atención cálida. Limpieza, coronas, conductos, carillas, implantes y tratamiento de bruxismo, con explicaciones claras y puntualidad estricta.",
+    "ogTitle": "Dr. Mastropierro y equipo — Expertos en Odontología | Palermo",
+    "ogDescription": "Odontología en Palermo con tecnología moderna y atención cálida. Coronas, conductos, carillas, implantes y bruxismo.",
+    "siteName": "Dr. Mastropierro y equipo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Palermo con consultorio de alta tecnología, explicaciones claras y atención cálida.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Güemes 3440",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 217
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Güemes 3440 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Palermo con un consultorio de alta tecnología\ny una atención cálida que te explica todo con claridad.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dr. Mastropierro y equipo",
+        "label": "Palermo · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "217",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Tecnología",
+          "label": "Equipos de última generación"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Coronas y carillas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Bruxismo",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Caries y restauraciones",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un consultorio de alta tecnología donde te mostramos con imágenes lo que pasa en tu boca y te explicamos cada paso con claridad. "
+        },
+        {
+          "text": "Atención cálida, higiene impecable y puntualidad estricta en cada turno.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tecnología\nQue ves en pantalla",
+          "body": "Usamos equipos de última generación e imágenes intraorales para mostrarte tus caries, tu desgaste o lo que necesites, y cómo va a quedar después del tratamiento. Vas a entender todo antes de empezar."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención cálida\nY puntual",
+          "body": "Desde la recepción hasta el sillón, te recibimos con calidez y respetamos tu horario de turno. Coronas, conductos, carillas, implantes y bruxismo, con explicaciones claras y honestas en cada diagnóstico."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Alejo Mastropierro",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Matías Mastropierro",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Recomiendo 100% este consultorio. Me atendí por OSDE pero sinceramente parecía que lo estaban haciendo como si hubiese pagado de forma particular; me atendió el Dr. Matías Mastropierro y fue excelente!",
+          "name": "Hernán Aprile",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Son una maravilla. Desde el momento en que llegué fue una experiencia genial, Flor es una joya total, excelente atención, super amable y atenta. El Dr. Lucas igual una joya, me explicó todo con mucha calma y me dio opciones.",
+          "name": "Jesse Torres",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención del Dr. Alejo Mastropierro excelente de principio a fin, el espacio súper cómodo y todo esterilizado adecuadamente, muy protocolar. A destacar la atención de Florencia.",
+          "name": "Agustina Kolak",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Atención de gran calidad y profesionalismo. El lugar está impecable y es muy buena toda la tecnología que utilizan para mostrarte lo que tenés y cómo va a quedar. Los médicos súper cercanos y atentos.",
+          "name": "Lautaro Beltrán",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Atención de excelencia, Alejo es el mejor odontólogo, atiende con profesionalismo, dedicación y amabilidad, tomándose el tiempo para explicar y dejar claro todo. Se respeta el horario del turno.",
+          "name": "Eliana Bongioanni",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Siempre me dio miedo ir al odontólogo hasta que fui al consultorio, me atendí con Alejo y me explicó muy bien lo que me tenía que hacer, super paciente, e hizo un trabajo excelente!",
+          "name": "fan de casi todo",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos odontología integral: limpieza y arreglos, coronas, carillas, tratamiento de conducto, implantes, tratamiento de bruxismo y restauración de caries. Te asesoramos según tu caso en la primera consulta."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista se sienten cómodos con nosotros gracias a un trato cálido, explicaciones claras y mucha paciencia en cada paso."
+        },
+        {
+          "question": "¿Usan tecnología para los tratamientos?",
+          "answer": "Sí. Trabajamos con equipos de última generación e imágenes intraorales que te mostramos en pantalla, para que veas lo que tenés y cómo va a quedar antes de empezar el tratamiento."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Atendemos pacientes particulares y por obra social, incluyendo OSDE. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Respetamos la puntualidad de cada turno para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Güemes 3440, Palermo, CABA. Atendemos de lunes a jueves de 9 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Güemes 3440, Palermo, CABA",
+      "hoursLine": "Lun a Jue · 09:00hs - 16:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Palermo con un consultorio de alta\ntecnología y atención cálida. Coronas, conductos,\ncarillas, implantes y bruxismo con explicaciones claras.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Coronas y carillas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Bruxismo",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Güemes 3440, Palermo"
+            },
+            {
+              "label": "+54 9 11 6620-1726",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dr. Mastropierro y equipo"
+    }
+  }
+}
