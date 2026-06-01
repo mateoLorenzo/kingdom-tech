@@ -1,0 +1,411 @@
+{
+  "brand": {
+    "name": "Clinica Scava",
+    "shortName": "Odontología Dra. Scava",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491124868254",
+      "defaultMessage": "Hola, quiero coordinar un turno con la Dra. Alejandra Scava."
+    },
+    "phoneDisplay": "+54 9 11 2486-8254",
+    "address": "Manuel Ugarte 2179, Belgrano, CABA",
+    "hours": "Lun y Jue · 10:00hs - 19:00hs · Mar y Mié · 10:00hs - 17:00hs",
+    "mapQuery": "Manuel Ugarte 2179, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://scava.kingdom-tech.co",
+    "title": "Odontología Dra. Alejandra Scava — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología en Belgrano con la Dra. Alejandra Scava: más de 15 años de trayectoria, explicaciones claras y un trato cálido que te saca el miedo al dentista. Implantes, prótesis, blanqueamiento, conductos, odontopediatría y urgencias.",
+    "ogTitle": "Odontología Dra. Alejandra Scava — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología en Belgrano con la Dra. Alejandra Scava. Más de 15 años de trayectoria, trato cálido e implantes, prótesis, blanqueamiento y odontopediatría.",
+    "siteName": "Odontología Dra. Alejandra Scava",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Belgrano con la Dra. Alejandra Scava, con explicaciones claras y un trato cálido que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Manuel Ugarte 2179",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Thursday"
+          ],
+          "opens": "10:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 259
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Manuel Ugarte 2179 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Belgrano con la Dra. Alejandra Scava:\nun trato cálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Dra. Scava",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "259",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "+15 años",
+          "label": "De trayectoria"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes y prótesis",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias odontológicas",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Más de 15 años de trayectoria de la mano de la Dra. Alejandra Scava, que combina alta calidad técnica con explicaciones claras y didácticas de cada tratamiento. "
+        },
+        {
+          "text": "Un trato cálido y contenedor que te saca el miedo al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que durante años le temieron al dentista cuentan que con la Dra. Scava perdieron el miedo. Una mano suave, mucha paciencia y contención en cada paso. Por algo familias enteras la eligen hace más de 15 años."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Soluciones\nQue transforman",
+          "body": "Implantes, prótesis, conductos, blanqueamiento y restauraciones que devuelven la sonrisa. Te explicamos cada alternativa con claridad para que decidas con tranquilidad, en un consultorio impecable y moderno."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Alejandra Scava",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Natalia Opryska",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. Excelente profesional. Súper contenedora en todo momento. Si querés ser bien atendido, escuchado y contenido, es la Dra que buscás. No lo dudes. La secretaria súper eficiente y amable!",
+          "name": "Leonardo Steimberg",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, te explican todo lo que te van a realizar. Es la primera vez que no sufro al ir al dentista. Súper recomendable.",
+          "name": "Martín Marinovic",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Ale es lo más, la mejor! Me atiende a mí y a mi hijo de 13 hace mil años. Ella hizo que mi hijo no le tenga miedo al dentista. Recomiendo fuerte!",
+          "name": "Giselle Bordon",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Impresionante. Llegué con 4 piezas dentales menos y casi sin hueso. La Dra. Scava me ofreció distintas alternativas entre implantes y prótesis. Opté por una prótesis que me cambió la vida. Una genia!",
+          "name": "Sergio Hochman",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La Dra. Scava es una profesional comprometida y dedicada que siempre tiene en cuenta las necesidades de sus pacientes. Su enfoque es minimizar cualquier dolor o malestar. La sigo eligiendo igual que hace más de 15 años.",
+          "name": "Romina Flekser",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es un consultorio de excelencia. Todo impecable, súper profesional y atención muy cálida. Alejandra es la mejor odontóloga que tuve. Me da confianza y seguridad, y la recomiendo cada vez que puedo.",
+          "name": "Jimena Tello",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo con la Dra. Scava, gracias a un trato cálido, una mano suave y mucha paciencia en cada paso."
+        },
+        {
+          "question": "¿Hacen implantes y prótesis dentales?",
+          "answer": "Sí. Evaluamos tu caso y te ofrecemos distintas alternativas entre implantes y prótesis, explicándote cada opción con claridad para que elijas la que mejor se adapte a vos."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Scava tiene una gran experiencia atendiendo a chicos: muchas familias cuentan que sus hijos perdieron el miedo al dentista con ella. Atendemos a pacientes de todas las edades."
+        },
+        {
+          "question": "¿Hacen blanqueamiento y tratamiento de conducto?",
+          "answer": "Sí. Realizamos blanqueamiento, tratamientos de conducto, restauraciones y limpiezas, siempre explicándote el paso a paso para que estés tranquilo durante todo el tratamiento."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Manuel Ugarte 2179, Belgrano, CABA. Atendemos lunes y jueves de 10 a 19, y martes y miércoles de 10 a 17. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Manuel Ugarte 2179, Belgrano, CABA",
+      "hoursLine": "Lun y Jue · 10:00hs - 19:00hs · Mar y Mié · 10:00hs - 17:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Belgrano con la Dra. Alejandra\nScava. Más de 15 años de trayectoria, trato cálido\ne implantes, prótesis, blanqueamiento y más.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes y prótesis",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Manuel Ugarte 2179, Belgrano"
+            },
+            {
+              "label": "+54 9 11 2486-8254",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Dra. Alejandra Scava"
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "brand": {
+    "name": "Clinica JM",
+    "shortName": "JM Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491164205180",
+      "defaultMessage": "Hola, quiero coordinar un turno en JM Odontología."
+    },
+    "phoneDisplay": "+54 9 11 6420-5180",
+    "address": "Av. Santa Fe 3996, Palermo, CABA",
+    "hours": "Lun a Sáb · 10:00hs - 19:00hs",
+    "mapQuery": "Av. Santa Fe 3996, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://jm-odontologia.kingdom-tech.co",
+    "title": "JM Odontología — Expertos en Odontología | Palermo, CABA",
+    "description": "Centro odontológico en Palermo con foco en estética dental y un trato cálido que fideliza pacientes por años. Ortodoncia, implantes, carillas, coronas, cirugía y revisiones, con un equipo profesional y precios accesibles.",
+    "ogTitle": "JM Odontología — Expertos en Odontología | Palermo",
+    "ogDescription": "Centro odontológico en Palermo con foco en estética dental y un trato cálido. Ortodoncia, implantes, carillas y coronas.",
+    "siteName": "JM Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Palermo con foco en estética dental y un trato cálido que fideliza pacientes por años.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Santa Fe 3996",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.4,
+        "count": 69
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Santa Fe 3996 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico en Palermo con foco en estética dental\ny un trato cálido que fideliza pacientes por años.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "JM Odontología",
+        "label": "Palermo · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.4",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "69",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Estética",
+          "label": "Que transforma tu sonrisa"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Estética y carillas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y revisión",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro odontológico integral con fuerte enfoque estético —carillas, coronas, ortodoncia e implantes— en un ambiente impecable y moderno. "
+        },
+        {
+          "text": "Un trato cálido y paciente que hace que pacientes locales e internacionales nos elijan año tras año.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Estética que\nTransforma sonrisas",
+          "body": "Carillas, coronas y diseño de sonrisa con resultados que nuestros pacientes celebran. Como dicen quienes ya pasaron por JM: transformamos sonrisas y devolvemos la confianza para volver a sonreír."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Trato cálido\nY de confianza",
+          "body": "Mucha paciencia, buena onda y un equipo de recepción atento que te acompaña en cada turno. Por eso hay pacientes que nos eligen desde hace años, incluso quienes le tienen miedo al dentista."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Lorenzo",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Castro Borin",
+          "role": "Odontología y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Voy todos los años para revisión anual. Confío plenamente en el Dr. Lorenzo, que me atiende desde que estaban en Recoleta. Soy muy llorona y siempre me tiene mucha paciencia y buena onda. Las chicas de recepción, un amor.",
+          "name": "Rocío Arellano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, muy buen trato y organización. Son rápidos y efectivos, respetan el tiempo de los pacientes. Me hicieron carillas y coronas y transformaron mi sonrisa. Tengo 68 años y rejuvenecí 20 años. Lo recomiendo.",
+          "name": "Laura Azar",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia en la clínica fue muy buena. Me atendió el Dr. Lorenzo, quien me hizo sentir muy segura. Mi experiencia anterior en otra clínica dental había sido mala, ¡y qué alivio haber encontrado a un profesional así!",
+          "name": "Beatriz Freitas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia en JM Odontología fue sumamente positiva desde el primer contacto. La clínica cuenta con un ambiente impecable, limpio y moderno, que inspira confianza desde la entrada. Me atendieron puntualmente y el trato del equipo fue muy amable.",
+          "name": "Gustavo Benetti",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "El mejor centro odontológico de Buenos Aires. Hice mi tratamiento de ortodoncia con ellos, atención profesional. Recomendable 100%.",
+          "name": "Leonardo Rocchi",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "¡Excelente atención! Muy profesionales y excelentes trabajos. Gracias a ellos puedo volver a sonreír. Recomiendo 100% y, sobre todo, muy buenos precios.",
+          "name": "Sebastián Vázquez",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen estética dental, carillas y coronas?",
+          "answer": "Sí, es nuestro foco. Hacemos carillas, coronas y diseño de sonrisa con resultados que nuestros pacientes destacan. Escribinos por WhatsApp y coordinamos una consulta para evaluar tu caso."
+        },
+        {
+          "question": "¿Qué otros tratamientos realizan?",
+          "answer": "Somos un centro odontológico integral: ortodoncia, implantes, coronas y prótesis, cirugía y extracciones, además de limpiezas y revisiones anuales. Te acompañamos en todo lo que tu sonrisa necesite."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Muchos de nuestros pacientes destacan la paciencia y la buena onda del equipo. Vas a sentirte en confianza desde la recepción hasta el sillón, con un trato cálido en cada paso."
+        },
+        {
+          "question": "¿Atienden a pacientes extranjeros?",
+          "answer": "Sí. Recibimos pacientes locales e internacionales, muchos de ellos de Brasil, que nos eligen por la calidad de los tratamientos y la buena relación precio-calidad."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Santa Fe 3996, Palermo, CABA, frente al Jardín Botánico. Atendemos de lunes a sábado de 10 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Santa Fe 3996, Palermo, CABA",
+      "hoursLine": "Lun a Sáb · 10:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Centro odontológico en Palermo con foco en estética\ndental y un trato cálido que fideliza pacientes por años.\nOrtodoncia, implantes, carillas y coronas.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética y carillas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y prótesis",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Santa Fe 3996, Palermo"
+            },
+            {
+              "label": "+54 9 11 6420-5180",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "JM Odontología"
+    }
+  }
+}

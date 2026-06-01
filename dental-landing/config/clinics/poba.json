@@ -1,0 +1,416 @@
+{
+  "brand": {
+    "name": "Clinica POBA",
+    "shortName": "Odontología POBA",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541138414424",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología POBA."
+    },
+    "phoneDisplay": "011 3841-4424",
+    "address": "Riobamba 863, Piso 4 Depto 7, Balvanera, CABA",
+    "hours": "Lun a Vie · 08:00hs - 15:00hs",
+    "mapQuery": "Riobamba 863, Balvanera, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://poba.kingdom-tech.co",
+    "title": "Odontología POBA — Expertos en Odontología | Balvanera, CABA",
+    "description": "Odontología integral en pleno microcentro porteño, en Balvanera. Implantes, endodoncia, ortodoncia, estética y extracciones con un equipo cálido y experimentado que te acompaña en cada paso, sin dolor.",
+    "ogTitle": "Odontología POBA — Expertos en Odontología | Balvanera",
+    "ogDescription": "Odontología integral en Balvanera con un equipo cálido y experimentado. Implantes, endodoncia, ortodoncia y estética, sin dolor.",
+    "siteName": "Odontología POBA",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en el microcentro porteño con un equipo cálido y experimentado que te acompaña en cada paso, sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Riobamba 863, Piso 4 Depto 7",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1019",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 245
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Riobamba 863 · Balvanera · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en el microcentro porteño con un equipo\ncálido y experimentado que te acompaña en cada paso, sin dolor.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología POBA",
+        "label": "Balvanera · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "245",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Trato cálido y experimentado"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica odontológica integral en pleno microcentro, con un equipo de profesionales cálidos y experimentados que explican cada paso del tratamiento con claridad. "
+        },
+        {
+          "text": "Instalaciones modernas, puntualidad y tratamientos sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Te acompañamos\nEn cada paso",
+          "body": "Pacientes que nos eligen hace años destacan el trato cálido y empático, tanto de los profesionales como de la recepción. Te explicamos cada paso del tratamiento con claridad, incluso si le tenés miedo al dentista."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Odontología\nIntegral y sin dolor",
+          "body": "Implantes, endodoncia, ortodoncia, estética, prótesis y extracciones en un mismo lugar. Cirugías y tratamientos sin dolor y con recuperación rápida, en instalaciones modernas, limpias y prolijas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Paula Kuperman",
+          "role": "Odontología general y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Héctor",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Carolina Frías",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Rodrigo",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Instalaciones muy bonitas y modernas. Muy buena la atención de las recepcionistas y de la Dra. Paula Kuperman, muy empática, profesional y amable: te explica todo. Me hice una endodoncia por primera vez.",
+          "name": "Jesica Holbein",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hicieron una cirugía compleja en la que me extrajeron 4 raíces y colocaron 4 implantes. Se preocuparon para que me sintiera cómoda y sin dolor durante toda la cirugía.",
+          "name": "Carmen",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La atención en recepción es excelente. La Dra. Paula es, además de una gran profesional, una excelente persona. Está solucionando mi problema con profesionalismo y prolijidad.",
+          "name": "Mercedes Arrieta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde que entré la atención fue excelente. El Dr. Héctor me atendió súper cálido, me explicó cada parte del tratamiento que necesitaba y ya inicié mi ortodoncia.",
+          "name": "Ginna Luna",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, desde el chico de recepción que te explica todo hasta los profesionales. Me hice un tratamiento de conducto y una incrustación: atención y trabajo del más alto nivel.",
+          "name": "Ricardo Daniel Sassi",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención, tanto del profesional como en recepción. Me atendieron con mucha paciencia, fundamental para mí que soy muy miedosa en el odontólogo.",
+          "name": "Lisa Laham",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Somos una clínica odontológica integral: implantes, endodoncia (tratamiento de conducto), ortodoncia, estética y blanqueamiento, prótesis, placas para bruxismo, extracciones y cirugía. Resolvemos todo en un mismo lugar."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes miedosos destacan que los atendimos con mucha paciencia y sin dolor. Te explicamos cada paso con claridad para que estés tranquilo."
+        },
+        {
+          "question": "¿Hacen implantes y cirugías?",
+          "answer": "Sí. Realizamos extracciones, cirugías e implantes con gran cuidado para que el tratamiento sea sin dolor y con una recuperación rápida, como destacan nuestros pacientes."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a viernes de 8 a 15."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Riobamba 863, Piso 4 Depto 7, Balvanera, CABA, en pleno microcentro. Atendemos de lunes a viernes de 8 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Riobamba 863, Piso 4 Depto 7, Balvanera, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 15:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología integral en el microcentro porteño\ncon un equipo cálido y experimentado que te\nacompaña en cada paso, sin dolor.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Riobamba 863, Balvanera"
+            },
+            {
+              "label": "011 3841-4424",
+              "href": "tel:+541138414424"
+            },
+            {
+              "label": "Lun a Vie · 8-15h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología POBA"
+    }
+  }
+}

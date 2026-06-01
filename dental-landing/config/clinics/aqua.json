@@ -1,0 +1,419 @@
+{
+  "brand": {
+    "name": "Clinica AQUA",
+    "shortName": "AQUA Dental Concept",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491122945064",
+      "defaultMessage": "Hola, quiero coordinar un turno en AQUA Dental Concept."
+    },
+    "phoneDisplay": "+54 9 11 2294-5064",
+    "address": "Av. Corrientes 4416, 5°A, Almagro, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs · Sáb · 09:00hs - 13:00hs",
+    "mapQuery": "Av. Corrientes 4416, Almagro, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://aqua.kingdom-tech.co",
+    "title": "AQUA Dental Concept — Expertos en Odontología | Almagro, CABA",
+    "description": "Odontología en Almagro con un equipo joven y altamente capacitado que combina alta calidad tecnológica con una atención humana que te saca el miedo al dentista. Ortodoncia, brackets de zafiro, alineadores, periodoncia, implantes y odontopediatría en un consultorio moderno e impecable.",
+    "ogTitle": "AQUA Dental Concept — Expertos en Odontología | Almagro",
+    "ogDescription": "Odontología en Almagro con un equipo joven y capacitado y un trato cálido que te saca el miedo al dentista. Ortodoncia, periodoncia, alineadores e implantes.",
+    "siteName": "AQUA Dental Concept",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Almagro con un equipo joven y capacitado y un trato cálido que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Corrientes 4416, 5°A",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1195",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "13:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 70
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Corrientes 4416 · Almagro · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Almagro con un equipo joven y capacitado\ny un trato cálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "AQUA Dental Concept",
+        "label": "Almagro · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "70",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Trato cálido y paciente"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Periodoncia",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes y cirugía",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo joven y altamente capacitado que combina alta calidad tecnológica con una atención humana y personalizada. "
+        },
+        {
+          "text": "Un trato cálido y paciente que te saca el miedo al dentista, en un consultorio moderno e impecable.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaban con miedo al odontólogo cuentan que con nosotros lo perdieron. Paciencia, acompañamiento y mucha contención en cada paso, explicando cada procedimiento con claridad para que estés tranquilo."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tratamientos\nIntegrales",
+          "body": "Ortodoncia, brackets de zafiro y alineadores, periodoncia, cirugía, implantes y prótesis, también odontopediatría. Atendemos a familias enteras con alta calidad tecnológica y precios accesibles."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Emilia",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Andrés Esmorris",
+          "role": "Periodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Aramburi",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Estoy en un tratamiento largo, con múltiples cirugías y sinceramente no podría haber elegido mejor clínica. El cuidado, la atención y la buena onda hacen que todo el proceso sea más fácil.",
+          "name": "Renata Furtner",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención! Me realicé periodoncia con el Dr. Andrés Esmorris y los resultados y la evolución fueron muy favorables. Recomiendo la clínica!",
+          "name": "Gonzalo Nicolás",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención, la paciencia y el trabajo que realizan es el mejor. Terminé mi tratamiento de ortodoncia y el resultado es mejor de lo que esperaba.",
+          "name": "Laura Sanjuan",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente experiencia de principio a fin. El consultorio es impecable, moderno y muy bien equipado. El equipo demuestra un alto nivel de conocimiento y una gran calidez humana que transmite confianza.",
+          "name": "marilin brajus",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y muy lindo lugar. La doctora Cepeda es todo lo que está bien, te pregunta todo el tiempo por el dolor y es muy cuidadosa. Recomendadísimo.",
+          "name": "Luciano Saggese",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "No podría haber elegido mejor lugar! Si sos de los que le tienen miedo al odontólogo, este es el lugar! Paciencia, acompañamiento y súper profesionales.",
+          "name": "Samanta Denis",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y alineadores?",
+          "answer": "Sí. Hacemos ortodoncia con brackets, brackets de zafiro y alineadores, con un acompañamiento cercano y resultados que nuestros pacientes destacan. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al odontólogo perdieron el miedo con nosotros, gracias a un trato cálido, mucha paciencia y acompañamiento en cada paso."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Trabajamos de forma integral: ortodoncia, periodoncia, cirugía, implantes, prótesis dentales, odontopediatría, estética y limpiezas, con alta calidad tecnológica en un consultorio moderno."
+        },
+        {
+          "question": "¿Atienden a niños y adultos mayores?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos mayores, con la calidez y la paciencia que cada paciente necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Corrientes 4416, 5°A, Almagro, CABA. Atendemos de lunes a viernes de 9 a 19 y los sábados de 9 a 13. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Corrientes 4416, 5°A, Almagro, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs · Sáb · 09:00hs - 13:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Almagro con un equipo joven y\ncapacitado que te saca el miedo al dentista.\nTratamientos integrales en un consultorio moderno.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Periodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes y cirugía",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Corrientes 4416, Almagro"
+            },
+            {
+              "label": "+54 9 11 2294-5064",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "AQUA Dental Concept"
+    }
+  }
+}

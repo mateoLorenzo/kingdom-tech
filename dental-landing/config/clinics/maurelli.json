@@ -1,0 +1,397 @@
+{
+  "brand": {
+    "name": "Clinica Maurelli",
+    "shortName": "Odontología CAM",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491168604050",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología CAM."
+    },
+    "phoneDisplay": "+54 9 11 6860-4050",
+    "address": "Uruguay 239, San Nicolás, CABA",
+    "hours": "Atención con turno · urgencias en menos de 24h",
+    "mapQuery": "Uruguay 239, San Nicolás, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://maurelli.kingdom-tech.co",
+    "title": "Odontología CAM — Expertos en Odontología | San Nicolás, CABA",
+    "description": "Odontología en San Nicolás con atención sin dolor y urgencias resueltas en menos de 24 horas. Endodoncia, extracciones, limpieza y periodoncia con la Dra. Carolina Maurelli, una profesional cálida y de mano cuidadosa.",
+    "ogTitle": "Odontología CAM — Expertos en Odontología | San Nicolás",
+    "ogDescription": "Odontología en San Nicolás con atención sin dolor y urgencias en menos de 24h. Endodoncia, extracciones y limpieza con la Dra. Carolina Maurelli.",
+    "siteName": "Odontología CAM",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en San Nicolás con atención sin dolor y urgencias resueltas en menos de 24 horas.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Uruguay 239",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1015",
+        "country": "AR"
+      },
+      "rating": {
+        "value": 5.0,
+        "count": 290
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Uruguay 239 · San Nicolás · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en San Nicolás con atención sin dolor\ny urgencias resueltas en menos de 24 horas.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología CAM",
+        "label": "San Nicolás · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "290",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Urgencias",
+          "label": "Turno en menos de 24h"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Urgencias dentales",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Extracciones",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Periodoncia",
+          "image": "/img/heart.jpg"
+        },
+        {
+          "name": "Coronas y pernos",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una odontóloga que combina alto profesionalismo con calidez humana y una mano cuidadosa, para que cada tratamiento sea sin dolor. "
+        },
+        {
+          "text": "Cuando aparece una urgencia, la resolvemos con turnos en menos de 24 horas.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nSin dolor",
+          "body": "Pacientes que llegaron con miedo al dentista cuentan que con nosotros lo perdieron. Una mano cuidadosa, mucha paciencia y todo explicado paso a paso, para que estés cómodo y tranquilo durante cada tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Urgencias\nEn menos de 24h",
+          "body": "Cuando aparece el dolor, no hace falta esperar. Resolvemos urgencias dentales con turnos casi inmediatos: endodoncia, extracciones, limpieza y periodoncia con trabajos prolijos y duraderos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Carolina Maurelli",
+          "role": "Odontología general · Endodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente profesional. Ante una urgencia, respondió enseguida, brindándome información precisa y un turno en menos de 24 h, iniciando el tratamiento adecuado.",
+          "name": "Irina Socolovsky",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Caro es una genia! Me salvó una muela, explica todo, mucha paciencia y muy humana. Después de años recorriendo dentistas encontré a alguien que se preocupa por mi salud dental.",
+          "name": "Jimena Farro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui con muchísimo miedo porque me tenía que hacer mi primer conducto. Es una excelente profesional, súper empática y amorosa. Me tuvo mucha paciencia. 100% recomendado!",
+          "name": "Catalina Peyru",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente profesional. En un contexto donde muchas veces es complejo encontrar personas responsables, respetuosas y capaces, Carolina se destaca muy por encima de la media.",
+          "name": "Guido Moscoso",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Una maravilla la Dra. Carolina! Trabaja súper bien y el consultorio es hermoso.",
+          "name": "Georgina Galanternik",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente trato y precio, me hizo 3 extracciones en una sola sesión. No me dolió nada ni durante ni después. Tiene una mano increíble.",
+          "name": "Gustavo Cornes",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias dentales?",
+          "answer": "Sí, es nuestro fuerte. Resolvemos urgencias con turnos en menos de 24 horas. Si tenés dolor o una emergencia, escribinos por WhatsApp y te hacemos lugar lo antes posible."
+        },
+        {
+          "question": "¿Hacen tratamiento de conducto?",
+          "answer": "Sí. La Dra. Carolina Maurelli realiza endodoncias (tratamientos de conducto) con trabajos prolijos y duraderos, explicándote cada paso para que estés tranquilo."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que llegaron con miedo cuentan que acá lo perdieron, gracias a una mano cuidadosa, mucha paciencia y atención sin dolor."
+        },
+        {
+          "question": "¿Qué otros tratamientos hacen?",
+          "answer": "Además de urgencias y endodoncia, hacemos extracciones, limpieza y arreglos, periodoncia, coronas y pernos. Escribinos por WhatsApp y te asesoramos según tu caso."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Cómo pido un turno y dónde están?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Estamos en Uruguay 239, San Nicolás, CABA. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu consulta o urgencia en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Uruguay 239, San Nicolás, CABA",
+      "hoursLine": "Atención con turno · urgencias en menos de 24h",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en San Nicolás con atención sin dolor\ny urgencias resueltas en menos de 24 horas, de la\nmano de la Dra. Carolina Maurelli.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/cam.odontologia",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Limpieza y arreglos",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Uruguay 239, San Nicolás"
+            },
+            {
+              "label": "+54 9 11 6860-4050",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@cam.odontologia",
+              "href": "https://www.instagram.com/cam.odontologia",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología.CAM"
+    }
+  }
+}

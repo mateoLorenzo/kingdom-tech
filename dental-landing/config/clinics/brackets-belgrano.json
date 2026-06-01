@@ -1,0 +1,400 @@
+{
+  "brand": {
+    "name": "Clinica Aranda",
+    "shortName": "Ortodoncia Belgrano",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491170654085",
+      "defaultMessage": "Hola, quiero coordinar un turno de ortodoncia con la Dra. Virginia Aranda."
+    },
+    "phoneDisplay": "+54 9 11 7065-4085",
+    "address": "Av. Cabildo 1277, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs",
+    "mapQuery": "Av. Cabildo 1277, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://brackets-belgrano.kingdom-tech.co",
+    "title": "Ortodoncia Belgrano — Expertos en Odontología | Belgrano, CABA",
+    "description": "Ortodoncia en Belgrano con la Dra. Virginia Aranda. Brackets y tratamientos dentales con atención paciente, dedicada y honesta, en un consultorio impecable que genera confianza incluso a quienes le temen al dentista.",
+    "ogTitle": "Ortodoncia Belgrano — Expertos en Odontología | Belgrano",
+    "ogDescription": "Ortodoncia en Belgrano con la Dra. Virginia Aranda. Brackets y tratamientos dentales con atención paciente, dedicada y de confianza.",
+    "siteName": "Ortodoncia Belgrano - Brackets V.A",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Ortodoncia en Belgrano con la Dra. Virginia Aranda. Brackets y tratamientos dentales con atención paciente y dedicada.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Cabildo 1277",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 35
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Cabildo 1277 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Ortodoncia en Belgrano con la Dra. Virginia Aranda,\ncon una atención paciente y dedicada que genera confianza.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Ortodoncia Belgrano",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "35",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Ortodoncia",
+          "label": "Brackets y tratamientos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Tratamientos dentales",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Salvataje de piezas dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Atención ortodóncica personalizada y paciente liderada por la Dra. Virginia Aranda, con foco en la calidez humana y la confianza del paciente. "
+        },
+        {
+          "text": "Explicamos cada tratamiento paso a paso, con honestidad y en un consultorio impecable.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue transforma",
+          "body": "Brackets y tratamientos de ortodoncia con un seguimiento cercano y una mano paciente. La Dra. Virginia te explica paso a paso cada etapa para que el tratamiento sea claro y los resultados se vean."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Confianza\nSin miedo al dentista",
+          "body": "Muchos pacientes que le temían al dentista cuentan que acá perdieron el miedo. Atención dedicada, diagnósticos honestos y el cuidado de salvar cada pieza dental, en un consultorio limpio e higiénico."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Virginia Aranda",
+          "role": "Ortodoncista",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelentes profesionales y consultorio. Muy limpio. Genera confianza. La Dra. Virginia es excepcional. Se nota su pasión y la paciencia con sus pacientes. Totalmente recomendable!",
+          "name": "Julieta Carmona",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente odontóloga! Muy paciente y comprensiva por los miedos que provoca ir al odontólogo; honesta, porque realiza los tratamientos que realmente hay que hacer; e impecable porque siempre hace lo más para salvar cada pieza dental!",
+          "name": "Natalia Aranda",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente profesional la Dra. Virginia. Súper dedicada al caso del paciente y una gran persona.",
+          "name": "Maria Belen Stinchi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Es una gran profesional! La recomiendo para quienes buscan un tratamiento dental de calidad, realizado con dedicación y calidez humana.",
+          "name": "María José Garate",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Una profesional con todas las letras, le explica hasta el último detalle. Recomiendo 100%.",
+          "name": "Daiana Filgueira",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Vir es una excelente profesional. Tiene la mejor onda y además es buenísima en su trabajo.",
+          "name": "Celeste Pasculli",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y brackets?",
+          "answer": "Sí, es nuestra especialidad. La Dra. Virginia Aranda hace ortodoncia con brackets y tratamientos dentales, con un acompañamiento cercano y mucha paciencia en cada etapa."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista cuentan que con la Dra. Virginia perdieron el miedo, gracias a un trato paciente, dedicado y mucha contención."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Personalizada y honesta. Te explicamos cada tratamiento paso a paso, hacemos solo lo que realmente hay que hacer y buscamos siempre salvar cada pieza dental. Todo en un consultorio impecable e higiénico."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Cabildo 1277, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Cabildo 1277, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Ortodoncia en Belgrano con la Dra. Virginia\nAranda. Brackets y tratamientos dentales con\natención paciente, dedicada y de confianza.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y brackets",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamientos dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Salvataje de piezas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Cabildo 1277, Belgrano"
+            },
+            {
+              "label": "+54 9 11 7065-4085",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Ortodoncia Belgrano - Brackets V.A"
+    }
+  }
+}

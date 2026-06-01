@@ -1,0 +1,400 @@
+{
+  "brand": {
+    "name": "Clinica Kuster",
+    "shortName": "Dr. Horacio Kuster",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491133418350",
+      "defaultMessage": "Hola, quiero coordinar un turno en el consultorio del Dr. Horacio Kuster."
+    },
+    "phoneDisplay": "+54 9 11 3341-8350",
+    "address": "Mcal. Antonio José de Sucre 2545, Belgrano, CABA",
+    "hours": "Lun y Vie · 08:30hs - 18:00hs · Mar y Jue · 08:30hs - 16:00hs",
+    "mapQuery": "Mcal. Antonio José de Sucre 2545, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://kuster.kingdom-tech.co",
+    "title": "Dr. Horacio Kuster — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología en Belgrano con la atención personalizada y meticulosa del Dr. Horacio Kuster. Explicaciones claras paso a paso, tecnología de última generación y un consultorio impecable, con un trato cálido y humano.",
+    "ogTitle": "Dr. Horacio Kuster — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología en Belgrano con la atención personalizada y meticulosa del Dr. Horacio Kuster. Explicaciones claras, tecnología de última generación y un trato cálido.",
+    "siteName": "Consultorio Odontológico Dr. Horacio Kuster",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Belgrano con la atención personalizada y meticulosa del Dr. Horacio Kuster, con explicaciones claras y un trato cálido.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Mcal. Antonio José de Sucre 2545",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428DVS",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Friday"
+          ],
+          "opens": "08:30",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Thursday"
+          ],
+          "opens": "08:30",
+          "closes": "16:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Mcal. Antonio José de Sucre 2545 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Belgrano con la atención personalizada\ny meticulosa del Dr. Horacio Kuster, paso a paso.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dr. Horacio Kuster",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "Personalizada",
+          "label": "Atención meticulosa"
+        },
+        {
+          "value": "Tecnología",
+          "label": "De última generación"
+        },
+        {
+          "value": "Trato cálido",
+          "label": "Explicaciones claras"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Atención odontológica general",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Limpieza y salud bucal",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Controles y mantenimientos",
+          "image": "/img/heart.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Arreglos y restauraciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "El Dr. Horacio Kuster se toma el tiempo de explicar cada procedimiento paso a paso, con una mirada meticulosa que detecta a tiempo lo que otros pasan por alto. "
+        },
+        {
+          "text": "Un trato cálido y humano, en un consultorio impecable con tecnología de última generación.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención que\nExplica cada paso",
+          "body": "Pacientes que pasaron por muchos consultorios cuentan que acá encontraron a un profesional que se sienta, escucha y explica todo con claridad. Dedicación, paciencia y una mirada detallista en cada control."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tecnología\nDe última generación",
+          "body": "Un consultorio impecable y equipamiento de última generación para diagnósticos precisos y tratamientos cuidadosos. Buen seguimiento y mantenimiento, para que tu salud bucal se mantenga en el tiempo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Horacio Kuster",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Sin lugar a dudas Horacio es el mejor odontólogo que tuve en 40 años. Me explicó absolutamente todo el procedimiento, muy dedicado, detallista, excelente profesional. Me tuvo toda la paciencia del mundo.",
+          "name": "Romina Musano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelencia en todo sentido. Horacio explica los procedimientos y responde a las preguntas de manera clara y comprensible. Profesional y súper empático.",
+          "name": "Vanesa Saint Paul",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y dedicación. El Dr. Kuster se toma todo el tiempo del mundo para darle al paciente el panorama completo acerca de su problemática bucal y sus posibles vías de solución. Un profesional como pocos!",
+          "name": "Julio Quintana",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La atención es de máxima categoría desde todo punto de vista. Otro nivel comparado con el resto de los prestadores de servicio odontológico de la zona: tecnología, explicación, cuidado de la boca, buena atención y buen seguimiento.",
+          "name": "Matias Nomboly",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Mi madre me aconsejó ir con el Dr. Kuster y ahora es el odontólogo de la familia. Ir a su consultorio es como ir a un spa de bocas: es muy pulcro y el trato y delicadeza del Dr. Kuster son excepcionales.",
+          "name": "Dana Marcos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención del odontólogo Horacio con su profesionalismo y carisma, y su secretaria Verónica trabaja de la misma forma. Gracias a ambos!",
+          "name": "Fabio Bruzz",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Cómo es la atención en el consultorio?",
+          "answer": "Personalizada y meticulosa. El Dr. Horacio Kuster se toma el tiempo de escucharte y explicarte cada paso del tratamiento con claridad. Por eso tantos pacientes lo eligen como su odontólogo de confianza."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Atención odontológica general, limpieza y salud bucal, arreglos y restauraciones, estética, prótesis y controles de mantenimiento. Escribinos por WhatsApp y te asesoramos sobre tu caso puntual."
+        },
+        {
+          "question": "¿Con qué tecnología trabajan?",
+          "answer": "El consultorio cuenta con equipamiento de última generación, en un entorno impecable y prolijo. Esto permite diagnósticos precisos y tratamientos cuidadosos, como destacan nuestros pacientes."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Mcal. Antonio José de Sucre 2545, Belgrano, CABA. Atendemos lunes y viernes de 8:30 a 18, y martes y jueves de 8:30 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Mcal. Antonio José de Sucre 2545, Belgrano, CABA",
+      "hoursLine": "Lun y Vie · 08:30hs - 18:00hs · Mar y Jue · 08:30hs - 16:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Belgrano con la atención\npersonalizada y meticulosa del Dr. Horacio Kuster.\nExplicaciones claras, tecnología y un trato cálido.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Limpieza y salud bucal",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Mcal. A. J. de Sucre 2545, Belgrano"
+            },
+            {
+              "label": "+54 9 11 3341-8350",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio Odontológico Dr. Horacio Kuster"
+    }
+  }
+}

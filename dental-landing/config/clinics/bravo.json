@@ -1,0 +1,412 @@
+{
+  "brand": {
+    "name": "Clinica Bravo",
+    "shortName": "Odontología Bravo",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491140938138",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología Bravo."
+    },
+    "phoneDisplay": "+54 9 11 4093-8138",
+    "address": "Av. Juramento 1475, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Av. Juramento 1475, Belgrano, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://bravo.kingdom-tech.co",
+    "title": "Odontología Bravo — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología en Belgrano con foco en ortodoncia y alineadores invisibles. Un equipo cálido que contiene incluso a pacientes con miedo al dentista: ortodoncia, Invisalign, diseño de sonrisa, extracciones y odontología integral para toda la familia.",
+    "ogTitle": "Odontología Bravo — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología en Belgrano con foco en ortodoncia y alineadores invisibles, y un equipo cálido que te saca el miedo al dentista.",
+    "siteName": "Odontología Bravo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Belgrano con foco en ortodoncia y alineadores invisibles, y un equipo cálido que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Juramento 1475",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 149
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Juramento 1475 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Belgrano con foco en ortodoncia y alineadores\ninvisibles, y un equipo cálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Bravo",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "149",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Para toda la familia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Alineadores invisibles",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Diseño de sonrisa",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Los hermanos Bravo lideran un equipo que combina excelencia en ortodoncia y alineadores invisibles con una calidez humana que tranquiliza hasta a los pacientes más fóbicos. "
+        },
+        {
+          "text": "Explicamos cada caso con claridad, en un consultorio moderno y con turnos puntuales.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que durante años le temieron al dentista cuentan que con nosotros perdieron el miedo. Una mano suave, mucha paciencia y contención en cada paso, tanto en lo profesional como en lo emocional. Por algo familias enteras nos eligen."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue transforma",
+          "body": "Ortodoncia y alineadores invisibles (Invisalign) de alto nivel, con resultados que se ven y un seguimiento detallado. También diseño de sonrisa, extracciones y odontología integral para adultos y niños, en un consultorio moderno y equipado."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Melina Bravo",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Juan Bravo",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Rita",
+          "role": "Equipo odontológico",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Muy buena atención de todos. Me estoy atendiendo con Juan y todo impecable. Vine con miedo por el tratamiento que tenía que hacerme y me transmitieron mucha calma. ¡Súper recomendable!",
+          "name": "Agustina Ficichia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La mejor ortodoncista de la ciudad lejos. Meli es súper profesional y se nota en cada detalle, se toma todo el tiempo.",
+          "name": "Mariana Fraccaro",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia con la Dra. Melina Bravo fue excelente. Te explica con detalle y claridad el caso y los resultados esperados. Me fui muy conforme con la atención recibida.",
+          "name": "Maria Lourdes Canissa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Las mejores profesionales que conocí en mi vida. Empecé con alineadores, después siguió mi hijo, mi hija y mi marido, familia completa con los dientes alineados y súper conformes.",
+          "name": "Victoria Larguia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy fóbica al dentista. Tuve la suerte de que me recomienden a Melina y pudieron contenerme tanto en lo profesional como en lo emocional.",
+          "name": "Viviana Novales",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi tratamiento de Invisalign ha sido un éxito. La calidad profesional y humana del equipo me hace sentir siempre muy cómodo y tranquilo.",
+          "name": "Facu Conte",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y alineadores invisibles?",
+          "answer": "Sí, es nuestro foco. Hacemos ortodoncia y alineadores invisibles (Invisalign) de alto nivel, con un seguimiento detallado y resultados que nuestros pacientes destacan. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes fóbicos perdieron el miedo con nosotros gracias a un trato cálido, una mano suave y contención en cada paso, tanto en lo profesional como en lo emocional."
+        },
+        {
+          "question": "¿Atienden a niños y a toda la familia?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos. Muchos pacientes nos eligen para todo el grupo familiar y siguen sus tratamientos con nosotros durante años."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Trabajamos con turnos puntuales para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Juramento 1475, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Juramento 1475, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Belgrano con foco en ortodoncia y\nalineadores invisibles, y un equipo cálido que te\nsaca el miedo al dentista para toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Alineadores invisibles",
+              "href": "#servicios"
+            },
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones y cirugía",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Juramento 1475, Belgrano"
+            },
+            {
+              "label": "+54 9 11 4093-8138",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Bravo"
+    }
+  }
+}

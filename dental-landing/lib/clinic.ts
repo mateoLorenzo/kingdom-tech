@@ -116,6 +116,21 @@ import odontoPalermo from "@/config/clinics/odonto-palermo.json";
 import topdental from "@/config/clinics/topdental.json";
 import oiba from "@/config/clinics/oiba.json";
 import cobBelgrano from "@/config/clinics/cob-belgrano.json";
+import scava from "@/config/clinics/scava.json";
+import kuster from "@/config/clinics/kuster.json";
+import jmOdontologia from "@/config/clinics/jm-odontologia.json";
+import estudioDental from "@/config/clinics/estudio-dental.json";
+import arquitecturaFacial from "@/config/clinics/arquitectura-facial.json";
+import poba from "@/config/clinics/poba.json";
+import dreamsmile from "@/config/clinics/dreamsmile.json";
+import oroDent from "@/config/clinics/oro-dent.json";
+import guelfi from "@/config/clinics/guelfi.json";
+import baires from "@/config/clinics/baires.json";
+import bracketsBelgrano from "@/config/clinics/brackets-belgrano.json";
+import maurelli from "@/config/clinics/maurelli.json";
+import dentalSystem from "@/config/clinics/dental-system.json";
+import aqua from "@/config/clinics/aqua.json";
+import bravo from "@/config/clinics/bravo.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -237,6 +252,21 @@ const registry = {
   "topdental": topdental as ClinicConfig,
   "oiba": oiba as ClinicConfig,
   "cob-belgrano": cobBelgrano as ClinicConfig,
+  "scava": scava as ClinicConfig,
+  "kuster": kuster as ClinicConfig,
+  "jm-odontologia": jmOdontologia as ClinicConfig,
+  "estudio-dental": estudioDental as ClinicConfig,
+  "arquitectura-facial": arquitecturaFacial as ClinicConfig,
+  "poba": poba as ClinicConfig,
+  "dreamsmile": dreamsmile as ClinicConfig,
+  "oro-dent": oroDent as ClinicConfig,
+  "guelfi": guelfi as ClinicConfig,
+  "baires": baires as ClinicConfig,
+  "brackets-belgrano": bracketsBelgrano as ClinicConfig,
+  "maurelli": maurelli as ClinicConfig,
+  "dental-system": dentalSystem as ClinicConfig,
+  "aqua": aqua as ClinicConfig,
+  "bravo": bravo as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

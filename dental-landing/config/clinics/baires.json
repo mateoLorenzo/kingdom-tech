@@ -1,0 +1,425 @@
+{
+  "brand": {
+    "name": "Clinica Baires",
+    "shortName": "Baires Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491138510633",
+      "defaultMessage": "Hola, quiero coordinar un turno en Baires Odontología Recoleta."
+    },
+    "phoneDisplay": "+54 9 11 3851-0633",
+    "address": "Av. Santa Fe 2650, Recoleta, CABA",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs · Sáb · 09:00hs - 16:00hs",
+    "mapQuery": "Av. Santa Fe 2650, Recoleta, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://baires.kingdom-tech.co",
+    "title": "Baires Odontología — Expertos en Odontología | Recoleta, CABA",
+    "description": "Odontología en Recoleta especializada en estética dental y ortodoncia. Carillas, blanqueamiento, brackets de zafiro y autoligables, implantes y cirugía, con alta tecnología y un trato cálido que logra resultados naturales.",
+    "ogTitle": "Baires Odontología — Expertos en Odontología | Recoleta",
+    "ogDescription": "Odontología en Recoleta especializada en estética y ortodoncia. Carillas, blanqueamiento, brackets e implantes con alta tecnología y trato cálido.",
+    "siteName": "Baires Odontología - Recoleta",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Recoleta especializada en estética dental y ortodoncia, con alta tecnología y un trato cálido.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Santa Fe 2650",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1425",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 99
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Santa Fe 2650 · Recoleta · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Recoleta especializada en estética dental\ny ortodoncia, con alta tecnología y un trato cálido.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Baires Odontología",
+        "label": "Recoleta · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "99",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Carillas",
+          "label": "Resultados naturales"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Carillas y estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Blanqueamiento dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Estética dental y ortodoncia con alta tecnología digital, para lograr sonrisas naturales y resultados que se ven rápido. "
+        },
+        {
+          "text": "Un trato cálido y humano que acompaña cada paso del tratamiento.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Estética dental\nQue se ve natural",
+          "body": "Carillas y blanqueamiento realizados con tecnología digital y mano detallista. Nuestros pacientes destacan resultados naturales que les cambiaron la sonrisa y, muchas veces, la vida."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue transforma",
+          "body": "Brackets de zafiro y autoligables con un acompañamiento cercano y avances visibles en poco tiempo. También implantes, cirugía y extracciones, con una atención que te hace sentir cómodo desde que entrás."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Iraida García",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ariel Camacho",
+          "role": "Estética dental · Carillas",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Xiomara Chávez",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Cristian",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me realicé carillas con el Dr. Ariel Camacho y quedé encantada con los resultados. Es muy profesional, detallista y explica todo el proceso con mucha claridad. Utilizan tecnología digital y el resultado fue natural.",
+          "name": "Mai C",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Vine a Baires desde otro centro odontológico donde no tuve ninguna mejoría en mi ortodoncia y aquí con la doctora Iraida todo cambió: en pocos meses se vio mucho cambio. Súper recomendada.",
+          "name": "Roezgon",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Fui llorando literalmente y salí súper contenta y sonriente. La calidez humana que tienen es increíble, además de lo súper profesionales que son. Los súper recomiendo!",
+          "name": "VERO Truzzi",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente servicio, uno de los pocos lugares en Buenos Aires que trabajan con brackets autoligables. Con la Dra. Iraida, en tan solo un año y sin quitar ningún diente, el problema parece no existir más. Increíble!",
+          "name": "German Sisro",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Súper agradecida con los doctores Ariel y Cristian. Hicieron un trabajo impecable, no se van hasta que no queda como a uno le gusta. Valoro mucho la calidad humana de ambos.",
+          "name": "Sandra Plaksin",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia fue de 5 estrellas, me realizaron la extracción de las 4 muelas cordales en 1 sola sesión de 45 minutos. Me sorprendió lo indoloro y la calidad del cirujano.",
+          "name": "César Barrios",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen carillas y estética dental?",
+          "answer": "Sí, es uno de nuestros focos. Realizamos carillas y blanqueamiento con tecnología digital y una mano muy detallista, logrando resultados naturales que nuestros pacientes destacan."
+        },
+        {
+          "question": "¿Qué tipo de ortodoncia ofrecen?",
+          "answer": "Hacemos ortodoncia con brackets, brackets de zafiro y brackets autoligables, con un acompañamiento cercano y avances visibles en poco tiempo. Escribinos por WhatsApp y te asesoramos sobre la mejor opción para vos."
+        },
+        {
+          "question": "¿Realizan implantes, cirugía y extracciones?",
+          "answer": "Sí. Hacemos implantes, cirugía y extracciones, incluidas las muelas de juicio, con profesionales que nuestros pacientes describen como precisos e indoloros."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Muchos pacientes destacan la calidez humana del equipo y lo cómodos que se sienten desde la recepción hasta el final del tratamiento. Trabajamos con paciencia y mucho cuidado en cada paso."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Santa Fe 2650, Recoleta, CABA. Atendemos de lunes a viernes de 9 a 20 y los sábados de 9 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Santa Fe 2650, Recoleta, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs · Sáb · 09:00hs - 16:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Recoleta especializada en estética\ndental y ortodoncia, con alta tecnología y un trato\ncálido que logra resultados naturales.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Carillas y estética",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Santa Fe 2650, Recoleta"
+            },
+            {
+              "label": "+54 9 11 3851-0633",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Baires Odontología - Recoleta"
+    }
+  }
+}

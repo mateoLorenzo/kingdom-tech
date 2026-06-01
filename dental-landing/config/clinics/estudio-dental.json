@@ -1,0 +1,412 @@
+{
+  "brand": {
+    "name": "Clinica Gioffre",
+    "shortName": "Estudio Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491124012711",
+      "defaultMessage": "Hola, quiero coordinar un turno en Estudio Dental."
+    },
+    "phoneDisplay": "+54 9 11 2401-2711",
+    "address": "Mcal. Antonio José de Sucre 2512, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs",
+    "mapQuery": "Mcal. Antonio José de Sucre 2512, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://estudio-dental.kingdom-tech.co",
+    "title": "Estudio Dental — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología en Belgrano con atención personalizada y cálida del Dr. Juan Pablo Gioffre. Implantes, ortodoncia, tratamientos de conducto, estética y arreglos, con técnicas modernas y un trato que te saca el miedo al dentista.",
+    "ogTitle": "Estudio Dental — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología en Belgrano con atención personalizada y cálida. Implantes, ortodoncia, conductos y estética con técnicas modernas.",
+    "siteName": "Estudio Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Belgrano con atención personalizada y cálida que te saca el miedo al dentista. Implantes, ortodoncia y estética.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Mcal. Antonio José de Sucre 2512",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 98
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Mcal. A. J. de Sucre 2512 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Belgrano con atención personalizada\ny cálida que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Estudio Dental",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "98",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Trato cálido y cercano"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una atención odontológica personalizada y cálida liderada por el Dr. Juan Pablo Gioffre, con técnicas y materiales modernos de alto nivel. "
+        },
+        {
+          "text": "Un trato cercano que convierte la visita al dentista en una experiencia cómoda y sin miedo.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaron con fobia al odontólogo cuentan que acá la perdieron. Mucha paciencia, un trato amoroso y un consultorio impecable hacen que ir al dentista deje de dar miedo. Por algo familias enteras nos eligen."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Profesionalismo\nQue se nota",
+          "body": "Implantes, conductos, coronas y ortodoncia con técnicas modernas de nivel europeo. El Dr. Gioffre escucha, explica cada paso y resuelve cada caso con prolijidad, como destacan quienes se atienden con él hace años."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Juan Pablo Gioffre",
+          "role": "Odontología general e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Lu",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Diego",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Recomiendo con los ojos cerrados Estudio Dental Palermo. Quiero dar las gracias al doctor Juan Gioffre, excelente en lo que hace, tiene muchísima paciencia, atenderse con él es un lujo. La atención de Giovanni también es excelente y el consultorio muy lindo. Les aseguro que si van no se arrepentirán.",
+          "name": "Carolina Isava",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Conocí a Juan Gioffre por una urgencia con una muela de juicio y desde el primer momento me dio mucha confianza. Tiempo después decidí colocarme dos implantes dentales con él y la experiencia fue cero traumática.",
+          "name": "Erica Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tuve una experiencia excelente con Juan Gioffre. Me sacó una corona rota hecha años atrás por otro profesional y descubrió que debajo había un tratamiento de conducto mal hecho. Me retiró el resto del perno viejo y lo resolvió todo.",
+          "name": "Nehuén Schedan",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "¿Le tenés miedo al dentista? ¿Sos impresionable? Acá tenés tu lugar de confianza. Trato amable desde que ingresás al consultorio, y qué decir de Juan, es amoroso en la práctica. Vamos con toda la familia. Diego es un amor de profesional también, súper atento. 10/10.",
+          "name": "yesica randa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales y personas. Me atiendo hace ya varios años con Juan, y siempre con la mejor y total dedicación y calidez. Súper recomendable!",
+          "name": "Héctor Ariel Coronel",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "En el estudio dental la atención es perfecta, todo está impecable. Juan, mi dentista, es un genio total, muy profesional, amable y te hace sentir cómoda en todo momento. Mis hijos y yo lo recomendamos!",
+          "name": "Cecilia Fernandez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo con nosotros, gracias a un trato cálido, mucha paciencia y un acompañamiento cercano en cada paso."
+        },
+        {
+          "question": "¿Hacen implantes dentales?",
+          "answer": "Sí. Los implantes son una de nuestras especialidades. El Dr. Juan Pablo Gioffre coloca implantes con técnicas modernas y un seguimiento personalizado, como destacan quienes ya pasaron por el tratamiento."
+        },
+        {
+          "question": "¿Hacen ortodoncia y brackets?",
+          "answer": "Sí. Hacemos ortodoncia con brackets y un acompañamiento cercano durante todo el tratamiento. Escribinos por WhatsApp y te asesoramos sobre la mejor opción para vos."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Desde la recepción te respondemos rápido para reservar tu turno. Atendemos de lunes a viernes de 9 a 20."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos las formas de pago disponibles y la cobertura puntual de la tuya."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Mcal. Antonio José de Sucre 2512, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Mcal. Antonio José de Sucre 2512, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Belgrano con atención personalizada\ny cálida del Dr. Juan Pablo Gioffre. Implantes,\nortodoncia y estética con técnicas modernas.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia y brackets",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Mcal. A. J. de Sucre 2512, Belgrano"
+            },
+            {
+              "label": "+54 9 11 2401-2711",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Estudio Dental"
+    }
+  }
+}

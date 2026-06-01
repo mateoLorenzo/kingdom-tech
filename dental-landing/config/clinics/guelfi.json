@@ -1,0 +1,434 @@
+{
+  "brand": {
+    "name": "Clinica Guelfi",
+    "shortName": "Guelfi Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491171446749",
+      "defaultMessage": "Hola, quiero coordinar un turno en Guelfi Odontología."
+    },
+    "phoneDisplay": "+54 9 11 7144-6749",
+    "address": "Av. Luis María Campos 559, Las Cañitas, CABA",
+    "hours": "Lun a Jue · 09:00hs - 20:00hs · Vie · 09:00hs - 13:30hs",
+    "mapQuery": "Av. Luis María Campos 559, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://guelfi.kingdom-tech.co",
+    "title": "Guelfi Odontología — Expertos en Odontología | Las Cañitas, CABA",
+    "description": "Odontología en Las Cañitas liderada por el Dr. Matías Guelfi. Atención cálida y sin dolor, con tecnología de última generación. Odontología general, cirugía, implantes, prótesis y ortodoncia, en un consultorio impecable.",
+    "ogTitle": "Guelfi Odontología — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Odontología en Las Cañitas con el Dr. Matías Guelfi. Atención cálida y sin dolor, con tecnología de última generación. Cirugía, implantes, prótesis y ortodoncia.",
+    "siteName": "Guelfi Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Las Cañitas con el Dr. Matías Guelfi. Atención cálida y sin dolor, con tecnología de última generación.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Luis María Campos 559",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "13:30"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 45
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Luis María Campos 559 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Las Cañitas con atención cálida y sin dolor,\ncon tecnología de última generación.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Guelfi Odontología",
+        "label": "Las Cañitas · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "45",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Manejo experto de la anestesia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "El Dr. Matías Guelfi combina un alto profesionalismo con un trato cálido y humano, y un manejo experto de la anestesia que hace que no sientas dolor. "
+        },
+        {
+          "text": "Todo en un consultorio impecable, con tecnología de última generación.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nSin dolor",
+          "body": "Pacientes que le temían al dentista cuentan que con nosotros perdieron el miedo. Un manejo experto de la anestesia, mucha paciencia y dedicación hacen que no sientas nada en cada tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tecnología\nDe última generación",
+          "body": "Un consultorio impecable con equipos de última generación para resultados óptimos. Odontología general, cirugía, implantes, prótesis y ortodoncia, con trabajos entregados en tiempo y forma."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Caro",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Matías Guelfi",
+          "role": "Odontología general · Cirugía e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Emiliano",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Tuve una excelente experiencia con el Dr. Guelfi Matías. Desde el primer momento mostró una gran calidez humana, profesionalismo y dedicación. Me explicó cada paso del tratamiento con claridad y paciencia. El consultorio está impecable.",
+          "name": "Julieta Mosso",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Recomiendo mucho, especialmente para aquellas personas que les da mucha impresión como a mí todo lo odontológico. Nunca me dolió nada! La anestesia ni las sentí! Pude hacerme muchos tratamientos que tenía pendientes!",
+          "name": "Pau Illane",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La mejor atención que puedas encontrar en un consultorio odontológico: amabilidad, buena onda y no menos importante, puntualidad. Nunca más vas a sufrir o te va a doler.",
+          "name": "Mariano Mancuso",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La experiencia fue absolutamente perfecta. La atención de Matías, de Daniela y del resto de las personas fue excelente, así como el tiempo de realización del trabajo. Los felicito. Muchas gracias.",
+          "name": "María Ackerman",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Ultra recomendable! Excelentes profesionales Matías Guelfi y staff. El consultorio cuenta con equipos de última generación.",
+          "name": "David Carabajal",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Por fin encontré buenos profesionales! Ya no le tengo miedo al odontólogo, la calidez, paciencia y dedicación con la que te atienden es increíble, el consultorio es hermoso, utilizan última tecnología!",
+          "name": "Rocío Canónico",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Gracias a un manejo experto de la anestesia y mucha paciencia, nuestros pacientes cuentan que no sienten dolor y que perdieron el miedo al odontólogo."
+        },
+        {
+          "question": "¿Hacen implantes y cirugía?",
+          "answer": "Sí. El Dr. Matías Guelfi realiza odontología general, cirugía e implantes, con equipos de última generación y trabajos entregados en tiempo y forma. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Hacen ortodoncia?",
+          "answer": "Sí. Contamos con atención de ortodoncia dentro del equipo, con un acompañamiento cercano en cada etapa del tratamiento. Escribinos por WhatsApp para coordinar tu evaluación."
+        },
+        {
+          "question": "¿Con qué tecnología trabajan?",
+          "answer": "Trabajamos con equipos de última generación en un consultorio impecable, algo que nuestros pacientes destacan en cada reseña. Esto nos permite lograr resultados óptimos y precisos."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Luis María Campos 559, Las Cañitas, CABA. Atendemos de lunes a jueves de 9 a 20 y los viernes de 9 a 13:30. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Luis María Campos 559, Las Cañitas, CABA",
+      "hoursLine": "Lun a Jue · 09:00hs - 20:00hs · Vie · 09:00hs - 13:30hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Las Cañitas liderada por el\nDr. Matías Guelfi. Atención cálida y sin dolor,\ncon tecnología de última generación.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/guelfiodontologia/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Luis María Campos 559, Las Cañitas"
+            },
+            {
+              "label": "+54 9 11 7144-6749",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@guelfiodontologia",
+              "href": "https://www.instagram.com/guelfiodontologia/",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Guelfi Odontología"
+    }
+  }
+}

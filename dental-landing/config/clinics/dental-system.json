@@ -1,0 +1,407 @@
+{
+  "brand": {
+    "name": "Dental System",
+    "shortName": "Dental System",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491170841026",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental System."
+    },
+    "phoneDisplay": "+54 9 11 7084-1026",
+    "address": "Av. Díaz Vélez 3702, Almagro, CABA",
+    "hours": "Lun a Vie · 08:00hs - 19:00hs",
+    "mapQuery": "Av. Díaz Vélez 3702, Almagro, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-system.kingdom-tech.co",
+    "title": "Dental System — Expertos en Odontología | Almagro, CABA",
+    "description": "Centro odontológico en Almagro con turnos rápidos por WhatsApp y profesionales para toda la familia. Limpieza, ortodoncia, implantes, cirugía, conductos y guardia odontológica, con instalaciones modernas y atención resolutiva.",
+    "ogTitle": "Dental System — Expertos en Odontología | Almagro",
+    "ogDescription": "Centro odontológico en Almagro con turnos rápidos por WhatsApp. Limpieza, ortodoncia, implantes, cirugía y guardia odontológica.",
+    "siteName": "Dental System",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Almagro con turnos rápidos por WhatsApp y profesionales para toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Díaz Vélez 3702",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1200",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "19:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Díaz Vélez 3702 · Almagro · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico en Almagro con turnos rápidos por\nWhatsApp y profesionales para toda la familia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental System",
+        "label": "Almagro · CABA"
+      },
+      "stats": [
+        {
+          "value": "Turno rápido",
+          "label": "Sacalo por WhatsApp"
+        },
+        {
+          "value": "Todo en una visita",
+          "label": "Atención resolutiva"
+        },
+        {
+          "value": "Para la familia",
+          "label": "Todas las edades"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro odontológico amplio donde sacás el turno por WhatsApp y te lo dan cerca, con profesionales especializados que resuelven en una sola visita. "
+        },
+        {
+          "text": "Instalaciones modernas, buen equipamiento y protocolos de higiene cuidados.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Turnos rápidos\nPor WhatsApp",
+          "body": "Sacás el turno por WhatsApp y te lo damos en pocos días, con disponibilidad cercana en el mes. Atención resolutiva y profesionales atentos, para que dejes tu consulta solucionada en una sola visita."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo amplio\nY especializado",
+          "body": "Limpieza, ortodoncia, implantes, cirugía, conductos y odontopediatría con un equipo de profesionales dedicados. Instalaciones modernas, buen equipamiento y protocolos de higiene que nuestros pacientes destacan."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Natalia Miranda",
+          "role": "Cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Mariano Gómez",
+          "role": "Limpieza y clínica general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Agüero",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Saqué el turno porque tenía dolor en una muela y me lo dieron en menos de 10 días. Muy práctico poder sacarlo por WhatsApp. Llegué a las 10 y a las 11 me fui, muy bien atendida por la recepción y la profesional.",
+          "name": "Camilu",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace muchos años me atiendo acá. En la última consulta me atendió el Dr. Mariano Gómez y quiero destacar la paciencia y dedicación en la limpieza dental. Quedé muy conforme, lo recomiendo!",
+          "name": "Maximiliano Mollinedo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estoy muy feliz con la atención recibida. Es excelente, son divinas las médicas y sus ayudantes. Puede que esperes un poquito a veces, pero vale la pena. Los súper recomiendo.",
+          "name": "Guillermina Carreras",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de parte de todos, desde la recepción hasta los doctores. Estoy embarazada y la Dra. Agüero me atendió con gran empatía y me explicó todo con paciencia.",
+          "name": "Azul Fernandez Burzaco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención, explicación y delicadeza de la cirujana Dra. Natalia Miranda.",
+          "name": "Loredana Castagno",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. El odontólogo muy atento, me dio una crema para la sensibilidad que me ayudó con la molestia.",
+          "name": "Ezequiel del Peral",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Cómo saco un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Trabajamos con buena disponibilidad y solemos dar turnos cercanos dentro del mes."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Hacemos limpieza y arreglos, ortodoncia, implantes, cirugía y extracciones, tratamiento de conducto y odontopediatría. Somos un centro amplio que resuelve la mayoría de las consultas en un mismo lugar."
+        },
+        {
+          "question": "¿Atienden urgencias y guardia?",
+          "answer": "Sí. Contamos con guardia odontológica para resolver dolores y urgencias. Escribinos por WhatsApp contándonos qué te pasa y te orientamos sobre cómo atenderte lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños y embarazadas?",
+          "answer": "Sí. Tenemos odontopediatría para los más chicos y atendemos a pacientes de todas las edades, incluidas embarazadas, siempre con el cuidado y la empatía que cada caso necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Díaz Vélez 3702, Almagro, CABA. Atendemos de lunes a viernes de 8 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu turno en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Díaz Vélez 3702, Almagro, CABA",
+      "hoursLine": "Lun a Vie · 08:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Centro odontológico en Almagro con turnos\nrápidos por WhatsApp, profesionales especializados\ny atención resolutiva para toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Limpieza y arreglos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía y extracciones",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Díaz Vélez 3702, Almagro"
+            },
+            {
+              "label": "+54 9 11 7084-1026",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental System"
+    }
+  }
+}

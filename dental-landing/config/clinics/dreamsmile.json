@@ -1,0 +1,394 @@
+{
+  "brand": {
+    "name": "Clinica DreamSmile",
+    "shortName": "Clínica DreamSmile",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491125432621",
+      "defaultMessage": "Hola, quiero coordinar un turno en Clínica DreamSmile."
+    },
+    "phoneDisplay": "+54 9 11 2543-2621",
+    "address": "Av. Cabildo 1478, Belgrano, CABA",
+    "hours": "Mar a Jue · 09:00hs - 20:00hs · Vie · 09:00hs - 18:00hs",
+    "mapQuery": "Av. Cabildo 1478, Belgrano, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dreamsmile.kingdom-tech.co",
+    "title": "Clínica DreamSmile — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología en Belgrano especializada en ortodoncia con alineadores invisibles. Tratamientos estéticos y atención cálida y personalizada de la Dra. Gabriela, con resultados destacados por sus pacientes.",
+    "ogTitle": "Clínica DreamSmile — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología en Belgrano especializada en ortodoncia y alineadores invisibles. Atención cálida y personalizada con resultados destacados.",
+    "siteName": "Clínica DreamSmile",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Belgrano especializada en ortodoncia con alineadores invisibles y una atención cálida y personalizada.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Cabildo 1478",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Cabildo 1478 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Belgrano especializada en ortodoncia\ncon alineadores invisibles y una atención cálida y personalizada.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Clínica DreamSmile",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "Alineadores",
+          "label": "Ortodoncia invisible"
+        },
+        {
+          "value": "Estética",
+          "label": "Resultados que se destacan"
+        },
+        {
+          "value": "Trato cálido",
+          "label": "Atención personalizada"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Alineadores invisibles",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Ortodoncia con placas",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Consulta y diagnóstico",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Ortodoncia con alineadores invisibles y placas, de la mano de la Dra. Gabriela, con una atención cálida y personalizada que acompaña en cada paso. "
+        },
+        {
+          "text": "Resultados que nuestros pacientes destacan, con profesionalismo y honestidad.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue transforma",
+          "body": "Alineadores invisibles y placas de gran calidad y comodidad, con resultados espectaculares como cuentan quienes ya se atendieron. Te acompañamos durante todo el tratamiento para que la experiencia sea cómoda y los resultados se vean."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención cálida\nY personalizada",
+          "body": "Profesionalismo, calidez humana y honestidad en cada consulta. La Dra. Gabriela escucha y acompaña de cerca a cada paciente, por eso tantos la recomiendan y confían en ella su sonrisa."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Gabriela",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Profesionalismo, calidez humana y excelente tratamiento. La atención es impecable, desde Gabriela hasta su secretaria Marcela. Me sentí muy bien acompañado durante todo el proceso. 100% recomendado.",
+          "name": "Luciano Guido",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Gabi es una excelente profesional. Recurrí a ella por tratamiento de ortodoncia con placas y los resultados fueron espectaculares. Las placas son de gran calidad y muy cómodas.",
+          "name": "Tamara Codesos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Super recomendable. Me hice los alineadores con Gabi y estoy muy contenta con el resultado. Excelente profesional y persona.",
+          "name": "Catalina Ons",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde la primera consulta, me sentí muy cómodo y acompañado por Gabi. Es una excelente profesional y una gran persona. Super recomendable!",
+          "name": "Matias Indij",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, calidad profesional y honestidad. Dinero bien invertido!",
+          "name": "Marcela Sorgentini",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia con alineadores invisibles?",
+          "answer": "Sí, es nuestro foco. La Dra. Gabriela hace ortodoncia con alineadores invisibles y placas de gran calidad y comodidad, con resultados que nuestros pacientes destacan. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Cálida, personalizada y honesta. Acompañamos a cada paciente paso a paso durante todo el tratamiento, con profesionalismo y calidez humana. Por eso tantos nos recomiendan."
+        },
+        {
+          "question": "¿Las placas y los alineadores son cómodos?",
+          "answer": "Sí. Trabajamos con placas y alineadores de gran calidad, cómodos y fáciles de usar en el día a día, para que el tratamiento se integre a tu rutina sin molestias."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Cabildo 1478, Belgrano, CABA. Atendemos de martes a jueves de 9 a 20 y los viernes de 9 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Cabildo 1478, Belgrano, CABA",
+      "hoursLine": "Mar a Jue · 09:00hs - 20:00hs · Vie · 09:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Belgrano especializada en\nortodoncia con alineadores invisibles y una\natención cálida y personalizada.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Alineadores invisibles",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia con placas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Cabildo 1478, Belgrano"
+            },
+            {
+              "label": "+54 9 11 2543-2621",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica DreamSmile"
+    }
+  }
+}
