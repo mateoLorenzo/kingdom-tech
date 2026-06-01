@@ -76,7 +76,7 @@ import drBarboza from "@/config/clinics/dr-barboza.json";
 import naturalDent from "@/config/clinics/natural-dent.json";
 import perezMacazaga from "@/config/clinics/perez-macazaga.json";
 import dentalSoho from "@/config/clinics/dental-soho.json";
-import virreyDelPino from "@/config/clinics/virrey-del-pino.json";
+import virreyDelPino from "@/config/clinics/virrey-dental.json";
 import lunaOdontologia from "@/config/clinics/luna-odontologia.json";
 import odontospaba from "@/config/clinics/odontospaba.json";
 import cobBaradero from "@/config/clinics/cob-baradero.json";
@@ -84,15 +84,15 @@ import opat from "@/config/clinics/opat.json";
 import canitasDental from "@/config/clinics/canitas-dental.json";
 import sefap from "@/config/clinics/sefap.json";
 import ngOdontologia from "@/config/clinics/ng-odontologia.json";
-import estudioDentalDg from "@/config/clinics/estudio-dental-dg.json";
+import estudioDentalDg from "@/config/clinics/estudio-dg.json";
 import odontologiaLaser from "@/config/clinics/odontologia-laser.json";
 import cooldent from "@/config/clinics/cooldent.json";
 import scOdontologia from "@/config/clinics/sc-odontologia.json";
 import oralSurgery from "@/config/clinics/oral-surgery.json";
-import sisoDentalBelgrano from "@/config/clinics/siso-dental-belgrano.json";
+import sisoDentalBelgrano from "@/config/clinics/siso-belgrano.json";
 import dentares from "@/config/clinics/dentares.json";
 import odem from "@/config/clinics/odem.json";
-import belgranoStudioDental from "@/config/clinics/belgrano-studio-dental.json";
+import belgranoStudioDental from "@/config/clinics/belgrano-dental.json";
 import micaelaLuna from "@/config/clinics/micaela-luna.json";
 import bassOdontologia from "@/config/clinics/bass-odontologia.json";
 import type { ClinicConfig } from "@/config/types";
@@ -176,7 +176,7 @@ const registry = {
   "natural-dent": naturalDent as ClinicConfig,
   "perez-macazaga": perezMacazaga as ClinicConfig,
   "dental-soho": dentalSoho as ClinicConfig,
-  "virrey-del-pino": virreyDelPino as ClinicConfig,
+  "virrey-dental": virreyDelPino as ClinicConfig,
   "luna-odontologia": lunaOdontologia as ClinicConfig,
   odontospaba: odontospaba as ClinicConfig,
   "cob-baradero": cobBaradero as ClinicConfig,
@@ -184,15 +184,15 @@ const registry = {
   "canitas-dental": canitasDental as ClinicConfig,
   sefap: sefap as ClinicConfig,
   "ng-odontologia": ngOdontologia as ClinicConfig,
-  "estudio-dental-dg": estudioDentalDg as ClinicConfig,
+  "estudio-dg": estudioDentalDg as ClinicConfig,
   "odontologia-laser": odontologiaLaser as ClinicConfig,
   cooldent: cooldent as ClinicConfig,
   "sc-odontologia": scOdontologia as ClinicConfig,
   "oral-surgery": oralSurgery as ClinicConfig,
-  "siso-dental-belgrano": sisoDentalBelgrano as ClinicConfig,
+  "siso-belgrano": sisoDentalBelgrano as ClinicConfig,
   dentares: dentares as ClinicConfig,
   odem: odem as ClinicConfig,
-  "belgrano-studio-dental": belgranoStudioDental as ClinicConfig,
+  "belgrano-dental": belgranoStudioDental as ClinicConfig,
   "micaela-luna": micaelaLuna as ClinicConfig,
   "bass-odontologia": bassOdontologia as ClinicConfig,
 } as const;
