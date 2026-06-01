@@ -1,0 +1,416 @@
+{
+  "brand": {
+    "name": "Consultorio Dental",
+    "shortName": "Consultorio Odontológico",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541133456702",
+      "defaultMessage": "Hola, quiero coordinar un turno en el consultorio."
+    },
+    "phoneDisplay": "+54 11 3345-6702",
+    "address": "Fitz Roy 1925, Palermo, CABA",
+    "hours": "Mar a Vie 09-20 · Sáb 09-16",
+    "mapQuery": "Fitz Roy 1925, Palermo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://fitzroy-dental.kingdom-tech.co",
+    "title": "Consultorio Odontológico — Expertos en Odontología | Palermo, CABA",
+    "description": "Consultorio odontológico en Palermo con un trato humano y cálido. Odontología general y atención para los más chicos, en un espacio moderno e higiénico con profesionales de excelencia.",
+    "ogTitle": "Consultorio Odontológico — Expertos en Odontología | Palermo",
+    "ogDescription": "Consultorio odontológico en Palermo con un trato humano y cálido. Odontología general y atención para los más chicos.",
+    "siteName": "Consultorio Odontológico — Palermo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico en Palermo con un trato humano y cálido. Odontología general y atención infantil.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Fitz Roy 1925",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 34
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Fitz Roy 1925 · Palermo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio odontológico en Palermo con un trato humano y cálido.\nOdontología general y atención para los más chicos.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Consultorio Odontológico",
+        "label": "Palermo · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "Trato",
+          "label": "Humano y cálido"
+        },
+        {
+          "value": "Palermo",
+          "label": "CABA"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un consultorio moderno e higiénico en Palermo, con profesionales de excelencia destacados por su calidad humana. "
+        },
+        {
+          "text": "Un trato cálido, paciente y personalizado, también con los más chicos.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Trato\nHumano",
+          "body": "Nuestros pacientes destacan la calidez, la dedicación y la paciencia en cada consulta. Un ambiente agradable y un espacio cuidado, con todos los protocolos de seguridad e higiene."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "También\nPara los chicos",
+          "body": "Atendemos a las familias y a los más chicos con mucha paciencia y cariño, para que la visita al dentista sea una experiencia tranquila desde temprana edad. Coordinás tu turno fácil por WhatsApp."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Te atienden",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Lola",
+          "role": "Odontopediatría y odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Muy recomendable. Espacio moderno, higiénico, con todos los protocolos de seguridad. Tratamientos odontológicos confiables. Dos profesionales de excelencia y en el aspecto humano muy agradables y atentos.",
+          "name": "Zul Mitta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente atención Lola! ¡Una genia con mis niños!",
+          "name": "Romina Bellotti",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales. Ambiente muy agradable.",
+          "name": "Belén Bormida",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente odontólogo, un 10. Mucha paciencia. Muy recomendable.",
+          "name": "Sandra Romero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Total dedicación, capacitación y confort. Al servicio de la profesión y el paciente.",
+          "name": "Daniel Bormida",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. ¡Y el lugar es hermoso!",
+          "name": "Clariblel Almeida",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Lola es muy querida por los más chicos: los atiende con mucha paciencia y cariño para que la visita al dentista sea una experiencia tranquila."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Cálida, humana y personalizada. Nuestros pacientes destacan la dedicación, la paciencia y el ambiente agradable, en un consultorio moderno e impecable."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Odontología general y preventiva, odontopediatría, estética, ortodoncia, endodoncia y prótesis. Te explicamos cada paso con claridad."
+        },
+        {
+          "question": "¿Cómo saco un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos tu turno en el horario que mejor te quede. Atendemos de martes a sábado."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Fitz Roy 1925, Palermo, CABA. Atendemos de martes a viernes de 9 a 20 y los sábados de 9 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Fitz Roy 1925, Palermo, CABA",
+      "hoursLine": "Mar a Vie 09-20 · Sáb 09-16",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico en Palermo con un trato\nhumano y cálido. Odontología general y atención\npara toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Fitz Roy 1925, Palermo, CABA"
+            },
+            {
+              "label": "+54 11 3345-6702",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Mar a Vie 9-20 · Sáb 9-16",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio Odontológico — Palermo"
+    }
+  }
+}
