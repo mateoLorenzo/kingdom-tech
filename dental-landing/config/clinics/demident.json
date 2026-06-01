@@ -1,0 +1,410 @@
+{
+  "brand": {
+    "name": "Clinica DemiDent",
+    "shortName": "DemiDent",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491173603710",
+      "defaultMessage": "Hola, quiero coordinar un turno en DemiDent."
+    },
+    "phoneDisplay": "+54 9 11 7360-3710",
+    "address": "Av. Juramento 2550, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Av. Juramento 2550, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://demident.kingdom-tech.co",
+    "title": "DemiDent — Expertos en Odontología | Ortodoncia y alineadores en Belgrano",
+    "description": "Centro de ortodoncia en Belgrano especializado en alineadores invisibles. Un equipo cálido y profesional que te saca el miedo al dentista, con seguimiento constante y resultados que se ven. Ortodoncia, odontopediatría y más.",
+    "ogTitle": "DemiDent — Ortodoncia y alineadores invisibles en Belgrano",
+    "ogDescription": "Centro de ortodoncia en Belgrano especializado en alineadores invisibles. Equipo cálido, seguimiento constante y resultados que se ven.",
+    "siteName": "DemiDent Odontología y Ortodoncia",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro de ortodoncia en Belgrano especializado en alineadores invisibles. Equipo cálido y profesional.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Juramento 2550",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 297
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Juramento 2550 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro de ortodoncia en Belgrano especializado en alineadores\ninvisibles. Un equipo cálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "DemiDent",
+        "label": "Ortodoncia · Belgrano"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "297",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Alineadores",
+          "label": "Invisibles"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores invisibles",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Somos especialistas en ortodoncia con alineadores invisibles, con un acompañamiento constante y turnos programados sin esperas. "
+        },
+        {
+          "text": "Un trato tan cálido que, como dicen nuestros pacientes, dan ganas de ir al dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Alineadores\nInvisibles",
+          "body": "Enderezamos tu sonrisa con alineadores invisibles y brackets, con plazos que se cumplen y resultados que se ven. Te acompañamos en cada control y respondemos tus dudas al instante por WhatsApp."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Si le tenés miedo al dentista, este es el lugar para perderlo. Un equipo cálido y profesional que te recibe siempre con una sonrisa, en consultorios modernos y con la mejor de las ondas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Luna Manrique",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Catalina",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Terminé mi tratamiento de alineadores, hice 2 etapas y estoy feliz con los resultados. Desde el primer día el trato fue impecable. Quiero destacar especialmente la atención de Mili y de todo el equipo.",
+          "name": "Maru Diz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi experiencia en DemiDent fue excelente desde el primer momento. Agradezco la calidez y buena onda de las chicas de recepción así como de Luna, Gini y Cata. Siempre profesionales, amorosas y atentas.",
+          "name": "Florencia Souza Rey",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy muy miedoso con la odontología y en DemiDent encontré contención para poder atenderme gracias a la doctora Lucía, que supo atenderme con calma contándome cada paso. Encontré mi consultorio definitivo.",
+          "name": "Gabriel Tevz",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Estamos felices con el resultado de los brackets de mi hijo, no solo con el profesionalismo de Catalina —responsable, detallista, prolija y puntual— sino con la simpatía y eficacia de las chicas de recepción.",
+          "name": "Florencia Ghione",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente mi experiencia en DemiDent, recomiendo muchísimo. Estuve 2 años y medio yendo todos los meses por tratamiento de ortodoncia y no tengo una sola queja. Siempre muy amorosas y con la mejor de las ondas.",
+          "name": "Justina Hospital",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Si le tienen miedo al dentista, DemiDent es el lugar para perderlo. La atención es perfecta y te hacen sentir muy cómoda y en confianza. Además el consultorio es hermoso y todos los aparatos son nuevos y modernos.",
+          "name": "Bren Schultz",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen alineadores invisibles?",
+          "answer": "Sí, es nuestra especialidad. Trabajamos con alineadores invisibles y brackets, con un seguimiento constante y plazos que se cumplen. Muchos pacientes destacan lo rápido que vieron los cambios."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "¡Es nuestra especialidad humana! Muchos pacientes llegan con miedo y se van diciendo que les dan ganas de volver. Un trato cálido, paciente y contenedor que te hace sentir cómodo desde el primer momento."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, tenemos odontopediatría, además de ortodoncia para chicos y adolescentes. Las familias destacan la paciencia y la delicadeza con la que atendemos a los más chicos."
+        },
+        {
+          "question": "¿Quiénes atienden en DemiDent?",
+          "answer": "Un equipo de ortodoncistas y odontólogas —entre ellas las Dras. Luna Manrique, Catalina, Gina y Lucía— junto a Mili y el equipo de recepción, muy valorado por su calidez y organización."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Juramento 2550, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Juramento 2550, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Centro de ortodoncia en Belgrano especializado en\nalineadores invisibles. Un equipo cálido y profesional\nque te saca el miedo al dentista.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Alineadores invisibles",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Juramento 2550, Belgrano"
+            },
+            {
+              "label": "+54 9 11 7360-3710",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 9-19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "DemiDent Odontología y Ortodoncia"
+    }
+  }
+}

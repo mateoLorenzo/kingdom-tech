@@ -97,6 +97,7 @@ import micaelaLuna from "@/config/clinics/micaela-luna.json";
 import bassOdontologia from "@/config/clinics/bass-odontologia.json";
 import cyo from "@/config/clinics/cyo.json";
 import dibian from "@/config/clinics/dibian.json";
+import demident from "@/config/clinics/demident.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -199,6 +200,7 @@ const registry = {
   "bass-odontologia": bassOdontologia as ClinicConfig,
   cyo: cyo as ClinicConfig,
   dibian: dibian as ClinicConfig,
+  demident: demident as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;
