@@ -1,0 +1,403 @@
+{
+  "brand": {
+    "name": "Clinica Gomez",
+    "shortName": "Cirugía Odontológica Dr. Gomez",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541144917420",
+      "defaultMessage": "Hola, quiero coordinar un turno con el Dr. Gomez."
+    },
+    "phoneDisplay": "+54 11 4491-7420",
+    "address": "Dr. A. Melo 2997 3C, Lanús, Buenos Aires",
+    "hours": "Lun a Jue · 08:00hs - 16:00hs",
+    "mapQuery": "Dr. A. Melo 2997, Lanús, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gomez-ariel.kingdom-tech.co",
+    "title": "Cirugía Odontológica Dr. Gomez — Expertos en Odontología | Lanús, Buenos Aires",
+    "description": "Cirugía oral en Lanús con el Dr. Ariel Gomez: extracción de muelas de juicio y muelas retenidas sin dolor, con explicación clara del pre y post operatorio, puntualidad estricta y turnos rápidos, incluso para urgencias.",
+    "ogTitle": "Cirugía Odontológica Dr. Gomez — Expertos en Odontología | Lanús",
+    "ogDescription": "Cirugía oral en Lanús con el Dr. Ariel Gomez. Extracción de muelas de juicio sin dolor, puntualidad y turnos rápidos.",
+    "siteName": "Cirugía Odontológica Dr. Gomez",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Cirugía oral en Lanús con el Dr. Ariel Gomez. Extracción de muelas de juicio sin dolor y con puntualidad.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Dr. A. Melo 2997 3C",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1824",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "08:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.8,
+        "count": 290
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Dr. A. Melo 2997 · Lanús · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Cirugía oral en Lanús: extracción de muelas de juicio\nsin dolor, con puntualidad y turnos rápidos.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Cirugía Odontológica Dr. Gomez",
+        "label": "Lanús · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.8",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "290",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Cirugías puntuales y rápidas"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Cirugía oral\n"
+        },
+        {
+          "text": "En las mejores manos",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Cirugía de muelas retenidas",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Cirugía odontológica",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Urgencias con turno rápido",
+          "image": "/img/heart.jpg"
+        },
+        {
+          "name": "Control y seguimiento post operatorio",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un cirujano dedicado exclusivamente a la cirugía oral, con extracciones rápidas e indoloras y una puntualidad que nuestros pacientes destacan. "
+        },
+        {
+          "text": "Explicamos cada paso del pre y post operatorio, con higiene y asepsia impecables.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cirugías\nSin dolor",
+          "body": "Pacientes que postergaron su cirugía durante años por miedo cuentan que con el Dr. Gomez no sintieron nada. Extracciones rápidas, una recuperación tranquila y mucha contención en cada paso."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Puntualidad\nY turnos rápidos",
+          "body": "Te citamos a un horario y lo respetamos: casi no hay espera. Damos turnos rápidos, incluso para urgencias, y explicamos con claridad el pre y el post operatorio, en un consultorio impecable."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Ariel Gomez",
+          "role": "Cirugía oral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Vayan con total confianza! Fui a realizarme una cirugía por extracción de muela de juicio y estaba aterrada. Hacía tiempo que me la tenía que sacar pero por el miedo lo posponía, hasta que un día no di más del dolor. Todo excelente.",
+          "name": "Natalia Zaballo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a sacarme las 4 muelas de juicio con el Dr y juro que no sentí ni un tipo de dolor, así que lo súper recomiendo. Te citan a un horario y lo respetan tal cual, no esperás ni un minuto a ser atendido.",
+          "name": "Johanna Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La atención de la recepcionista y del médico muy correcta y gentil, el consultorio impoluto, se nota la asepsia en todo el lugar y hacen pasar de a un paciente. Atienden puntual y me la realizaron perfectamente.",
+          "name": "Bruno Egea",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención! Puntualidad 10 puntos. El Dr Ariel Gomez un genio, no me enteré que me extrajo 2 muelas juntas. Lo recomiendo por su compromiso y responsabilidad.",
+          "name": "Monica Todino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estuve más de 10 años postergando esta cirugía con un miedo que me paralizaba. Entré llorando al consultorio del miedo, pero fue tan buena la atención que pude superarlo. Muy agradecida.",
+          "name": "Karen Gunch",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tuve una experiencia excepcional con el Dr. Ariel, quien realizó la extracción de mi muela del juicio. Desde el inicio su profesionalismo y calidez me hicieron sentir en total confianza. El procedimiento fue impecable.",
+          "name": "Vanesa Amaral",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tipo de cirugías hacen?",
+          "answer": "Estamos dedicados a la cirugía oral: extracción de muelas de juicio, cirugía de muelas retenidas y otras cirugías odontológicas. También realizamos tratamiento de conducto. Llamanos y te asesoramos según tu caso."
+        },
+        {
+          "question": "Le tengo miedo a la cirugía, ¿duele?",
+          "answer": "Es lo que más nos agradecen. Muchos pacientes que postergaron su cirugía por años cuentan que no sintieron dolor. Trabajamos con una técnica rápida y mucha contención para que la pases tranquilo."
+        },
+        {
+          "question": "¿Dan turnos rápido? ¿Atienden urgencias?",
+          "answer": "Sí. Damos turnos rápidos y atendemos urgencias. Si tenés dolor, llamanos y te hacemos lugar lo antes posible. Somos muy puntuales: casi no vas a esperar para ser atendido."
+        },
+        {
+          "question": "¿Cómo es el post operatorio?",
+          "answer": "Te explicamos con claridad cada indicación del post operatorio y te acompañamos en el seguimiento. Siguiendo las indicaciones, la recuperación suele ser rápida y sin molestias."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a jueves de 8 a 16."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Dr. A. Melo 2997 3C, Lanús, Provincia de Buenos Aires. Atendemos de lunes a jueves de 8 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu cirugía\n"
+        },
+        {
+          "text": "En las mejores manos",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe explicamos todo el procedimiento con claridad.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Dr. A. Melo 2997 3C, Lanús, Buenos Aires",
+      "hoursLine": "Lun a Jue · 08:00hs - 16:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Cirugía oral en Lanús con el Dr. Ariel Gomez.\nExtracción de muelas de juicio sin dolor, con\npuntualidad y turnos rápidos para urgencias.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Muelas de juicio",
+              "href": "#servicios"
+            },
+            {
+              "label": "Muelas retenidas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía odontológica",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Dr. A. Melo 2997 3C, Lanús"
+            },
+            {
+              "label": "+54 11 4491-7420",
+              "href": "tel:+541144917420"
+            },
+            {
+              "label": "Lun a Jue · 8-16h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Cirugía odontológica Dr. Gomez Ariel"
+    }
+  }
+}

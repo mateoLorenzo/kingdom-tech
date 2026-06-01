@@ -1,0 +1,406 @@
+{
+  "brand": {
+    "name": "GF Odontología",
+    "shortName": "GF Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541164312819",
+      "defaultMessage": "Hola, quiero coordinar un turno en GF Odontología."
+    },
+    "phoneDisplay": "011 6431-2819",
+    "address": "Gob. Felipe Llavallol 393, Lanús, Buenos Aires",
+    "hours": "Lun a Vie · 08:00hs - 19:00hs · Sáb · 08:00hs - 13:00hs",
+    "mapQuery": "Gobernador Felipe Llavallol 393, Lanús, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gf-odontologia.kingdom-tech.co",
+    "title": "GF Odontología — Expertos en Odontología | Lanús, Buenos Aires",
+    "description": "Odontología en Lanús con el Dr. Guillermo Frigidi. Implantes, coronas, cirugía con relleno óseo y estética dental, con una odontología de precisión, resultados impecables y un trato cálido y sin dolor.",
+    "ogTitle": "GF Odontología — Expertos en Odontología | Lanús",
+    "ogDescription": "Odontología en Lanús con el Dr. Guillermo Frigidi. Implantes, coronas, cirugía y estética dental con precisión y trato cálido.",
+    "siteName": "GF Odontología - Dr. Guillermo Frigidi",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Lanús con el Dr. Guillermo Frigidi. Implantes, coronas y estética dental con precisión y trato cálido.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Gobernador Felipe Llavallol 393",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1828",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "13:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Gob. Felipe Llavallol 393 · Lanús · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Lanús con el Dr. Guillermo Frigidi:\nimplantes y estética con precisión y trato cálido.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "GF Odontología",
+        "label": "Lanús · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Implantes",
+          "label": "Cirugía y relleno óseo"
+        },
+        {
+          "value": "Precisión",
+          "label": "Resultados estéticos impecables"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Trato cálido y cercano"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Cirugía y relleno óseo",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "El Dr. Guillermo Frigidi combina una odontología de precisión con resultados estéticos impecables. "
+        },
+        {
+          "text": "Te explica cada procedimiento con claridad, en instalaciones impecables y con una atención sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Precisión que\nSe nota",
+          "body": "Coronas, implantes y cirugías con relleno óseo que dejan una estética perfecta, como destacan nuestros pacientes. Prolijidad y precisión en cada paso, con resultados que duran."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Trato cálido\nY sin dolor",
+          "body": "El Dr. Guillermo explica cada procedimiento desde el primer momento. Atención sin dolor, buen postoperatorio e instalaciones impecables que hacen que vuelvas tranquilo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Guillermo Frigidi",
+          "role": "Odontología general e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "El Dr. Guillermo tiene un trato muy amable y desde el primer momento me explicó los procedimientos a seguir. Me hizo una corona en un diente muy visible que quedó perfecta. Prolijidad y precisión 10/10, lo recomiendo sin duda.",
+          "name": "Maximiliano Juarez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Sumamente recomendable; de atención y trato excelente por parte del equipo, muy profesionales. Las instalaciones están limpias y los consultorios impecables.",
+          "name": "Tamara Sosa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Una infección me provocó la pérdida de una muela y parte del hueso. El Doctor con una cirugía hizo un relleno óseo para después realizar el implante. La estética quedó perfecta. El doctor es excelente. Lo súper recomiendo.",
+          "name": "Pineda Hernan",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Destaco la atención y la dedicación tanto del doctor como de la doctora. No sentí dolor y no tuve complicaciones en el postoperatorio.",
+          "name": "Anahi Rodriguez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención. Puntualidad y compromiso con el paciente.",
+          "name": "Lidia Requena",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Un lugar impecable! Super higiénico y limpio. Había visitado varios profesionales por una situación particular, y fueron los que me dieron la mejor solución.",
+          "name": "Mariela Forastiero",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen implantes dentales?",
+          "answer": "Sí, es una de nuestras especialidades. Realizamos implantes, e incluso cirugías con relleno óseo cuando hace falta recuperar hueso, con resultados estéticos impecables. Llamanos y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Colocan coronas y prótesis?",
+          "answer": "Sí. Hacemos coronas y prótesis con mucha prolijidad y precisión, para que queden naturales incluso en dientes muy visibles, como destacan nuestros pacientes."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos para que no. Nuestros pacientes destacan que no sintieron dolor y que tuvieron un buen postoperatorio, con un acompañamiento cuidadoso en cada paso."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a viernes de 8 a 19 y los sábados de 8 a 13."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Gobernador Felipe Llavallol 393, Lanús, Buenos Aires. Atendemos de lunes a viernes de 8 a 19 y los sábados de 8 a 13. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Gob. Felipe Llavallol 393, Lanús, Buenos Aires",
+      "hoursLine": "Lun a Vie · 08:00hs - 19:00hs · Sáb · 08:00hs - 13:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Lanús con el Dr. Guillermo Frigidi.\nImplantes, coronas, cirugía y estética dental con\nprecisión, resultados impecables y trato cálido.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía y relleno óseo",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y prótesis",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Gob. Felipe Llavallol 393, Lanús"
+            },
+            {
+              "label": "011 6431-2819",
+              "href": "tel:+541164312819"
+            },
+            {
+              "label": "Lun a Sáb",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "GF Odontología - Dr. Guillermo Frigidi"
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "brand": {
+    "name": "Clinica Gonzalez",
+    "shortName": "Consultorio Odontológico Dra. González",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491167502681",
+      "defaultMessage": "Hola, quiero coordinar un turno en el consultorio de la Dra. Florencia González."
+    },
+    "phoneDisplay": "+54 9 11 6750-2681",
+    "address": "Benito Pérez Galdós 1477, Quilmes, Buenos Aires",
+    "hours": "Lun, Mié y Vie · 15 a 20hs · Mar y Jue · 10 a 17hs",
+    "mapQuery": "Benito Pérez Galdós 1477, Quilmes, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gonzalez-quilmes.kingdom-tech.co",
+    "title": "Consultorio Odontológico Dra. González — Expertos en Odontología | Quilmes",
+    "description": "Odontología en Quilmes con la Dra. Florencia González: un trato cálido y paciente que te saca el miedo al dentista. Rehabilitación sobre implantes, tratamiento de conducto, coronas, arreglos estéticos y atención de urgencias, con todo explicado paso a paso.",
+    "ogTitle": "Consultorio Odontológico Dra. González — Expertos en Odontología | Quilmes",
+    "ogDescription": "Odontología en Quilmes con un trato cálido que te saca el miedo al dentista. Implantes, conductos, coronas, estética y urgencias.",
+    "siteName": "Consultorio Odontológico Dra. Florencia González",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Quilmes con un trato cálido y paciente que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Benito Pérez Galdós 1477",
+        "city": "Quilmes",
+        "region": "Buenos Aires",
+        "postalCode": "B1878",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+          ],
+          "opens": "15:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Thursday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 88
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Benito Pérez Galdós 1477 · Quilmes · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Quilmes con un trato cálido y paciente\nque te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dra. Florencia González",
+        "label": "Quilmes · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "88",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Atención cercana y paciente"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Primera consulta y diagnóstico",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes y rehabilitación",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Coronas y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Arreglos y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Atención de urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una odontóloga cálida y paciente que logra que personas con fobia al dentista se atiendan tranquilas, explicando cada paso del tratamiento. "
+        },
+        {
+          "text": "Profesionalismo, prolijidad y mucha higiene en cada consulta.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que durante años le temieron al dentista cuentan que con la Dra. Florencia perdieron el miedo. Una mano suave, mucha paciencia y contención en cada paso, explicando todo con claridad para que vengas tranquilo."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Diagnóstico claro\nY a tu medida",
+          "body": "Desde la primera consulta hacemos un análisis completo y un plan de acción adaptado a vos. Rehabilitación sobre implantes, conductos, coronas, arreglos estéticos y atención de urgencias, siempre con higiene y prolijidad destacadas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Florencia González",
+          "role": "Odontología general y rehabilitación",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me atiendo con Florencia desde hace unos meses y fue la mejor decisión que pude tomar. Es una profesional súper dedicada, paciente y responsable. Siempre explica todo con claridad y te hace sentir muy tranquilo durante cada sesión. La recomiendo totalmente.",
+          "name": "Ramiro Balderrama",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La mejor profesional sin dudas. Ella es un amor y se nota que ama su profesión, te explica todo con paciencia para que puedas entender cada procedimiento. Gracias a ella voy a atenderme sin miedo.",
+          "name": "Julieta Saldaña",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo con Florencia hace años y realmente su atención y cuidados son excepcionales. Me siento muy cómoda y segura en su consultorio. Su profesionalismo y amabilidad son insuperables.",
+          "name": "Karina",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llegué con más de 6 meses de embarazo y pánico al dentista por una mala praxis anterior. Ella me dio la confianza para avanzar con el tratamiento y, más allá de su profesionalismo, es una persona muy cálida que supo acompañarme.",
+          "name": "Melina Fichera",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de la doctora Florencia. Me solucionó los arreglos que otros profesionales hicieron mal. Su atención es muy profesional y, lo más importante, la higiene es excelente. Muy recomendable.",
+          "name": "Oscar Alfredo Olivera",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Le doy 5 estrellas porque no hay más. Es atenta, comprensiva, muy atenta a la comodidad del paciente. Le tenía pánico a los dentistas hasta conocerla a ella. Recomiendo 100%.",
+          "name": "Matías García",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo acá, gracias a un trato cálido, una mano suave y mucha paciencia, explicando cada paso del tratamiento."
+        },
+        {
+          "question": "¿Qué incluye la primera consulta?",
+          "answer": "Hacemos un análisis completo de tu salud bucal y un plan de acción adaptado a tu necesidad, explicándote con claridad el diagnóstico y cada procedimiento para que decidas con tranquilidad."
+        },
+        {
+          "question": "¿Hacen implantes y rehabilitación?",
+          "answer": "Sí. Realizamos rehabilitación sobre implantes, tratamientos de conducto, pernos y coronas, además de arreglos estéticos. Cada tratamiento se planifica con prolijidad y mucho cuidado."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, atendemos urgencias y damos turnos lo antes posible. Escribinos por WhatsApp contándonos qué te pasa y coordinamos la atención."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Benito Pérez Galdós 1477, Quilmes, Buenos Aires. Atendemos lunes, miércoles y viernes de 15 a 20, y martes y jueves de 10 a 17. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Benito Pérez Galdós 1477, Quilmes, Buenos Aires",
+      "hoursLine": "Lun, Mié y Vie 15 a 20hs · Mar y Jue 10 a 17hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Quilmes con la Dra. Florencia González:\nun trato cálido y paciente que te saca el miedo al dentista.\nImplantes, conductos, coronas, estética y urgencias.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes y rehabilitación",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y prótesis",
+              "href": "#servicios"
+            },
+            {
+              "label": "Atención de urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Benito Pérez Galdós 1477, Quilmes"
+            },
+            {
+              "label": "+54 9 11 6750-2681",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio Odontológico Dra. Florencia González"
+    }
+  }
+}

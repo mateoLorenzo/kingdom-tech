@@ -1,0 +1,404 @@
+{
+  "brand": {
+    "name": "Clinica Gianetto",
+    "shortName": "Dra. Florencia Gianetto",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541131408660",
+      "defaultMessage": "Hola, quiero coordinar un turno con la Dra. María Florencia Gianetto."
+    },
+    "phoneDisplay": "+54 11 3140-8660",
+    "address": "C. 152 6352, Piso 3 Of. 309, Hudson, Berazategui",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "C. 152 6352, Guillermo Enrique Hudson, Berazategui, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gianetto.kingdom-tech.co",
+    "title": "Dra. Florencia Gianetto — Expertos en Odontología | Hudson, Berazategui",
+    "description": "Odontología en Hudson, Berazategui, con estética dental y alineadores invisibles. Rehabilitación oral, diagnóstico y urgencias, con tecnología de última generación y un trato cálido y empático que te saca el miedo al dentista.",
+    "ogTitle": "Dra. Florencia Gianetto — Expertos en Odontología | Hudson",
+    "ogDescription": "Odontología en Hudson, Berazategui, con estética dental, alineadores invisibles y un trato cálido y empático con tecnología de avanzada.",
+    "siteName": "Dra. María Florencia Gianetto y equipo",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Hudson, Berazategui, con estética dental, alineadores invisibles y un trato cálido y empático.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "C. 152 6352, Piso 3 Of. 309",
+        "city": "Berazategui",
+        "region": "Buenos Aires",
+        "postalCode": "B1886",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 61
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "C. 152 6352 · Hudson · Berazategui",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Hudson con estética dental y alineadores\ninvisibles, con tecnología de avanzada y un trato cálido.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dra. Florencia Gianetto",
+        "label": "Hudson · Berazategui"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "61",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Trato cálido y empático"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Alineadores invisibles",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Rehabilitación oral",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Estética dental y alineadores invisibles con tecnología y equipamiento de última generación, en un consultorio moderno e impecable. "
+        },
+        {
+          "text": "Un trato cálido y empático que reduce el miedo y mejora tu sonrisa de forma natural.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tecnología\nDe avanzada",
+          "body": "Equipamiento y aparatología de última generación para diagnósticos precisos y tratamientos cómodos. Estética dental, alineadores invisibles y rehabilitación oral con resultados naturales que nuestros pacientes destacan."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Trato cálido\nQue saca el miedo",
+          "body": "Pacientes que llegaron con miedo cuentan que acá lograron afrontarlo. La Dra. Gianetto y su equipo se toman el tiempo para cada paciente, con cordialidad, empatía y una higiene impecable en cada visita."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. María Florencia Gianetto",
+          "role": "Odontología estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Silvia Kahn",
+          "role": "Alineadores invisibles",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Desde el primer momento se percibe la calidad humana con la que trabajan: la cordialidad, el trato respetuoso y, sobre todo, la empatia con el paciente hacen una gran diferencia.",
+          "name": "Verónica Morán",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente! Fui con miedo y lograron que pueda afrontarlo. La doctora es un mil: empatia y profesional.",
+          "name": "Selene Caira",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo con la doctora Florencia Gianetto hace mas de 2 años. Es una profesional muy calida y atenta; gracias a sus tratamientos mejore mi sonrisa de forma natural. Tambien hice el tratamiento de Invisalign.",
+          "name": "Lara Ruiz Diaz",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atendi con la Dra. Silvia Kahn y quede encantada. Me realice alineadores invisibles, lo mejor que tuve gracias a la comodidad que me brindaron. Me encanta la innovacion y la tecnologia que manejan.",
+          "name": "Gabriela Paez Arango",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El equipo de la Dra. Florencia Gianetto es simplemente excepcional. Su profesionalismo y trato amable marcan la diferencia en cada visita.",
+          "name": "Daiana Coronel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Consultorio hermoso, muy moderno, impecable la atencion y la higiene. Me trataron con mucha calidez y profesionalismo.",
+          "name": "DIGIMPEX SRL",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen alineadores invisibles?",
+          "answer": "Sí. Trabajamos con alineadores invisibles (Invisalign), una de nuestras especialidades. Nuestros pacientes destacan la comodidad del tratamiento y los resultados naturales. Llamanos y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Hacen estética dental?",
+          "answer": "Sí, la estética dental es nuestro foco. Trabajamos para mejorar tu sonrisa de forma natural, con tecnología de avanzada y un acompañamiento cercano en cada paso."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que llegaron con miedo lograron afrontarlo gracias a un trato cálido, empático y respetuoso. Te acompañamos con paciencia en cada visita."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Resolvemos urgencias para que no te quedes con dolor. Llamanos y te hacemos lugar lo antes posible para solucionar tu problema."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a viernes de 9 a 19, con turno previo para dedicarte el tiempo que merecés."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en C. 152 6352, Piso 3 Oficina 309, Hudson, Berazategui. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "C. 152 6352, Piso 3 Of. 309, Hudson, Berazategui",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Hudson, Berazategui, con estética\ndental y alineadores invisibles. Tecnología de\navanzada y un trato cálido y empático.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Alineadores invisibles",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Rehabilitación oral",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "C. 152 6352, Hudson, Berazategui"
+            },
+            {
+              "label": "+54 11 3140-8660",
+              "href": "tel:+541131408660"
+            },
+            {
+              "label": "Lun a Vie · 9-19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dra. María Florencia Gianetto y equipo"
+    }
+  }
+}

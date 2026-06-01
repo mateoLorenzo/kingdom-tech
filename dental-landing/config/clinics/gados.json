@@ -1,0 +1,386 @@
+{
+  "brand": {
+    "name": "Clinica Gados",
+    "shortName": "Gados Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541142180253",
+      "defaultMessage": "Hola, quiero coordinar un turno en Gados Odontología."
+    },
+    "phoneDisplay": "011 4218-0253",
+    "address": "Gdor. Oliden 717, Valentín Alsina, Buenos Aires",
+    "hours": "Lun y Mar · 15:00hs - 19:00hs · Jue · 08:30hs - 18:30hs · Sáb · 09:30hs - 12:00hs",
+    "mapQuery": "Gdor. Oliden 717, Valentín Alsina, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gados.kingdom-tech.co",
+    "title": "Gados Odontología — Expertos en Odontología | Valentín Alsina",
+    "description": "Odontología en Valentín Alsina con foco en odontopediatría y una atención atenta y personalizada. Atención para toda la familia, con un trato cálido y profesional en el sur del Gran Buenos Aires.",
+    "ogTitle": "Gados Odontología — Expertos en Odontología | Valentín Alsina",
+    "ogDescription": "Odontología en Valentín Alsina con foco en odontopediatría y una atención atenta y personalizada para toda la familia.",
+    "siteName": "Gados Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Valentín Alsina con foco en odontopediatría y una atención atenta y personalizada para toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Gdor. Oliden 717",
+        "city": "Valentín Alsina",
+        "region": "Buenos Aires",
+        "postalCode": "B1822",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday"
+          ],
+          "opens": "15:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Thursday"
+          ],
+          "opens": "08:30",
+          "closes": "18:30"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:30",
+          "closes": "12:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Gdor. Oliden 717 · Valentín Alsina · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Valentín Alsina con foco en odontopediatría\ny una atención atenta y personalizada para toda la familia.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Gados Odontología",
+        "label": "Valentín Alsina · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Odontopediatría",
+          "label": "Para los más chicos"
+        },
+        {
+          "value": "Atención",
+          "label": "Atenta y personalizada"
+        },
+        {
+          "value": "Familias",
+          "label": "Que nos eligen hace años"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica odontológica de barrio con foco en odontopediatría y un trato siempre pendiente del paciente. "
+        },
+        {
+          "text": "Atención atenta y personalizada para toda la familia, con calidez y profesionalismo.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Siempre pendientes\nDel paciente",
+          "body": "Nuestros pacientes destacan una atención atenta y personalizada, siempre al pendiente de cada caso. Una clínica de barrio donde te conocen por tu nombre y te acompañan en cada paso."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Odontopediatría\nDe confianza",
+          "body": "Las familias del sur del Gran Buenos Aires nos eligen por nuestras odontopediatras. Cuidamos la sonrisa de los más chicos con paciencia y cariño, y atendemos a toda la familia."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Son unas genias! Siempre al pendiente del paciente.",
+          "name": "Virginia Figueroa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes odontopediatras.",
+          "name": "Andrea Valdez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, es uno de nuestros focos. Las familias nos eligen por nuestras odontopediatras, que cuidan la sonrisa de los más chicos con paciencia y cariño. Atendemos a toda la familia."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Hacemos odontopediatría, ortodoncia, estética y blanqueamiento, implantes, prótesis, limpiezas y arreglos. Llamanos y te asesoramos sobre el tratamiento que necesitás."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Atenta y personalizada. Somos una clínica de barrio que siempre está al pendiente del paciente, con un trato cálido y profesional que nuestros pacientes destacan."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Gdor. Oliden 717, Valentín Alsina, Buenos Aires. Atendemos lunes y martes de 15 a 19, jueves de 8:30 a 18:30 y sábados de 9:30 a 12. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Gdor. Oliden 717, Valentín Alsina, Buenos Aires",
+      "hoursLine": "Lun y Mar · 15:00hs - 19:00hs · Jue · 08:30hs - 18:30hs · Sáb · 09:30hs - 12:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Valentín Alsina con foco en\nodontopediatría y una atención atenta y\npersonalizada para toda la familia.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Gdor. Oliden 717, Valentín Alsina"
+            },
+            {
+              "label": "011 4218-0253",
+              "href": "tel:+541142180253"
+            },
+            {
+              "label": "Lun, Mar, Jue y Sáb",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Gados Odontología"
+    }
+  }
+}

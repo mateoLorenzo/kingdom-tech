@@ -1,0 +1,412 @@
+{
+  "brand": {
+    "name": "Clinica Mitre",
+    "shortName": "Centro Odontológico Mitre",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541175056686",
+      "defaultMessage": "Hola, quiero coordinar un turno en el Centro Odontológico Mitre."
+    },
+    "phoneDisplay": "+54 11 7505-6686",
+    "address": "Av. Mitre 633, Quilmes, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs · Sáb · 10:00hs - 15:00hs",
+    "mapQuery": "Av. Mitre 633, Quilmes, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://mitre-quilmes.kingdom-tech.co",
+    "title": "Centro Odontológico Mitre — Expertos en Odontología | Quilmes",
+    "description": "Odontología en Quilmes centro con un equipo amplio de profesionales y trato cercano. Prótesis dentales, odontopediatría, urgencias y limpieza, con atención puntual y cuidado para toda la familia.",
+    "ogTitle": "Centro Odontológico Mitre — Expertos en Odontología | Quilmes",
+    "ogDescription": "Odontología en Quilmes con un equipo amplio de profesionales y trato cercano. Prótesis, odontopediatría, urgencias y limpieza.",
+    "siteName": "Centro Odontológico Mitre",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Quilmes con un equipo amplio de profesionales y trato cercano, para toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Mitre 633",
+        "city": "Quilmes",
+        "region": "Buenos Aires",
+        "postalCode": "B1878",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "15:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Mitre 633 · Quilmes · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Quilmes centro con un equipo amplio\nde profesionales y un trato cercano para toda la familia.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Centro Odontológico Mitre",
+        "label": "Quilmes · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Equipo amplio",
+          "label": "Varios profesionales"
+        },
+        {
+          "value": "Familias",
+          "label": "Adultos y niños"
+        },
+        {
+          "value": "Urgencias",
+          "label": "Atención resolutiva"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo amplio de profesionales que trabaja con compromiso y un trato cercano con cada paciente. "
+        },
+        {
+          "text": "Atención puntual, prolija y resolutiva en Quilmes centro, para adultos y niños.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención cercana\nPara toda la familia",
+          "body": "Nuestros pacientes destacan el trato cordial y la buena predisposición de todo el equipo. Acompañamos a adultos y niños, ayudando incluso a quienes le tienen miedo al dentista a sentirse cómodos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Profesionales\nQue resuelven",
+          "body": "Prótesis, urgencias, odontopediatría y limpieza con trabajos de calidad y atención puntual. Un equipo de profesionales competentes que respeta el horario de tu turno y cuida cada detalle."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Cuidan tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Justina",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ausilio",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Emiliano",
+          "role": "Prótesis dentales",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Lo mejor de Quilmes, siempre tuve muy buena atención del Dr. Ausilio.",
+          "name": "Juliana Yebara",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de sus profesionales. 100% recomendable.",
+          "name": "Jorge Marcelo Recalde",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llamé, me atendieron rápidamente y me dieron un turno con una semana de demora. El día del turno me atendieron en el horario pactado y el profesional fue cordial y expeditivo. Ya recomendé a amigos y familiares.",
+          "name": "Juan Ignacio Esteban",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Todas las veces que llevé a mi hija, ningún problema. La Dra. Justina, una gran profesional, logró que mi hija le pierda el miedo. Excelente atención.",
+          "name": "Claudio Mariani",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendí con Emiliano, es muy buen dentista, me hizo 3 prótesis y funcionaron súper bien. Súper amable y los arreglos son realmente muy buenos.",
+          "name": "Valeria Giuliana Benitez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Los dueños son muy amables, nunca dejaron de ocuparse del lugar. Mi odontólogo Leonardo Rodoni es un genio, muy resolutivo. Todo impecable y las secretarias respetuosas.",
+          "name": "Stella Maris Albornoz",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Contamos con profesionales resolutivos para atender urgencias. Llamanos por teléfono y coordinamos para que puedas resolver el dolor o el problema lo antes posible."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Tenemos odontopediatría con la Dra. Justina, que sabe acompañar a los chicos para que le pierdan el miedo al dentista. Es una de las cosas que más destacan las familias que nos eligen."
+        },
+        {
+          "question": "¿Hacen prótesis dentales?",
+          "answer": "Sí, es uno de nuestros fuertes. Nuestros pacientes destacan trabajos de prótesis de muy buena calidad. Llamanos y te asesoramos sobre la mejor opción para tu caso."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a viernes de 9 a 20 y los sábados de 10 a 15."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Av. Mitre 633, Quilmes, Provincia de Buenos Aires. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Av. Mitre 633, Quilmes, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs · Sáb · 10:00hs - 15:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Quilmes centro con un equipo\namplio de profesionales y un trato cercano\npara toda la familia.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Limpieza y arreglos",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Mitre 633, Quilmes"
+            },
+            {
+              "label": "+54 11 7505-6686",
+              "href": "tel:+541175056686"
+            },
+            {
+              "label": "Lun a Vie · 9-20h · Sáb · 10-15h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Centro Odontológico Mitre"
+    }
+  }
+}

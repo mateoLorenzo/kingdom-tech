@@ -1,0 +1,406 @@
+{
+  "brand": {
+    "name": "Santa Elena",
+    "shortName": "Santa Elena Salud Dentista",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541142651275",
+      "defaultMessage": "Hola, quiero coordinar un turno en Santa Elena Salud Dentista."
+    },
+    "phoneDisplay": "011 4265-1275",
+    "address": "De la Serna 1111, Gerli, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs · Sab · 10:00hs - 12:30hs",
+    "mapQuery": "De la Serna 1111, Gerli, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://santa-elena.kingdom-tech.co",
+    "title": "Santa Elena Salud Dentista — Expertos en Odontología | Gerli, Buenos Aires",
+    "description": "Odontología en Gerli con décadas de trayectoria. Odontología general, implantes y prótesis, con profesionales reconocidos, turnos rápidos, precios accesibles y un trato cálido para toda la familia.",
+    "ogTitle": "Santa Elena Salud Dentista — Expertos en Odontología | Gerli",
+    "ogDescription": "Odontología en Gerli con décadas de trayectoria. Odontología general, implantes y prótesis, turnos rápidos y precios accesibles.",
+    "siteName": "Santa Elena Salud Dentista",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Gerli con décadas de trayectoria. Odontología general, implantes y prótesis, con turnos rápidos y precios accesibles.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "De la Serna 1111",
+        "city": "Gerli",
+        "region": "Buenos Aires",
+        "postalCode": "B1869",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "12:30"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "De la Serna 1111 · Gerli · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Gerli con décadas de trayectoria\ny un trato cálido para toda la familia.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Santa Elena Salud Dentista",
+        "label": "Gerli · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Trayectoria",
+          "label": "Décadas atendiendo en la zona"
+        },
+        {
+          "value": "Turnos",
+          "label": "Rápidos y fáciles de conseguir"
+        },
+        {
+          "value": "Accesible",
+          "label": "Precios al alcance de todos"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica odontológica con décadas de trayectoria en Gerli, donde un equipo de profesionales reconocidos combina experiencia con un trato humano y cercano. "
+        },
+        {
+          "text": "Turnos rápidos, precios accesibles y atención para toda la familia.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Experiencia\nQue se nota",
+          "body": "Pacientes que se atienden hace más de 30 años nos eligen por la excelencia profesional y humana. Implantes, prótesis y odontología general en manos de profesionales reconocidos como los Dres. Julián y Eduardo."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Turnos rápidos\nY precios accesibles",
+          "body": "Conseguir turno es fácil y rápido, con precios al alcance de todos. Un ambiente agradable y un trato cálido que hace que hasta los más chicos se dejen atender sin problema."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Julián",
+          "role": "Odontología general e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Eduardo",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención, hace años que me atiendo con el doctor Julián, mi marido, mi hija y yo. Nos hizo implantes y prótesis y nunca tuve problemas. Mi hija tiene 9 años y se deja atender sin problema.",
+          "name": "Carina Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de Julián y Eduardo, muy buenos odontólogos y muy profesionales.",
+          "name": "Sabrina Soledad Berrocal",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Siempre es excelencia profesional y humana. Más de 30 años atendiéndome en el lugar.",
+          "name": "Gonzalo Martin",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención tanto del Dr. Gustavo como de la recepcionista.",
+          "name": "Graciela Tito",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Odontología general, buenos profesionales. Los turnos los dan rápido.",
+          "name": "Cintia Canedo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales, infraestructura y calidez humana.",
+          "name": "avveiras",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Hacemos odontología general, implantes y prótesis, además de limpiezas, arreglos y atención para toda la familia. Llamanos y te asesoramos sobre el tratamiento que necesitás."
+        },
+        {
+          "question": "¿Es fácil conseguir turno?",
+          "answer": "Sí. Nuestros pacientes destacan que damos turnos rápido y sin vueltas. Llamanos y coordinamos el día y horario que mejor te quede."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos. Muchos chicos se dejan atender sin problema gracias a nuestro trato paciente y cálido."
+        },
+        {
+          "question": "¿Tienen precios accesibles?",
+          "answer": "Sí. Trabajamos con precios accesibles, al alcance de todos. Te explicamos cada tratamiento y su costo para que decidas con tranquilidad."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en De la Serna 1111, Gerli, Buenos Aires. Atendemos de lunes a viernes de 9 a 19 y los sábados de 10 a 12:30. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar a la clínica",
+      "addressLine": "De la Serna 1111, Gerli, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs · Sab · 10:00hs - 12:30hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Gerli con décadas de trayectoria.\nOdontología general, implantes y prótesis, con\nturnos rápidos y precios accesibles para toda la familia.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "De la Serna 1111, Gerli"
+            },
+            {
+              "label": "011 4265-1275",
+              "href": "tel:+541142651275"
+            },
+            {
+              "label": "Lun a Vie · 9-19h · Sab · 10-12:30h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Santa Elena Salud Dentista"
+    }
+  }
+}

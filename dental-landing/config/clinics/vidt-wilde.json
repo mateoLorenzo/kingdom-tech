@@ -1,0 +1,411 @@
+{
+  "brand": {
+    "name": "Dental Vidt",
+    "shortName": "Dental Vidt - Wilde",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491132141583",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Vidt - Wilde."
+    },
+    "phoneDisplay": "+54 9 11 3214-1583",
+    "address": "Av. Bartolomé Mitre 6571, Wilde, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Av. Bartolomé Mitre 6571, Wilde, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://vidt-wilde.kingdom-tech.co",
+    "title": "Dental Vidt - Wilde — Expertos en Odontología | Wilde, Buenos Aires",
+    "description": "Odontología en Wilde con un equipo profesional y un trato cálido que te saca el miedo al dentista. Atención para toda la familia, odontopediatría, radiografías panorámicas, ortodoncia, estética e implantes en zona sur.",
+    "ogTitle": "Dental Vidt - Wilde — Expertos en Odontología | Wilde",
+    "ogDescription": "Odontología en Wilde con un equipo profesional y un trato cálido para toda la familia. Odontopediatría, ortodoncia, estética e implantes.",
+    "siteName": "Dental Vidt - Wilde",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Wilde con un equipo profesional y un trato cálido que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Bartolomé Mitre 6571",
+        "city": "Wilde",
+        "region": "Buenos Aires",
+        "postalCode": "B1875",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Bartolomé Mitre 6571 · Wilde · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Wilde con un equipo profesional y un\ntrato cálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Vidt - Wilde",
+        "label": "Wilde · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Sin miedo",
+          "label": "Trato cálido y cercano"
+        },
+        {
+          "value": "Familias",
+          "label": "Adultos y niños"
+        },
+        {
+          "value": "Años",
+          "label": "Pacientes que nos eligen"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Radiografía panorámica",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Trabajos realizados con gran profesionalismo y un trato humano que genera confianza. "
+        },
+        {
+          "text": "Por algo nuestros pacientes nos eligen y nos acompañan durante años.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Si le tenés fobia al odontólogo, este es tu lugar. Pacientes que durante años le temieron al dentista destacan nuestro trato cálido y atento. Una mano cuidadosa y mucha paciencia en cada paso."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nPara toda la familia",
+          "body": "De los más chicos a los adultos. Hacemos odontopediatría y radiografías panorámicas para niños, además de ortodoncia, estética, implantes y arreglos. Un servicio confiable que se gana tu confianza."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Recurrí a muchos consultorios en toda mi vida, particulares, por obra social, prepaga, en ninguno me hicieron los trabajos tan profesionalmente como en este lugar. Excelente.",
+          "name": "Carlos Bonet",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Si le tienen fobia al odontólogo les recomiendo visitar este consultorio. Profesionales y excelente trato!",
+          "name": "Naiara Yazmin",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me atiendo hace casi 3 años y no puedo estar más que feliz, no los cambio por nada!",
+          "name": "celeste susarte",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Son unos dulces totales, muy atentos en todo.",
+          "name": "Cynthia Belén Darriba Barreda",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelentes profesionales, los recomiendo.",
+          "name": "Sonia Martinez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente servicio.",
+          "name": "Francisco Schulze",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Pacientes que le tenían fobia al odontólogo destacan nuestro trato cálido y atento. Trabajamos con una mano cuidadosa y mucha paciencia para que estés cómodo en cada paso."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Hacemos odontopediatría y radiografías panorámicas para los más chicos. Atendemos a familias enteras, de los niños a los adultos."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Odontología general y para toda la familia: odontopediatría, radiografías panorámicas, ortodoncia, estética y blanqueamiento, implantes, limpiezas y arreglos. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que necesitás."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Bartolomé Mitre 6571, Wilde, Buenos Aires. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Bartolomé Mitre 6571, Wilde, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Wilde con un equipo profesional y\nun trato cálido que te saca el miedo al dentista.\nAtención para toda la familia en zona sur.",
+      "socials": [
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/DentalVidt.Wilde/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Bartolomé Mitre 6571, Wilde"
+            },
+            {
+              "label": "+54 9 11 3214-1583",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Facebook",
+              "href": "https://www.facebook.com/DentalVidt.Wilde/",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Vidt - Wilde"
+    }
+  }
+}

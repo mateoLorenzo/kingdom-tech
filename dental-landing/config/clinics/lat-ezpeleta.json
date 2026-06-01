@@ -1,0 +1,385 @@
+{
+  "brand": {
+    "name": "Clinica Lat",
+    "shortName": "Odontología Lat",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541125203579",
+      "defaultMessage": "Hola, quiero coordinar una atención en Odontología Lat."
+    },
+    "phoneDisplay": "+54 11 2520-3579",
+    "address": "Ing. Carpintero 5154, Ezpeleta, Buenos Aires",
+    "hours": "Urgencias 24hs · todos los días",
+    "mapQuery": "Ing. Carpintero 5154, Ezpeleta, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://lat-ezpeleta.kingdom-tech.co",
+    "title": "Odontología Lat — Expertos en Odontología | Guardia 24hs en Ezpeleta",
+    "description": "Guardia odontológica abierta las 24 horas en Ezpeleta. Resolvemos urgencias y dolor dental en el momento, incluso de madrugada y feriados, con extracciones inmediatas y un trato cálido y paciente.",
+    "ogTitle": "Odontología Lat — Expertos en Odontología | Ezpeleta 24hs",
+    "ogDescription": "Guardia odontológica 24hs en Ezpeleta. Urgencias, dolor y extracciones resueltas en el momento, todos los días.",
+    "siteName": "Odontología Lat",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia odontológica 24hs en Ezpeleta. Urgencias y dolor dental resueltos en el momento, todos los días.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Ing. Carpintero 5154",
+        "city": "Ezpeleta",
+        "region": "Buenos Aires",
+        "postalCode": "B1882",
+        "country": "AR"
+      },
+      "rating": {
+        "value": 4.7,
+        "count": 35
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Llamá ahora",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Ing. Carpintero 5154 · Ezpeleta · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Guardia odontológica abierta las 24 horas en Ezpeleta.\nUrgencias y dolor resueltos en el momento, todos los días.",
+      "ctaLabel": "Llamá ahora",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Lat",
+        "label": "Ezpeleta · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "24hs",
+          "label": "Urgencias todos los días"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Trato paciente y cálido"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Atención odontológica\n"
+        },
+        {
+          "text": "Cuando más la necesitás",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Urgencias 24hs",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Extracciones inmediatas",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/heart.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una guardia odontológica abierta las 24 horas, todos los días, que resuelve el dolor y las urgencias en el momento, incluso de madrugada y feriados. "
+        },
+        {
+          "text": "Profesionales pacientes y un trato cálido que te acompaña en cada paso.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nLas 24 horas",
+          "body": "Cuando el dolor no espera, nosotros tampoco. Pacientes que llegaron a las 5 o 6 de la mañana sin aguantar el dolor cuentan que acá encontraron la solución en el momento. Te recomendamos llamar antes de venir así te esperamos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Extracciones\nSin dolor",
+          "body": "Extracciones y tratamientos de conducto realizados con paciencia y una mano cuidadosa, como destacan quienes ya se atendieron. Mucha contención para quienes le tienen miedo al dentista, hasta en los casos más difíciles."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Ale",
+          "role": "Odontología y urgencias",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Fui un lunes feriado a las 6 de la mañana, no daba más del dolor y los únicos que me encontraron la solución fueron acá. Mil gracias a la dentista que me atendió, son todos muy amables.",
+          "name": "Soledad Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Vine a las 5.30 am con un dolor tremendo y me realizaron la extracción en el momento. La doctora me tuvo mucha paciencia y al final ni cuenta me di cuando me la sacó. Una genia. Súper recomendable.",
+          "name": "Veronica Grance",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, muy recomendable. La odontóloga Ale y la secretaria Aldu, las mejores sin dudas.",
+          "name": "Nicole Milagros Penas Arrigo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente servicio, muy amable. Me salvó por el horario, la recomiendo.",
+          "name": "Gimena Quispe",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena la odontóloga, súper amable y con mucha paciencia. La secretaria también una genia.",
+          "name": "Dario nicolas Sarate",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La verdad que excelente la atención, 10 puntos la recepcionista y la doctora, muy buena su atención.",
+          "name": "ludmila Perez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden las 24 horas?",
+          "answer": "Sí. Somos una guardia odontológica abierta las 24 horas, todos los días, incluso de madrugada y feriados. Cuando aparece el dolor o una urgencia, te atendemos en el momento."
+        },
+        {
+          "question": "¿Tengo que avisar antes de ir?",
+          "answer": "Sí, te recomendamos llamar antes de venir así te esperamos y te atendemos lo antes posible. Llamanos al 011 2520-3579."
+        },
+        {
+          "question": "¿Resuelven extracciones y dolor en el momento?",
+          "answer": "Sí, es nuestra especialidad. Hacemos extracciones inmediatas, extracción de muelas de juicio y tratamiento de conducto, resolviendo el dolor en el momento con mucha paciencia."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Nuestros pacientes destacan la paciencia y el trato cálido, incluso con quienes le tienen miedo al dentista o a quienes no les agarra fácil la anestesia. Te acompañamos en cada paso."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu atención y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles. Trabajamos con precios accesibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Ing. Carpintero 5154, Ezpeleta, Provincia de Buenos Aires. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencias 24hs",
+      "heading": [
+        {
+          "text": "El dolor no espera\n"
+        },
+        {
+          "text": "Nosotros tampoco",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos a cualquier hora y te atendemos.\nEstamos abiertos las 24 horas, todos los días.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Ing. Carpintero 5154, Ezpeleta, Buenos Aires",
+      "hoursLine": "Urgencias 24hs · todos los días",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Guardia odontológica abierta las 24 horas en\nEzpeleta. Urgencias, dolor y extracciones\nresueltas en el momento, todos los días.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias 24hs",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Ing. Carpintero 5154, Ezpeleta"
+            },
+            {
+              "label": "+54 11 2520-3579",
+              "href": "tel:+541125203579"
+            },
+            {
+              "label": "Urgencias 24hs · todos los días",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontologia Lat Ezpeleta 24hs"
+    }
+  }
+}

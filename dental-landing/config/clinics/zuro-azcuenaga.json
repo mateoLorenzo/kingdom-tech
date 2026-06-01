@@ -1,0 +1,419 @@
+{
+  "brand": {
+    "name": "Zuro Dental",
+    "shortName": "Zuro Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541170780570",
+      "defaultMessage": "Hola, quiero coordinar un turno en Zuro Dental."
+    },
+    "phoneDisplay": "+54 9 11 7078-0570",
+    "address": "Azcuénaga 1077, Balvanera, CABA",
+    "hours": "Lun a Sáb · 08:00hs - 20:00hs",
+    "mapQuery": "Azcuénaga 1077, Balvanera, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://zuro-azcuenaga.kingdom-tech.co",
+    "title": "Zuro Dental — Expertos en Odontología | Balvanera, CABA",
+    "description": "Centro odontológico integral en Balvanera, CABA, con turnos rápidos incluso para urgencias. Ortodoncia, implantes, estética, blanqueamiento, tratamiento de conducto, limpieza y odontopediatría, con un equipo cálido y equipamiento moderno.",
+    "ogTitle": "Zuro Dental — Expertos en Odontología | Balvanera",
+    "ogDescription": "Centro odontológico integral en Balvanera con turnos rápidos para urgencias. Ortodoncia, implantes, estética y más, con trato cálido.",
+    "siteName": "Zuro Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico integral en Balvanera, CABA, con turnos rápidos incluso para urgencias y un equipo cálido.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Azcuénaga 1077",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1115",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 664
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Azcuénaga 1077 · Balvanera · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico integral en Balvanera con turnos rápidos,\nincluso para urgencias, y un equipo cálido que te acompaña.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Zuro Dental",
+        "label": "Balvanera · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "664",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Turnos",
+          "label": "Rápidos para urgencias"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Urgencias odontológicas",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza dental",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro odontológico integral con un equipo numeroso y equipamiento moderno, donde conseguís turno rápido incluso para urgencias. "
+        },
+        {
+          "text": "Te explicamos cada tratamiento con claridad y un trato humano que tranquiliza.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Turnos rápidos\nPara tu urgencia",
+          "body": "Conseguís turno casi en el momento, incluso los sábados y ante una urgencia dental. Nuestros pacientes destacan la rapidez para resolver dolores e infecciones, con puntualidad en la atención."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención integral\nY humana",
+          "body": "Ortodoncia, implantes, estética, conducto, limpieza y odontopediatría, todo en un mismo lugar. Un equipo claro al explicar y muy cálido, que tranquiliza incluso a los pacientes más ansiosos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Sofía Zabala",
+          "role": "Cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. José Casanova",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Antonella Etulian",
+          "role": "Estética y blanqueamiento",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Orlando Zurita",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Me atendió José Casanova en ortodoncia y la experiencia fue muy buena. Es un profesional muy atento, claro al explicar cada paso del tratamiento y transmite mucha confianza. Sin dudas lo recomiendo.",
+          "name": "Johana Balza",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente atención! Tenía una urgencia dental y enseguida me dieron turno. Equipo de última generación y muy buen trato. Gracias a la Dra. Sofía Zabala por salvarme.",
+          "name": "Pablo Caruso",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atendió la Dra. Luciana de la Colina, que me tuvo una paciencia tremenda. Me hizo una limpieza y un tratamiento de conducto, muy meticulosa. Excelente profesional, estoy muy agradecido.",
+          "name": "Fabricio Burgos",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Concurrí por una emergencia, muy estresada y angustiada. La calidez y profesionalismo de todo el personal me tranquilizó muchísimo.",
+          "name": "Carolina Vartanian",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muchas opciones de turno. Puntualidad en la atención. Muy buena profesional. Fui con una urgencia y la resolví rápido y bien. Quedé muy conforme. Lo recomiendo.",
+          "name": "Ma. Cecilia Cabot",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente atención! La doctora Denise súper atenta, me explicó todo sobre mi bruxismo. El personal muy amable y las instalaciones muy buenas. Lo recomiendo.",
+          "name": "Eliana Yanina Zalazar",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias odontológicas?",
+          "answer": "Sí. Conseguís turno rápido, casi en el momento e incluso los sábados, para resolver dolores, infecciones y otras urgencias dentales. Es de lo que más nos agradecen nuestros pacientes."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Somos un centro odontológico integral: ortodoncia, tratamiento de conducto, implantes, estética y blanqueamiento, extracción de muelas de juicio, limpieza, placas para bruxismo y odontopediatría."
+        },
+        {
+          "question": "¿Hacen ortodoncia?",
+          "answer": "Sí. Contamos con profesionales especializados en ortodoncia que acompañan cada paso del tratamiento, explicando todo con claridad y transmitiendo confianza."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Muchos pacientes ansiosos cuentan que nuestro trato cálido y humano los tranquilizó. Cuidamos cada detalle para que tu experiencia sea cómoda y sin dolor."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Azcuénaga 1077, Balvanera, CABA. Atendemos de lunes a sábado de 8 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu turno, incluso para urgencias.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Azcuénaga 1077, Balvanera, CABA",
+      "hoursLine": "Lun a Sáb · 08:00hs - 20:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Centro odontológico integral en Balvanera, CABA, con\nturnos rápidos incluso para urgencias y un equipo cálido.\nOrtodoncia, implantes, estética y atención para toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Azcuénaga 1077, Balvanera, CABA"
+            },
+            {
+              "label": "+54 9 11 7078-0570",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Zuro Dental"
+    }
+  }
+}

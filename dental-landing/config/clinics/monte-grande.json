@@ -1,0 +1,410 @@
+{
+  "brand": {
+    "name": "Clinica MonteGrande",
+    "shortName": "Consultorio Odontológico Monte Grande",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541135680590",
+      "defaultMessage": "Hola, quiero coordinar un turno en el Consultorio Odontológico Monte Grande."
+    },
+    "phoneDisplay": "011 3568-0590",
+    "address": "Rivadavia 298, Monte Grande, Buenos Aires",
+    "hours": "Lun a Vie · 09:00hs - 16:00hs",
+    "mapQuery": "Rivadavia 298, Monte Grande, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://monte-grande.kingdom-tech.co",
+    "title": "Consultorio Odontológico Monte Grande — Expertos en Odontología | Monte Grande",
+    "description": "Odontología en Monte Grande con un equipo de confianza desde hace años. Implantes, carillas, extracciones, odontopediatría y urgencias, con atención puntual, sin esperas y un trato cálido que tranquiliza incluso a quienes temen al dentista.",
+    "ogTitle": "Consultorio Odontológico Monte Grande — Expertos en Odontología",
+    "ogDescription": "Odontología en Monte Grande con un equipo de confianza. Implantes, carillas, extracciones, odontopediatría y urgencias, con atención puntual y sin dolor.",
+    "siteName": "Consultorio Odontológico Monte Grande",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Monte Grande con un equipo de confianza, atención puntual y un trato cálido que tranquiliza incluso a quienes temen al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Rivadavia 298",
+        "city": "Monte Grande",
+        "region": "Buenos Aires",
+        "postalCode": "B1842",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "16:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 397
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Rivadavia 298 · Monte Grande · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Monte Grande con un equipo de confianza\ny un trato cálido que tranquiliza hasta a los más miedosos.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Consultorio Odontológico Monte Grande",
+        "label": "Monte Grande · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "397",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Atención puntual y cálida"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Carillas y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Rehabilitación y prótesis",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo odontológico de confianza, con pacientes que nos eligen desde hace años, donde cada tratamiento se explica con claridad antes, durante y después. "
+        },
+        {
+          "text": "Atención puntual, sin esperas eternas y un trato cálido que tranquiliza.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Confianza\nDe muchos años",
+          "body": "Familias enteras nos eligen desde hace más de quince años. La Dra. Laura y el Dr. Alejandro acompañan cada caso con profesionalismo y calidez, y por eso nuestros pacientes vuelven y nos recomiendan."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nY sin esperas",
+          "body": "Nuestros pacientes destacan dos cosas: que no duele nada y que somos puntuales, sin esperas eternas. Implantes, carillas, extracciones, odontopediatría y urgencias, siempre con explicaciones claras."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Laura Sukacser",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Alejandro Ptascinsky",
+          "role": "Implantes y rehabilitación",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Mara",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención. La doctora Laura fue súper atenta, clara y muy humana. Me hizo sentir tranquila en todo momento y se tomó el tiempo de escucharme y explicarme cada cosa. Se nota muchísimo su profesionalismo y vocación. La recomiendo totalmente.",
+          "name": "Lucila Silbermins",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente!! Todos muy amables. El Dr. Ptascinsky impecable en su trabajo, fui por carillas, súper rápido todo. Me fui feliz!! Lo recomiendo.",
+          "name": "Romina Wallace",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Después de haber transitado por varias odontologías que me hicieron desastres, encontré este lugar donde no solo son súper profesionales, sino que además todos te atienden muy bien. No te hacen esperar, son puntuales en la atención. Súper recomendado.",
+          "name": "Mirta Leikam",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui atendida por la doctora Laura, que es una genia, sigo en tratamiento y no la cambio. Te explica todo al detalle antes, durante y después y lo mejor: no hace doler nada!!! Las secretarias son muy amables y atentas. Cumplen con el horario, no hay esperas eternas!",
+          "name": "myr",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llevé hoy a mi hija con la odontopediatra Mara y es lo más dulce que hay, le explicó todo a mi hija con una paciencia impresionante. Excelente atención desde que entrás hasta que salís del lugar.",
+          "name": "Daniela Martina",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llevo casi siete años atendiéndome en este consultorio. Siempre tuve las mejores experiencias, tanto con la doctora Laura como con el Doctor Alejandro. Cuando empecé mi tratamiento sufría de molestias y dolores al comer, hoy ya no.",
+          "name": "N. Ariel Baldo",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen implantes y carillas?",
+          "answer": "Sí. El Dr. Alejandro se especializa en implantes y rehabilitación, y trabajamos también carillas y estética dental. Llamanos y te asesoramos sobre el tratamiento ideal para tu caso."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo con nosotros, gracias a una mano cuidadosa, mucha paciencia y explicaciones claras en cada paso."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Mara es nuestra odontopediatra y es muy querida por los chicos por su dulzura y paciencia. Atendemos a familias enteras, de los más chicos a los adultos."
+        },
+        {
+          "question": "¿Hay que esperar mucho para que me atiendan?",
+          "answer": "No. Algo que nuestros pacientes destacan es que somos puntuales: respetamos el horario del turno y no hay esperas eternas."
+        },
+        {
+          "question": "¿Trabajan con obra social?",
+          "answer": "Trabajamos con atención particular. Llamanos antes de tu primera consulta y te contamos las formas de pago disponibles y los detalles de cada tratamiento."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Rivadavia 298, Monte Grande, Buenos Aires. Atendemos de lunes a viernes de 9 a 16. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Rivadavia 298, Monte Grande, Buenos Aires",
+      "hoursLine": "Lun a Vie · 09:00hs - 16:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Monte Grande con un equipo de\nconfianza desde hace años. Implantes, carillas,\nodontopediatría y urgencias, con un trato cálido.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas y estética",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Rivadavia 298, Monte Grande"
+            },
+            {
+              "label": "011 3568-0590",
+              "href": "tel:+541135680590"
+            },
+            {
+              "label": "Lun a Vie · 9-16h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Consultorio Odontológico Monte Grande"
+    }
+  }
+}

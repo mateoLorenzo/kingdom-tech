@@ -1,0 +1,397 @@
+{
+  "brand": {
+    "name": "Clinica Bosques",
+    "shortName": "Odontología Bosques",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541169621188",
+      "defaultMessage": "Hola, tengo una urgencia odontológica y quiero coordinar una guardia en Odontología Bosques."
+    },
+    "phoneDisplay": "+54 9 11 6962-1188",
+    "address": "Suipacha 1490, Bosques, Florencio Varela",
+    "hours": "Urgencias 24hs · todos los días",
+    "mapQuery": "Suipacha 1490, Bosques, Florencio Varela, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odonto-bosques.kingdom-tech.co",
+    "title": "Odontología Bosques — Expertos en Odontología | Guardia 24hs Florencio Varela",
+    "description": "Guardia odontológica 24hs en Bosques, Florencio Varela. Urgencias dentales, dolor de muela y extracciones resueltas en el momento, todos los días y a cualquier hora, con atención rápida, humana y turnos por WhatsApp.",
+    "ogTitle": "Odontología Bosques — Guardia Odontológica 24hs | Florencio Varela",
+    "ogDescription": "Guardia odontológica 24hs en Florencio Varela. Urgencias, dolor de muela y extracciones resueltas en el momento, todos los días.",
+    "siteName": "Odontología Bosques",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia odontológica 24hs en Florencio Varela. Urgencias y extracciones resueltas en el momento, con atención rápida y humana.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Suipacha 1490",
+        "city": "Florencio Varela",
+        "region": "Buenos Aires",
+        "postalCode": "B1889",
+        "country": "AR"
+      },
+      "rating": {
+        "value": 4.5,
+        "count": 127
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Urgencia por WhatsApp",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Suipacha 1490 · Bosques · Florencio Varela",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Guardia odontológica abierta las 24hs en Florencio Varela:\nresolvemos tu urgencia dental en el momento, cualquier día y hora.",
+      "ctaLabel": "Urgencia por WhatsApp",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Bosques",
+        "label": "Florencio Varela · GBA"
+      },
+      "stats": [
+        {
+          "value": "4.5",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "127",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "24hs",
+          "label": "Guardia todos los días"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Urgencias dentales\n"
+        },
+        {
+          "text": "Resueltas en el momento",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Guardia y urgencias 24hs",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Tratamiento del dolor dental",
+          "image": "/img/heart.jpg"
+        },
+        {
+          "name": "Infecciones dentales",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una guardia odontológica genuina, abierta las 24 horas, los 365 días del año. Cuando aparece el dolor, te atendemos en el momento, sin esperas y con turnos por WhatsApp. "
+        },
+        {
+          "text": "Atención rápida, humana y contenedora, también con los más chicos.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Guardia real\nLas 24 horas",
+          "body": "Domingos, feriados o de madrugada: estamos abiertos siempre. Pacientes que llegaron a las 3 de la mañana sin aguantar el dolor cuentan que los atendimos enseguida y se fueron sin dolor. Escribinos por WhatsApp y te hacemos lugar."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Extracciones\nSin dolor",
+          "body": "Muelas de juicio e infecciones resueltas en minutos, con una mano cuidadosa y mucha paciencia. Explicamos cada paso con claridad y contenemos al paciente asustado o con dolor, también a los chicos."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. María Romero",
+          "role": "Urgencias y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Uriel",
+          "role": "Urgencias y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "De madrugada y desesperada, alrededor de las 3am me recibió el doctor Uriel. Muy humano, con un trato profesional excelente: no solo te soluciona el problema, también te calma y te contiene. ¡Súper recomendado este lugar para urgencias!",
+          "name": "Ludmila Choren",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a las 3 de la mañana y el doctor me atendió muy amablemente. Le dieron cafecito con masitas a mis niños que estaban inquietos, los calmaron con juguetes y me atendieron rápido. Me sacó la muela de juicio en 15 minutos, sin dolor.",
+          "name": "Emanuel Molina",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy buena atención de parte del Dr. Uriel. Fui con un dolor fuerte de muela y me atendió de manera rápida y profesional. Me explicó el problema con claridad y realizó el tratamiento necesario para aliviar el dolor.",
+          "name": "Xiimme Imparatta",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tremendamente buena la Dra. María Romero. Atendió a mi hija que fue con mucho dolor de muela, era la muela de juicio, y en un ratito se la sacó. Excelente profesional, recomendable.",
+          "name": "Norma B. Gamboa",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente lugar, muy recomendado. Fuimos un domingo a la madrugada porque mi pareja no daba más del dolor de una muela de juicio, la atendieron súper rápido, se la sacaron y solucionaron el dolor. 10 de 10.",
+          "name": "Juan Elías Zaracho",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Soy de Guernica. Fui un domingo cerca de la 1 de la madrugada con una infección importante en una muela, ya no podía ni pensar del dolor. Es muy atenta tanto virtual como presencialmente. Obviamente me sacó el dolor.",
+          "name": "Naty Ruiz",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden las 24 horas?",
+          "answer": "Sí. Somos una guardia odontológica abierta las 24 horas, todos los días del año, incluyendo domingos, feriados y madrugadas. Cuando aparece el dolor, escribinos por WhatsApp y te atendemos en el momento."
+        },
+        {
+          "question": "Tengo un dolor de muela fuerte ahora, ¿qué hago?",
+          "answer": "Escribinos por WhatsApp y te damos turno enseguida, casi sin esperas. Resolvemos el dolor en el momento y, si hace falta, hacemos la extracción de la muela el mismo día."
+        },
+        {
+          "question": "¿Hacen extracciones y muelas de juicio?",
+          "answer": "Sí, es de lo que más nos agradecen. Hacemos extracciones y muelas de juicio de forma rápida y sin dolor, con una mano cuidadosa y explicándote cada paso."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Atendemos a los más chicos con mucha paciencia y cariño. Muchas familias nos eligen porque contenemos al niño y resolvemos el dolor con calma."
+        },
+        {
+          "question": "¿Cómo pido un turno o una urgencia?",
+          "answer": "Escribinos por WhatsApp al +54 9 11 6962-1188 a cualquier hora. Coordinamos tu urgencia en el momento y te decimos cómo llegar a Suipacha 1490, Bosques."
+        },
+        {
+          "question": "¿Dónde están ubicados?",
+          "answer": "Estamos en Suipacha 1490, Bosques, Florencio Varela, Provincia de Buenos Aires. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Urgencias 24hs",
+      "heading": [
+        {
+          "text": "¿Te duele ahora?\n"
+        },
+        {
+          "text": "Te atendemos ya",
+          "accent": true
+        }
+      ],
+      "description": "Escribinos por WhatsApp a cualquier hora y\ncoordinamos tu urgencia en el momento.",
+      "ctaLabel": "Escribir por WhatsApp",
+      "addressLine": "Suipacha 1490, Bosques, Florencio Varela",
+      "hoursLine": "Urgencias 24hs · todos los días",
+      "mapTitle": "Ubicación de la guardia"
+    },
+    "footer": {
+      "about": "Guardia odontológica abierta las 24hs en Bosques,\nFlorencio Varela. Urgencias, dolor de muela y\nextracciones resueltas en el momento, todos los días.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Guardia y urgencias 24hs",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Dolor dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Suipacha 1490, Bosques, Florencio Varela"
+            },
+            {
+              "label": "+54 9 11 6962-1188",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Urgencias 24hs · todos los días",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Guardia Odontológica Bosques Varela"
+    }
+  }
+}

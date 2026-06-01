@@ -1,0 +1,413 @@
+{
+  "brand": {
+    "name": "Clinica Odus",
+    "shortName": "Odus Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541152630542",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odus Odontología."
+    },
+    "phoneDisplay": "011 5263-0542",
+    "address": "Lavalle 668, Quilmes, Buenos Aires",
+    "hours": "Todos los días · 09:00hs - 23:00hs",
+    "mapQuery": "Lavalle 668, Quilmes, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odus.kingdom-tech.co",
+    "title": "Odus Odontología — Expertos en Odontología | Quilmes, Buenos Aires",
+    "description": "Clínica odontológica en Quilmes con guardia de urgencias que atiende sin turno previo, todos los días de 9 a 23. Un equipo de profesionales de confianza con décadas de trayectoria: urgencias, cirugía, estética, prótesis, ortodoncia y odontopediatría.",
+    "ogTitle": "Odus Odontología — Expertos en Odontología | Quilmes",
+    "ogDescription": "Clínica odontológica en Quilmes con guardia de urgencias sin turno previo, todos los días de 9 a 23. Cirugía, estética, prótesis y ortodoncia.",
+    "siteName": "Odus Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Quilmes con guardia de urgencias sin turno previo, todos los días de 9 a 23.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Lavalle 668",
+        "city": "Quilmes",
+        "region": "Buenos Aires",
+        "postalCode": "B1878",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "09:00",
+          "closes": "23:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Lavalle 668 · Quilmes · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica odontológica en Quilmes con guardia de urgencias\nque atiende sin turno previo, todos los días.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odus Odontología",
+        "label": "Quilmes · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Urgencias",
+          "label": "Guardia sin turno previo"
+        },
+        {
+          "value": "9 a 23h",
+          "label": "Todos los días"
+        },
+        {
+          "value": "+20 años",
+          "label": "De trayectoria en Quilmes"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Guardia de urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica odontológica con guardia de urgencias que te atiende sin turno previo, con un equipo de profesionales de confianza y décadas de trayectoria en Quilmes. "
+        },
+        {
+          "text": "Instalaciones renovadas, equipamiento actual y un trato cálido que nuestros pacientes destacan.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nSin turno previo",
+          "body": "Cuando aparece el dolor, no hace falta esperar. Nuestra guardia odontológica atiende todos los días de 9 a 23, muchas veces en el momento. Te explicamos todo paso a paso y resolvemos el problema con paciencia y cuidado."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Profesionales\nDe confianza",
+          "body": "Familias enteras se atienden con nosotros desde hace más de 10 o 20 años. Cirugía, estética, prótesis, ortodoncia y odontopediatría a cargo de un equipo experimentado, en instalaciones renovadas y modernas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Patricia Sierra",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Roberto Salomón",
+          "role": "Cirugía y tratamientos",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. María Bonomo",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Fabián Salomón",
+          "role": "Estética dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Las chicas de la recepción son muy amables y eficientes. El lugar limpio, prolijo y continuamente con reformas y ampliaciones.",
+          "name": "Pedro Turic",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hace más de diez años que con mi familia nos atendemos en Odus con el Dr. Salomón. Ayer me realizó una cirugía compleja, no sentí nada de dolor y como siempre salió todo perfecto.",
+          "name": "Laura Banegas",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Voy a la clínica O.D.U.S. en Quilmes desde hace más de 10 años. La atención es excelente y la calidad profesional es de primera. Vi cómo la clínica fue creciendo muchísimo.",
+          "name": "Gabriel Piazza",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llegué a Odus sin turno, desesperado, y me atendieron en el momento. Me explicaron todo con paciencia y me hicieron sentir súper tranquilo.",
+          "name": "Matias Lombardo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me atiendo con la Dra. Patricia Sierra desde que soy chica y siempre recibí una atención excelente. Una profesional súper comprometida, cálida y muy atenta.",
+          "name": "Clara Suárez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias al Dr. Fabián Salomón mis problemas con la dentadura fueron solucionados. El calce es perfecto y estéticamente genial. Gracias por devolverme la sonrisa.",
+          "name": "Maria cristina Muras",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias sin turno?",
+          "answer": "Sí. Tenemos guardia odontológica que atiende urgencias todos los días, muchas veces sin turno previo y en el momento. Si tenés dolor, acercate o llamanos y te hacemos lugar lo antes posible."
+        },
+        {
+          "question": "¿Qué horarios tienen?",
+          "answer": "Atendemos todos los días de 9 a 23, incluidos sábados y domingos. Por eso muchos pacientes nos eligen cuando aparece una urgencia fuera del horario habitual."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos guardia de urgencias, cirugía y extracciones, tratamientos de conducto, estética y blanqueamiento, prótesis, ortodoncia con brackets y odontopediatría. Un equipo amplio para toda la familia."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, atendemos a familias enteras, incluidos los más chicos. Llamanos y coordinamos un turno con la dedicación que tu hijo necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Lavalle 668, Quilmes, Buenos Aires. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTambién atendemos urgencias todos los días.",
+      "ctaLabel": "Llamar a la clínica",
+      "addressLine": "Lavalle 668, Quilmes, Buenos Aires",
+      "hoursLine": "Todos los días · 09:00hs - 23:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Quilmes con guardia de\nurgencias sin turno previo, todos los días de 9 a 23.\nUn equipo de profesionales de confianza con décadas de trayectoria.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Guardia de urgencias",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía y extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Lavalle 668, Quilmes"
+            },
+            {
+              "label": "011 5263-0542",
+              "href": "tel:+541152630542"
+            },
+            {
+              "label": "Todos los días · 9-23h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odus Odontología"
+    }
+  }
+}

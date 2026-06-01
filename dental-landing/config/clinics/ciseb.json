@@ -1,0 +1,424 @@
+{
+  "brand": {
+    "name": "Clinica Ciseb",
+    "shortName": "Odontología Ciseb",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología Ciseb."
+    },
+    "phoneDisplay": "",
+    "address": "E. Del Valle Iberlucea 2635, Lanús, Buenos Aires",
+    "hours": "Lun a Jue · 09:30hs - 19:00hs · Vie · 14:00hs - 19:00hs · Sáb · 09:30hs - 12:30hs",
+    "mapQuery": "E. Del Valle Iberlucea 2635, Lanús, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://ciseb.kingdom-tech.co",
+    "title": "Odontología Ciseb — Expertos en Odontología | Lanús, Buenos Aires",
+    "description": "Odontología en Lanús con un equipo cálido y empático que te saca el miedo al dentista. Odontopediatría, ortodoncia con alineadores, tratamiento de conducto, estomatología y urgencias, con pacientes fieles desde hace más de 10 años.",
+    "ogTitle": "Odontología Ciseb — Expertos en Odontología | Lanús",
+    "ogDescription": "Odontología en Lanús con un equipo cálido y empático. Odontopediatría, ortodoncia con alineadores, conducto y urgencias.",
+    "siteName": "Odontología Ciseb",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Lanús con un equipo cálido y empático que te saca el miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "E. Del Valle Iberlucea 2635",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1826DTC",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "09:30",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "14:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:30",
+          "closes": "12:30"
+        }
+      ],
+      "rating": {
+        "value": 4.6,
+        "count": 38
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "E. Del Valle Iberlucea 2635 · Lanús · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Lanús con un equipo cálido y empático\nque te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Ciseb",
+        "label": "Lanús · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.6",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "38",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "+10 años",
+          "label": "Pacientes que vuelven"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Ortodoncia y alineadores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Urgencias e infecciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de profesionales experimentados que se distingue por la empatía, la calidez y la paciencia en cada consulta. "
+        },
+        {
+          "text": "Te dedicamos el tiempo necesario y te explicamos cada tratamiento con claridad.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaron con pánico al dentista cuentan que con nosotros cambiaron por completo. Empatía, escucha y mucha paciencia en cada paso, también con quienes vienen con dolor o una urgencia."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Para toda\nLa familia",
+          "body": "Odontopediatría para los más chicos, ortodoncia con alineadores, tratamiento de conducto, estomatología y estética. Familias enteras se atienden con nosotros desde hace más de 10 años."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Florencia Speranza",
+          "role": "Estomatología y odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Carla Iturri",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Atilio",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "El mejor centro de odontología. Siempre le tuve pánico al dentista y acá cambié por completo.",
+          "name": "María de los Ángeles Baca",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Encontré una estomatóloga de 10, la Dra. Flor Speranza. Respeto, empatía, paciencia, todo asociado a la medicina, ¿qué más se podría pedir?",
+          "name": "Analia Lukienczuk",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, desde las recepcionistas que son amorosas a los profesionales del lugar. Mención principal para la Dra. Carla Iturri y la Dra. Florencia Speranza.",
+          "name": "Lic. Flavia E. Nieto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente lugar, atención y predisposición de todo el staff. La Dra. Carla Iturri es mi odontóloga desde hace más de 10 años. Súper recomendable.",
+          "name": "Diego Cisneros",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Sumamente satisfecha con la atención y profesionalismo del centro de odontología CISEB. El equipo fue muy amable y altamente competente.",
+          "name": "Leticia Ramos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy recomendable. Llegué con una infección y me sorprendió lo atentos, profesionales y la empatía que tienen.",
+          "name": "Sol Irusta",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que llegaron con pánico al dentista cambiaron por completo con nosotros, gracias a un trato empático, cálido y mucha paciencia en cada paso."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Carla Iturri es nuestra odontopediatra, muy querida por los chicos y las familias. Atendemos a toda la familia, de los más chicos a los adultos."
+        },
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos odontopediatría, ortodoncia con alineadores, tratamiento de conducto, estomatología, limpieza, estética y urgencias. Te dedicamos el tiempo necesario y te explicamos cada tratamiento."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí. Si llegás con dolor o una infección, te atendemos con la empatía y el profesionalismo que nos caracterizan para resolverlo lo antes posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Consultanos antes de tu primera visita y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en E. Del Valle Iberlucea 2635, Lanús, Buenos Aires. Atendemos de lunes a jueves de 9:30 a 19, viernes de 14 a 19 y sábados de 9:30 a 12:30. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Coordinamos tu primera consulta\ny te atendemos con la dedicación que merecés.",
+      "ctaLabel": "Reservar turno",
+      "addressLine": "E. Del Valle Iberlucea 2635, Lanús, Buenos Aires",
+      "hoursLine": "Lun a Jue · 09:30hs - 19:00hs · Vie · 14:00hs - 19:00hs · Sáb · 09:30hs - 12:30hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Lanús con un equipo cálido y\nempático que te saca el miedo al dentista.\nAtención para toda la familia desde hace más de 10 años.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de conducto",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "E. Del Valle Iberlucea 2635, Lanús"
+            },
+            {
+              "label": "Lun a Sáb · con turno",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Ciseb"
+    }
+  }
+}

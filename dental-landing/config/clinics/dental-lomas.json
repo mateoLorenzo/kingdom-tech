@@ -1,0 +1,422 @@
+{
+  "brand": {
+    "name": "Dental Lomas",
+    "shortName": "Dental Lomas",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541134013811",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Lomas."
+    },
+    "phoneDisplay": "+54 11 3401-3811",
+    "address": "José Ignacio Gorriti 378 1º A, Lomas de Zamora",
+    "hours": "Lun a Jue · 08:30hs - 19:30hs · Vie · 08:30hs - 14:00hs",
+    "mapQuery": "José Ignacio Gorriti 378, Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-lomas.kingdom-tech.co",
+    "title": "Dental Lomas — Expertos en Odontología | Lomas de Zamora",
+    "description": "Odontología en Lomas de Zamora con foco en ortodoncia y un equipo cálido y paciente. Brackets, carillas, prótesis, limpieza y atención para toda la familia, con resultados que nuestros pacientes destacan.",
+    "ogTitle": "Dental Lomas — Expertos en Odontología | Lomas de Zamora",
+    "ogDescription": "Odontología en Lomas de Zamora con foco en ortodoncia y un equipo cálido. Brackets, carillas, prótesis y atención para toda la familia.",
+    "siteName": "Dental Lomas",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Lomas de Zamora con foco en ortodoncia y un equipo cálido y paciente que cuida a toda la familia.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "José Ignacio Gorriti 378 1º A",
+        "city": "Lomas de Zamora",
+        "region": "Buenos Aires",
+        "postalCode": "B1832",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "08:30",
+          "closes": "19:30"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "08:30",
+          "closes": "14:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 157
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "José Ignacio Gorriti 378 · Lomas de Zamora",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Lomas de Zamora con foco en ortodoncia\ny un equipo cálido y paciente que cuida tu sonrisa.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Lomas",
+        "label": "Lomas de Zamora"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "157",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Ortodoncia",
+          "label": "Resultados que se ven"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Carillas y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Pernos y coronas",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una dupla de odontólogos, Belén y Julián, reconocida por su paciencia, su calidez y resultados consistentes en ortodoncia. "
+        },
+        {
+          "text": "Te explicamos cada paso y te acompañamos durante todo el tratamiento.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Ortodoncia\nQue transforma",
+          "body": "Brackets y tratamientos de ortodoncia con resultados que nuestros pacientes celebran. Acompañamiento cercano en cada control, paciencia con chicos y grandes, y un cambio en tu sonrisa que se nota."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Un trato\nQue da confianza",
+          "body": "Muchos pacientes que le temían al dentista cuentan que con nosotros perdieron el miedo. Una atención cálida desde la recepción, un consultorio lindo y prolijo y profesionales que explican cada paso."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Belén",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Julián",
+          "role": "Odontología general y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Rubi",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. David",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Súper feliz por el resultado de la ortodoncia. La atención es espectacular, las chicas de recepción muy amorosas. El Dr. Julián un divino y la Dra. Belén una dulce y amorosa.",
+          "name": "Mayra",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Dra. Belén y el Dr. Julián, los dos unos genios, me devolvieron las ganas de reír. Súper amables y siempre me hicieron sentir muy cómoda.",
+          "name": "Jaqueline Canavides",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice carillas con el Dr. Julián y quedé súper conforme, además es muy atento y buena onda.",
+          "name": "Santiago Aragon Robles",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Jamás me sentí cómoda con los odontólogos a los que fui en otros lugares hasta que empecé en este lugar; me demostró que puede ser diferente.",
+          "name": "Mica D",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente el lugar, la atención y la calidad del trabajo. Me hice un perno y corona y quedó perfecto.",
+          "name": "saoso rojas",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llevo 8 meses de tratamiento con mis brackets y el cambio es increíble. Los doctores Belén y Julián son unos genios, súper atentos y amables desde el primer día.",
+          "name": "Daira Molina",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y brackets?",
+          "answer": "Sí, es nuestro foco. La Dra. Belén y la Dra. Rubi hacen tratamientos de ortodoncia con brackets, con un acompañamiento cercano y resultados que nuestros pacientes destacan en cada control."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo con nosotros, gracias a un trato cálido, mucha paciencia y explicaciones claras en cada paso."
+        },
+        {
+          "question": "¿Atienden a niños y adolescentes?",
+          "answer": "Sí. Atendemos a familias enteras, de los más chicos a los adultos. Nuestros pacientes destacan especialmente la paciencia y el cariño con los niños y adolescentes."
+        },
+        {
+          "question": "¿Hacen carillas, pernos y coronas?",
+          "answer": "Sí. Además de ortodoncia, el Dr. Julián y el equipo realizan carillas, pernos, coronas, limpieza y arreglos en general. Llamanos y te asesoramos sobre el tratamiento que necesitás."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de lunes a jueves de 8:30 a 19:30 y los viernes de 8:30 a 14."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en José Ignacio Gorriti 378 1º A, Lomas de Zamora. Atendemos de lunes a jueves de 8:30 a 19:30 y los viernes de 8:30 a 14. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la paciencia y el cariño que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "José Ignacio Gorriti 378 1º A, Lomas de Zamora",
+      "hoursLine": "Lun a Jue · 08:30hs - 19:30hs · Vie · 08:30hs - 14:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Lomas de Zamora con foco en\nortodoncia y un equipo cálido y paciente.\nBrackets, carillas y atención para toda la familia.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y brackets",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas y estética",
+              "href": "#servicios"
+            },
+            {
+              "label": "Pernos y coronas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "José Ignacio Gorriti 378, Lomas de Zamora"
+            },
+            {
+              "label": "+54 11 3401-3811",
+              "href": "tel:+541134013811"
+            },
+            {
+              "label": "Lun a Vie",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Lomas"
+    }
+  }
+}

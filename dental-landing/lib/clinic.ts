@@ -145,6 +145,26 @@ import odontoZ from "@/config/clinics/odonto-z.json";
 import fiorito from "@/config/clinics/fiorito.json";
 import rando from "@/config/clinics/rando.json";
 import gamaDental from "@/config/clinics/gama-dental.json";
+import dentalSurVarela from "@/config/clinics/dental-sur-varela.json";
+import mitreQuilmes from "@/config/clinics/mitre-quilmes.json";
+import odus from "@/config/clinics/odus.json";
+import dentalTotalLanus from "@/config/clinics/dental-total-lanus.json";
+import monteGrande from "@/config/clinics/monte-grande.json";
+import dentalLomas from "@/config/clinics/dental-lomas.json";
+import dentalQuality from "@/config/clinics/dental-quality.json";
+import gonzalezQuilmes from "@/config/clinics/gonzalez-quilmes.json";
+import santaElena from "@/config/clinics/santa-elena.json";
+import gados from "@/config/clinics/gados.json";
+import latEzpeleta from "@/config/clinics/lat-ezpeleta.json";
+import gianetto from "@/config/clinics/gianetto.json";
+import odontoBosques from "@/config/clinics/odonto-bosques.json";
+import gfOdontologia from "@/config/clinics/gf-odontologia.json";
+import urgenciasEzpeleta from "@/config/clinics/urgencias-ezpeleta.json";
+import odontologiaBernal from "@/config/clinics/odontologia-bernal.json";
+import losardo from "@/config/clinics/losardo.json";
+import zuroAzcuenaga from "@/config/clinics/zuro-azcuenaga.json";
+import vidtWilde from "@/config/clinics/vidt-wilde.json";
+import gomezAriel from "@/config/clinics/gomez-ariel.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -295,6 +315,26 @@ const registry = {
   "fiorito": fiorito as ClinicConfig,
   "rando": rando as ClinicConfig,
   "gama-dental": gamaDental as ClinicConfig,
+  "dental-sur-varela": dentalSurVarela as ClinicConfig,
+  "mitre-quilmes": mitreQuilmes as ClinicConfig,
+  "odus": odus as ClinicConfig,
+  "dental-total-lanus": dentalTotalLanus as ClinicConfig,
+  "monte-grande": monteGrande as ClinicConfig,
+  "dental-lomas": dentalLomas as ClinicConfig,
+  "dental-quality": dentalQuality as ClinicConfig,
+  "gonzalez-quilmes": gonzalezQuilmes as ClinicConfig,
+  "santa-elena": santaElena as ClinicConfig,
+  "gados": gados as ClinicConfig,
+  "lat-ezpeleta": latEzpeleta as ClinicConfig,
+  "gianetto": gianetto as ClinicConfig,
+  "odonto-bosques": odontoBosques as ClinicConfig,
+  "gf-odontologia": gfOdontologia as ClinicConfig,
+  "urgencias-ezpeleta": urgenciasEzpeleta as ClinicConfig,
+  "odontologia-bernal": odontologiaBernal as ClinicConfig,
+  "losardo": losardo as ClinicConfig,
+  "zuro-azcuenaga": zuroAzcuenaga as ClinicConfig,
+  "vidt-wilde": vidtWilde as ClinicConfig,
+  "gomez-ariel": gomezAriel as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

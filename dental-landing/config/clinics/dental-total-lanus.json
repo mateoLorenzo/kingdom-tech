@@ -1,0 +1,425 @@
+{
+  "brand": {
+    "name": "Clinica Total",
+    "shortName": "Dental Total Lanús",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541125991391",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Total Lanús."
+    },
+    "phoneDisplay": "+54 9 11 2599-1391",
+    "address": "Anatole France 1902, Lanús Este, Lanús",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs · Sáb · 09:00hs - 18:00hs",
+    "mapQuery": "Anatole France 1902, Lanús Este, Lanús, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-total-lanus.kingdom-tech.co",
+    "title": "Dental Total Lanús — Expertos en Odontología | Lanús Este, Buenos Aires",
+    "description": "Odontología en Lanús Este con turnos en el día y urgencias resueltas al toque. Extracciones, ortodoncia, odontopediatría, conductos, carillas y estética dental, con precios accesibles, facilidades de pago y atención con obras sociales.",
+    "ogTitle": "Dental Total Lanús — Expertos en Odontología | Lanús Este",
+    "ogDescription": "Odontología en Lanús con turnos en el día y urgencias al toque. Extracciones, ortodoncia, odontopediatría y estética, con precios accesibles.",
+    "siteName": "Dental Total Lanús",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Lanús Este con turnos en el día y urgencias al toque, precios accesibles y facilidades de pago.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Anatole France 1902",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1820",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.4,
+        "count": 263
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Anatole France 1902 · Lanús Este · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Lanús con turnos en el día y urgencias\nresueltas al toque, con precios accesibles.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Total Lanús",
+        "label": "Lanús Este · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.4",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "263",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "En el día",
+          "label": "Turnos y urgencias"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Urgencias en el día",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Extracciones y muelas de juicio",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Carillas y estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo amplio de profesionales que resuelve en el día: turnos rápidos, urgencias atendidas al toque y tratamientos explicados paso a paso, sin dolor. "
+        },
+        {
+          "text": "Con precios accesibles, amplias facilidades de pago y atención con obras sociales.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Turnos\nEn el día",
+          "body": "Cuando aparece el dolor o una urgencia, te hacemos lugar y lo resolvemos rápido, muchas veces en el mismo día. Pacientes que recorrieron otros consultorios cuentan que acá por fin encontraron solución y turnos cercanos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nSin dolor",
+          "body": "Un equipo que explica cada paso y trabaja con paciencia y buena onda, desde la recepción hasta el sillón. Por algo pacientes que le temían al dentista cuentan que con nosotros perdieron el miedo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Viviana Gerchinhoren",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Tomás Alfano",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Antonella",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Germán",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Todos los profesionales de Dental Total Lanús: la calidad, el respeto, la atención y las doctoras, un equipo espléndido y muy profesional. Agradecidísimo.",
+          "name": "Renzo Reinoso",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Llegué literal llorando porque se me despegó una carilla y la pegaron al toque, precio razonable y las instalaciones súper confortables y limpias. ¡Mil gracias!",
+          "name": "Yanina Capano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención de todo el personal. Mi hijo se atendió por una muela del juicio cariada, el Dr. Nowik realizó la extracción y mi hijo no tuvo ningún problema ni dolor.",
+          "name": "María Alejandra Dicciardelli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estoy en tratamiento de ortodoncia con la doctora Florencia y estoy feliz y agradecida al trato y al tratamiento que estoy haciendo, súper profesional. Lo recomiendo.",
+          "name": "Karina Villagarcia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy lindo lugar, muy limpio y armonioso. Destaco la amabilidad del personal y del odontólogo Germán, un genio: explica todo y brinda tranquilidad. ¡Después de 27 años perdí el miedo a los odontólogos!",
+          "name": "Daniela Fernandez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Llegué desesperada por un problema en mi boca y enseguida me dieron opciones y facilidades. Una atención excelente y sobre todo rápida. 100% recomendable.",
+          "name": "Paola Fernanda Adduca",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias y dan turnos en el día?",
+          "answer": "Sí. Es lo que más nos agradecen: damos turnos cercanos y resolvemos urgencias en el día, muchas veces de un día para el otro. Si tenés dolor o una emergencia, escribinos por WhatsApp y te hacemos lugar."
+        },
+        {
+          "question": "¿Hacen extracciones y muelas de juicio?",
+          "answer": "Sí. Realizamos extracciones y cirugías de muelas de juicio con profesionales que explican cada paso y trabajan sin dolor, como destacan nuestros pacientes."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. Contamos con odontopediatría y mucha paciencia para los más chicos. Atendemos a familias enteras, de los más pequeños a los adultos."
+        },
+        {
+          "question": "¿Tienen precios accesibles y facilidades de pago?",
+          "answer": "Sí. Trabajamos con precios accesibles y amplias formas y facilidades de pago. Te explicamos cada tratamiento y su costo para que decidas con tranquilidad."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Atendemos con obras sociales y posibilidad de reintegro. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Anatole France 1902, Lanús Este. Atendemos de lunes a viernes de 9 a 19 y los sábados de 9 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu turno o urgencia en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Anatole France 1902, Lanús Este, Lanús",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs · Sáb · 09:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Lanús Este con turnos en el día\ny urgencias al toque. Extracciones, ortodoncia,\nodontopediatría y estética, con precios accesibles.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias en el día",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Anatole France 1902, Lanús Este"
+            },
+            {
+              "label": "+54 9 11 2599-1391",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Total Lanús"
+    }
+  }
+}

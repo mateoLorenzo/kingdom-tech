@@ -1,0 +1,413 @@
+{
+  "brand": {
+    "name": "Clinica Quality",
+    "shortName": "Dental Quality",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491123309995",
+      "defaultMessage": "Hola, quiero coordinar un turno en Dental Quality Lanús."
+    },
+    "phoneDisplay": "+54 9 11 2330-9995",
+    "address": "Pres. Domingo F. Sarmiento 1525, Lanús",
+    "hours": "Lun a Sáb · 09:00hs - 18:00hs",
+    "mapQuery": "Pres. Domingo Faustino Sarmiento 1525, Lanús, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-quality.kingdom-tech.co",
+    "title": "Dental Quality Lanús — Expertos en Odontología | Lanús, Buenos Aires",
+    "description": "Odontología en Lanús con un equipo que atiende sin dolor y acompaña a pacientes con miedo al dentista. Ortodoncia, cirugía y extracciones, odontopediatría y odontología general, con trato cálido y atención puntual.",
+    "ogTitle": "Dental Quality Lanús — Expertos en Odontología | Lanús",
+    "ogDescription": "Odontología en Lanús con atención sin dolor y un trato cálido. Ortodoncia, cirugía, extracciones y odontología general para toda la familia.",
+    "siteName": "Dental Quality Lanús",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Lanús con atención sin dolor y un equipo que acompaña incluso a pacientes con miedo al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Pres. Domingo Faustino Sarmiento 1525",
+        "city": "Lanús",
+        "region": "Buenos Aires",
+        "postalCode": "B1820",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.3,
+        "count": 36
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "D. F. Sarmiento 1525 · Lanús · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Lanús con atención sin dolor y un equipo\nque acompaña incluso a quienes le temen al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dental Quality",
+        "label": "Lanús · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "4.3",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "36",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Para toda la familia"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo que combina alto profesionalismo con un trato humano que tranquiliza, hasta a quienes le tienen miedo al dentista. "
+        },
+        {
+          "text": "Te explicamos cada paso y trabajamos para que el tratamiento sea sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que llegaban con terror al dentista cuentan que acá perdieron el miedo. Mucha paciencia, contención y hasta la música que te gusta durante la cirugía. Por algo familias enteras nos eligen."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Cirugía y ortodoncia\nSin dolor",
+          "body": "Extracciones, muelas de juicio y ortodoncia con una mano increíble para la anestesia, como destacan nuestros pacientes. También odontopediatría, estética e implantes, con explicación clara en cada paso."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Samanta",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Lorena Camelli",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Matías Valenzuela",
+          "role": "Ortodoncia y cirugía",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Estoy muy contento con la atención y el profesionalismo que recibí en el consultorio por parte de la Dra. Samanta. Además, las chicas del consultorio son un amor y de muy buena onda.",
+          "name": "Alan Marcello",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Nunca me atendieron tan bien como lo hizo la Dra. Lorena Camelli. Súper recomendado, atención 10/10 y quedé perfecto y sin dolor, que es lo más importante. ¡Gracias!",
+          "name": "Martin Arrua",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente servicio. Tuve una cirugía complicadísima con el Dr. Matías Valenzuela, me sacó 3 muelas el mismo día. Estaba muerta de miedo y me preguntó qué música me gustaba mientras me operaba; no me hizo doler nada, es un genio total. Me atiendo hace años.",
+          "name": "Fiorella Jazmin",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Quiero destacar el buen trato, la paciencia y sobre todo lo profesional. Mi hija, que le tenía terror al dentista, lloraba con solo entrar a la sala de espera, y todo el personal de Dental Quality la atendió con muchísima paciencia.",
+          "name": "Silvina Silvero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención, desde las chicas de recepción que me atendieron siempre con amabilidad hasta la profesional que atiende mi caso, explicando en todo momento los pasos y tomándose todo el tiempo para hacerlo.",
+          "name": "Osky Santin",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Quedé maravillado con la atención y el profesionalismo de este consultorio. Me realizaron una extracción de muela de juicio con infección sin dolor; la doctora tiene una mano increíble para la anestesia y la extracción.",
+          "name": "leonel federici",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Acompañamos con mucha paciencia y contención a pacientes con miedo al dentista, chicos y grandes, para que cada visita sea una buena experiencia."
+        },
+        {
+          "question": "¿Hacen extracciones y cirugía de muelas de juicio?",
+          "answer": "Sí. Realizamos extracciones y cirugías, incluidas muelas de juicio, con una mano muy cuidadosa para la anestesia. Nuestros pacientes destacan que se resuelven sin dolor."
+        },
+        {
+          "question": "¿Hacen ortodoncia?",
+          "answer": "Sí. Hacemos ortodoncia con un acompañamiento cercano en cada etapa. Escribinos por WhatsApp y te asesoramos sobre la mejor opción para tu caso."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí, atendemos a familias enteras, de los más chicos a los adultos. Tenemos mucha paciencia con los niños, incluso con los que llegan asustados a su primera consulta."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Pres. Domingo F. Sarmiento 1525, Lanús. Atendemos de lunes a sábado de 9 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Pres. Domingo F. Sarmiento 1525, Lanús",
+      "hoursLine": "Lun a Sáb · 09:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología en Lanús con atención sin dolor y\nun equipo que acompaña incluso a quienes le\ntemen al dentista. Para toda la familia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía y extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "D. F. Sarmiento 1525, Lanús"
+            },
+            {
+              "label": "+54 9 11 2330-9995",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Dental Quality Lanús"
+    }
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "brand": {
+    "name": "Clinica Bernal",
+    "shortName": "Odontología Bernal",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541142590012",
+      "defaultMessage": "Hola, quiero coordinar un turno en Odontología Bernal."
+    },
+    "phoneDisplay": "+54 11 4259-0012",
+    "address": "Cramer 743, Bernal, Buenos Aires",
+    "hours": "Mar a Vie · 10:00hs - 19:00hs",
+    "mapQuery": "Cramer 743, Bernal, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://odontologia-bernal.kingdom-tech.co",
+    "title": "Odontología Bernal — Expertos en Odontología | Bernal, Buenos Aires",
+    "description": "Odontología en Bernal con profesionales de amplia experiencia y un trato cálido que marca un antes y un después. Atención de confianza a largo plazo, considerados los mejores odontólogos de la zona.",
+    "ogTitle": "Odontología Bernal — Expertos en Odontología | Bernal",
+    "ogDescription": "Odontología en Bernal con profesionales de experiencia y un trato cálido. Atención de confianza y calidez humana.",
+    "siteName": "Odontología Bernal",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Bernal con profesionales de experiencia y un trato cálido que marca un antes y un después.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Cramer 743",
+        "city": "Bernal",
+        "region": "Buenos Aires",
+        "postalCode": "B1876",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "19:00"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Cramer 743 · Bernal · Buenos Aires",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Bernal con profesionales de experiencia\ny un trato cálido que marca un antes y un después.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Bernal",
+        "label": "Bernal · Buenos Aires"
+      },
+      "stats": [
+        {
+          "value": "Experiencia",
+          "label": "Profesionales de lujo"
+        },
+        {
+          "value": "Calidez",
+          "label": "Trato humano y cercano"
+        },
+        {
+          "value": "Confianza",
+          "label": "Los mejores de la zona"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Endodoncia",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Profesionales de lujo con años de experiencia que combinan excelencia clínica con calidez humana, para que cada visita sea una buena experiencia. "
+        },
+        {
+          "text": "Atención de confianza a largo plazo, como destacan quienes nos eligen hace años.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Un antes y\nUn después",
+          "body": "Pacientes que pasaron años dando tumbos con su boca cuentan que acá encontraron la solución. Profesionales de lujo que combinan excelencia clínica con un trato cálido que marca la diferencia."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Confianza\nQue dura años",
+          "body": "Familias y pacientes de Bernal que se atienden con nosotros desde hace años. Responsabilidad, mucha experiencia y la calidez humana que nos hace ser considerados los mejores odontólogos de la zona."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Lara [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Gerardo [A confirmar]",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención!! Muchas gracias por todo, Lara y Gerardo los mejores!",
+          "name": "Leandro Gvozdenovich",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Después de 30 años de dar tumbos con mi boca encontré estos profesionales de lujo. Estoy en sus manos desde hace 8 años. Un antes y un después. Excelentes y buena gente. Vayan.",
+          "name": "G P",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, cuidado al paciente y el mejor trato. Muy recomendable a la hora de cuidar tu boca.",
+          "name": "Mariano De Laurentiis",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Sin duda los mejores odontólogos de la zona. Los recomiendo!",
+          "name": "Gisela Brivio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena atención y el odontólogo muy responsable y con mucha experiencia.",
+          "name": "Rodolfo Leonel Navarro",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelencia y calidez humana.",
+          "name": "Elisabet Muñoz",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Hacemos odontología general y una amplia gama de tratamientos para cuidar tu boca: estética, ortodoncia, implantes, prótesis y endodoncia. Llamanos y te asesoramos según lo que necesites."
+        },
+        {
+          "question": "¿Por qué los eligen en la zona?",
+          "answer": "Por la experiencia de nuestros profesionales y la calidez del trato. Muchos pacientes nos eligen hace años y nos consideran los mejores odontólogos de la zona, con resultados que marcan un antes y un después."
+        },
+        {
+          "question": "¿Atienden a pacientes nuevos?",
+          "answer": "Sí. Recibimos pacientes nuevos y de la zona de Bernal que buscan una atención de confianza y a largo plazo. Llamanos y coordinamos tu primera consulta."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Llamanos por teléfono y coordinamos el día y horario que mejor te quede. Atendemos de martes a viernes de 10 a 19."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Cramer 743, Bernal, Provincia de Buenos Aires. Atendemos de martes a viernes de 10 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Cramer 743, Bernal, Buenos Aires",
+      "hoursLine": "Mar a Vie · 10:00hs - 19:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Bernal con profesionales de\nexperiencia y un trato cálido que marca un antes\ny un después. Atención de confianza a largo plazo.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Cramer 743, Bernal"
+            },
+            {
+              "label": "+54 11 4259-0012",
+              "href": "tel:+541142590012"
+            },
+            {
+              "label": "Mar a Vie · 10-19h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Odontología Bernal"
+    }
+  }
+}

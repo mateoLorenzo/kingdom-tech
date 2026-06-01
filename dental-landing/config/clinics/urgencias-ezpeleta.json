@@ -1,0 +1,409 @@
+{
+  "brand": {
+    "name": "Clinica Ezpeleta",
+    "shortName": "Odontología Estética Integral",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491124011047",
+      "defaultMessage": "Hola, necesito una urgencia odontológica en Ezpeleta."
+    },
+    "phoneDisplay": "+54 9 11 2401-1047",
+    "address": "Av. Centenario 5432, Ezpeleta, Quilmes",
+    "hours": "Urgencias 24hs · todos los días",
+    "mapQuery": "Av. Centenario 5432, Ezpeleta, Quilmes, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://urgencias-ezpeleta.kingdom-tech.co",
+    "title": "Odontología Estética Integral — Expertos en Odontología | Ezpeleta, Quilmes",
+    "description": "Guardia y urgencias odontológicas en Ezpeleta, Quilmes, con atención las 24 horas. Extracciones, tratamiento de conducto, ortodoncia, implantes y rehabilitación estética, con procedimientos sin dolor y precios accesibles para toda la zona sur.",
+    "ogTitle": "Odontología Estética Integral — Expertos en Odontología | Ezpeleta",
+    "ogDescription": "Guardia y urgencias odontológicas 24hs en Ezpeleta, Quilmes. Extracciones, conductos, ortodoncia, implantes y estética sin dolor.",
+    "siteName": "Odontología Estética Integral",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Guardia y urgencias odontológicas 24hs en Ezpeleta, Quilmes. Extracciones, conductos, ortodoncia, implantes y estética sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Centenario 5432",
+        "city": "Ezpeleta",
+        "region": "Buenos Aires",
+        "postalCode": "B1882",
+        "country": "AR"
+      },
+      "rating": {
+        "value": 5.0,
+        "count": 364
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Centenario 5432 · Ezpeleta · Quilmes",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Guardia y urgencias odontológicas en Ezpeleta,\ncon atención las 24 horas y procedimientos sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Odontología Estética Integral",
+        "label": "Ezpeleta · Quilmes"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "364",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "24hs",
+          "label": "Urgencias todos los días"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Guardia y urgencias 24hs",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Tratamiento de conducto",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Ortodoncia y brackets",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Rehabilitación estética",
+          "image": "/img/estetica.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una guardia odontológica con horarios extendidos y atención 24hs que resuelve emergencias dentales de inmediato. "
+        },
+        {
+          "text": "Procedimientos sin dolor, un trato cálido y precios accesibles para toda la zona sur.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Urgencias\nResueltas al toque",
+          "body": "Cuando aparece el dolor, no podés esperar. Atendemos guardia y urgencias las 24 horas, incluso de madrugada. Como cuentan nuestros pacientes, en menos de 40 minutos te hacemos la panorámica y resolvemos el problema."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nY con resultados",
+          "body": "Extracciones, conductos, implantes, ortodoncia y rehabilitación estética con una mano cuidadosa y resultados que superan expectativas. Te explicamos cada paso y te acompañamos durante todo el tratamiento."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Oliver Ruiz",
+          "role": "Odontología y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. Jonathan",
+          "role": "Cirugía y urgencias",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Endodoncia (conductos)",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención, tanto los doctores como la recepción súper amables y con paciencia. Me hice 2 extracciones de muela de juicio, no me dolió nada y tuve una excelente recuperación. Los súper recomiendo.",
+          "name": "Marianela Juarez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui atendido de urgencia, todo rapidísimo: en menos de 40 minutos tenía hecha una panorámica, atendido y solucionado mi malestar. Desde la recepcionista hasta el doctor, impecable todo.",
+          "name": "German Lugo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me fui a extraer de emergencia una muela totalmente destruida y me atendieron bárbaro. Unos genios los doctores Jonathan y Oliver Ruiz. Mil gracias!",
+          "name": "Romina Avalos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Fui a las 12 de la noche y me atendieron muy bien. Gracias a Dios por fin encontré solución a lo que por años quería solucionar con mi dentadura. Estoy muy feliz.",
+          "name": "Alejandra Perez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tuve un traumatismo por una muela de juicio con mucho dolor e hinchazón. Luego de la cirugía con este profesional todo salió a la perfección y en menos de un día ya noto mejorías. Recomendado.",
+          "name": "Joaquin Sanguinetti",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Los doctores son muy respetuosos, consultan todo el tiempo cómo uno se siente y dan explicaciones claras. La Dra. que realiza tratamiento de conducto, muy amable y dedicada. Excelente atención de todos los profesionales y recepcionista!",
+          "name": "Marisa M",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Atienden urgencias y guardia las 24 horas?",
+          "answer": "Sí, es nuestra especialidad. Somos una guardia odontológica con horarios extendidos y atención 24hs los fines de semana. Cuando aparece el dolor, incluso de madrugada, escribinos por WhatsApp y te resolvemos la emergencia lo antes posible."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "Trabajamos para que no. Nuestros pacientes destacan que las extracciones, cirugías y tratamientos se hacen sin dolor, con un manejo cuidadoso de la anestesia y mucho acompañamiento en cada paso."
+        },
+        {
+          "question": "¿Qué tratamientos hacen además de las urgencias?",
+          "answer": "Hacemos extracciones y cirugía de muelas de juicio, tratamiento de conducto, ortodoncia con brackets, implantes, limpieza y rehabilitación estética. Resolvemos tanto la urgencia del momento como tu tratamiento a largo plazo."
+        },
+        {
+          "question": "¿Tienen precios accesibles?",
+          "answer": "Sí. Trabajamos con precios accesibles y muchos pacientes viajan de toda la zona sur por nuestra atención. Escribinos por WhatsApp y te asesoramos sobre tu caso y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Centenario 5432, Ezpeleta, Quilmes. Atendemos urgencias con horarios extendidos todos los días, con guardia 24hs los fines de semana. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu urgencia o tu turno en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Centenario 5432, Ezpeleta, Quilmes",
+      "hoursLine": "Urgencias 24hs · todos los días",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Guardia y urgencias odontológicas en Ezpeleta,\nQuilmes, con atención 24hs y procedimientos sin\ndolor. Extracciones, conductos, ortodoncia e implantes.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/odontologia.esteticaintegral",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Urgencias 24hs",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones y cirugía",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Centenario 5432, Ezpeleta"
+            },
+            {
+              "label": "+54 9 11 2401-1047",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@odontologia.esteticaintegral",
+              "href": "https://instagram.com/odontologia.esteticaintegral",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Guardia, Urgencia y Emergencia Odontología Estética Integral"
+    }
+  }
+}

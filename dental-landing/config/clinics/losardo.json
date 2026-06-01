@@ -1,0 +1,412 @@
+{
+  "brand": {
+    "name": "Clinica Losardo",
+    "shortName": "Agustina Losardo Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491141983388",
+      "defaultMessage": "Hola, quiero coordinar un turno en Agustina Losardo Odontología."
+    },
+    "phoneDisplay": "+54 9 11 4198-3388",
+    "address": "Correa 3030, Saavedra, CABA",
+    "hours": "Lun y Jue · 08:00hs - 19:00hs · Mar, Mié y Vie · 08:00hs - 17:00hs",
+    "mapQuery": "Correa 3030, Saavedra, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://losardo.kingdom-tech.co",
+    "title": "Agustina Losardo Odontología — Expertos en Odontología | Saavedra, CABA",
+    "description": "Odontología en Saavedra con un equipo de profesionales que logra tratamientos sin dolor y un trato cálido para pacientes con miedo al dentista. Endodoncia, periodoncia, restauraciones, implantes y odontopediatría en un consultorio moderno con seguimiento personalizado.",
+    "ogTitle": "Agustina Losardo Odontología — Expertos en Odontología | Saavedra",
+    "ogDescription": "Odontología en Saavedra con tratamientos sin dolor y un trato cálido. Endodoncia, periodoncia, restauraciones, implantes y odontopediatría.",
+    "siteName": "Agustina Losardo Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Saavedra con tratamientos sin dolor y un trato cálido para quienes le temen al dentista.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Correa 3030",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1429",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Thursday"
+          ],
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "17:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 404
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Correa 3030 · Saavedra · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Saavedra con tratamientos sin dolor y un\nequipo cálido que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Agustina Losardo Odontología",
+        "label": "Saavedra · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "404",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Para adultos y niños"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Endodoncia y conductos",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Tratamiento de encías",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "name": "Restauraciones y arreglos",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Extracciones y urgencias",
+          "image": "/img/emergencia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo de profesionales que combina alto nivel con un trato cálido, y que logra que cada tratamiento sea sin dolor. "
+        },
+        {
+          "text": "Te explicamos todo paso a paso, en un consultorio moderno con seguimiento personalizado.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Pacientes que pasaron por malas experiencias cuentan que con nosotras perdieron el miedo. Mano suave, mucha paciencia y todo explicado paso a paso. Por eso familias enteras nos eligen y nos recomiendan."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo que\nCuida cada detalle",
+          "body": "Endodoncia, periodoncia, restauraciones, implantes y odontopediatría a cargo de un equipo multidisciplinario. Consultorio impecable, tecnología digital, puntualidad y turnos a tu medida."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Agustina Losardo",
+          "role": "Endodoncia y periodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Tatiana",
+          "role": "Odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente atención en todos los sectores. Desde la recepción, súper atentos a todos los detalles, cordiales y operativos. Son un equipo multidisciplinario donde todas las especialistas son unas genias.",
+          "name": "Susana Jantus",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención desde que los contactas. El consultorio está impecable y la Dra. Agustina es muy cálida, profesional y cuida cada detalle para que uno se sienta cómodo. Recomiendo 100%!",
+          "name": "Nacho Crovetto",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Si estás pensando buscar odontólogo, ya está, no lo dudes más. Agus y su equipo son de diez. Yo soy el peor paciente del mundo, mucho miedo al dolor, y todas las sesiones fueron geniales, no me dolió nada.",
+          "name": "Carlos Agüero",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Tuve una excelente experiencia con la Dra. Agustina. Desde el primer momento me hizo sentir cómoda, explicándome cada paso del tratamiento con claridad y mucha paciencia.",
+          "name": "Regina Campitelli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Mi hijo de 5 años se atendió con la odontóloga Tatiana, le tuvieron que hacer una extracción de un premolar, algo super complicado en niños. Quiero destacar el amor, la paciencia, ternura y dedicación.",
+          "name": "Pablo Andrés Oviedo",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención. Puntual, fui dos veces y en ambas ingresé a tiempo. Recuperé la salud en mis encías gracias a un tratamiento de limpieza completa sugerido por Agustina.",
+          "name": "Vanina Saavedra",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista o venían de malas experiencias perdieron el miedo con nosotras, gracias a un trato cálido, una mano suave y tratamientos sin dolor."
+        },
+        {
+          "question": "¿Hacen tratamientos de conducto y de encías?",
+          "answer": "Sí. La endodoncia (tratamientos de conducto) y la periodoncia (tratamiento de encías) son parte de nuestro foco. Evaluamos tu caso y te explicamos paso a paso el tratamiento más conveniente."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Tatiana es nuestra odontopediatra y es muy querida por los chicos, con mucha paciencia y dedicación. Atendemos a familias enteras, de los más chicos a los adultos."
+        },
+        {
+          "question": "¿Qué otros tratamientos realizan?",
+          "answer": "Somos un equipo multidisciplinario: hacemos restauraciones y arreglos, limpiezas profundas, implantes, extracciones y atención de urgencias, todo en el mismo consultorio con seguimiento personalizado."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Correa 3030, Saavedra, CABA. Atendemos lunes y jueves de 8 a 19, y martes, miércoles y viernes de 8 a 17. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Correa 3030, Saavedra, CABA",
+      "hoursLine": "Lun y Jue · 08:00hs - 19:00hs · Mar, Mié y Vie · 08:00hs - 17:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Saavedra con tratamientos sin\ndolor y un equipo cálido que te saca el miedo al\ndentista. Endodoncia, encías, implantes y más.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Endodoncia y conductos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Tratamiento de encías",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Correa 3030, Saavedra, CABA"
+            },
+            {
+              "label": "+54 9 11 4198-3388",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Agustina Losardo Odontología"
+    }
+  }
+}

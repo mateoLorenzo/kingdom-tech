@@ -1,0 +1,410 @@
+{
+  "brand": {
+    "name": "Clinica Sur",
+    "shortName": "Clínica Dental Sur",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "mode": "phone",
+    "whatsapp": {
+      "phone": "541173673301",
+      "defaultMessage": "Hola, quiero coordinar un turno en la Clínica Dental Sur."
+    },
+    "phoneDisplay": "011 7367-3301",
+    "address": "Av. Hipólito Yrigoyen 1872, Florencio Varela",
+    "hours": "Lun a Vie · 10:00hs - 18:00hs · Sáb · 10:00hs - 13:00hs",
+    "mapQuery": "Av. Hipólito Yrigoyen 1872, Florencio Varela, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dental-sur-varela.kingdom-tech.co",
+    "title": "Clínica Dental Sur — Expertos en Odontología | Florencio Varela",
+    "description": "Odontología de confianza en Florencio Varela con el Dr. David López. Blanqueamiento, implantes, extracciones, arreglos y reconstrucción dental, con explicaciones claras, atención sin dolor y precios accesibles en zona sur.",
+    "ogTitle": "Clínica Dental Sur — Expertos en Odontología | Florencio Varela",
+    "ogDescription": "Odontología de confianza en Florencio Varela con el Dr. David López. Blanqueamiento, implantes, extracciones y arreglos, sin dolor y a precios accesibles.",
+    "siteName": "Clínica Dental Sur",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología de confianza en Florencio Varela. Blanqueamiento, implantes, extracciones y arreglos con atención sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Hipólito Yrigoyen 1872",
+        "city": "Florencio Varela",
+        "region": "Buenos Aires",
+        "postalCode": "B1888",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "13:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 37
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Pedí tu turno",
+    "contactLabel": "Llamanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Hipólito Yrigoyen 1872 · Florencio Varela",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología de confianza en Florencio Varela, con\nexplicaciones claras y una atención sin dolor.",
+      "ctaLabel": "Pedí tu turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Clínica Dental Sur",
+        "label": "Florencio Varela"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "37",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Atención prolija y de confianza"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Blanqueamiento dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Extracción de muelas",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Arreglos y reconstrucción",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Tratamiento de caries",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un odontólogo de confianza que explica cada paso del tratamiento —incluso con pizarra ilustrativa— para que entiendas qué necesitás y por qué. "
+        },
+        {
+          "text": "Una atención sin dolor, prolija e higiénica, con precios accesibles.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención sin dolor\nY de confianza",
+          "body": "Pacientes que le temían al dentista cuentan que acá perdieron el miedo. Un trato atento y paciente, un consultorio impecable y todo preparado antes de recibirte. Por algo familias enteras eligen volver."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Te explicamos\nCada paso",
+          "body": "El Dr. David López te ilustra con su pizarra el tratamiento más conveniente y te acompaña en todo el proceso. Blanqueamiento, implantes, extracciones y arreglos con resultados prolijos, a precios accesibles."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quien\n"
+        },
+        {
+          "text": "Cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. David López",
+          "role": "Odontología general y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Excelente profesional. El Dr. David López me realizó dos extracciones de muelas de juicio muy complejas y la verdad muy bien. Arreglos dentales: quedaron perfectos, ni se notan. Lo recomiendo.",
+          "name": "Jorge Parada",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente atención, estoy muy conforme con el Dr. David, un genio muy prolijo y amable. Por fin encontré un profesional de excelencia que trabaja con compromiso y ética. Me solucionó muy rápido mi problema bucal.",
+          "name": "Rita Mendoza",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y súper profesional. Te explica cada paso detalladamente y con su pizarra te ilustra el tratamiento más conveniente a seguir. Un genio David!",
+          "name": "María Laura Ríos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Unos genios. Te explican todo siempre, no hay dolor en ese consultorio, son muy atentos, prolijos y el aseo impecable. Antes de cada atención preparan todo para recibirte. Mis preferidos.",
+          "name": "Dámaris Lutmila Arce",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me hice un blanqueamiento con el Dr. David López, quedó de 10 y aún lo mantengo después de más de un año. Todo muy profesional, servicio excelente, recomiendo al 100%.",
+          "name": "Sofía López",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención y trabajo. Perdí el miedo a ir al dentista en ese consultorio, súper recomendable.",
+          "name": "Gastón Holt",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen blanqueamiento dental?",
+          "answer": "Sí. El blanqueamiento es uno de nuestros tratamientos más elegidos, con resultados que nuestros pacientes mantienen por mucho tiempo. Llamanos y te asesoramos sobre la mejor opción para vos."
+        },
+        {
+          "question": "¿Hacen implantes y extracciones de muelas?",
+          "answer": "Sí. Realizamos implantes, extracciones de muelas de juicio incluso complejas, arreglos y reconstrucción dental. Te explicamos cada paso para que sepas exactamente qué se va a hacer."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes que le temían al dentista perdieron el miedo acá, gracias a una atención sin dolor, paciente y un consultorio prolijo e higiénico."
+        },
+        {
+          "question": "¿Tienen precios accesibles?",
+          "answer": "Sí. Trabajamos con precios accesibles y te explicamos cada tratamiento y su costo para que decidas con tranquilidad. Llamanos y coordinamos una primera consulta."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Llamanos antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Hipólito Yrigoyen 1872, Florencio Varela. Atendemos de lunes a viernes de 10 a 18 y los sábados de 10 a 13. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Llamanos y coordinamos tu turno.\nTe atendemos con la dedicación que merecés.",
+      "ctaLabel": "Llamar al consultorio",
+      "addressLine": "Av. Hipólito Yrigoyen 1872, Florencio Varela",
+      "hoursLine": "Lun a Vie · 10:00hs - 18:00hs · Sáb · 10:00hs - 13:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología de confianza en Florencio Varela\ncon el Dr. David López. Blanqueamiento, implantes,\nextracciones y arreglos, sin dolor y a precios accesibles.",
+      "socials": [],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Blanqueamiento dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Extracciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Arreglos y reconstrucción",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Hipólito Yrigoyen 1872, Florencio Varela"
+            },
+            {
+              "label": "011 7367-3301",
+              "href": "tel:+541173673301"
+            },
+            {
+              "label": "@clinicadentalsur.fv",
+              "href": "https://www.instagram.com/clinicadentalsur.fv",
+              "external": true
+            },
+            {
+              "label": "Lun a Sáb · ver horarios",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica Dental Sur"
+    }
+  }
+}
