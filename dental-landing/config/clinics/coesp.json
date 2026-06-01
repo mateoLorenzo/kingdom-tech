@@ -1,0 +1,423 @@
+{
+  "brand": {
+    "name": "Clinica COESP",
+    "shortName": "COESP Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491130370913",
+      "defaultMessage": "Hola, quiero coordinar un turno en COESP Odontología."
+    },
+    "phoneDisplay": "+54 9 11 3037-0913",
+    "address": "Av. Scalabrini Ortiz 1566, Villa Crespo, CABA",
+    "hours": "Lun a Sáb · 09:00hs - 18:00hs",
+    "mapQuery": "Av. Raúl Scalabrini Ortiz 1566, Villa Crespo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://coesp.kingdom-tech.co",
+    "title": "COESP Odontología — Expertos en Odontología | Diseño de sonrisa en Villa Crespo",
+    "description": "Estética dental de alta gama en Villa Crespo: diseño de sonrisa, carillas y blanqueamiento, con tecnología láser y un equipo liderado por el Dr. César Urbina. Pacientes de todo el mundo eligen COESP por sus resultados.",
+    "ogTitle": "COESP Odontología — Diseño de sonrisa en Villa Crespo",
+    "ogDescription": "Estética dental de alta gama en Villa Crespo: diseño de sonrisa, carillas y blanqueamiento, con tecnología láser y un equipo de excelencia.",
+    "siteName": "COESP Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Estética dental de alta gama en Villa Crespo: diseño de sonrisa, carillas y blanqueamiento con tecnología láser.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Raúl Scalabrini Ortiz 1566",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.7,
+        "count": 75
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Scalabrini Ortiz 1566 · Villa Crespo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Estética dental de alta gama en Villa Crespo: diseño de sonrisa\ny carillas, con tecnología láser y un equipo de excelencia.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "COESP Odontología",
+        "label": "Estética dental · Villa Crespo"
+      },
+      "stats": [
+        {
+          "value": "4.7",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "75",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Diseño",
+          "label": "De sonrisa"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Estética dental\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Diseño de sonrisa y carillas",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Blanqueamiento dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Restauraciones y prótesis",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica de estética dental de alta gama, con instalaciones de lujo, tecnología láser y un equipo de especialistas liderado por el Dr. César Urbina. "
+        },
+        {
+          "text": "Diseñamos sonrisas con resultados que emocionan, sin dolor.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Diseño\nDe sonrisa",
+          "body": "Carillas, blanqueamiento y diseño de sonrisa con un nivel de detalle y estética que nuestros pacientes describen como emocionante. Tecnología de última generación, incluido láser, para tratamientos cómodos y precisos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Equipo\nDe excelencia",
+          "body": "Un equipo de varios especialistas que trabajan en conjunto, con una calidez humana que se respira desde la recepción. Pacientes de Argentina y del exterior (EEUU, México) eligen COESP para transformar su sonrisa."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que diseña tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Mariana Pineda",
+          "role": "Odontología y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. César Urbina",
+          "role": "Director · Diseño de sonrisa y estética",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Vanesa",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Jesús",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Llevo un año con mi tratamiento de ortodoncia y la experiencia ha sido excelente. Utilizan equipos de última generación, incluido láser. Destaco la calidad humana, la atención y el trato de todo el personal. ¡100% recomendados!",
+          "name": "Rafael Mendoza",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me hice diseño de sonrisa y el resultado me dejó increíblemente feliz. Estoy muy contenta con la atención del equipo del Dr. César Urbina, que es fantástico, al igual que Lice, la secretaria, y las demás chicas.",
+          "name": "Bibiana Trujillo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gracias por la cálida atención al Dr. César Urbina, la Dra. Mariana Pineda, el Dr. Jesús y la Dra. Vanesa, que hicieron un trabajo en equipo impecable. Excelentes profesionales y hermosas personas. Feliz con mi resultado.",
+          "name": "Gisela Aguero",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "COESP representa profesionalismo, confort, calidez y tecnología. Excelente servicio e instalaciones; me realicé una limpieza y dos sesiones de blanqueamiento clínico y estoy súper satisfecha con la mejora.",
+          "name": "Saray C. Arellano",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Viajé desde México para realizarme mi tratamiento de diseño de sonrisa porque me los recomendaron y fue la mejor decisión. 1000% recomendados: instalaciones de primera y excelente atención profesional.",
+          "name": "Sofia Paez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Ni bien pones un pie en el consultorio te das cuenta del profesionalismo y la calidad humana que hay ahí dentro, desde quien te recepciona hasta quien va a atender tu boca.",
+          "name": "Andres Robert",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen diseño de sonrisa y carillas?",
+          "answer": "Sí, es nuestra especialidad. El diseño de sonrisa, las carillas y el blanqueamiento son nuestros tratamientos insignia, con un nivel de detalle estético que nuestros pacientes destacan especialmente."
+        },
+        {
+          "question": "¿Qué tecnología utilizan?",
+          "answer": "Trabajamos con equipos de última generación, incluido tratamiento con láser, que hacen los procedimientos más cómodos, precisos y con mejores resultados."
+        },
+        {
+          "question": "¿Atienden a pacientes del exterior?",
+          "answer": "Sí. Recibimos pacientes de Argentina y del exterior (EEUU, México y más) que eligen COESP para su diseño de sonrisa. Escribinos por WhatsApp y coordinamos tu plan de tratamiento."
+        },
+        {
+          "question": "¿Quiénes atienden en COESP?",
+          "answer": "Un equipo de especialistas liderado por el Dr. César Urbina, junto a la Dra. Mariana Pineda, el Dr. Jesús, la Dra. Vanesa y un equipo de recepción muy cálido."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Somos una clínica orientada a tratamientos estéticos privados. Escribinos por WhatsApp y coordinamos un presupuesto y las opciones de pago según tu caso."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Scalabrini Ortiz 1566, Villa Crespo, CABA. Atendemos de lunes a sábado de 9 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Scalabrini Ortiz 1566, Villa Crespo, CABA",
+      "hoursLine": "Lun a Sáb · 09:00hs - 18:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica de estética dental de alta gama en Villa Crespo.\nDiseño de sonrisa, carillas y blanqueamiento, con\ntecnología láser y un equipo de excelencia.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Scalabrini Ortiz 1566, Villa Crespo"
+            },
+            {
+              "label": "+54 9 11 3037-0913",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Sáb · 9-18h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "COESP Odontología"
+    }
+  }
+}
