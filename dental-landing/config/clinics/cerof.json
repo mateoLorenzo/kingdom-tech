@@ -1,0 +1,413 @@
+{
+  "brand": {
+    "name": "CEROF",
+    "shortName": "CEROF Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491130852779",
+      "defaultMessage": "Hola, quiero coordinar un turno en CEROF."
+    },
+    "phoneDisplay": "+54 9 11 3085-2779",
+    "address": "Av. Cabildo 2779, Piso 1 B, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs · Sáb · 10:00hs - 15:00hs",
+    "mapQuery": "Av. Cabildo 2779, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cerof.kingdom-tech.co",
+    "title": "CEROF Odontología — Expertos en Odontología | Belgrano, CABA",
+    "description": "Cirugía oral y odontología en Belgrano con foco en extracción de muelas de juicio sin dolor y urgencias en el día. Soluciones conservadoras, explicaciones claras y un trato humano que te saca el miedo al dentista.",
+    "ogTitle": "CEROF Odontología — Expertos en Odontología | Belgrano",
+    "ogDescription": "Cirugía oral y odontología en Belgrano. Extracción de muelas de juicio sin dolor, urgencias en el día y trato humano.",
+    "siteName": "CEROF Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Cirugía oral en Belgrano con foco en muelas de juicio sin dolor y urgencias en el día. Trato humano y soluciones conservadoras.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Cabildo 2779, Piso 1 B",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 229
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Cabildo 2779 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Cirugía oral y odontología en Belgrano, con muelas de juicio\nsin dolor y un trato humano que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "CEROF Odontología",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "229",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Muelas de juicio y cirugía"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Cirugía y muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Urgencias e infecciones",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Limpieza y periodoncia",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Cirugía oral y odontología especializada con el Dr. Manuel Linares, que prioriza alternativas conservadoras y un acompañamiento cercano y empático en cada etapa. "
+        },
+        {
+          "text": "Explicamos todo con claridad, paso a paso, en un consultorio amplio e impecable.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Muelas de juicio\nSin dolor",
+          "body": "La extracción de muelas de juicio y la cirugía oral son nuestro fuerte. Pacientes destacan procesos sin dolor, recuperaciones rápidas y un seguimiento que acompaña desde la primera consulta hasta el postoperatorio."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Soluciones\nConservadoras",
+          "body": "Antes de extraer, buscamos cuidar tu pieza dental con la alternativa menos invasiva. Atendemos urgencias e infecciones en el día y te explicamos cada paso para que decidas con tranquilidad."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dr. Manuel Linares",
+          "role": "Cirugía maxilofacial",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dr. José",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Venía de una experiencia odontológica muy dolorosa, donde no escuchaban mi sufrimiento. Llegué al consultorio del Dr. Manuel con miedo y encontré un equipo que finalmente me entendió.",
+          "name": "Silvia Burgos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Tenía una muela partida y en varios lugares me proponían extraerla y colocar un implante. Manuel me ofreció una alternativa mucho más conservadora.",
+          "name": "Dmitri Ds",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Una mañana me desperté con dolor y la cara hinchada, y CEROF fue el único centro que me respondió rápido y me dio turno ese mismo día.",
+          "name": "Flor Berenice",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buen trato, paciente y amable. Me sacó las 4 muelas de juicio y quedé muy contenta con el trabajo que hizo.",
+          "name": "Pilar Spinelli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me sentí súper cómodo desde la primera consulta. El Dr. Manuel explica todo con claridad, lo que me dio mucha tranquilidad. Atención excepcional, profesional y muy humana.",
+          "name": "Rodolfo Padron Marini",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Manuel es un grandísimo profesional. Me realizó una limpieza periodontal con una paciencia bárbara y me dejó los dientes impecables.",
+          "name": "German Reppin",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen extracción de muelas de juicio?",
+          "answer": "Sí, es nuestra especialidad. Hacemos cirugía oral y extracción de muelas de juicio con procesos sin dolor y recuperaciones rápidas, como destacan nuestros pacientes. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Atienden urgencias e infecciones?",
+          "answer": "Sí. Atendemos urgencias e infecciones con turno el mismo día. Si te despertás con dolor o la cara hinchada, escribinos y te hacemos lugar para resolverlo lo antes posible."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es de lo que más nos agradecen. Muchos pacientes llegaron con miedo después de malas experiencias y se sintieron por fin escuchados y acompañados. Trabajamos con un trato humano y explicaciones claras en cada paso."
+        },
+        {
+          "question": "¿Siempre extraen la pieza dental?",
+          "answer": "No. Antes de extraer, buscamos la alternativa más conservadora para cuidar tu pieza. Evaluamos tu caso y te proponemos la opción menos invasiva posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Manejamos distintas modalidades de pago. Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Cabildo 2779, Piso 1 B, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 19 y los sábados de 10 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu consulta o urgencia en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Cabildo 2779, Piso 1 B, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs · Sáb · 10:00hs - 15:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Cirugía oral y odontología en Belgrano, con\nmuelas de juicio sin dolor, urgencias en el día\ny un trato humano que te saca el miedo al dentista.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Cirugía y muelas de juicio",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Limpieza y periodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Cabildo 2779, Belgrano"
+            },
+            {
+              "label": "+54 9 11 3085-2779",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "CEROF Odontología"
+    }
+  }
+}
