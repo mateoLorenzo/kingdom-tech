@@ -1,0 +1,418 @@
+{
+  "brand": {
+    "name": "C.O.B.",
+    "shortName": "Centro Odontológico Belgrano",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491138786782",
+      "defaultMessage": "Hola, quiero coordinar un turno en el Centro Odontológico Belgrano."
+    },
+    "phoneDisplay": "+54 9 11 3878-6782",
+    "address": "Mcal. A. J. de Sucre 2494, Belgrano, CABA",
+    "hours": "Lun a Vie · 09:00hs - 19:00hs",
+    "mapQuery": "Mariscal Antonio José de Sucre 2494, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://cob-belgrano.kingdom-tech.co",
+    "title": "C.O.B. Centro Odontológico Belgrano — Expertos en Odontología | Belgrano, CABA",
+    "description": "Centro odontológico consolidado en Belgrano con un equipo amplio y multidisciplinario de especialistas. Implantes, ortodoncia, endodoncia, cirugía, periodoncia y estética, con un trato cálido y pacientes fieles desde hace décadas.",
+    "ogTitle": "C.O.B. Centro Odontológico Belgrano — Expertos en Odontología",
+    "ogDescription": "Centro odontológico en Belgrano con un equipo amplio de especialistas. Implantes, ortodoncia, endodoncia, cirugía y estética.",
+    "siteName": "C.O.B. Centro Odontológico Belgrano",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Centro odontológico en Belgrano con un equipo amplio y multidisciplinario. Implantes, ortodoncia, cirugía y estética.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Mcal. Antonio José de Sucre 2494",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1428DVR",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "19:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 127
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Mcal. A. J. de Sucre 2494 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Centro odontológico en Belgrano con un equipo amplio de\nespecialistas y pacientes que confían en nosotros hace décadas.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Centro Odontológico Belgrano",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "127",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Equipo",
+          "label": "Multidisciplinario"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Implantes dentales",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Endodoncia y conductos",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Periodoncia y limpieza",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un centro odontológico consolidado con un equipo amplio y multidisciplinario de especialistas con décadas de experiencia. "
+        },
+        {
+          "text": "Combinamos seriedad profesional con un trato cálido y humano que fideliza a familias enteras.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Como en\nFamilia",
+          "body": "Pacientes que se atienden hace 20 o 30 años, y familias que vuelven generación tras generación. Un trato cálido desde la recepción hasta el consultorio, que combina confianza, contención y seriedad profesional."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Un equipo\nPara cada caso",
+          "body": "Implantología, ortodoncia, endodoncia, cirugía, periodoncia y estética, con especialistas para cada tratamiento. Te explicamos cada paso con detalle, en instalaciones modernas y recientemente remodeladas."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Analía Mosquera",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Enzo Vesco",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Liliana Von Kluges",
+          "role": "Ortodoncia",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. Nicolás Marquina",
+          "role": "Implantología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Lugar de profesionales de excelencia. Soy paciente hace 20 años. Tratamiento de conducto sin dolor y cirugía de excelencia: mi hija se sacó una muela que no era fácil de extraer, un lujo. No duden, es ahí.",
+          "name": "Maria Eugenia Blasco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente atención profesional y humana, desde las chicas que te recepcionan hasta los odontólogos que te atienden. Combinan calidez y seriedad. Súper recomendables!",
+          "name": "Florencia Vesco",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Soy paciente del Dr. Enzo Vesco desde hace 4 años y admiro su gigante calidad profesional y su calidez de trato humano. Conozco al centro C.O.B. desde hace 25 años.",
+          "name": "Gabriel Rivas",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelentes profesionales! Quiero destacar especialmente a la Dra. Liliana Von Kluges, mi ortodoncista. Desde el primer momento se tomó el tiempo de explicarme todo en detalle.",
+          "name": "Mariana Passet",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace casi 15 años que me atiendo en COB y encontré un equipo profesional y empático que logra que tener una boca problemática no sea un trauma. Desde controles de rutina hasta implantes y extracciones.",
+          "name": "Jessica B.",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy buena experiencia. Me atendí con el Dr. Sergio Balquin, un excelente profesional: claro, amable y siempre dispuesto a despejar dudas. Explica cada procedimiento con detalle y transmite mucha confianza.",
+          "name": "Giuliana Kijaszko",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Somos un centro multidisciplinario: implantología, ortodoncia, endodoncia y conductos, cirugía y extracciones, periodoncia y estética. Tenemos especialistas para cada tratamiento. Escribinos por WhatsApp y te asesoramos."
+        },
+        {
+          "question": "¿Hacen implantes y cirugía de muelas de juicio?",
+          "answer": "Sí. Contamos con especialistas en implantología y cirugía oral, incluida la extracción de muelas de juicio. Nuestros pacientes destacan procesos cuidados y sin dolor."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Cálida y profesional. Combinamos seriedad y experiencia con un trato humano que fideliza: muchos pacientes se atienden con nosotros desde hace 20 o 30 años, y traen a sus familias."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Nuestras recepcionistas te acompañan en todo el proceso."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Mcal. Antonio José de Sucre 2494, Belgrano, CABA. Atendemos de lunes a viernes de 9 a 19. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Mcal. A. J. de Sucre 2494, Belgrano, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 19:00hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Centro odontológico en Belgrano con un equipo\namplio y multidisciplinario de especialistas y\npacientes que confían en nosotros hace décadas.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Implantes dentales",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Endodoncia y conductos",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía y extracciones",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Mcal. A. J. de Sucre 2494, Belgrano"
+            },
+            {
+              "label": "+54 9 11 3878-6782",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "C.O.B. Centro Odontológico Belgrano"
+    }
+  }
+}
