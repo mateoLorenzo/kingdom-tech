@@ -1,0 +1,422 @@
+{
+  "brand": {
+    "name": "Clinica Destro",
+    "shortName": "Gisela Destro",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491133302689",
+      "defaultMessage": "Hola, quiero coordinar un turno con la Dra. Gisela Destro."
+    },
+    "phoneDisplay": "+54 9 11 3330-2689",
+    "address": "Av. Cabildo 1370, Belgrano, CABA",
+    "hours": "Lun a Jue 12-20 · Vie 12-18",
+    "mapQuery": "Av. Cabildo 1370, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://gisela-destro.kingdom-tech.co",
+    "title": "Gisela Destro Odontología — Expertos en Odontología | Belgrano",
+    "description": "Consultorio odontológico boutique en Belgrano, liderado por la Dra. Gisela Destro. Tecnología digital de última generación, atención cálida y procedimientos rápidos y sin dolor que te sacan el miedo al dentista.",
+    "ogTitle": "Gisela Destro Odontología — Expertos en Odontología | Belgrano",
+    "ogDescription": "Consultorio boutique en Belgrano con la Dra. Gisela Destro. Tecnología digital, atención cálida y procedimientos sin dolor.",
+    "siteName": "Gisela Destro Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Consultorio odontológico boutique en Belgrano con la Dra. Gisela Destro. Tecnología digital y atención sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Cabildo 1370",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "12:00",
+          "closes": "20:00"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "opens": "12:00",
+          "closes": "18:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 61
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Cabildo 1370 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Consultorio boutique en Belgrano con tecnología digital de punta\ny una atención cálida que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Gisela Destro",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "61",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Tecnología digital"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Extracciones y urgencias",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un consultorio boutique moderno e impecable, con tecnología digital de última generación que hace los procedimientos más rápidos y cómodos. "
+        },
+        {
+          "text": "La Dra. Gisela Destro te atiende con calidez y te explica todo paso a paso.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tecnología\nDigital",
+          "body": "Escaneo y moldes digitales, equipamiento de primer nivel y procesos más cortos. Procedimientos rápidos y sin dolor: pacientes que llegaron con una urgencia cuentan que en 20 minutos ya estaban listos."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Atención\nQue enamora",
+          "body": "Una experiencia muy distinta a lo que imaginás del dentista: ambiente cálido, puntualidad y un trato amoroso que te saca el miedo. Por algo muchos pacientes nos eligen después de vernos en Instagram."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé a quienes\n"
+        },
+        {
+          "text": "Te atienden",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Gisela Destro",
+          "role": "Directora · Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Vicky",
+          "role": "Atención y asistencia",
+          "experience": "EQUIPO",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Llegué al consultorio a través de Instagram y es tal cual lo que se ve. Súper moderno, limpio y equipado. El personal es súper amoroso y la Dra. Gise es una gran profesional, que te explica todo con mucha paciencia y calidez.",
+          "name": "Yamila Céspedes",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "¡Excelente lugar! La atención un 10. Te explica tu situación, lo que conviene hacer y por qué. Me sentí súper cómodo y tranquilo, y la limpieza realizada, un éxito. ¡Súper recomendable!",
+          "name": "Emmanuel Molinari",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Creo que Gise es lejos la mejor odontóloga con la que me atendí. Vengo de una extracción de muela con infección y no sentí nada de nada, en 20 minutos ya estaba. Precios accesibles considerando el impecable servicio.",
+          "name": "Gustavo Kildegaard",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Me hice limpieza y blanqueamiento con Gise y quedé más que conforme con el resultado. Además el presupuesto súper bien en comparación con otros lugares. Voy a volver para otros tratamientos.",
+          "name": "Camila Campello",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde que pedís un turno hasta que te vas, la experiencia es muy diferente a lo que pensamos de ir al odontólogo. Llegué por una urgencia y Gise me hizo un espacio en su agenda. Las instalaciones son hermosas.",
+          "name": "Barbara Tajes",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "El consultorio es hermoso. La atención y la paciencia de la doctora Gisela y todo su equipo es excelente. ¡Tienen la mejor tecnología digital!",
+          "name": "Cecilia Dorado",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué es la tecnología digital que usan?",
+          "answer": "Trabajamos con escaneo y moldes digitales y equipamiento de última generación, lo que hace los procedimientos más rápidos, precisos y cómodos para vos."
+        },
+        {
+          "question": "¿Los tratamientos duelen?",
+          "answer": "No. Nuestros pacientes destacan procedimientos rápidos y sin dolor, incluso extracciones. La Dra. Gisela tiene muy buena mano con la anestesia."
+        },
+        {
+          "question": "¿Quién atiende en el consultorio?",
+          "answer": "Te atiende la Dra. Gisela Destro, junto a Vicky en la atención. Un trato cálido y personalizado por el que muchos pacientes la eligen como su odontóloga de confianza."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, hacemos lo posible por darte un espacio en la agenda ante una urgencia. Escribinos por WhatsApp y coordinamos lo antes posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Cabildo 1370, Belgrano, CABA. Atendemos de lunes a jueves de 12 a 20 y los viernes de 12 a 18. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Cabildo 1370, Belgrano, CABA",
+      "hoursLine": "Lun a Jue 12-20 · Vie 12-18",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Consultorio odontológico boutique en Belgrano, con la\nDra. Gisela Destro. Tecnología digital de punta y\nuna atención cálida que te saca el miedo al dentista.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/gisedestro.od/",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética y blanqueamiento",
+              "href": "#servicios"
+            },
+            {
+              "label": "Odontología general",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Urgencias",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Cabildo 1370, Belgrano, CABA"
+            },
+            {
+              "label": "+54 9 11 3330-2689",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@gisedestro.od",
+              "href": "https://www.instagram.com/gisedestro.od/",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Gisela Destro Odontología"
+    }
+  }
+}
