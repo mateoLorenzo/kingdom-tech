@@ -1,0 +1,416 @@
+{
+  "brand": {
+    "name": "Clinica DiBian",
+    "shortName": "DiBian Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491128925904",
+      "defaultMessage": "Hola, quiero coordinar un turno en DiBian Odontología."
+    },
+    "phoneDisplay": "+54 9 11 2892-5904",
+    "address": "Virrey del Pino 2457, Piso 11, Las Cañitas, CABA",
+    "hours": "Lun a Vie · 09:00hs - 20:00hs",
+    "mapQuery": "Virrey del Pino 2457, Las Cañitas, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://dibian.kingdom-tech.co",
+    "title": "DiBian Odontología — Expertos en Odontología | Las Cañitas, CABA",
+    "description": "Odontología en Las Cañitas con un equipo joven y cercano. Ortodoncia, alineadores invisibles, implantes y estética, con tratamientos sin dolor, precios razonables y una calidez humana excepcional.",
+    "ogTitle": "DiBian Odontología — Expertos en Odontología | Las Cañitas",
+    "ogDescription": "Odontología en Las Cañitas con un equipo joven y cercano. Ortodoncia, alineadores, implantes y estética, sin dolor.",
+    "siteName": "DiBian Odontología",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología en Las Cañitas con un equipo joven y cercano. Ortodoncia, alineadores e implantes, sin dolor.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Virrey del Pino 2457, Piso 11 A",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 151
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Virrey del Pino 2457 · Las Cañitas · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Las Cañitas con un equipo joven y cercano.\nOrtodoncia, alineadores e implantes, sin dolor.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "DiBian Odontología",
+        "label": "Las Cañitas · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "151",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin dolor",
+          "label": "Equipo joven"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Ortodoncia y alineadores",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Extracciones y cirugía",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Blanqueamiento y estética",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Placas de bruxismo",
+          "image": "/img/protesis.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo joven y cercano que combina alto profesionalismo con una calidez humana que se nota desde el primer momento. "
+        },
+        {
+          "text": "Tratamientos sin dolor, diagnósticos honestos y precios razonables.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Cálidos\nY honestos",
+          "body": "Te explicamos cada tratamiento con claridad y honestidad, en consultorios modernos e impecables. Nuestros pacientes destacan el trato humano, la puntualidad y el seguimiento después de cada intervención."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Sin dolor\nY sin miedo",
+          "body": "Extracciones, implantes y cirugías sin dolor, incluso casos complejos que otros no quisieron hacer. Si le tenés miedo al dentista, acá vas a encontrar paz. Ortodoncia y alineadores con resultados que enamoran."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Luisina",
+          "role": "Ortodoncia y alineadores",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Illyan Diez",
+          "role": "Cirugía e implantes",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Florencia",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "¡Excelentes profesionales! Muy buena atención, orientan el tratamiento con claridad. Estoy muy contenta de haber escogido DiBian para mi tratamiento con alineadores.",
+          "name": "Jordania Santos",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "En DiBian son los mejores. Estoy con el tratamiento de alineadores y me hicieron una cirugía de extracción complicada que en mi ciudad no me querían hacer. Y ellos sin dudarlo la hicieron excelente. ¡Illyan, Lu y su equipo son los mejores!",
+          "name": "Nicolas Antonelli",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelentes profesionales. Nunca me gustó ir al dentista y una vez que los conocí encontré paz en este tipo de tratamientos. Además son muy estéticos, dejan una sonrisa divina. Los recomiendo con los ojos cerrados.",
+          "name": "Mercedes Monteagudo",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me saqué la muela de juicio y el doctor fue súper delicado, ¡no me dolió nada! Súper recomendable.",
+          "name": "Antonella Leonelli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Recién comencé mi tratamiento allí y ha sido la mejor decisión. Tienen un equipo increíble de profesionales y la atención desde que llegás es la mejor. Son súper cumplidos con el horario. ¡Recomendado!",
+          "name": "Laura Osorio",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy contenta con la atención tanto de Yllian como de Lu. El trato es excelente, tanto de los profesionales como de las secretarias. Y dato no menor: a pesar de ser particular, los valores son súper lógicos.",
+          "name": "Liliana Rodriguez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen ortodoncia y alineadores invisibles?",
+          "answer": "Sí, es uno de nuestros fuertes. La Dra. Luisina lidera los tratamientos de ortodoncia y alineadores invisibles, con un acompañamiento cercano y resultados que nuestros pacientes destacan."
+        },
+        {
+          "question": "¿Las extracciones e implantes duelen?",
+          "answer": "No. El Dr. Illyan Diez realiza extracciones, implantes y cirugías sin dolor, incluso casos complejos. Muchos pacientes destacan que no sintieron ni el pinchazo de la anestesia."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí. Muchos pacientes que nunca disfrutaron ir al dentista encontraron paz con nosotros. Un equipo joven, cálido y honesto que te explica todo y te acompaña en cada paso."
+        },
+        {
+          "question": "¿Quiénes atienden en DiBian?",
+          "answer": "Un equipo de profesionales: el Dr. Illyan Diez (cirugía e implantes), la Dra. Luisina (ortodoncia) y la Dra. Florencia, junto a Eugenia y el equipo de recepción."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "La atención es principalmente particular, con precios razonables. Escribinos por WhatsApp antes de tu primera consulta y coordinamos las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Virrey del Pino 2457, piso 11, Las Cañitas, CABA. Atendemos de lunes a viernes de 9 a 20. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Virrey del Pino 2457, Piso 11, Las Cañitas, CABA",
+      "hoursLine": "Lun a Vie · 09:00hs - 20:00hs",
+      "mapTitle": "Ubicación del consultorio"
+    },
+    "footer": {
+      "about": "Odontología en Las Cañitas con un equipo joven y\ncercano. Ortodoncia, alineadores e implantes,\nsin dolor y con precios razonables.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Ortodoncia y alineadores",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Virrey del Pino 2457, Piso 11, Las Cañitas"
+            },
+            {
+              "label": "+54 9 11 2892-5904",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie · 9-20h",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "DiBian Odontología"
+    }
+  }
+}
