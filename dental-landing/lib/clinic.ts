@@ -103,6 +103,7 @@ import karenPerez from "@/config/clinics/karen-perez.json";
 import giselaDestro from "@/config/clinics/gisela-destro.json";
 import vitaDent from "@/config/clinics/vita-dent.json";
 import coesp from "@/config/clinics/coesp.json";
+import utopiaDental from "@/config/clinics/utopia-dental.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -211,6 +212,7 @@ const registry = {
   "gisela-destro": giselaDestro as ClinicConfig,
   "vita-dent": vitaDent as ClinicConfig,
   coesp: coesp as ClinicConfig,
+  "utopia-dental": utopiaDental as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

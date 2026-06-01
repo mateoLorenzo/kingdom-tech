@@ -1,0 +1,429 @@
+{
+  "brand": {
+    "name": "Utopía Dental",
+    "shortName": "Utopía Dental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491137774576",
+      "defaultMessage": "Hola, quiero coordinar un turno en Utopía Dental."
+    },
+    "phoneDisplay": "+54 9 11 3777-4576",
+    "address": "Av. Corrientes 5441, Villa Crespo, CABA",
+    "hours": "Lun a Vie 10-18:30 · Sáb 09-15:30",
+    "mapQuery": "Av. Corrientes 5441, Villa Crespo, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://utopia-dental.kingdom-tech.co",
+    "title": "Utopía Dental — Expertos en Odontología | Villa Crespo, CABA",
+    "description": "Clínica dental en Villa Crespo con tecnología digital y un equipo cálido liderado por la Dra. Fiorella. Escaneo intraoral 3D, estética, coronas y cirugía, con una atención que les devuelve la confianza a quienes le temen al dentista.",
+    "ogTitle": "Utopía Dental — Expertos en Odontología | Villa Crespo",
+    "ogDescription": "Clínica dental en Villa Crespo con tecnología digital y un equipo cálido liderado por la Dra. Fiorella. Escaneo 3D, estética y cirugía.",
+    "siteName": "Utopía Dental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica dental en Villa Crespo con tecnología digital y un equipo cálido. Escaneo 3D, estética y cirugía.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Corrientes 5441",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1414",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "18:30"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "15:30"
+        }
+      ],
+      "rating": {
+        "value": 5.0,
+        "count": 55
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Corrientes 5441 · Villa Crespo · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Clínica dental en Villa Crespo con tecnología digital y un equipo\ncálido liderado por la Dra. Fiorella, que te saca el miedo al dentista.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Utopía Dental",
+        "label": "Villa Crespo · CABA"
+      },
+      "stats": [
+        {
+          "value": "5.0",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "55",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Escaneo",
+          "label": "Digital 3D"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Estética dental",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Coronas y restauraciones",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Limpieza y prevención",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Extracción de muelas de juicio",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo cálido y altamente profesional liderado por la Dra. Fiorella, en un consultorio moderno e impecable muy bien ubicado, cerca del subte. "
+        },
+        {
+          "text": "Tecnología digital y un trato que te devuelve la confianza en el dentista.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Tecnología\nDigital",
+          "body": "Escaneo intraoral 3D para digitalizar tu boca y hacer coronas y restauraciones precisas, sin moldes incómodos. Tecnología aplicada también a los turnos y al seguimiento, para que no te olvides de tu cita."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Muchos pacientes llegan con miedo y recuperan la confianza: la Dra. Fiorella y su equipo te atienden con calidez, paciencia y empatía. Familias enteras los eligen hace años como su odontología de confianza."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Fiorella Sifontes",
+          "role": "Directora · Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dr. Ramón",
+          "role": "Cirugía y extracciones",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Karen Gómez",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        },
+        {
+          "name": "Dr. César",
+          "role": "Odontología general",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-4.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Mi experiencia ha sido excelente. La doctora Fiorella siempre me ha dado mucha confianza; es muy profesional, cariñosa y empática. El consultorio es súper limpio, cómodo y con toda la higiene acorde a la actividad.",
+          "name": "Elizabeth Villarroel",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La doctora Fiorella y su equipo son excelentes. Estoy muy feliz de haber encontrado este lugar que me ha permitido perder el miedo y recuperar la confianza en los tratamientos dentales.",
+          "name": "Glendy Mariana Perez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente servicio. Tuve inconvenientes con una corona y una amalgama vieja; impresionante que hacen un escaneo donde digitalizan toda la boca para hacer el modelo de los dientes y realizar la corona.",
+          "name": "Frederick Sifontes",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Excelente equipo, atención muy cálida y lugar impecable. Mi experiencia con la Dra. Karen fue 10/10. Destaco su increíble predisposición y paciencia al responder cada una de mis consultas. ¡Totalmente recomendados!",
+          "name": "Jessica Hernandez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Me saqué la muela de juicio con el Dr. Ramón y salió todo excelente. Fue muy profesional, atento en todo momento y la atención en general fue impecable. Me sentí cuidado y acompañado durante todo el proceso.",
+          "name": "Alex Vaisberg",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Sin duda la Dra. Fiorella y todo su equipo son lo más. Me atiendo con ella hace casi 6 años, y así toda mi familia, siempre orientándonos sobre el mejor tratamiento. Su calidad humana y su profesionalismo no se encuentran en ningún lugar.",
+          "name": "Marlyn Gonzalez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué es el escaneo digital intraoral?",
+          "answer": "Es una tecnología que digitaliza toda tu boca en 3D, sin moldes incómodos, para fabricar coronas y restauraciones con gran precisión. Pacientes del exterior destacan lo cómodo y moderno del proceso."
+        },
+        {
+          "question": "Le tengo miedo al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es algo en lo que nos destacamos. Muchos pacientes llegaron con miedo y recuperaron la confianza gracias al trato cálido, paciente y empático de la Dra. Fiorella y su equipo."
+        },
+        {
+          "question": "¿Quiénes atienden en Utopía Dental?",
+          "answer": "Un equipo liderado por la Dra. Fiorella Sifontes, junto a la Dra. Karen Gómez, el Dr. Ramón (cirugía) y el Dr. César, entre otros profesionales."
+        },
+        {
+          "question": "¿Atienden urgencias?",
+          "answer": "Sí, hacemos lo posible por darte un turno ante una urgencia. Escribinos por WhatsApp y coordinamos la atención lo antes posible."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Corrientes 5441, Villa Crespo, CABA, cerca del subte. Atendemos de lunes a viernes de 10 a 18:30 y los sábados de 9 a 15:30. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Corrientes 5441, Villa Crespo, CABA",
+      "hoursLine": "Lun a Vie 10-18:30 · Sáb 09-15:30",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica dental en Villa Crespo con tecnología digital y\nun equipo cálido liderado por la Dra. Fiorella, que\nte devuelve la confianza en el dentista.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Coronas y restauraciones",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Corrientes 5441, Villa Crespo"
+            },
+            {
+              "label": "+54 9 11 3777-4576",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 10-18:30 · Sáb 9-15:30",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Utopía Dental clinic"
+    }
+  }
+}
