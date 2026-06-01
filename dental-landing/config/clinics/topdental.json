@@ -1,0 +1,394 @@
+{
+  "brand": {
+    "name": "Topdental",
+    "shortName": "Topdental",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491165531162",
+      "defaultMessage": "Hola, quiero coordinar un turno en Topdental."
+    },
+    "phoneDisplay": "+54 9 11 6553-1162",
+    "address": "Cucha Cucha 1214, Villa Santa Rita, CABA",
+    "hours": "Atención con turno previo",
+    "mapQuery": "Cucha Cucha 1214, Villa Santa Rita, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://topdental.kingdom-tech.co",
+    "title": "Topdental — Expertos en Odontología | Estética Dental en CABA",
+    "description": "Clínica referente en estética dental y carillas en Buenos Aires, liderada por la Dra. Bianca Retondaro. Carillas de porcelana, diseño de sonrisa y blanqueamiento con resultados naturales y tecnología de impresión digital.",
+    "ogTitle": "Topdental — Expertos en Estética Dental | CABA",
+    "ogDescription": "Clínica referente en estética dental y carillas en Buenos Aires. Diseño de sonrisa, carillas de porcelana y blanqueamiento.",
+    "siteName": "Topdental",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica referente en estética dental y carillas en Buenos Aires. Diseño de sonrisa con resultados naturales.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Cucha Cucha 1214",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1416",
+        "country": "AR"
+      },
+      "hours": [],
+      "rating": {
+        "value": 4.9,
+        "count": 96
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Cucha Cucha 1214 · Villa Santa Rita · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Estética dental y carillas en Buenos Aires, con diseño de\nsonrisa de resultados naturales que perduran en el tiempo.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Topdental",
+        "label": "Villa Santa Rita · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "96",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Carillas",
+          "label": "Diseño de sonrisa"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Carillas de porcelana",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Diseño de sonrisa",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Blanqueamiento dental",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Carillas estratificadas",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Cuidado de encías",
+          "image": "/img/ondodoncia.jpg"
+        },
+        {
+          "name": "Implantes y rehabilitación",
+          "image": "/img/implantes.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Una clínica referente en estética dental liderada por la Dra. Bianca Retondaro, con carillas y diseño de sonrisa que pacientes eligen por años. "
+        },
+        {
+          "text": "Resultados naturales, tecnología de impresión digital y carillas en el día.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Carillas que\nCambian tu sonrisa",
+          "body": "Carillas de porcelana y estratificadas con un trabajo de gran precisión y resultados naturales. Pacientes de Argentina y del exterior viajan para transformar su sonrisa, y muchos vuelven año tras año."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Tecnología\nY detalle",
+          "body": "Impresión digital y carillas en el día, con un cuidado del detalle reconocido a nivel nacional. Te explicamos cada paso y buscamos el resultado exacto que querés, con trabajos que perduran en el tiempo."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Bianca Retondaro",
+          "role": "Estética y diseño de sonrisa",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. Andrea",
+          "role": "Carillas estratificadas",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Viajé desde Estados Unidos específicamente para realizarme las carillas y la experiencia superó por completo mis expectativas. El resultado es excepcional, con un trabajo de gran precisión y calidad. La doctora Bianca demostró un alto nivel.",
+          "name": "Patrick Sa",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Acabo de salir del consultorio, la doctora una genia! Estoy muy feliz con el resultado, quedaron súper prolijos, naturales, el color todo. Obvio vuelvo, gracias doc por la buena onda! La recomiendo 100%.",
+          "name": "Valentina Quiñonez",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Hace unos meses me hice unas carillas de porcelana con la Dra. Bianca. El primer día prepararon mis dientes y me tomaron una impresión digital (nunca había visto tanta tecnología) y el mismo día me las colocaron.",
+          "name": "Valentin Narvaez",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Vayan con total confianza. Dejan los dientes hermosos y súper estéticos. Hace años que me atiendo ahí. Además te tratan con cariño y te hacen exactamente lo que uno quiere. Lo súper recomiendo.",
+          "name": "Aldana Cecilia Carpinelli",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Estoy realmente impresionado con el servicio en Top Dental. Me realizaron unas carillas y no podría estar más contento con los resultados. Todo el proceso fue profesional y muy cómodo, y el equipo altamente capacitado y amigable.",
+          "name": "Sergio Pace",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Hoy terminé el tratamiento de carillas con la doctora Bianca y la verdad estoy muy feliz del resultado, a mi criterio es la mejor del rubro, súper recomendable, buen trato, buena higiene, es un 10 en todos.",
+          "name": "Lucas Corro",
+          "rating": 5,
+          "gender": "male"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Hacen carillas de porcelana?",
+          "answer": "Sí, es nuestra especialidad. Hacemos carillas de porcelana y estratificadas con resultados naturales y de gran precisión, que perduran en el tiempo. Escribinos por WhatsApp y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Qué es el diseño de sonrisa?",
+          "answer": "Es un plan a medida para transformar tu sonrisa de forma armónica y natural. Evaluamos tu caso, usamos impresión digital y diseñamos el resultado que querés antes de empezar."
+        },
+        {
+          "question": "¿Cuánto tardan las carillas?",
+          "answer": "Trabajamos con tecnología que nos permite, en muchos casos, preparar y colocar las carillas en el día. En la consulta te indicamos los tiempos exactos según tu tratamiento."
+        },
+        {
+          "question": "¿Hacen blanqueamiento?",
+          "answer": "Sí. Hacemos blanqueamiento dental con resultados que nuestros pacientes destacan. Llevamos un cuidado integral de tu sonrisa, incluyendo la salud de tus encías."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos tu consulta. Atendemos con turno previo para dedicarle a tu sonrisa el tiempo y el detalle que merece."
+        },
+        {
+          "question": "¿Dónde están?",
+          "answer": "Estamos en Cucha Cucha 1214, Villa Santa Rita, CABA. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu consulta de estética dental en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Cucha Cucha 1214, Villa Santa Rita, CABA",
+      "hoursLine": "Atención con turno previo",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica referente en estética dental y carillas\nen Buenos Aires. Diseño de sonrisa con\nresultados naturales que perduran en el tiempo.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Carillas de porcelana",
+              "href": "#servicios"
+            },
+            {
+              "label": "Diseño de sonrisa",
+              "href": "#servicios"
+            },
+            {
+              "label": "Blanqueamiento dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Carillas estratificadas",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Cucha Cucha 1214, Villa Santa Rita"
+            },
+            {
+              "label": "+54 9 11 6553-1162",
+              "whatsapp": true,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Topdental"
+    }
+  }
+}
