@@ -114,6 +114,7 @@ import cerof from "@/config/clinics/cerof.json";
 import monroe from "@/config/clinics/monroe.json";
 import odontoPalermo from "@/config/clinics/odonto-palermo.json";
 import topdental from "@/config/clinics/topdental.json";
+import oiba from "@/config/clinics/oiba.json";
 import type { ClinicConfig } from "@/config/types";
 
 const registry = {
@@ -233,6 +234,7 @@ const registry = {
   "monroe": monroe as ClinicConfig,
   "odonto-palermo": odontoPalermo as ClinicConfig,
   "topdental": topdental as ClinicConfig,
+  "oiba": oiba as ClinicConfig,
 } as const;
 
 type ClinicId = keyof typeof registry;

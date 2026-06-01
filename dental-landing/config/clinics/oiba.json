@@ -1,0 +1,398 @@
+{
+  "brand": {
+    "name": "OIBA",
+    "shortName": "OIBA Odontología",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "5491160312463",
+      "defaultMessage": "Hola, quiero coordinar un turno en OIBA."
+    },
+    "phoneDisplay": "+54 9 11 6031-2463",
+    "address": "José Hernández 2510 PB, Belgrano, CABA",
+    "hours": "Lun y Jue · 09:30hs - 19:30hs",
+    "mapQuery": "José Hernández 2510, Belgrano, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://oiba.kingdom-tech.co",
+    "title": "OIBA Odontología Integral BA — Expertos en Odontología | Belgrano, CABA",
+    "description": "Odontología integral en Belgrano con atención personalizada y un equipo profesional que cuida tanto el resultado como tu experiencia. Estética dental, ortodoncia, implantes y un trato cálido y cercano.",
+    "ogTitle": "OIBA Odontología Integral BA — Expertos en Odontología | Belgrano",
+    "ogDescription": "Odontología integral en Belgrano con atención personalizada y un equipo profesional. Estética, ortodoncia e implantes.",
+    "siteName": "OIBA Odontología Integral BA",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Odontología integral en Belgrano con atención personalizada y un equipo profesional. Estética dental y trato cálido.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "José Hernández 2510 PB",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1426EOT",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Thursday"
+          ],
+          "opens": "09:30",
+          "closes": "19:30"
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "José Hernández 2510 · Belgrano · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología integral en Belgrano con atención personalizada\ny un equipo profesional que cuida tu sonrisa.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "OIBA Odontología Integral BA",
+        "label": "Belgrano · CABA"
+      },
+      "stats": [
+        {
+          "value": "Estética",
+          "label": "Para tu mejor sonrisa"
+        },
+        {
+          "value": "Trato",
+          "label": "Cálido y personalizado"
+        },
+        {
+          "value": "Belgrano",
+          "label": "Atención integral"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Implantes",
+          "image": "/img/implantes.jpg"
+        },
+        {
+          "name": "Prótesis dentales",
+          "image": "/img/protesis.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Limpieza y arreglos",
+          "image": "/img/limpieza.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "Un equipo profesional y experimentado con una atención personalizada, atenta a lo que cada paciente plantea. "
+        },
+        {
+          "text": "Cuidamos tanto el resultado de tu sonrisa como la experiencia de todo el tratamiento.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Atención\nPersonalizada",
+          "body": "Escuchamos lo que querés y diseñamos un plan a tu medida. Nuestros pacientes destacan el trato amable y cálido, y la dedicación de un equipo que está atento a cada detalle."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Resultados\nQue se notan",
+          "body": "Estética dental y tratamientos integrales con resultados que dejan tu sonrisa espléndida. Por algo nuestros pacientes nos eligen y nos recomiendan en el barrio de Belgrano."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Odontología integral",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Dra. [A confirmar]",
+          "role": "Estética dental",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "Gran atención, muy amables y profesionales. Recomiendo!",
+          "name": "Romina Lozzia",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Muy profesionales y atentas con lo que plantea el paciente. Súper recomendado!",
+          "name": "Ayelén Puggioni",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La verdad que el trato y la atención impecable! Y mi sonrisa… espléndida!",
+          "name": "Geronimo M",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "Muy profesional y recomendable.",
+          "name": "Pau Munaretto",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Gran atención! Lo recomiendo.",
+          "name": "Julieta Lozzia",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "¿Qué tratamientos realizan?",
+          "answer": "Hacemos odontología integral: estética y blanqueamiento, ortodoncia, implantes, prótesis, odontopediatría, limpieza y arreglos. Escribinos por WhatsApp y te asesoramos sobre tu caso."
+        },
+        {
+          "question": "¿Cómo es la atención?",
+          "answer": "Personalizada, amable y cálida. Somos un equipo profesional y experimentado, atento a lo que cada paciente plantea, que cuida tanto el resultado como tu experiencia en cada visita."
+        },
+        {
+          "question": "¿Cómo pido un turno?",
+          "answer": "Escribinos por WhatsApp y coordinamos el día y horario que mejor te quede. Atendemos con turno previo para dedicarte el tiempo que tu tratamiento necesita."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en José Hernández 2510 PB, Belgrano, CABA. Atendemos lunes y jueves de 9:30 a 19:30. Escribinos por WhatsApp para coordinar tu turno. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "José Hernández 2510 PB, Belgrano, CABA",
+      "hoursLine": "Lun y Jue · 09:30hs - 19:30hs",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Odontología integral en Belgrano con atención\npersonalizada y un equipo profesional que cuida\ntanto el resultado como tu experiencia.",
+      "socials": [
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/oiba.belgrano",
+          "external": true
+        },
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Implantes",
+              "href": "#servicios"
+            },
+            {
+              "label": "Prótesis dentales",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "José Hernández 2510, Belgrano"
+            },
+            {
+              "label": "+54 9 11 6031-2463",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "@oiba.belgrano",
+              "href": "https://instagram.com/oiba.belgrano",
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "OIBA Odontología Integral BA"
+    }
+  }
+}
