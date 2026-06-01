@@ -1,0 +1,423 @@
+{
+  "brand": {
+    "name": "Clinica Karen",
+    "shortName": "Karen Perez",
+    "logo": {
+      "type": "text"
+    }
+  },
+  "theme": {
+    "primary": "#073677",
+    "accent": "#0588D7",
+    "label": "#09357C",
+    "bgSoft": "#F9F9FB",
+    "footerBg": "#0A1F3D",
+    "footerText": "#FFFFFF",
+    "text": "#1A1A1A"
+  },
+  "contact": {
+    "whatsapp": {
+      "phone": "541131681907",
+      "defaultMessage": "Hola, quiero coordinar un turno en la Clínica de la Dra. Karen Perez."
+    },
+    "phoneDisplay": "+54 11 3168-1907",
+    "address": "Av. Melián 2823, Coghlan, CABA",
+    "hours": "Lun a Vie 09-18 · Sáb 09-15",
+    "mapQuery": "Av. Melián 2823, Coghlan, Buenos Aires, Argentina"
+  },
+  "seo": {
+    "baseUrl": "https://karen-perez.kingdom-tech.co",
+    "title": "Clínica Odontológica Dra. Karen Perez — Expertos en Odontología | Coghlan",
+    "description": "Clínica odontológica en Coghlan liderada por la Dra. Karen Perez. Un trato humano y personalizado que tranquiliza incluso a los pacientes con miedo al dentista, con odontopediatría, estética e instalaciones modernas.",
+    "ogTitle": "Clínica Dra. Karen Perez — Expertos en Odontología | Coghlan",
+    "ogDescription": "Clínica odontológica en Coghlan con la Dra. Karen Perez. Trato humano y personalizado, odontopediatría y estética dental.",
+    "siteName": "Clínica Odontológica Dra. Karen Perez",
+    "locale": "es_AR",
+    "htmlLang": "es",
+    "twitterDescription": "Clínica odontológica en Coghlan con la Dra. Karen Perez. Trato humano que tranquiliza hasta a los más miedosos.",
+    "noindex": true,
+    "structuredData": {
+      "type": "Dentist",
+      "address": {
+        "street": "Av. Melián 2823",
+        "city": "Buenos Aires",
+        "region": "CABA",
+        "postalCode": "C1430",
+        "country": "AR"
+      },
+      "hours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "15:00"
+        }
+      ],
+      "rating": {
+        "value": 4.9,
+        "count": 143
+      }
+    }
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "#inicio"
+    },
+    {
+      "label": "Servicios",
+      "href": "#servicios"
+    },
+    {
+      "label": "Metodología",
+      "href": "#metodologia"
+    },
+    {
+      "label": "Nosotros",
+      "href": "#nosotros"
+    },
+    {
+      "label": "Testimonios",
+      "href": "#testimonios"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Turnos",
+      "href": "#contacto"
+    }
+  ],
+  "cta": {
+    "primaryLabel": "Reservá Turno",
+    "contactLabel": "Contactanos"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Av. Melián 2823 · Coghlan · CABA",
+      "headline": [
+        {
+          "text": "Expertos en\n"
+        },
+        {
+          "text": "Odontologia",
+          "accent": true
+        }
+      ],
+      "subheadline": "Odontología en Coghlan con la Dra. Karen Perez. Un trato humano\ny personalizado que tranquiliza hasta a los más miedosos.",
+      "ctaLabel": "Reservá Turno",
+      "image": "/img/hero-7.jpg",
+      "laurel": {
+        "brand": "Dra. Karen Perez",
+        "label": "Coghlan · CABA"
+      },
+      "stats": [
+        {
+          "value": "4.9",
+          "label": "★★★★★",
+          "labelStyle": "stars"
+        },
+        {
+          "value": "143",
+          "label": "Opiniones en Google"
+        },
+        {
+          "value": "Sin miedo",
+          "label": "Trato humano"
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Servicios",
+      "heading": [
+        {
+          "text": "Tratamientos dentales\n"
+        },
+        {
+          "text": "Para tu mejor sonrisa",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "name": "Odontología general",
+          "image": "/img/limpieza.jpg"
+        },
+        {
+          "name": "Odontopediatría",
+          "image": "/img/Odontopediatría.jpg"
+        },
+        {
+          "name": "Ortodoncia",
+          "image": "/img/brackets.jpg"
+        },
+        {
+          "name": "Estética y blanqueamiento",
+          "image": "/img/estetica.jpg"
+        },
+        {
+          "name": "Cirugía y extracciones",
+          "image": "/img/emergencia.jpg"
+        },
+        {
+          "name": "Endodoncia (conductos)",
+          "image": "/img/ondodoncia.jpg"
+        }
+      ]
+    },
+    "methodology": {
+      "eyebrow": "Metodología",
+      "paragraph": [
+        {
+          "text": "La Dra. Karen Perez y su equipo te reciben con un trato humano, cálido y personalizado: no sos un número ni un presupuesto. "
+        },
+        {
+          "text": "Te explicamos cada paso con paciencia, en un espacio moderno e impecable.",
+          "accent": true
+        }
+      ],
+      "cards": [
+        {
+          "type": "content",
+          "title": "Adiós al miedo\nAl dentista",
+          "body": "Si tenés fobia o malas experiencias previas, este es tu lugar. Muchos pacientes con pánico encontraron acá la empatía y la contención que buscaban. Trabajo prolijo, conservador y con materiales de primera."
+        },
+        {
+          "type": "image",
+          "image": "/img/metodology-1.jpg"
+        },
+        {
+          "type": "content",
+          "title": "Amorosos\nCon los chicos",
+          "body": "La Dra. Karen tiene una paciencia y un cariño especial con los más chicos: logra que se dejen atender y que ir al dentista sea una experiencia linda. Una odontóloga de familia, de por vida."
+        },
+        {
+          "type": "image",
+          "image": "/img/heart.jpg"
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Sobre Nosotros",
+      "heading": [
+        {
+          "text": "Conocé al equipo\n"
+        },
+        {
+          "text": "Que cuida tu sonrisa",
+          "accent": true
+        }
+      ],
+      "members": [
+        {
+          "name": "Dra. Karen Perez",
+          "role": "Directora · Odontología y odontopediatría",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-1.jpg"
+        },
+        {
+          "name": "Armando",
+          "role": "Atención al paciente",
+          "experience": "EQUIPO",
+          "image": "/img/team-2.jpg"
+        },
+        {
+          "name": "Dra. Fabiola Flores",
+          "role": "Odontología",
+          "experience": "AÑOS DE EXP",
+          "image": "/img/team-3.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Testimonios",
+      "heading": [
+        {
+          "text": "Historias reales\n"
+        },
+        {
+          "text": "Pacientes felices",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "quote": "El lugar se ve pequeño desde afuera, pero adentro hay un equipo de trabajo de vanguardia. Fui por primera vez y salí con un tratamiento completo. Muy agradecida por su contención, calidez y profesionalismo.",
+          "name": "Mónica Pastorino",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "La Doctora es divina, llevo a mi hijo de 5 años. Ojalá la hubiese conocido antes. Es súper amorosa y la paciencia que les tiene a los chicos es espectacular.",
+          "name": "Yanina Moreira",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Desde niña tuve fobia al dentista, con ataques de pánico y ansiedad cada vez que necesito un tratamiento. Acá por fin encontré la empatía que buscaba.",
+          "name": "Cris Piñango",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Excelente la atención y profesionalismo de Karen y equipo. Lo dice alguien que no confía en los dentistas. Resolverá tu problema con ética y conocimiento. Me salvó de una urgencia.",
+          "name": "María Villamayor",
+          "rating": 5,
+          "gender": "female"
+        },
+        {
+          "quote": "Un lugar profesional, la calidad humana de la Dra. Karen es la mejor que puede esperar un paciente. Llevé a mi madre y quedó muy feliz con la atención y el trabajo.",
+          "name": "Roberto Consuegra",
+          "rating": 5,
+          "gender": "male"
+        },
+        {
+          "quote": "La Dra. Karen es una excelente profesional. Su trabajo es impecable, es muy cuidadosa y detallista, y se actualiza constantemente. ¡Súper recomendable!",
+          "name": "Maria Virginia Alvarez",
+          "rating": 5,
+          "gender": "female"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "heading": [
+        {
+          "text": "Visitanos tranquilo\n"
+        },
+        {
+          "text": "Con todo en claro",
+          "accent": true
+        }
+      ],
+      "items": [
+        {
+          "question": "Le tengo miedo o fobia al dentista, ¿pueden ayudarme?",
+          "answer": "Sí, es algo en lo que nos destacamos. Muchos pacientes con pánico y malas experiencias previas encontraron acá la empatía y la contención que necesitaban. Te acompañamos con paciencia en cada paso."
+        },
+        {
+          "question": "¿Atienden a niños?",
+          "answer": "Sí. La Dra. Karen tiene una paciencia y un cariño especial con los más chicos: logra que se dejen atender sin miedo. Muchas familias la eligen como su odontopediatra de confianza."
+        },
+        {
+          "question": "¿Quiénes atienden en la clínica?",
+          "answer": "La clínica está liderada por la Dra. Karen Perez, junto a la Dra. Fabiola Flores y Armando en la atención al paciente, que te acompaña y responde tus consultas."
+        },
+        {
+          "question": "¿Atienden obras sociales y prepagas?",
+          "answer": "Escribinos por WhatsApp antes de tu primera consulta y confirmamos la cobertura puntual de la tuya y las formas de pago disponibles."
+        },
+        {
+          "question": "¿Qué tratamientos hacen?",
+          "answer": "Odontología general, odontopediatría, ortodoncia, estética y blanqueamiento, cirugía y extracciones, y endodoncia. Trabajo prolijo, conservador y con materiales de primera."
+        },
+        {
+          "question": "¿Dónde están y cuáles son los horarios?",
+          "answer": "Estamos en Av. Melián 2823, Coghlan, CABA. Atendemos de lunes a viernes de 9 a 18 y los sábados de 9 a 15. Podés ver la ubicación exacta en el mapa al final de la página."
+        }
+      ]
+    },
+    "contactCta": {
+      "eyebrow": "Reservá turno",
+      "heading": [
+        {
+          "text": "Tu mejor sonrisa\n"
+        },
+        {
+          "text": "Te esta esperando",
+          "accent": true
+        }
+      ],
+      "description": "Te respondemos por WhatsApp y coordinamos\ntu primera consulta en el momento.",
+      "ctaLabel": "Reservar por WhatsApp",
+      "addressLine": "Av. Melián 2823, Coghlan, CABA",
+      "hoursLine": "Lun a Vie 09-18 · Sáb 09-15",
+      "mapTitle": "Ubicación de la clínica"
+    },
+    "footer": {
+      "about": "Clínica odontológica en Coghlan, liderada por la\nDra. Karen Perez. Un trato humano y personalizado\nque tranquiliza hasta a los más miedosos.",
+      "socials": [
+        {
+          "label": "WhatsApp",
+          "whatsapp": true,
+          "external": true
+        }
+      ],
+      "columns": [
+        {
+          "heading": "Navegar",
+          "items": [
+            {
+              "label": "Servicios",
+              "href": "#servicios"
+            },
+            {
+              "label": "Metodología",
+              "href": "#metodologia"
+            },
+            {
+              "label": "Nosotros",
+              "href": "#nosotros"
+            },
+            {
+              "label": "Testimonios",
+              "href": "#testimonios"
+            }
+          ]
+        },
+        {
+          "heading": "Servicios",
+          "items": [
+            {
+              "label": "Odontopediatría",
+              "href": "#servicios"
+            },
+            {
+              "label": "Estética dental",
+              "href": "#servicios"
+            },
+            {
+              "label": "Ortodoncia",
+              "href": "#servicios"
+            },
+            {
+              "label": "Cirugía",
+              "href": "#servicios"
+            }
+          ]
+        },
+        {
+          "heading": "Contacto",
+          "items": [
+            {
+              "label": "Av. Melián 2823, Coghlan, CABA"
+            },
+            {
+              "label": "+54 11 3168-1907",
+              "whatsapp": true,
+              "external": true
+            },
+            {
+              "label": "Lun a Vie 9-18 · Sáb 9-15",
+              "muted": true
+            }
+          ]
+        }
+      ],
+      "copyrightName": "Clínica Odontológica Dra. Karen Perez"
+    }
+  }
+}
